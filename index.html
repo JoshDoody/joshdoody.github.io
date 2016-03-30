@@ -1,23 +1,559 @@
----
-layout: default
----
 
-<div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+<html>
+<head>
+  <meta charset="UTF-8">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <title>Marketing for Developers</title>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/app.css">
 
-</div>
+  
+	<script>
+		window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+		ga('create', 'UA-67642804-1', 'auto');
+		ga('require', 'autotrack');
+		ga('send', 'pageview');
+	</script>
+	<script async src='https://www.google-analytics.com/analytics.js'></script>
+	<script async src='path/to/autotrack.js'></script>
+  
+	<script type="text/javascript">
+	WebFontConfig = {
+	  google: { families: [ 'Asap:400italic,700italic:latin', 'Source+Sans+Pro:400,300,600,200,300italic,400italic,700:latin' ] }
+	};
+	(function() {
+	  var wf = document.createElement('script');
+	  wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+	    '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+	  wf.type = 'text/javascript';
+	  wf.async = 'true';
+	  var s = document.getElementsByTagName('script')[0];
+	  s.parentNode.insertBefore(wf, s);
+	})();
+	</script>
+	
+	
+
+</head>
+
+
+<body>
+
+  
+  <div style="height: 0; width: 0; position: absolute; visibility: hidden">
+     
+     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"><defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.21 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"/>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"/>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.07 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"/>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"/>
+                <feMergeNode in="shadowMatrixInner1"/>
+            </feMerge>
+        </filter>
+    </defs><symbol id="book" viewBox="0 0 264 340">
+    <title>book</title>
+    
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g class="book" sketch:type="MSLayerGroup">
+            <path d="M13.2403634,2.45942773 C13.2322582,1.35009322 14.1203108,0.450799912 15.2237214,0.450799912 L261.719915,0.450799912 C262.823399,0.450799912 263.717949,1.35296781 263.717949,2.45942773 L263.717949,322.889309 C263.717949,323.998644 262.819504,324.897937 261.720707,324.897937 L17.5934646,324.897937 C16.4904184,324.897937 15.5896312,323.995769 15.581547,322.889309 L13.2403634,2.45942773 Z" class="book__back-cover" fill="#3FCFD5" sketch:type="MSShapeGroup"/>
+            <path d="M15.5962228,0.44711187 C15.5962228,0.44711187 15.1973692,0.162946778 13.8713475,1.09663208 C8.59787401,4.80981792 0,16.0355969 0,16.0355969 L15.5962228,16.0355969 L15.5962228,0.44711187 Z" class="book__back-binding" fill="#1E9A98" sketch:type="MSShapeGroup"/>
+            <rect class="book__page" fill="#FFFFFF" filter="url(#filter-1)" sketch:type="MSShapeGroup" x="15.5962228" y="7.53479853" width="241.032534" height="311.695939"/>
+            <rect class="book__page" fill="#FFFFFF" filter="url(#filter-1)" sketch:type="MSShapeGroup" x="12.7605459" y="10.368398" width="241.032534" height="311.695939"/>
+            <rect class="book__page" fill="#FFFFFF" filter="url(#filter-1)" sketch:type="MSShapeGroup" x="9.92486904" y="13.2019974" width="241.032534" height="311.695939"/>
+            <rect class="book__page" fill="#FFFFFF" filter="url(#filter-1)" sketch:type="MSShapeGroup" x="7.08919217" y="16.0355969" width="241.032534" height="311.695939"/>
+            <rect class="book__page" fill="#FFFFFF" filter="url(#filter-1)" sketch:type="MSShapeGroup" x="4.2535153" y="18.8691963" width="241.032534" height="311.695939"/>
+            <rect class="book__front-cover" fill="#3FCFD5" sketch:type="MSShapeGroup" x="0" y="16.0355969" width="248.121726" height="323.030337" rx="2"/>
+            <path d="M22.6854149,16.0355969 L0,16.0355969 L0,337.066078 C0,338.167706 0.898794985,339.065934 2.00751479,339.065934 L22.6854149,339.065934 L22.6854149,16.0355969 Z" class="book__front-binding" fill="#1E9A98" filter="url(#filter-8)" sketch:type="MSShapeGroup"/>
+        </g>
+    </g>
+</symbol></svg>
+     
+  </div>
+
+  
+  <header class="header header--centered">
+
+    <div class="container container--normal">
+
+      <h1 class="header__title">Levels Theme</h1>
+      <p class="header__tagline">A simple theme for tiered pricing.</p>
+
+    </div>
+
+  </header>
+
+  
+  <main role="main">
+
+
+    
+    <blockquote class="quote">
+      <div class="container container--widened">
+        <p class="quote__text">The best theme ever made.</p>
+        <cite class="quote__byline"><a href="#">Some Guy</a></cite>
+      </div>
+    </blockquote>
+
+    
+    <div class="container container--normal">
+
+      
+      <div class="videoWrapper" data-image-src="http://lorempixel.com/560/315/sports/">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/7qCj2Z_mph0" frameborder="0" allowfullscreen></iframe>
+      </div>
+
+      
+      <div class="u-center">
+      <div class="book-wrapper">
+        <svg class="book-wrapper__svg">
+          <use xlink:href="#book">
+        </svg>
+        <div class="book-wrapper__title">
+          The Title <br>of <br> Your Book
+          <div class="book-wrapper__byline">by Jane Doe</div>
+        </div>
+      </div>
+      </div>
+      
+
+
+      
+      <h2 class='section-heading' id="#sell-more">Want to sell more products?</h2>
+      <p>Gumroad recommends that you sell your products in tiers: in a recent conference talk, Ryan Delk mentioned that <em class='u-highlight'>"products with tiers bring in 5 times more revenue" than those without.</em> In fact, if you put most of your value in your top-tier product, it can bring in up 62% of your total revenue!</p>
+
+      <p>Pros like <a href="#">Sacha Greif</a>, <a href="#">Brennan Dunn</a> and <a href="#">Nathan Barry</a> use landing pages with tiered pricing to drive more sales for the their eBooks, and other digital products.</p>
+
+      <ul class="checkbox-list">
+        <li class="checkbox-list__item">Hickory, dickory, dock.</li>
+        <li class="checkbox-list__item">The mouse ran up the clock.</li>
+        <li class="checkbox-list__item">The clock struck one, the mouse ran down.</li>
+        <li class="checkbox-list__item">Hickory, dickory, dock.</li>
+      </ul>
+
+      
+      <div class="callout-box callout-box--spaced">
+        <h2 class='section-heading section-heading--with-line'>Get a free sample chapter</h2>
+        <div class="callout-box__content-left">
+          <p>Sign up for my mailing list, and I’ll send you a free sample chapter of Marketing for Developers. I’ll also keep you updated on any bla bla.</p>
+        </div>
+        <div class="callout-box__content-right">
+
+          <form action="" class="form-vertical">
+            <div class="form-vertical__row">
+              <label for="name" class="form-vertical__label">First Name</label>
+              <input type="text" name="name" class="form-input-text">
+            </div>
+            <div class="form-vertical__row">
+              <label for="name" class="form-vertical__label">Email</label>
+              <input type="email" name="email" class="form-input-text">
+            </div>
+            <div class="form-vertical__row--submit">
+              <button type="submit" class="button">Sign up for your free chapter</button>
+              <p class="form-submit-text u-center">
+                We promise we won’t spam. And you can unsubscribe whenever you like.
+              </p>
+            </div>
+          </form>
+
+        </div>
+      </div>
+
+    </div>
+
+    <blockquote class="quote">
+      <div class="container container--widened">
+        <p class="quote__text">Keep going. It gets better.</p>
+        <cite class="quote__byline"><a href="#">Hamish, The Creator</a></cite>
+      </div>
+    </blockquote>
+
+    <div class="container container--normal">
+      <div class="body-copy-left">
+        <h2 class='section-heading'>Stop searching. Start working.</h2>
+        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+      </div>
+    </div>
+
+    
+    <div class="container container--normal">
+      <div class="toc">
+
+        <h2 class='section-heading section-heading--with-line'>Table of Contents</h2>
+        <div class="toc__bookmark"></div>
+
+        <ul class="toc__list">
+
+          <div class="toc__group">
+            <li class="toc__item--section">
+              <span>1</span>
+              <span>Hello World</span>
+            </li>
+          </div>
+
+
+          <div class="toc__group">
+            <li class="toc__item--section">
+              <span>7</span>
+              <span>Define Your Goal</span>
+            </li>
+          </div>
+
+
+          <div class="toc__group">
+            <li class="toc__item--section">
+              <span>11</span>
+              <span>Build Something People Want</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>11</span>
+              <span>How to succeed</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>16</span>
+              <span>Finding your audience</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>25</span>
+              <span>Research</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>31</span>
+              <span>Target their pain</span>
+            </li>
+          </div>
+
+
+          <div class="toc__group">
+            <li class="toc__item--section">
+              <span>39</span>
+              <span>The Lean Marketing Stack</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>39</span>
+              <span>Overview</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>46</span>
+              <span>Setting up Segment</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>54</span>
+              <span>Using Google Webmaster Tools</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>59</span>
+              <span>Using Google Analytics</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>67</span>
+              <span>Using Mixpanel</span>
+            </li>
+          </div>
+
+
+          <div class="toc__group">
+            <li class="toc__item--section">
+              <span>77</span>
+              <span>Before You Launch</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>77</span>
+              <span>Two marketing channels to focus on</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>81</span>
+              <span>How to write blog posts that get noticed</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>87</span>
+              <span>How to build an email list</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>92</span>
+              <span>Set a price</span>
+            </li>
+          </div>
+
+
+          <div class="toc__group">
+            <li class="toc__item--section">
+              <span>97</span>
+              <span>Launching</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>97</span>
+              <span>How to build a street team</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>102</span>
+              <span>Your launch plan</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>106</span>
+              <span>Your launch checklist</span>
+            </li>
+          </div>
+
+
+          <div class="toc__group">
+            <li class="toc__item--section">
+              <span>109</span>
+              <span>After Your Launch</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>109</span>
+              <span>How growth works</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>115</span>
+              <span>Get more leads</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>127</span>
+              <span>Guide your leads through the funnel</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>138</span>
+              <span>Close the deal: ask for the sale</span>
+            </li>
+          </div>
+
+          <div class="toc__group">
+            <li class="toc__item--section">
+              <span>146</span>
+              <span>Case Studies</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>146</span>
+              <span>Tracy Osborn</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>148</span>
+              <span>Nathan Kontny</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>150</span>
+              <span>Sean Fioritto</span>
+            </li>
+            <li class="toc__item toc__item--indented">
+              <span>152</span>
+              <span>Garrett Dimon</span>
+            </li>
+          </div>
+
+          <div class="toc__group">
+            <li class="toc__item--section">
+              <span>155</span>
+              <span>Closing Thoughts</span>
+            </li>
+          </div>
+
+          <li>
+            <span><a href="#">Download complete table of contents <i class="icon-download"></i></a></span>
+          </li>
+        </ul>
+
+      </div>
+    </div>
+
+
+    
+
+    
+    <div class="dark">
+
+      <div class="container container--normal">
+
+        
+        <h2 class="packages__title">Get The Title of Your Book</h2>
+        <p class="packages__subtitle">Choose the package that works for you.</p>
+
+        
+        <div class="package" id="package-complete">
+
+          <a href="#" class="button button--bright package__button">
+            <span class="package__button-price"><s>$100</s> $75</span>
+            <span class="package__button-text">Buy Now</span>
+          </a>
+
+          <h3 class="package__name">The Complete Package</h3>
+          <p class="package__description">This package has it all. You won't miss a thing.</p>
+
+          <div class="package__features-list">
+            <a href="#" class="package__feature-item package__feature-item--expandable js-expand" data-expand-id="details-ebook">
+              <span class="package__feature-icon"><i class="fa fa-book"></i></span>
+              <span class="package__feature-title">The Full eBook</span>
+              <span class="package__feature-info">&mdash; 300 pages.</span>
+            </a>
+            <a href="#" class="package__feature-item package__feature-item--expandable js-expand" data-expand-id="details-videos">
+              <span class="package__feature-icon"><i class="fa fa-film"></i></span>
+              <span class="package__feature-title">Tutorial Videos</span>
+              <span class="package__feature-info">&mdash; 10 videos, 3 hour runtime.</span>
+            </a>
+
+            <div class="package__feature-item">
+              <span class="package__feature-icon"><i class="fa fa-support"></i></span>
+              <span class="package__feature-title">Audio Book</span>
+              <span class="package__feature-info">&mdash; 14 tracks of High Quality mp3</span>
+            </div>
+            <div class="package__feature-item">
+              <span class="package__feature-icon"><i class="fa fa-support"></i></span>
+              <span class="package__feature-title">Phone &amp; Email Support</span>
+              <span class="package__feature-info">&mdash; For 12 months</span>
+            </div>
+
+          </div>
+
+        </div>
+        
+
+        
+        <div class="package" id="package-premium">
+
+          <a href="#" class="button package__button">
+            <span class="package__button-price"><s>$75</s> $50</span>
+            <span class="package__button-text">Buy Now</span>
+          </a>
+
+          <h3 class="package__name">The Premium Package</h3>
+          <p class="package__description">Get the book and some great videos to boot.</p>
+
+          <div class="package__features-list">
+            <a href="#" class="package__feature-item package__feature-item--expandable js-expand" data-expand-id="details-ebook">
+              <span class="package__feature-icon"><i class="fa fa-book"></i></span>
+              <span class="package__feature-title">The Full eBook</span>
+              <span class="package__feature-info">&mdash; 300 pages.</span>
+            </a>
+            <a href="#" class="package__feature-item package__feature-item--expandable js-expand" data-expand-id="details-videos">
+              <span class="package__feature-icon"><i class="fa fa-film"></i></span>
+              <span class="package__feature-title">Tutorial Videos</span>
+              <span class="package__feature-info">&mdash; 10 videos, 3 hour runtime.</span>
+            </a>
+
+          </div>
+
+        </div>
+        
+
+        
+        <div class="package" id="package-basic">
+
+          <a href="#" class="button package__button">
+            <span class="package__button-price"><s>$50</s> $25</span>
+            <span class="package__button-text">Buy Now</span>
+          </a>
+
+          <h3 class="package__name">The Basic Package</h3>
+          <p class="package__description">Keep it simple. Just the book.</p>
+
+          <div class="package__features-list">
+            <a href="#" class="package__feature-item package__feature-item--expandable js-expand" data-expand-id="details-ebook">
+              <span class="package__feature-icon"><i class="fa fa-book"></i></span>
+              <span class="package__feature-title">The Full eBook</span>
+              <span class="package__feature-info">&mdash; 300 pages.</span>
+            </a>
+
+          </div>
+
+        </div>
+        
+
+        
+        <div class="package__feature-details" id="details-ebook">
+          <div class="container container--normal">
+            <div class="package__feature-details-left">
+              <img src="http://lorempixel.com/200/200/sports/" class="package__feature-details-img">
+            </div>
+            <div class="package__feature-details-right">
+              <p>This book will help you navigate the marketing process. Using case studies and specific step-by-step instructions, you'll learn a scientific method for doing market research.</p>
+              <p>It's 300 pages long, and chock full of goodness.</p>
+              <p><a href="#">Click here to see a preview</a> of what the book looks like.</p>
+
+            </div>
+          </div>
+        </div>
+
+        <div class="package__feature-details" id="details-videos">
+          <div class="container container--normal">
+            <div class="package__feature-details-left">
+              <img src="http://lorempixel.com/200/200/animals/" class="package__feature-details-img">
+            </div>
+            <div class="package__feature-details-right">
+              <p>These videos are awesome, yo!</p>
+
+            </div>
+          </div>
+        </div>
+
+      </div> 
+
+    </div> 
+
+    
+    <div class="author__container">
+      <div class="container container--grid">
+        <div class="author__left">
+          <img src="http://lorempixel.com/400/400/animals/" alt="It's me! Justin Jackson." class="author__image">
+        </div>
+        <div class="author__right">
+          <p>Hi, I’m John Doe.</p>
+
+          <p>I’ve been writing since 1980. I was a Pokemon Master at age 14. I bought my first house in the 10th grade, and I built my first website in 1993. Now, I'm writing books. You should read them all. <b>I can guarantee you'll enjoy it.</b></p>
+
+          <p>I live in <a href="#">Anchorage, Alaska</a> with my wife and 12 kids. For fun, I fly airplanes, jump of bridges, and drink my home-brewed beer (sometimes all at the same time).</p>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  
+  <footer class="footer">
+    <div class="container container--grid">
+      <div class="footer__col footer__col--normal">
+        <p class="footer-heading">The Title Of Your Book</p>
+        <p>This book will help you make millions.</p>
+      </div>
+      <div class="footer__col footer__col--small">
+        <p class="footer-heading">Follow Us</p>
+        <p>
+          <a href="#"><i class="fa fa-twitter"></i> twitter</a> <br>
+          <a href="#"><i class="fa fa-facebook"></i> facebook</a>
+        </p>
+      </div>
+      <div class="footer__col footer__col--small footer__col--last">
+        <p class="footer-heading">Like this design?</p>
+        <p>
+          <a href="#">Buy <b>Levels Theme</b></a>
+        </p>
+      </div>
+      <div class="footer__bottom">
+        <p class="footer__bottom-right">A thing by <a href="https://twitter.com/yourname">Your Name</a></p>
+        <p>&copy; Your Company Inc. All Right Reserved</p>
+      </div>
+    </div>
+  </footer>
+
+  
+  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script src="assets/js/app.js"></script>
+
+</body>
+</html>
