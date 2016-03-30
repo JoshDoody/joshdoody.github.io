@@ -664,7 +664,7 @@ blockquote {
   text-align: center;
   padding: 2em 0 2em 0;
   margin: 2em 0;
-  background: url(../../images/topo-map-bg-1.png);
+  background: url(../images/topo-map-bg-1.png);
   background-size: 1000px 1000px;
   box-shadow: 0 0 0 1px rgba(151, 151, 151, 0.2);
 }
@@ -1197,7 +1197,7 @@ h3, h4, h5 {
  * Dark Section
  */
 .dark {
-  background: #001824 url(../../images/topo-map-bg-2.png);
+  background: #001824 url(../images/topo-map-bg-2.png);
   background-size: 500px 500px;
   min-height: 90vh;
 }
@@ -1565,7 +1565,7 @@ h3, h4, h5 {
 
 .footer {
   -webkit-font-smoothing: subpixel-antialiased;
-  background: #000a0f url(../../images/topo-map-bg-2.png);
+  background: #000a0f url(../images/topo-map-bg-2.png);
   background-size: 1000px 1000px;
   color: #fff;
   padding: 3em 0 2em 0;
@@ -1646,7 +1646,7 @@ p.footer-heading {
   margin-bottom: 60px;
   overflow: hidden;
   background-color: #222;
-  background-image: url(../../images/topo-map-bg-2.png);
+  background-image: url(../images/topo-map-bg-2.png);
   background-size: 500px 500px;
   border-radius: 10px;
 }
