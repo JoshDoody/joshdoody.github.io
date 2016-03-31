@@ -25,3 +25,14 @@
   margin-right: 10px;
   font-size: 14px;
 }
+
+.button--book {
+  border: 1px solid #00FF6F;
+  background: -webkit-linear-gradient( top , #00FF6F, #00CA58);
+  background: linear-gradient(to bottom, #00FF6F, #00CA58);
+}
+
+.button--book:active {
+  background: -webkit-linear-gradient( bottom , #008038, #00CA58);
+  background: linear-gradient(to top, #008038, #00CA58);
+}
