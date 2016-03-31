@@ -1,0 +1,28 @@
+.checkbox-list__item__unchecked {
+  line-height: 1.5em;
+  position: relative;
+  padding-left: 1.5em;
+  margin-bottom: .5em;
+}
+
+.checkbox-list__item__unchecked:before {
+  display: block;
+  height: 1em;
+  width: 1em;
+  overflow: hidden;
+  line-height: 1em;
+  font-family: 'levels-icons';
+  content: "\e600";
+  position: absolute;
+  top: .25em;
+  left: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #fff;
+  border-radius: 100%;
+  padding: 4px;
+  margin-right: 10px;
+  font-size: 14px;
+  background: -webkit-linear-gradient( top , #00A9FF, #34BBFC);
+  background: linear-gradient(to bottom, #00A9FF, #34BBFC);
+}
