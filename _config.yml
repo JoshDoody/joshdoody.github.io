@@ -8,11 +8,9 @@
 # Site settings
 title: Fearless Salary Negotiation—A step-by-step guide to getting paid what you're worth
 email: josh@joshdoody.com
-description: Everything you need to get paid what you're worth at your current job and your next one
+description: Everything you need to get paid what you're worth throughout your career.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fearlesssalarynegotiation.com" # the base hostname & protocol for your site
-twitter_username: joshdoody
-github_username:  joshdoody
 
 # Build settings
 markdown: kramdown
