@@ -8,8 +8,8 @@
 
   
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="css/app.css">
-  <link rel="stylesheet" href="css/custom.css">
+  <link rel="stylesheet" href="{{ site.url }}/css/app.css">
+  <link rel="stylesheet" href="{{ site.url }}/css/custom.css">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   
@@ -20,7 +20,7 @@
 		ga('send', 'pageview');
 	</script>
 	<script async src='https://www.google-analytics.com/analytics.js'></script>
-	<script async src='js/autotrack.js'></script>
+	<script async src='{{ site.url }}/js/autotrack.js'></script>
 
 	<script type="text/javascript">
 	WebFontConfig = {
