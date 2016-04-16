@@ -23,64 +23,119 @@ layout: default
 				
 		<div class="container container--widened">
 	 		<h2 class='section-heading section-heading--with-line'>Your details</h2>
-	 		<p><strong>We just need a few details about your specific situation and then we'll be ready to generate your salary negotiation script!</p>
+	 		<p><strong>Share a few details about your specific situation and then you'll be ready to generate your salary negotiation script!</p>
 		</div>
 		
     <div class="container container--grid">
-		  <div class="author__left">
-				<br>
-				<input id="offer_amount" type="text" value="50,000">
-			</div>
-		  <div class="author__right">
+		  <div class="script-fields__left">
 				<p><strong>What's the base salary component of your offer?</strong> We'll focus on base salary first because that's the gift that keeps on giving year after year!</p>
 			</div>
+		  <div class="script-fields__right">
+				<br>
+				$ <input id="offer_amount" type="text" value="50,000">
+			</div>
 		</div>
 		
     <div class="container container--grid">
-		  <div class="author__left">
+		  <div class="script-fields__left">
+				<p><strong>How badly do they need you? (0–10)</strong> What's your sense of how badly they specificially need you to fill this particular position?</p>
+			</div>
+		  <div class="script-fields__right">
 				<br>
 				<input id="they_need_you" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="5"/>
 			</div>
-		  <div class="author__right">
-				<p><strong>How badly do they need you? (0–10)</strong> What's your sense of how badly they specificially need you to fill this particular position?</p>
-			</div>
 		</div>
 		
     <div class="container container--grid">
-		  <div class="author__left">
+		  <div class="script-fields__left">
+				<p><strong>How badly do you need them? (0–10)</strong> How desparate are you to get the job?</p>
+			</div>
+		  <div class="script-fields__right">
 				<br>
 				<input id="you_need_them" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="5"/>
 			</div>
-		  <div class="author__right">
-				<p><strong>How badly do you need them? (0–10)</strong> How desparate are you to get the job?</p>
-			</div>
 		</div>
 		
-    <div class="container container--grid">
-		  <div class="author__left">
+    <div class="container container--normal">
+		  <div class="script-fields__left">
+				<p><strong>What's your minimum acceptable salary?</strong> What's the absolute minimum base salary you need to accept this job? <a href="https://youtu.be/effQltGYtF8" target="_blank">Tell me more...</a></p>
+			</div>
+		  <div class="script-fields__right">
 				<br>
-				<input id="minimum_acceptable" type="text" value="$50,000">
-			</div>
-		  <div class="author__right">
-				<p><strong>What's your minimum acceptable salary?</strong> What's the absolute minimum base salary you need to accept this job?</p>
+				$ <input id="minimum_acceptable" type="text" value="50,000">
 			</div>
 		</div>
 		
     <div class="container container--grid">
-		  <div class="author__left">
-				<input id="benefit_1" type="text" value="Extra week of vacation"><br><br>
-				<input id="benefit_2" type="text" value="Signing bonus"><br><br>
-				<input id="benefit_3" type="text" value="Work from home">
-			</div>
-		  <div class="author__right">
+		  <div class="script-fields__left">
 				<p><strong>(Optional) What other benefits do you prefer once your base salary is maximized?</strong> Choose up to three other benefits in order of decreasing importance to you (most important is first).</p>
+			</div>
+		  <div class="script-fields__right">
+				1. <input id="benefit_1" type="text" value="Extra week of vacation"><br><br>
+				2. <input id="benefit_2" type="text" value="Signing bonus"><br><br>
+				3. <input id="benefit_3" type="text" value="Work from home">
 			</div>
 		</div>
 		
 		<div class="container container--grid">
 			<a id="generate_script" href="#" class="button button--bright">
-				<span class="package__button-text"><i class="fa fa-file-text-o"></i> <strong>Get your salary negotiation script</strong></span>
+				<span class="package__button-text"><i class="fa fa-file-text-o"></i> <strong>Generate my salary negotiation script!</strong></span>
 			</a><br><br>
+		</div>
+		
+		<div class="container container--widened">
+	 		<h2 class='section-heading section-heading--with-line'>Sample salary negotiation script</h2>
+	 		<p><strong>Once you've countered, the company will probably respond with something between your job offer and your counteroffer.</strong> That's your negotiation window. Your goal is to maximize your salary within that window.</p>
+		</div>
+		
+    <div class="container container--grid">
+			<h2>Final Discussion script example</h2>
+
+			<p>The company has made an offer of $50,000, and you have countered at $56,000. Your negotiation window is now $50,000–$56,000. This script is your plan for hashing out the final details of your compensation package in the Final Discussion by first maximizing your base salary and then ngotiating for additional benefits.</p>
+
+			<p>(Your Minimum Acceptable Salary is the underlined row.)</p>
+
+			<h3><u>$56,000</u> (Counter)</h3>
+			<ul style="list-style-type:none">
+			<li><strong>$55,000</strong> - Sounds good, when do I start?</li>
+			<li><strong>$54,000</strong> - Sounds good, when do I start?</li>
+			<li><strong>$53,000</strong> - $54,000 and I'm on board!  - (1) Extra vacation (2) Work from home (3) Reimburse office</li>
+			<li><u><strong>$52,000</strong> - $54,000 and I'm on board!  - (1) Extra vacation (2) Work from home (3) Reimburse office</u></li>
+			<li><strong>$51,000</strong> - I can't accept less than $52,000.</li>
+			</ul>
+			<h3><u>$50,000</u> (Offer)</h3>
+
+			<p><strong>How to use this script</strong></p>
+
+			<p>The company will discuss your counter internally and determine how much they can pay you. Then you will often have a quick phone call with the recruiter or hiring manager to determine your final salary and other benefits.</p>
+
+			<p>When the company comes back to you with a resopnse to your counter, you can use this script to pre-decide what you'll say to their response using these steps:<p>
+	
+			<ol>
+			<li>Use the first statement as your first response. In this example, if the company comes back with $55,000, you'll say, "Sounds good, when do I start?" If the company comes back with $53,000, you'll say, "$54,000 and I'm on board!"
+			<ul><li>If they accept your response, then you're finished!</li></ul>
+			</li>
+			<li>If they do not accept your response—meaning they reject it outright or come back with a number below your ask—you will take the current salary as your base and request your highest-priority benefit. In this example, if the company comes back with $53,000, then you say "If you can do $54,000, I'm on board!" and they stick with $53,000, then you move to your highest-priority benefit which is, "Extra vacation". You would say, "I understand the best you can do is $53,000 and you can't come up to $54,000. If you can do $53,000 and offer an extra week of paid vacation each year, then I'm on board."
+			<ul><li>If they accept your response, then you're finished!</li></ul>
+			</li>
+			<li>If they do not accept your highest-priority benefit, then you move on to your second-priority benefit. To continue our exmaple, you would say, "We're at $53,000 and you're unable to offer an extra week of paid vacation. But if you can allow me to work remotely from home two days a week, I'm on board!"
+			<ul><li>If they accept your response, then you're finished!</li></ul>
+			</li>
+			<li>If they do not accept your second-priority benefit, you move on to your third-priority benefit.
+			<ul><li>Regardless of whether they accept your response, then you're finished. You have maximized your base salary and maximized your benefits as well.</li></ul>
+			</ol>
+		</div>
+		
+		<div class="container container--widened">
+	 		<h2 class='section-heading section-heading--with-line'>Your salary negotiation script</h2>
+	 		<p><strong>Here is <em>your</em> salary negotiation script.</strong> Use the example above as your guide and use this script to negotiate starting salary based on your job offer!</p>
+		</div>
+		
+		<!-- Calculated script using rules would go here-->
+		<div class="container container--grid">
+			<h2>Enter your details and hit the big "Generate my salary negotiation script!" button above!</h2>
+
+			<p>Once you enter your details and hit the big button, you'll get your salary negotiation script, personalized for your specific situation!</p>
 		</div>
 	</main>
 

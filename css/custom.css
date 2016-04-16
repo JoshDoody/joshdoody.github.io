@@ -153,3 +153,32 @@
   border-width: 0 5px 5px;
   border-bottom-color: #000;
 }
+
+/* Script generator inputs */
+.script-fields__left {
+  margin-bottom: 2em;
+}
+
+@media only screen and (min-width: 650px) {
+  .script-fields__left {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 65.88078%;
+  }
+  .script-fields__left:last-child {
+    margin-right: 0;
+  }
+}
+
+@media only screen and (min-width: 650px) {
+  .script-fields__right {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 31.76157%;
+  }
+  .script-fields__right:last-child {
+    margin-right: 0;
+  }
+}
