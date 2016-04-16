@@ -1,0 +1,102 @@
+---
+layout: default
+---
+  <header class="header header--centered">
+
+    <div class="container container--normal">
+
+      <h1 class="header__title">Salary negotiation script</h1>
+			<p class="header__tagline">How to negotiate starting salary</p>
+
+    </div>
+
+  </header>
+	<main role="main">
+    <div class="container container--normal">
+			
+			<h2>You have a great job offer. Here's how to negotiate.</h2>
+			<p>You've probably heard you should negotiate starting salary rather than just accepting the first job offer you get. But how to negotiate starting salary can seem mysterious. I'm going to demystify salary negotiation for you.</p>
+			<p>I wrote <em>Fearless Salary Negotiation</em> to help people get paid what their worth. And my method to negotiate starting salary is easy to use while generating phenomenal results. <em class='u-highlight'>It's so easy, I taught a computer how to do it.</em></p>
+			<p>Use this salary negotiation script generator and you'll have everything you need to negotiaite starting salary like a pro. You're about 1 minute away from having a complete script to negotiate your starting salary.</p>
+			
+    </div>
+				
+		<div class="container container--widened">
+	 		<h2 class='section-heading section-heading--with-line'>Your details</h2>
+	 		<p><strong>We just need a few details about your specific situation and then we'll be ready to generate your salary negotiation script!</p>
+		</div>
+		
+    <div class="container container--grid">
+		  <div class="author__left">
+				<br>
+				<input id="offer_amount" type="text" value="50,000">
+			</div>
+		  <div class="author__right">
+				<p><strong>What's the base salary component of your offer?</strong> We'll focus on base salary first because that's the gift that keeps on giving year after year!</p>
+			</div>
+		</div>
+		
+    <div class="container container--grid">
+		  <div class="author__left">
+				<br>
+				<input id="they_need_you" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="5"/>
+			</div>
+		  <div class="author__right">
+				<p><strong>How badly do they need you? (0–10)</strong> What's your sense of how badly they specificially need you to fill this particular position?</p>
+			</div>
+		</div>
+		
+    <div class="container container--grid">
+		  <div class="author__left">
+				<br>
+				<input id="you_need_them" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="5"/>
+			</div>
+		  <div class="author__right">
+				<p><strong>How badly do you need them? (0–10)</strong> How desparate are you to get the job?</p>
+			</div>
+		</div>
+		
+    <div class="container container--grid">
+		  <div class="author__left">
+				<br>
+				<input id="minimum_acceptable" type="text" value="$50,000">
+			</div>
+		  <div class="author__right">
+				<p><strong>What's your minimum acceptable salary?</strong> What's the absolute minimum base salary you need to accept this job?</p>
+			</div>
+		</div>
+		
+    <div class="container container--grid">
+		  <div class="author__left">
+				<input id="benefit_1" type="text" value="Extra week of vacation"><br><br>
+				<input id="benefit_2" type="text" value="Signing bonus"><br><br>
+				<input id="benefit_3" type="text" value="Work from home">
+			</div>
+		  <div class="author__right">
+				<p><strong>(Optional) What other benefits do you prefer once your base salary is maximized?</strong> Choose up to three other benefits in order of decreasing importance to you (most important is first).</p>
+			</div>
+		</div>
+		
+		<div class="container container--grid">
+			<a id="generate_script" href="#" class="button button--bright">
+				<span class="package__button-text"><i class="fa fa-file-text-o"></i> <strong>Get your salary negotiation script</strong></span>
+			</a><br><br>
+		</div>
+	</main>
+
+  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+	<script src="{{ site.url }}/js/app.js"></script>
+	<script src="{{ site.url }}/js/tooltip.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/7.0.0/bootstrap-slider.min.js"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/7.0.0/css/bootstrap-slider.min.css">
+  <script type='text/javascript'>
+  	$(document).ready(function() {
+  		/* Example 1 */
+    	$('#they_need_you').slider({
+						tooltip: 'always'
+        });
+    	$('#you_need_them').slider({
+						tooltip: 'always'
+        });
+			});
+  </script>
