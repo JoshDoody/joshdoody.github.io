@@ -190,3 +190,85 @@
 	text-align: center;
 	color: red;
 }
+
+/**
+ * Book Blurb
+ */
+.book-blurb {
+  padding-top: 4em;
+}
+
+@media only screen and (min-width: 650px) {
+  .book-blurb {
+    padding-top: 2em;
+  }
+  .levels-wp .book-blurb {
+    padding-top: 0;
+    padding-bottom: 2em;
+  }
+}
+
+.book-blurb:before {
+  content: '';
+  width: 100%;
+  height: 1em;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: -webkit-linear-gradient( left , #00A9FF, #0077b3);
+  background: linear-gradient(to right, #00A9FF, #0077b3);
+}
+
+.book-blurb--centered {
+  text-align: center;
+}
+
+.book-blurb__title {
+  font-family: 'Asap', sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 2.5em;
+  line-height: 1.0;
+  color: #00A9FF;
+  margin: 0;
+  text-decoration: none;
+}
+
+@media only screen and (min-width: 650px) {
+  .book-blurb__title {
+    font-size: 2.5em;
+  }
+}
+
+.book-blurb__title a {
+  color: #00A9FF;
+  text-decoration: none;
+  -webkit-transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  -moz-transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.book-blurb__title a:hover {
+  color: #0087cc;
+}
+
+.book-blurb__sub-title {
+  font-style: italic;
+  font-size: 1.1em;
+  color: #999;
+  margin: .25em 0 0 0;
+}
+
+@media only screen and (min-width: 650px) {
+  .book-blurb__sub-title {
+    font-size: 1.1em;
+  }
+}
+
+@media only screen and (max-width: 1023px) {
+	.book-blurb .hidden-xs {
+		display: none;
+	}
+}
