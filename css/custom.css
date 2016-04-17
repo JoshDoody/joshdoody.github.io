@@ -182,3 +182,11 @@
     margin-right: 0;
   }
 }
+
+/* Styling the displayed counteroffer for the salary negotiation script page */
+.counteroffer {
+	font-weight: bold;
+	font-size: 300%;
+	text-align: center;
+	color: red;
+}

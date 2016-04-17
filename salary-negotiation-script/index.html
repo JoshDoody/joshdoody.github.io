@@ -42,7 +42,7 @@ layout: default
 			</div>
 		  <div class="script-fields__right">
 				<br>
-				<input id="they_need_you" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="5"/>
+				<input id="they_need_you" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="8"/>
 			</div>
 		</div>
 		
@@ -52,7 +52,7 @@ layout: default
 			</div>
 		  <div class="script-fields__right">
 				<br>
-				<input id="you_need_them" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="5"/>
+				<input id="you_need_them" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="6"/>
 			</div>
 		</div>
 		
@@ -62,13 +62,15 @@ layout: default
 			</div>
 		  <div class="script-fields__right">
 				<br>
-				$ <input id="minimum_acceptable" type="text" value="50,000">
+				$ <input id="minimum_acceptable" type="text" value="52,000">
 			</div>
 		</div>
 		
     <div class="container container--grid">
+	 		<h2 class='section-heading section-heading--with-line'>Optional fields for your custom script</h2>
+			
 		  <div class="script-fields__left">
-				<p><strong>(Optional) What other benefits do you prefer once your base salary is maximized?</strong> Choose up to three other benefits in order of decreasing importance to you (most important is first).</p>
+				<p><strong>What other benefits do you prefer once your base salary is maximized?</strong> Choose up to three other benefits in order of decreasing importance to you (most important is first).</p>
 			</div>
 		  <div class="script-fields__right">
 				1. <input id="benefit_1" type="text" value="Extra week of vacation"><br><br>
@@ -77,11 +79,31 @@ layout: default
 			</div>
 		</div>
 		
+    <div class="container container--grid">
+		  <div class="script-fields__left">
+				<p><strong>Where should I send your custom salary negotiation script?</strong> Want a custom negotiation script like the example below? Just tell me where to send it!</p>
+			</div>
+		  <div class="script-fields__right">
+				<br>
+				&nbsp;&nbsp;&nbsp; <input id="email_address" type="text" placeholder="You@example.com">
+			</div>
+		</div>
+		
 		<div class="container container--grid">
 			<a id="generate_script" href="#" class="button button--bright">
-				<span class="package__button-text"><i class="fa fa-file-text-o"></i> <strong>Generate my salary negotiation script!</strong></span>
+				<span class="package__button-text"><i class="fa fa-calculator"></i> <strong>Calculate my counteroffer!</strong></span>
 			</a><br><br>
 		</div>
+		
+		<!-- When they click the giant button, this div is un-hidden so that everything below slides down the page to reveal the counteroffer and form for requesting a custom salary negotition script -->
+		
+    <div class="container container--normal u-highlight" style="padding: 20px;">
+			<h1 class='section-heading header--centered'>Here's your counteroffer!</h2>
+			
+		  <p class='u-center'><span class="counteroffer">$56,000</span></p>
+
+		</div>
+		
 		
 		<div class="container container--widened">
 	 		<h2 class='section-heading section-heading--with-line'>Sample salary negotiation script</h2>
@@ -89,16 +111,16 @@ layout: default
 		</div>
 		
     <div class="container container--grid">
-			<h2>Final Discussion script example</h2>
+			<h2>Salary negotiation script example</h2>
 
-			<p>The company has made an offer of $50,000, and you have countered at $56,000. Your negotiation window is now $50,000–$56,000. This script is your plan for hashing out the final details of your compensation package in the Final Discussion by first maximizing your base salary and then ngotiating for additional benefits.</p>
+			<p>In this example the company has made <em class='u-highlight'>an offer of $50,000</em>, and <em class='u-highlight'>you have countered at $56,000</em>. Your <em class='u-highlight'>negotiation window is now $50,000–$56,000</em>. This sample salary negotiation script is your plan for hashing out the final details of your compensation package in the Final Discussion by <em>first</em> maximizing your base salary and <em>then</em> negotiating for additional benefits.</p>
 
 			<p>(Your Minimum Acceptable Salary is the underlined row.)</p>
 
 			<h3><u>$56,000</u> (Counter)</h3>
 			<ul style="list-style-type:none">
 			<li><strong>$55,000</strong> - Sounds good, when do I start?</li>
-			<li><strong>$54,000</strong> - Sounds good, when do I start?</li>
+			<li><strong>$54,000</strong> - $55,000 and I'm on board!  - (1) Extra vacation (2) Work from home (3) Reimburse office</li>
 			<li><strong>$53,000</strong> - $54,000 and I'm on board!  - (1) Extra vacation (2) Work from home (3) Reimburse office</li>
 			<li><u><strong>$52,000</strong> - $54,000 and I'm on board!  - (1) Extra vacation (2) Work from home (3) Reimburse office</u></li>
 			<li><strong>$51,000</strong> - I can't accept less than $52,000.</li>
@@ -109,33 +131,18 @@ layout: default
 
 			<p>The company will discuss your counter internally and determine how much they can pay you. Then you will often have a quick phone call with the recruiter or hiring manager to determine your final salary and other benefits.</p>
 
-			<p>When the company comes back to you with a resopnse to your counter, you can use this script to pre-decide what you'll say to their response using these steps:<p>
+			<p>When the company comes back to you with a response to your counter, you can use this script to pre-decide what you'll say to their response using these steps. For each step, if they accept your proposal, then you're finished. If they don't accept your proposal, go to the next step.<p>
 	
 			<ol>
-			<li>Use the first statement as your first response. In this example, if the company comes back with $55,000, you'll say, "Sounds good, when do I start?" If the company comes back with $53,000, you'll say, "$54,000 and I'm on board!"
-			<ul><li>If they accept your response, then you're finished!</li></ul>
+			<li><strong>Use the first statement as your first response.</strong> In this example, if the company comes back with $55,000, you'll say, "Sounds good, when do I start?" If the company comes back with $54,000, you'll say, "$55,000 and I'm on board!"
 			</li>
-			<li>If they do not accept your response—meaning they reject it outright or come back with a number below your ask—you will take the current salary as your base and request your highest-priority benefit. In this example, if the company comes back with $53,000, then you say "If you can do $54,000, I'm on board!" and they stick with $53,000, then you move to your highest-priority benefit which is, "Extra vacation". You would say, "I understand the best you can do is $53,000 and you can't come up to $54,000. If you can do $53,000 and offer an extra week of paid vacation each year, then I'm on board."
-			<ul><li>If they accept your response, then you're finished!</li></ul>
+			<li><strong>If they do not accept your response—meaning they reject it outright or come back with a number below your ask—you will take the current salary as your base and request your highest-priority benefit.</strong> In this example, if the company comes back with $53,000, then you say "If you can do $54,000, I'm on board!" and they stick with $53,000, then you move to your highest-priority benefit which is, "Extra vacation". You would say, "I understand the best you can do is $53,000 and you can't come up to $54,000. If you can do $53,000 and offer an extra week of paid vacation each year, then I'm on board."
 			</li>
-			<li>If they do not accept your highest-priority benefit, then you move on to your second-priority benefit. To continue our exmaple, you would say, "We're at $53,000 and you're unable to offer an extra week of paid vacation. But if you can allow me to work remotely from home two days a week, I'm on board!"
-			<ul><li>If they accept your response, then you're finished!</li></ul>
+			<li><strong>If they do not accept your highest-priority benefit, then you move on to your second-priority benefit.</strong> To continue our example, you would say, "We're at $53,000 and you're unable to offer an extra week of paid vacation. But if you can allow me to work remotely from home two days a week, I'm on board!"
 			</li>
-			<li>If they do not accept your second-priority benefit, you move on to your third-priority benefit.
+			<li><strong>If they do not accept your second-priority benefit, you move on to your third-priority benefit.</strong>
 			<ul><li>Regardless of whether they accept your response, then you're finished. You have maximized your base salary and maximized your benefits as well.</li></ul>
 			</ol>
-		</div>
-		
-		<div class="container container--widened">
-	 		<h2 class='section-heading section-heading--with-line'>Your salary negotiation script</h2>
-	 		<p><strong>Here is <em>your</em> salary negotiation script.</strong> Use the example above as your guide and use this script to negotiate starting salary based on your job offer!</p>
-		</div>
-		
-		<!-- Calculated script using rules would go here-->
-		<div class="container container--grid">
-			<h2>Enter your details and hit the big "Generate my salary negotiation script!" button above!</h2>
-
-			<p>Once you enter your details and hit the big button, you'll get your salary negotiation script, personalized for your specific situation!</p>
 		</div>
 	</main>
 
