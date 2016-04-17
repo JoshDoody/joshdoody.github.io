@@ -1,24 +1,11 @@
 ---
 layout: default
 ---
-  <div class="container container--normal book-blurb">
-
-		<span class="u-center u-image-pull-right hidden-xs">
-			<a href="http://fearlesssalarynegotiation.com"><img src="{{ site.url }}/images/FearlessSalary_noquote 400px-height.jpg" width="200px;" style="border: 1px solid #999999;" alt="Fearless Salary Negotiation cover"></a>
-		</span>
-          
-    <p class="book-blurb__title"><a href="http://fearlesssalarynegotiation.com">Fearless Salary Negotiation</a></p>
-		<p class="book-blurb__sub-title">A step-by-step guide to getting paid what you're worth</p>
-		<p>by <a href="http://www.joshdoody.com">Josh Doody</a></p>
-		
-		<p>A complete set of tools—a book, worksheets, email templates, and courses—to maximize your salary throughout your career. Get the knowledge and confidence as a salary negotiator to get your next raise or promotion, and to score the maximium starting salary at a new company.</p>
-		
-		<p><a href="http://fearlesssalarynegotiation.com#purchase">Buy the book</a>
-  </div>
+	{% include book_blurb.html %}
 	
 	<hr>
 	
-	<header class="header header--centered">
+	<header class="article-header header--centered">
 
     <div class="container container--normal">
 
@@ -36,20 +23,9 @@ layout: default
 	  {{ content }}
 	</main>
 	
-  <div class="container container--normal">
-		<div class="header">
-			{% include above_the_fold_book_cover.html %}
-          
-	    <p><a href="http://fearlesssalarynegotiation.com">Fearless Salary Negotiation</a></p>
-			<p>A step-by-step guide to getting paid what you're worth</p>
-			<p>by <a href="http://www.joshdoody.com">Josh Doody</a></p>
-		
-			<p>Blurb blurb blurb</p>
-		
-	    <p>You've had your eye on a job you really want, and they finally called you to schedule an interview.</p>
-			<p>Now what?</p>
-			<p>Get your free chapter and I'll show you what to do in each phase of the interview process to ace your next interview!</p>
-		</div>
+	<hr>
+	
+	{% include book_blurb.html %}
 
   </div>
 
