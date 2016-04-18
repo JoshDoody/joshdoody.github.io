@@ -15,7 +15,7 @@ function Page($jquery) {
 
 Page.prototype = {
   'set_counteroffer':  function (text) {
-  this.$('#counteroffer-number').text(text);
+  this.$('.counteroffer-number').text(text);
   },
 
   'show_counteroffer': function () {
