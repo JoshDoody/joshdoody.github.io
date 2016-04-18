@@ -41,4 +41,12 @@ $(document).ready(function () {
     page.set_counteroffer('$'+ Number(counteroffer.toFixed(0)).toLocaleString());
     page.show_counteroffer();
   });
+	
+  $('#they_need_you').slider({
+    tooltip: 'always'
+  });
+	
+  $('#you_need_them').slider({
+    tooltip: 'always'
+  });
 });
