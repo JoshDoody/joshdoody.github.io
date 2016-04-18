@@ -1,30 +1,7 @@
 ---
 layout: default
 ---
-	{% include book_blurb.html %}
-	
-	<hr>
-	
-	<header class="article-header header--centered">
 
-    <div class="container container--normal">
-
-      <h1 class="header__title">{% if page.title %}{{ page.title }}{% else %} Fearless Salary Negotiation {% endif %}</h1>
-      {% if page.tagline %}
-			<p class="header__tagline">{{ page.tagline }}</p>
-			{% else %}
-			<br><br>
-			{% endif %}
-
-    </div>
-
-  </header>
 	<main role="main">
 	  {{ content }}
 	</main>
-	
-	<hr>
-	
-	{% include book_blurb.html %}
-
-  </div>

@@ -6,7 +6,30 @@
   <body>
     <div class="page-content">
       <div class="wrapper">
+				{% include book_blurb.html %}
+	
+				<hr>
+	
+				<header class="article-header header--centered">
+
+			    <div class="container container--normal">
+
+			      <h1 class="header__title">{% if page.title %}{{ page.title }}{% else %} Fearless Salary Negotiation {% endif %}</h1>
+			      {% if page.tagline %}
+						<h2 class="header__tagline">{{ page.tagline }}</h2>
+						{% else %}
+						<br><br>
+						{% endif %}
+
+			    </div>
+
+			  </header>
+				
         {{ content }}
+				
+				<hr>
+	
+				{% include book_blurb.html %}
       </div>
     </div>
 
@@ -16,6 +39,6 @@
 
   </body>
 	
-<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script src="{{ site.baseurl }}/js/app.js"></script>
+	<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+	<script src="{{ site.baseurl }}/js/app.js"></script>
 </html>

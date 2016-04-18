@@ -277,3 +277,8 @@
 .article-header {
 	padding-top: 2em;
 }
+
+/* Bio box separated a bit from wahtever is above it */
+.author__container {
+	margin-top: 1em;
+}
