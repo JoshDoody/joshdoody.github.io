@@ -191,6 +191,11 @@
 	color: red;
 }
 
+.counteroffer-reminder {
+	text-align: center;
+	font-weight: bold;
+	color: red;
+}
 /**
  * Book Blurb
  */

@@ -19,7 +19,7 @@ Page.prototype = {
   },
 
   'show_counteroffer': function () {
-    this.$('#counteroffer-section').show();
+    this.$('#counteroffer-section').slideDown();
     this.$('#counteroffer-script').show();
   }
 };
