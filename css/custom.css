@@ -294,3 +294,26 @@
 .author__container {
 	margin-top: 1em;
 }
+
+/* Book image for ConvertKit custom content when visitor is already subscribed */
+.book-image { 
+display:block;
+padding-left: 150px; 
+background: url(http://fearlesssalarynegotiation.com/images/FearlessSalary_noquote_small.jpg) no-repeat; 
+text-decoration: none; 
+color: #333;
+min-height: 200px;
+border-bottom: none;
+}
+
+.book-image .button {
+display:block;
+padding: 10px;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+color: #fff;
+background: #25a163;
+text-align: center;
+font-size: 13px;
+}
