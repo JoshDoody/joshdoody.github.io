@@ -35,7 +35,7 @@ Page.prototype = {
   },
 
   'show_counteroffer': function () {
-    this.$('#counteroffer-section').show();
+    this.$('#counteroffer-section').slideDown();
     this.$('#counteroffer-script').show();
   }
 };
@@ -64,5 +64,13 @@ $(document).ready(function () {
     page.set_counteroffer(pretty_money(counteroffer));
     page.set_original_offer(original_offer);
     page.show_counteroffer();
+  });
+	
+  $('#they_need_you').slider({
+    tooltip: 'always'
+  });
+	
+  $('#you_need_them').slider({
+    tooltip: 'always'
   });
 });
