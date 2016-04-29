@@ -15,7 +15,23 @@ function Page($jquery) {
 
 Page.prototype = {
   'set_counteroffer':  function (text) {
-  this.$('.counteroffer-number').text(text);
+    this.$('.counteroffer-number').text(text);
+  },
+
+  'set_original_offer': function (text) {
+    this.$('.original-offer').text(pretty_money(text));
+  },
+
+  'get_they_need': function () {
+    return Number($('#they_need_you').val());
+  },
+  
+  'get_you_need': function () {
+    return Number($('#you_need_them').val());
+  },
+
+  'minimum_acceptable': function () {
+    return $('#minimum_acceptable').val().replace(',', '');
   },
 
   'show_counteroffer': function () {
@@ -24,21 +40,29 @@ Page.prototype = {
   }
 };
 
+// formats a number to look like nice money. Discards cents, but can
+// handle string inputs. 50000 -> $50,000
+function pretty_money(number) {
+  return '$'+ Number(Number(number).toFixed(0)).toLocaleString();
+}
+
 
 $(document).ready(function () {
   $('#generate_script').click(function (e) {
     e.preventDefault();
     var page = new Page($);
+    var original_offer = $('#offer_amount').val().replace(',', '');
 
     // calculate counteroffer here.
     var counteroffer = counter(
-      $('#offer_amount').val().replace(',', ''),
-      Number($('#they_need_you').val()),
-      Number($('#you_need_them').val()),
-      $('#minimum_acceptable').val().replace(',', '')
+      original_offer,
+      page.get_they_need(),
+      page.get_you_need(),
+      page.minimum_acceptable()
     );
 
-    page.set_counteroffer('$'+ Number(counteroffer.toFixed(0)).toLocaleString());
+    page.set_counteroffer(pretty_money(counteroffer));
+    page.set_original_offer(original_offer);
     page.show_counteroffer();
   });
 });
