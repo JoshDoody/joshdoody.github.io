@@ -201,16 +201,19 @@
  */
 .book-blurb {
   padding-top: 2em;
-  background: url(../../images/topo-map-bg-1.png);
+  background: #000a0f url(../../images/topo-map-bg-2.png);
   background-size: 1000px 1000px;
+	color: #fff;
   box-shadow: 0 0 0 1px rgba(151, 151, 151, 0.2);
-  padding-left: 20px;
   margin-left: 0;
+}
+
+.book-blurb p {
+  color: #fff;
 }
 
 @media only screen and (min-width: 650px) {
   .book-blurb {
-    padding-top: 2em;
     padding: 1.5em 0 0 0;
     margin: 1em 0;
   }
