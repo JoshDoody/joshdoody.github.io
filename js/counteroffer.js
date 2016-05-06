@@ -67,10 +67,32 @@ $(document).ready(function () {
   });
 	
   $('#they_need_you').slider({
-    tooltip: 'always'
+    tooltip: 'always',
+		formatter: function(value) {
+			if(value <= 3){
+        return value + ': Not much';
+      }
+			else if(value <= 6){
+        return value + ': Somewhat';
+      }
+			else {
+        return value + ': A lot';
+      }
+    }
   });
 	
   $('#you_need_them').slider({
-    tooltip: 'always'
+    tooltip: 'always',
+		formatter: function(value) {
+			if(value <= 3){
+        return value + ': Not much';
+      }
+			else if(value <= 6){
+        return value + ': Somewhat';
+      }
+			else {
+        return value + ': A lot';
+      }
+    }
   });
 });
