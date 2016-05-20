@@ -344,6 +344,12 @@
   background: linear-gradient(to bottom, #00A9FF, #0077b3);
 }
 
+/* Fixing Levels bug */
+
+.package__feature-details {
+	z-index: 1;
+}
+
 /*
 
 .josh_icon {
