@@ -1,3 +1,8 @@
+/* Making long-form more readable */
+body {
+  font-family: 'Helvetica', sans-serif;
+}
+
 .checkbox-list__item__unchecked {
   line-height: 1.5em;
   position: relative;
@@ -349,28 +354,3 @@
 .package__feature-details {
 	z-index: 1;
 }
-
-/*
-
-.josh_icon {
- display: block;
- height: 1em;
- width: 1em;
- overflow: hidden;
- line-height: 1em;
- padding: 4px;
- background: #444;
- border-radius: 1000px;
- -webkit-font-smoothing: antialiased;
- -moz-osx-font-smoothing: grayscale;
- color: #444;
- font-size: 14px;
- background: -webkit-linear-gradient( top , #00A9FF , #0077b3 );
- background: linear-gradient(to bottom, #00A9FF , #0077b3 );
-}
-
-.fa-question {
-  color: white;
-}
-
-*/
