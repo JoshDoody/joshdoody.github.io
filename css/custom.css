@@ -305,3 +305,66 @@
 .header__title {
   color: #F37021;
 }
+
+/* Question lists */
+.question-list {
+  list-style: none;
+  padding: 0 0 0 15px;
+  overflow: auto;
+  box-sizing: content-box;
+}
+
+.question-list__item {
+  line-height: 1.5em;
+  position: relative;
+  padding-left: 1.5em;
+  margin-bottom: .5em;
+}
+
+.question-list__item:before {
+  display: block;
+	text-align: center;
+  height: 1em;
+  width: 1em;
+  overflow: hidden;
+  line-height: 1em;
+  font-family: FontAwesome;
+  content: "\f128";
+  position: absolute;
+  top: .25em;
+  left: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #fff;
+  border-radius: 100%;
+  padding: 4px;
+  margin-right: 10px;
+  font-size: 14px;
+  background: -webkit-linear-gradient( top , #00A9FF, #0077b3);
+  background: linear-gradient(to bottom, #00A9FF, #0077b3);
+}
+
+/*
+
+.josh_icon {
+ display: block;
+ height: 1em;
+ width: 1em;
+ overflow: hidden;
+ line-height: 1em;
+ padding: 4px;
+ background: #444;
+ border-radius: 1000px;
+ -webkit-font-smoothing: antialiased;
+ -moz-osx-font-smoothing: grayscale;
+ color: #444;
+ font-size: 14px;
+ background: -webkit-linear-gradient( top , #00A9FF , #0077b3 );
+ background: linear-gradient(to bottom, #00A9FF , #0077b3 );
+}
+
+.fa-question {
+  color: white;
+}
+
+*/
