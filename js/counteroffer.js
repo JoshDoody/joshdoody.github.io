@@ -78,7 +78,8 @@ function Page($jquery) {
 Page.prototype = {
 	
   set_counteroffer:  function (text) {
-    this.$('.counteroffer-number').text(text);
+    this.$('.counteroffer-number').hide();
+		this.$('.counteroffer-number').text(text).fadeIn(800);
   },
 
   set_original_offer: function (text) {
@@ -135,8 +136,8 @@ Page.prototype = {
   minimum_acceptable: function () {
     return Number($('#minimum_acceptable').val().replace(',', ''));
   },
-
-  show_counteroffer: function () {
+	
+	show_counteroffer: function () {
     this.$('#counteroffer-section').slideDown();
     this.$('#counteroffer-script').show();
   },
