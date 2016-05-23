@@ -85,6 +85,10 @@ Page.prototype = {
     this.$('.original-offer').text(pretty_money(text));
   },
 	
+  set_minimum_acceptable: function (text) {
+    this.$('.minimum-acceptable').text(pretty_money(text));
+  },
+	
   set_benefits: function (text) {
 		if( this.$('#benefit_1').val() ) {
 			this.$('.benefit_1').text(this.$('#benefit_1').val());
@@ -170,6 +174,7 @@ $(document).ready(function () {
 
     page.set_counteroffer(pretty_money(counteroffer));
     page.set_original_offer(original_offer);
+		page.set_minimum_acceptable(minimum_acceptable);
     page.write_script(logic.script_increments(original_offer, counteroffer, minimum_acceptable));
     page.show_counteroffer();
 		page.set_benefits();

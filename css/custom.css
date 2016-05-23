@@ -164,6 +164,11 @@ body {
   margin-bottom: 2em;
 }
 
+.script-form {
+	background-color: #EEE;
+	padding: 20px 0 10px 0;
+}
+
 @media only screen and (min-width: 650px) {
   .script-fields__left {
     float: left;
@@ -359,3 +364,4 @@ h2 {
   font-weight: bold;
 	font-size: 200%;
 }
+
