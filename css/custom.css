@@ -282,14 +282,18 @@ body {
 
 .book-blurb__sub-title {
   font-style: italic;
-  font-size: 1.4em;
+  font-size: 1.3em;
   color: #999;
   margin: .25em 0 .25em 0;
 }
 
+.book-blurb__author-name {
+  font-size: 1em;
+}
+
 @media only screen and (min-width: 650px) {
   .book-blurb__sub-title {
-    font-size: 1.4em;
+    font-size: 1.3em;
   }
 	.hidden-xs-up {
 		display: none;
