@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-baseurl: "https://fearlesssalarynegotiation.com"
+baseurl: 
 title: Fearless Salary Negotiation—A step-by-step guide to getting paid what you're worth
 email: josh@joshdoody.com
 description: Everything you need to get paid what you're worth throughout your career
@@ -16,3 +16,6 @@ exclude:
   - vendor
 
 permalink: /:title/
+
+gems:
+  - jekyll-sitemap
