@@ -14,3 +14,5 @@ description: Everything you need to get paid what you're worth throughout your c
 markdown: kramdown
 exclude:
   - vendor
+
+permalink: /:title/
