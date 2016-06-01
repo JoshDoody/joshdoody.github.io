@@ -21,3 +21,5 @@ But you're already declared your desired salary, and you want to negotiate for s
 Once you identify one or more things, wait for them to make an offer, which will probably be either below or at the low end of the desired salary range you disclosed. Then you can negotiate by saying something like, "I have learned a lot more about the company, the position, and the compensation package since I gave that initial salary range. Given what I've learned, I would be more comfortable at [your counteroffer]."
 
 This is one reason it's problematic to declare a desired salary range early in the interview process—you don't know enough about the job, the company, and the available perks to pick a salary. **By not disclosing your current or desired salary in response to [The Dreaded Salary Question]({{ site.baseurl }}/the-dreaded-salary-question), you give yourself more time to get further into the interview process before salary ranges are set *and* you allow the company to make the first offer so you can negotiate from a stronger position.**
+
+<script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
