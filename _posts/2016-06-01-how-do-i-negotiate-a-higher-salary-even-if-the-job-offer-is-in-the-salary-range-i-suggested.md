@@ -11,7 +11,7 @@ When you disclose your desired salary range, you're essentially locking yourself
 
 ## How do you negotiate if they make an offer in your stated salary range?
 
-But you're already declared your desired salary, and you want to negotiate for something higher. How do you do that?
+But you already declared your desired salary, and you want to negotiate for something higher. How do you do that?
 
 **Look for new information you can incorporate into your negotiation**—ways in which your understanding of the position has changed since you declared your salary range. Here are two examples:
 
