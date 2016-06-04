@@ -1,0 +1,14 @@
+{
+  "info": {
+    "description": "Fearless Salary Negotiation coaching payment page",
+    "name": "Welcome to Fearless Salary Negotiation"
+  },
+  "server": {
+    "host": "fsn-stripe.herokuapp.com"
+  },
+  "stripe": {
+    "allowRememberMe": false,
+    "panelLabel": "Buy now {{amount}}",
+    "publishableKey": "pk_test_p3PDNhytUlc5xFlAB5rj9dgf",
+  }
+}
