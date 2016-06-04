@@ -27,13 +27,13 @@ These questions show that you’re already thinking about the job itself and the
 
 Here are some more good questions to ask in an interview:
 
- * **"How long have you been with the company and what is it like working there?"**
- * **"What can you tell me about the team or group that I would be working with if I get the job?"**
- * **"What’s the company culture like?"**
- * **"I noticed this trend in your current job openings—what does that say about the company’s direction right now?"**
- * **"Can you tell me about career growth opportunities for this job?"**
- * **"What would a long-term career look like at this company?"**
- * **"Are there any special initiatives or side projects the team is working on right now?"**
+ * "How long have you been with the company and what is it like working there?"
+ * "What can you tell me about the team or group that I would be working with if I get the job?"
+ * "What’s the company culture like?"
+ * "I noticed this trend in your current job openings—what does that say about the company’s direction right now?"
+ * "Can you tell me about career growth opportunities for this job?"
+ * "What would a long-term career look like at this company?"
+ * "Are there any special initiatives or side projects the team is working on right now?"
 
 Each question is an opportunity to stand out and learn more about the opportunity. And you can often use the information you learn in one interview to give better answers to questions in future interviews.
 
