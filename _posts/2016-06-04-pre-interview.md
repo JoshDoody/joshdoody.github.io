@@ -3,6 +3,8 @@ layout: post
 title: The pre-interview
 tagline: How to make the most of this brief opportunity
 excerpt: Here's how to make the most of the pre-interview before you dive into the interview process.
+chapter: interview
+section: 3
 ---
 
 Depending on the size and structure of the company you’re applying to, the pre-interview may actually be part of the interview itself. I’ve separated the two concepts (pre-interview and interview) because you’ll often have a pre-interview with a recruiter and the actual interview(s) with team members or the hiring manager. But sometimes you’ll just jump straight to talking with team members or the hiring manager; in that case, this section will apply to the interview directly.
