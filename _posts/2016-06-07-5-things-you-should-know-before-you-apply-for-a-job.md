@@ -4,6 +4,8 @@ title: 5 things you should know before you apply for a job
 tagline: How to find the right opportunities and make the most of them
 excerpt: Here's how you'll find the best opportunities and tactics you can use to make the most of them.
 ---
+The key to finding great opportunities and doing well in your job interviews is preparation. When you're prepared, you'll perform better, stand out from other candidates, and set yourself up for the best job offer possible.
+
 Here are five things to think about before you apply for a job.
 
 ## 1. Your best opportunities will come from your network
@@ -34,7 +36,7 @@ Approaching interviews from this perspective will help you make a better case th
 
 ## 4. You're telling a story about how the company will be better if you're a part of it
 
-This is your interview strategy, which follows directly from the previous point. You should be constantly demonstrating how your skillset and experience are vaulable to the company and will make it better. This is a shift for the typical interviewer whose goal is often something like "I don't want to screw this up." or "I hope they like me."
+This is your interview strategy, which follows directly from the previous point. You should be constantly demonstrating how your skillset and experience are valuable to the company and will make it better. This is a shift for the typical interviewer whose goal is often something like "I don't want to screw this up." or "I hope they like me."
 
 This is a nice strategy, but how about some tactics?
 
@@ -42,7 +44,7 @@ Here's a framework you can use to implement this strategy when you answer almost
 
 1. **Identify goals and pain points the company has.** You should have a pretty good idea from the light research you did to prepare for your interview.
 2. **Determine which skills and experience you have that helps them achieve those goals or address that pain point.** You could contribute directly (you're experience in Sales in their vertical and they're trying to generate revenue) or indirectly (you're an experience software developer who can help improve the product so Sales has an easier job).
-3. **Combine the goals or pain points with the specific skillset or experience into attribute-for-need statements.** "My experience selling into this vertical will help you grow revenue and build your business." or "I'll focus on writing quality software that users love so that your Sales team can close more deails and get more leads."
+3. **Combine the goals or pain points with the specific skillset or experience into attribute-for-need statements.** "My experience selling into this vertical will help you grow revenue and build your business." or "I'll focus on writing quality software that users love so that your Sales team can close more deals and get more leads."
 
 ## 5. Negotiate starting salary
 
@@ -50,6 +52,6 @@ You're going to work very hard to build your skillset, find good opportunities a
 
 Most people will hold relatively few jobs over their lifetime. And changing jobs usually provides the best opportunity to significantly increase your salary. So take advantage of it and negotiate—don't just accept their initial offer.
 
-This [salary negotiation script generator and counteroffer calculator]({{ site.baseurl }}/salaruy-negotiatin-script) is a good place to start for an overview of my strategy.
+This [salary negotiation script generator and counteroffer calculator]({{ site.baseurl }}/salary-negotiation-script) is a good place to start for an overview of my strategy.
 
 <script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
