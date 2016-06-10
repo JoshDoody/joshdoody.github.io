@@ -3,6 +3,7 @@ layout: post
 title: How watching Shark Tank will improve your negotiation skills
 tagline: A four-phase approach to improve your negotiation skills by watching Shark Tank
 excerpt: A four-phase approach to improve your negotiation skills by watching Shark Tank.
+og-image: SharkTankCast_TitleBottom.png
 ---
 
 Negotiation can be intimidating. One way to improve your negotiation skills is to practice negotiating, but what if you aren't ready for that? How can you improve your negotiation skills without practicing actual negotiations?
