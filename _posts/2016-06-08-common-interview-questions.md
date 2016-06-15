@@ -4,7 +4,7 @@ title: Common interview questions
 tagline: Eight common types of job interview questions you should expect
 excerpt: Here are eight types of job interview questions you should expect along with how to prepare for them.
 chapter: interview
-section: 6
+section: 5
 ---
 
 ## The question and answer portion

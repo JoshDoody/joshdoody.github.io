@@ -4,7 +4,7 @@ title: The interview
 tagline: How to make a good impression and start your job interview off on the right foot
 excerpt: Here are a few easy things you can do to ensure that your job interviews start off on the right foot.
 chapter: interview
-section: 5
+section: 4
 ---
 
 For the most part, an interview is just a conversation between someone who’s trying to fill a job (the interviewer), and someone who wants to fill that job (you, in this case). I’m going to call your interviewer "Andy" because this section feels weird if I keep saying “your interviewer” over and over.

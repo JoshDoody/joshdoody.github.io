@@ -4,7 +4,7 @@ title: The wrap-up phase of a job interview
 tagline: Make sure to take advantage of the chance to ask questions in your job interviews
 excerpt: The interview isn't quite over when you've finished answering questions. There's still an opportunity to excel in your job interview.
 chapter: interview
-section: 7
+section: 6
 ---
 
 ## The wrap-up

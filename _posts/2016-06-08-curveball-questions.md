@@ -4,7 +4,7 @@ title: How to handle curveball questions in a job interview
 tagline: Keep calm, think through the problem and constraints, and give your best answer
 excerpt: Curveball questions can really throw you off in a job interview. Here's how to make sure you give good answers to unexpected questions.
 chapter: interview
-section: 8
+section: 7
 ---
 
 ## Don’t be caught off guard by curveball questions
