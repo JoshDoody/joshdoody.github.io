@@ -1,0 +1,21 @@
+---
+layout: post
+title: Chapter 3. How to ace your next interview
+tagline: Key concepts from the chapter
+excerpt: Chapter 3. How to ace your next interview. A step-by-step guide to ace the interview process and get the best job offer possible.
+---
+
+    <ul style="list-style-type: none;">
+    {% for post in site.posts %}
+			{% if post.chapter == 'interview' %}
+      <li style="list-style-type: none;">
+        <span class="book-blurb__title">
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+				</span>
+        <div class="oc-excerpt">
+          <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt }}{% endif %} <a href="{{ post.url | prepend: site.baseurl }}">Read More</a></p>
+        </div>
+      </li>
+			{% endif %}
+    {% endfor %}
+		</ul>
