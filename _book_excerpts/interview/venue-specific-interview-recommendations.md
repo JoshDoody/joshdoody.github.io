@@ -38,3 +38,9 @@ Treat this like an in-person interview with respect to your appearance. Make sur
 When you take notes, make sure to give Andy a heads-up so he doesn’t think you’re just looking down at Facebook on your phone.
 
 <script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
+
+* * *
+
+<p class="book-excerpt-footer"><strong>FROM CHAPTER 3:</strong> <a href="{{ site.baseurl }}/chapter/interview">How to ace your next interview</a></p>
+
+* * * 

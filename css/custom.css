@@ -369,6 +369,15 @@ h2 {
 	font-size: 200%;
 }
 
+h2.excerpt-header {
+	margin-bottom: 0;
+}
+
+p.book-excerpt-footer {
+	margin-bottom: 10px;
+	text-align: center;
+}
+
 .individual {
 	min-height: 70vh;
 }

@@ -3,6 +3,7 @@ layout: post
 title: Follow up with a thank you email after your job interview
 tagline: Sample thank you emails you can send after a job interview
 excerpt: Even after you finish your job interviews, you can continue to impress and stay in touch by sending thanks you emails.
+chapter: interview
 section: 9
 ---
 
@@ -55,3 +56,9 @@ josh@example.com<br>
 <hr>
 
 <script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
+
+* * *
+
+<p class="book-excerpt-footer"><strong>FROM CHAPTER 3:</strong> <a href="{{ site.baseurl }}/chapter/interview">How to ace your next interview</a></p>
+
+* * * 

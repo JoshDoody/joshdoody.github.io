@@ -2,7 +2,7 @@
 layout: post
 title: The Dreaded Salary Question
 tagline: Why you shouldn't disclose your current or desired salary during a job interview
-excerpt: One of the most common starting salary neogotiation mistakes is disclosing your current or desired salary during the interview process. Here's how to avoid
+excerpt: One of the most common starting salary neogotiation mistakes is disclosing your current or desired salary during the interview process. Here's how to avoid.
 chapter: interview
 section: 2
 ---
@@ -44,3 +44,9 @@ Here is my recommendation for a good answer to the full dreaded salary question:
 Now you’re prepared to ace the pre­-interview. 
 
 <script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
+
+* * *
+
+<p class="book-excerpt-footer"><strong>FROM CHAPTER 3:</strong> <a href="{{ site.baseurl }}/chapter/interview">How to ace your next interview</a></p>
+
+* * * 

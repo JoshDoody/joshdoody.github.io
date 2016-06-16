@@ -34,3 +34,9 @@ Think about how your skillset can help a company like that. If your skillset len
 While you’re at it, take note of any other jobs you might be good for, just in case this one doesn’t work out. That way you’ll have some backup opportunities in mind if you need them.
 
 <script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
+
+* * *
+
+<p class="book-excerpt-footer"><strong>FROM CHAPTER 3:</strong> <a href="{{ site.baseurl }}/chapter/interview">How to ace your next interview</a></p>
+
+* * * 

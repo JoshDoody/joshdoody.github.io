@@ -28,3 +28,9 @@ Sometimes, you will have already addressed these two questions organically durin
 If Andy gives you an opportunity to ask questions, take it. But if you really don’t have any questions, don’t just ask something to fill the time. It’s okay to say, "Well, I was going to ask about the day-to-day work, and about challenges your team faces, but we’ve already talked about those, so I’m all set!" Andy would rather have 10 minutes back than have to answer silly questions that you’re obviously asking just to fill the time, so don’t do that.
 
 <script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
+
+* * *
+
+<p class="book-excerpt-footer"><strong>FROM CHAPTER 3:</strong> <a href="{{ site.baseurl }}/chapter/interview">How to ace your next interview</a></p>
+
+* * * 
