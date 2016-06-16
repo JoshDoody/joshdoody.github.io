@@ -5,7 +5,9 @@
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-	
+	{% if page.metatags %} 
+	<meta name="robots" content="{{page.metatags}}">
+	{% endif %}
 	<meta property="og:image" content="{{ site.baseurl }}/images/{% if page.og-image %}{{ page.og-image }}{% else %}FearlessSalary_noquote 400px-height.jpg{% endif %}"/>
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">

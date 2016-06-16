@@ -20,3 +20,8 @@ permalink: /:title/
 
 gems:
   - jekyll-sitemap
+
+collections:
+  book_excerpts:
+    output: true
+    permalink: /:title/

@@ -6,14 +6,14 @@ excerpt: Chapter 3. How to ace your next interview. A step-by-step guide to ace 
 ---
 
     <ul style="list-style-type: none;">
-    {% for post in site.posts %}
-			{% if post.chapter == 'interview' %}
+    {% for book_excerpt in site.book_excerpts %}
+			{% if book_excerpt.chapter == 'interview' %}
       <li style="list-style-type: none;">
         <span class="book-blurb__title">
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ book_excerpt.title }}</a>
 				</span>
         <div class="oc-excerpt">
-          <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt }}{% endif %} <a href="{{ post.url | prepend: site.baseurl }}">Read More</a></p>
+          <p>{% if book_excerpt.description %}{{ book_excerpt.description }}{% else %}{{ book_excerpt.excerpt }}{% endif %} <a href="{{ book_excerpt.url | prepend: site.baseurl }}">Read More</a></p>
         </div>
       </li>
 			{% endif %}
