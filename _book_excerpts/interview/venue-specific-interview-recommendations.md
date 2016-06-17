@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book_excerpt
 title: Venue-specific job interview recommendations
 tagline: Prepare for the specific venue where your job interview will be
 excerpt: Things to consider for each job interview venue—in-person, Skype, or phone call.
@@ -36,11 +36,3 @@ See if you can find out the dress code for the company and dress one notch above
 Treat this like an in-person interview with respect to your appearance. Make sure to set yourself up at a desk or table rather than sitting on your couch with your laptop. (Yes, I’ve interviewed people who were just slumped on their couch with their laptop open. No, I didn’t offer them a job.)
 
 When you take notes, make sure to give Andy a heads-up so he doesn’t think you’re just looking down at Facebook on your phone.
-
-<script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
-
-* * *
-
-<p class="book-excerpt-footer"><strong>FROM CHAPTER 3:</strong> <a href="{{ site.baseurl }}/chapter/interview">How to ace your next interview</a></p>
-
-* * * 

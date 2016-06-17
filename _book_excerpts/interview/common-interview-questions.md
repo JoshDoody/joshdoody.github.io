@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book_excerpt
 title: Common interview questions
 tagline: Eight common types of job interview questions you should expect
 excerpt: Here are eight types of job interview questions you should expect along with how to prepare for them.
@@ -62,11 +62,3 @@ Interviewers ask this type of question because it can provide some insight into 
 ### Questions about special projects or side projects you’ve done
 
 Andy might ask you about special projects you’ve worked on or side projects you’ve done on your own time. Make sure you’re ready to talk about at least one of these in detail. Before the interview, think about your previous special projects in the context of the company you’re interviewing with so that your answer resonates with Andy.
-
-<script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
-
-* * *
-
-<p class="book-excerpt-footer"><strong>FROM CHAPTER 3:</strong> <a href="{{ site.baseurl }}/chapter/interview">How to ace your next interview</a></p>
-
-* * * 

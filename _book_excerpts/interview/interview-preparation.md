@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book_excerpt
 title: How to prepare for a job interview
 tagline: Things to do before interviewing with a new company
 excerpt: Preparing for job interviews is extremely important. Here are some things you can do to prepare for your next job interview.
@@ -32,11 +32,3 @@ You notice the company is hiring a lot of sales reps in the western half of the 
 Think about how your skillset can help a company like that. If your skillset lends itself well to sales and revenue growth, then you can play that up. If your skillset is in an unrelated area, think about how you can contribute in a way that takes pressure off the company in your area of expertise so they can focus on growing. "I can help you grow" can be just as valuable as “I can help make this other part of the business more autonomous so you can continue focusing more resources on growth.”
 
 While you’re at it, take note of any other jobs you might be good for, just in case this one doesn’t work out. That way you’ll have some backup opportunities in mind if you need them.
-
-<script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
-
-* * *
-
-<p class="book-excerpt-footer"><strong>FROM CHAPTER 3:</strong> <a href="{{ site.baseurl }}/chapter/interview">How to ace your next interview</a></p>
-
-* * * 

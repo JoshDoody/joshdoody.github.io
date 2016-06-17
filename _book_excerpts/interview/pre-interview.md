@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book_excerpt
 title: The pre-interview
 tagline: How to make the most of this brief opportunity
 excerpt: Here's how to make the most of the pre-interview before you dive into the interview process.
@@ -44,11 +44,3 @@ As you’re wrapping up, be sure to ask about next steps and how you’ll be con
 Finally, you might want to ask if you should do anything specific to prepare for a formal interview if you move on to that stage. Most of the time, there won’t be anything, but occasionally you’ll find out there’s a short written skills test or something that you should mentally prepare for.
 
 If the pre-interview went well, and if you still want to pursue the job, your next step will usually be the interview.
-
-<script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
-
-* * *
-
-<p class="book-excerpt-footer"><strong>FROM CHAPTER 3:</strong> <a href="{{ site.baseurl }}/chapter/interview">How to ace your next interview</a></p>
-
-* * * 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book_excerpt
 title: How to check in after your job interviews
 tagline: Wait about a week and send a follow-up 
 excerpt: You should follow up weekly for at least a few weeks after your job interview to stay on the company's radar.
@@ -31,11 +31,3 @@ josh@example.com<br>
 
 
 Hopefully, Shawn will reach out and let you know they’re ready to schedule your next interview. In that case, you’re right back to the "Interview" step, and you’ll rinse and repeat that step along with the “Post-interview” step until you either get an offer or they let you know, explicitly or implicitly, that they’re not going to move forward with you.
-
-<script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
-
-* * * 
-
-<p class="book-excerpt-footer"><strong>FROM CHAPTER 3:</strong> <a href="{{ site.baseurl }}/chapter/interview">How to ace your next interview</a></p>
-
-* * * 

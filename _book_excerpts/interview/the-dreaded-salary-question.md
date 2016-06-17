@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: book_excerpt
 title: The Dreaded Salary Question
 tagline: Why you shouldn't disclose your current or desired salary during a job interview
 excerpt: One of the most common starting salary neogotiation mistakes is disclosing your current or desired salary during the interview process. Here's how to avoid.
+og-image: DreadedSalaryQuestion.png
 chapter: interview
 section: 2
 ---
@@ -42,11 +43,3 @@ Here is my recommendation for a good answer to the full dreaded salary question:
 > "I’m not comfortable sharing my current salary. I would prefer to focus on the value I can add to this company rather than what I’m paid at my current job. I don’t have a specific number in mind for a desired salary, and you know better than I do what value my skillset and experience could bring to your company. I want this move to be a big step forward for me in terms of both responsibility and compensation."
 
 Now you’re prepared to ace the pre­-interview. 
-
-<script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
-
-* * *
-
-<p class="book-excerpt-footer"><strong>FROM CHAPTER 3:</strong> <a href="{{ site.baseurl }}/chapter/interview">How to ace your next interview</a></p>
-
-* * * 

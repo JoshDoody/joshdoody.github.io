@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book_excerpt
 title: The interview
 tagline: How to make a good impression and start your job interview off on the right foot
 excerpt: Here are a few easy things you can do to ensure that your job interviews start off on the right foot.
@@ -34,11 +34,3 @@ Have your résumé ready to send electronically if you need to. You’ve probabl
 ### Introductions
 
 Most of the time, the interview will begin with a little small talk. "So, you know Tom Smith huh?" or “I see you went to Florida State. I’m a Gator, so hopefully we’ll get through this okay.” Try to give accurate, concise responses. Don’t spend 20 minutes talking about that one time Tom jumped off the hotel balcony into the pool at a sales conference a few years ago. Make sure your answers are genuine, and take the opportunity to relax a little bit so that you’re both comfortable during your interview.
-
-<script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
-
-* * *
-
-<p class="book-excerpt-footer"><strong>FROM CHAPTER 3:</strong> <a href="{{ site.baseurl }}/chapter/interview">How to ace your next interview</a></p>
-
-* * * 

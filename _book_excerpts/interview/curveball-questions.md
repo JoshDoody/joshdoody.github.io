@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book_excerpt
 title: How to handle curveball questions in a job interview
 tagline: Keep calm, think through the problem and constraints, and give your best answer
 excerpt: Curveball questions can really throw you off in a job interview. Here's how to make sure you give good answers to unexpected questions.
@@ -34,11 +34,3 @@ I know this seems harsh, but tech support calls are a lot like an interview in t
 So how do you figure out how many tiles are up there?
 
 There’s no one true way to get the answer, but it’s important to listen carefully, acknowledge the constraints, and formulate a plan. It can also help to talk aloud as you think through tricky problems. If you feel comfortable with your interviewer, turn his question into a sort of one-sided discussion so that he can hear you work through the problem. This will give him a good sense of how you think. If you’re not comfortable talking aloud while you think through the problem, just tell him you need a moment to think it over.
-
-<script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
-
-* * *
-
-<p class="book-excerpt-footer"><strong>FROM CHAPTER 3:</strong> <a href="{{ site.baseurl }}/chapter/interview">How to ace your next interview</a></p>
-
-* * * 
