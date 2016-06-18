@@ -1,4 +1,0 @@
-Disallow: /review/
-Disallow: /amazon/
-Disallow: /thanks/
-Disallow: /script-test/
