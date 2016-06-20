@@ -23,7 +23,7 @@ One day, I happened to be interviewing in a very small conference room where the
 
 Then I threw him a curveball:
 
-*"We’re in a pretty small office that has a drop ceiling so there are a bunch of tiles and a few lights above our heads right now. Without looking up, can you estimate how many tiles are in the ceiling?"*
+> *"We’re in a pretty small office that has a drop ceiling so there are a bunch of tiles and a few lights above our heads right now. Without looking up, can you estimate how many tiles are in the ceiling?"*
 
 I didn’t care what answer he gave (I had no idea how many tiles were up there). I wanted to see *how* he formulated his answer to a curveball question. This mattered because customers call into Technical Support with questions just like this all the time. "I logged into the site and it didn’t work. Can you fix it?" “What do you mean ‘didn’t work’? What happened?” “It isn’t there.” “What isn’t there? What did you expect to see? Can you tell me exactly what you did to get there? What did you click?"
 

@@ -20,23 +20,23 @@ You have two objectives for your post-interview follow-up call:
 
 The recruiter’s last attempt to elicit your desired salary will probably sound like this: 
 
-*"Okay, I just need to talk to Finance and your hiring manager to see whether we’re ready to move forward with an offer. What sort of salary did you have in mind for this job? I just want to have something to run by Finance. And do you have any questions for me before we move forward?"*
+> *"Okay, I just need to talk to Finance and your hiring manager to see whether we’re ready to move forward with an offer. What sort of salary did you have in mind for this job? I just want to have something to run by Finance. And do you have any questions for me before we move forward?"*
 
 If you read the chapter on "How to ace your next interview", you may recognize the second part of “the dreaded salary question” in the recruiter’s dialogue above.
 
 Here’s the dreaded salary question again, to refresh your memory:
 
-*"So where are you right now in terms of salary, and what are you looking for if you make this move?"*
+> *"So where are you right now in terms of salary, and what are you looking for if you make this move?"*
 
 Maybe you got away without disclosing a desired salary the first time, but now you feel more pressure to play ball because you’re so close to an offer. Don’t give in! Instead, give an answer something like this:
 
-*"You know, I really don’t have a specific number in mind right now. I’ve learned a lot through the interview process, and I look forward to hearing what you suggest so I can consider it. As I mentioned earlier in this process, I want this move to be a big step forward for me in terms of both responsibility and compensation..."*
+> *"You know, I really don’t have a specific number in mind right now. I’ve learned a lot through the interview process, and I look forward to hearing what you suggest so I can consider it. As I mentioned earlier in this process, I want this move to be a big step forward for me in terms of both responsibility and compensation..."*
 
 ## 2. Making your final case
 
 Notice that I ended the answer with an ellipsis this time? That’s because the *next* thing you’ll say is:
 
-*"...because I know I can immediately contribute to help you address [this need] with [this positive attribute], and [this other need] with [this other positive attribute]."*
+> *"...because I know I can immediately contribute to help you address [this need] with [this positive attribute], and [this other need] with [this other positive attribute]."*
 
 Turn the dreaded salary question redux into an opportunity to make a case for yourself just before the recruiter goes to Finance to determine the salary they’ll offer you. This is why you spent time doing research and thinking about the company’s needs during the preparation phase of your interview process (see "How to ace your next interview" for more on this) and again during your preparation for this negotiation. Now you can identify specific attribute-for-need combinations to describe how you will address specific needs and add value to the company.
 

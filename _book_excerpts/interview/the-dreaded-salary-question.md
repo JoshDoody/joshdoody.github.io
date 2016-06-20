@@ -12,7 +12,7 @@ section: 2
 
 You need to be prepared to answer the following two­-part question:
 
-> “So where are you right now in terms of salary, and what are you looking for if you make this move?"
+> *“So where are you right now in terms of salary, and what are you looking for if you make this move?"*
 
 Just so I don’t bury the lead: It’s best if you *do not* disclose either your current salary or your desired salary during the interview process.
 
@@ -40,6 +40,6 @@ If they continue to press, even after you give them the answer above, you can sa
 
 Here is my recommendation for a good answer to the full dreaded salary question: 
 
-> "I’m not comfortable sharing my current salary. I would prefer to focus on the value I can add to this company rather than what I’m paid at my current job. I don’t have a specific number in mind for a desired salary, and you know better than I do what value my skillset and experience could bring to your company. I want this move to be a big step forward for me in terms of both responsibility and compensation."
+> *"I’m not comfortable sharing my current salary. I would prefer to focus on the value I can add to this company rather than what I’m paid at my current job. I don’t have a specific number in mind for a desired salary, and you know better than I do what value my skillset and experience could bring to your company. I want this move to be a big step forward for me in terms of both responsibility and compensation."*
 
 Now you’re prepared to ace the pre­-interview. 

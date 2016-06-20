@@ -17,9 +17,15 @@ You can accomplish a couple of things here. First, you can learn more about the 
 
 You don’t want to ask too many questions—two or three is about right. And make sure you’re aware of the time—you may have to skip this part if you’re already at the end of the allotted time for the interview. 
 
-You might want to start with this question: "What does a typical day look like for this role?" Pay close attention to the answer to this question because you could learn a lot that will help you determine whether you really want this job. This is also an opportunity for you to demonstrate genuine interest in the job itself.
+You might want to start with this question: 
 
-Another good question is "What are the greatest challenges for your team right now?" or “What is the greatest challenge for this particular role?"
+> *"What does a typical day look like for this role?"*
+
+Pay close attention to the answer to this question because you could learn a lot that will help you determine whether you really want this job. This is also an opportunity for you to demonstrate genuine interest in the job itself.
+
+Another good question is:
+
+> *"What are the greatest challenges for your team right now?"* or *“What is the greatest challenge for this particular role?"*
 
 Both of these questions show that you’re already thinking about the job itself and the answers will help you evaluate whether the job is a good fit for you. It’s possible you’ll hear about the day-to-day and think, "Oh, that sounds terrible." Or you’ll hear about the challenges and realize you wouldn’t function well in that kind of environment. You’re not asking these questions just to sound like you care—you’re asking them so that you can evaluate whether you want to continue pursuing the job.
 
