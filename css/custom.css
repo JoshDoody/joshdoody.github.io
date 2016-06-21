@@ -380,3 +380,21 @@ p.book-excerpt-footer {
 .individual {
 	min-height: 70vh;
 }
+
+/* Page footer columns */
+
+@media only screen and (min-width: 650px) {
+  .footer__col--normal {
+    float: left;
+    display: block;
+    margin-right: 10%;
+    width: 45%;
+  }
+  .footer__col--normal:last-child {
+    margin-right: 0;
+  }
+}
+
+.footer__col--last {
+  margin-right: 0;
+}
