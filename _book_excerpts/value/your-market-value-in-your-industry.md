@@ -1,13 +1,11 @@
 ---
 layout: book_excerpt
-title: Using online research to estimate your market value in your industry
-tagline: Start with a broad estimate
+title: Use online research to estimate your market value in your industry
+tagline: Start by looking at comparable jobs and salaries in your geographic region
 excerpt: Estimate your market value by starting with a broad estimate of the market value for your skillset and experience in your industry.
 chapter: value
 section: 2
 ---
-
-Spend some time online looking at comparable jobs and salaries in your geographic region.
 
 ## Market value for the average person
 
@@ -20,3 +18,5 @@ The more data points you can gather, the better sense of the average you’ll ge
 ## How you compare
 
 Then you should consider whether you’re "average" or if you’re above or below average for your job in your industry. Maybe you have more experience than the average person, or you have a complimentary skill that allows you to contribute more in your job than someone who doesn’t have that skill. For example, you may work in marketing for a clothing company, but you also have a background in fashion design. Those complementary skillsets may set you apart from your peers in marketing. If you bring more skills and experience to the table than the average person who does your job, you may be able to pursue a salary above the midpoint you found with your research. 
+
+Next, estimate the market value for your skillset and experience in [your geographic region]({{ site.baseurl }}/your-market-value-in-your-region/).

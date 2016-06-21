@@ -1,13 +1,13 @@
 ---
 layout: book_excerpt
-title: How to estimate your market value
-tagline: Use the available data to estimate the market value of your skillset and experience
+title: '"What should my salary be?"'
+tagline: How to use available data to estimate the market value of your skillset and experience
 excerpt: Here's how to estimate the market value of your skillset and experience using industry-wide, regional, and company-specific data.
 chapter: value
 section: 5
 ---
 
-Now you should have up to three different sets of data on average salaries for your job in your industry—general market data, intra-company data, and inter-company data. You can use these data sets to get a sense of how you compare to the average person doing your job within your industry and your company. 
+Now you should have up to three different sets of data on average salaries for your job in your industry—[general market data]({{ site.baseurl }}/your-market-value-in-your-industry/), [inter-company data]({{ site.baseurl }}/your-market-value-in-your-region/), and [intra-company data]({{ site.baseurl }}/your-market-value-for-a-company/). You can use these data sets to get a sense of how you compare to the average person doing your job within your industry and your company. 
 
 ## Interpreting the data you’ve gathered
 
