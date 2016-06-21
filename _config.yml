@@ -25,3 +25,6 @@ collections:
   book_excerpts:
     output: true
     permalink: /:title/
+  podcasts:
+    output: true
+    permalink: /:title/
