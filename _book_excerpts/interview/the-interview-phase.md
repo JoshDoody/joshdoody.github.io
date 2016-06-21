@@ -3,6 +3,7 @@ layout: book_excerpt
 title: The interview
 tagline: How to make a good impression and start your job interview off on the right foot
 excerpt: Here are a few easy things you can do to ensure that your job interviews start off on the right foot.
+last_modified_at: 2016-06-21
 chapter: interview
 section: 4
 ---

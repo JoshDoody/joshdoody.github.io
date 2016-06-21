@@ -3,6 +3,7 @@ layout: book_excerpt
 title: An example showing how to deliver your counter offer in an email
 tagline: A counter offer email example with detailed explanation
 excerpt: It's best to deliver your counter offer in an email. Here is a counter offer email example with detailed explanation.
+last_modified_at: 2016-06-21
 chapter: negotiate
 section: 10
 ---

@@ -3,6 +3,7 @@ layout: book_excerpt
 title: Counteroffer even if you really like the job offer
 tagline: Always counter offer because you never know you salary potential
 excerpt: You should counter offer even if you really like your job offer because you could leave money on the table.
+last_modified_at: 2016-06-21
 chapter: negotiate
 section: 6
 ---

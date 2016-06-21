@@ -3,6 +3,7 @@ layout: book_excerpt
 title: How to check in after your job interviews
 tagline: Wait about a week and send a follow-up 
 excerpt: You should follow up weekly for at least a few weeks after your job interview to stay on the company's radar.
+last_modified_at: 2016-06-21
 chapter: interview
 section: 10
 ---

@@ -3,6 +3,7 @@ layout: book_excerpt
 title: Venue-specific job interview tips
 tagline: Prepare for the specific venue where your job interview will be
 excerpt: Things to consider for each job interview venue—in-person, Skype, or phone call.
+last_modified_at: 2016-06-21
 chapter: interview
 section: 8
 ---
