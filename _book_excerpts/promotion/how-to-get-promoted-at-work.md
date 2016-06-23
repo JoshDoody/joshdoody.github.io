@@ -1,6 +1,6 @@
 ---
 layout: book_excerpt
-title: TKTK
+title: How to get promoted at work
 tagline: TKTK
 excerpt: TKTK
 last_modified_at: 2016-06-22
@@ -16,9 +16,9 @@ Requesting a promotion can be intimidating. Here are some common reasons you mig
 * **Don’t I just need to work harder and harder until I get a promotion?** It would be nice if it were this simple, but this just isn’t how companies work.
 * **Don’t I have to wait until my next performance review?** Nope!
 
-What about raises? [Elsewhere](), I’ll cover the very general "standard raise" that often accompanies a promotion. My assumption is that a promotion really contains two components: a title change and a consummate increase in pay. This isn’t always true, but it’s the case most of the time. As I mentioned in "Do you have to quit your job to get a big raise?", many companies have a rubric they use to determine the specific raise amount that accompanies a promotion, so this chapter assumes some sort of rubric will be used to determine the raise that should accompany your promotion at your company.
+What about raises? [In another article]({{ site.baseurl }}/8), I’ll cover the very general "standard raise" that often accompanies a promotion. My assumption is that a promotion really contains two components: a title change and a consummate increase in pay. This isn’t always true, but it’s the case most of the time. As I mentioned in [Do you have to quit your job to get a big raise?]({{ site.baseurl }}/do-you-have-to-quit-your-job-to-get-a-big-raise/), many companies have a rubric they use to determine the specific raise amount that accompanies a promotion, so I'm assuming some sort of rubric will be used to determine the raise that should accompany your promotion at your company.
 
-In "How to get your next raise" I’ll talk about requesting a raise to bring your compensation into alignment with your market value. So if you’re not looking for a title change, and are just looking for a "market adjustment" or more money for your current role, you may want to check that out. If you’re looking for a title change *and* a market adjustment, keep reading!
+<!--- In "How to get your next raise" I’ll talk about requesting a raise to bring your compensation into alignment with your market value. So if you’re not looking for a title change, and are just looking for a "market adjustment" or more money for your current role, you may want to check that out. If you’re looking for a title change *and* a market adjustment, keep reading! -->
 
 Okay, back to promotions! When you ask for a promotion, you’re asking that your title and salary be adjusted to reflect the increased value you are adding to the company since you began working in your current role. That "increase in value" may be that you’re managing more people, taking on bigger projects, creating collateral that others are using to be more efficient at their jobs, doing things outside your current job description, or any number of other things that you weren’t doing before.
 
@@ -34,4 +34,4 @@ Let’s look at the high-level process for earning a promotion. It’s pretty si
 
 The goal is that once you present your case, it’ll be such a good case for a promotion that your manager and her manager, plus the Finance person who has to approve things, will be impressed and immediately see that you’re doing your target job, so they’ll say, "Well, it seems like he’s already doing the job, so let’s make it official and promote him!" Or, at the very least, you’ll understand that although you feel that you’ve already demonstrated your readiness for a promotion, your company simply can’t accommodate you, so you’ll either need to put a plan in place to achieve your goal, or you may need to look at other options.
 
-If you prefer to learn by doing, take a look at "How to get promoted in 7 days". It's a step-by-step guide that walks you through the entire promotion process in seven quick lessons. Get it for free here: [FearlessSalaryNegotiation.com/promotion-course](https://FearlessSalaryNegotiation.com/promotion-course/)
+If you prefer to learn by doing, take a look at "How to get promoted in 7 days". It's a free email course that walks you through the entire promotion process in seven quick lessons. Get it for free here: [FearlessSalaryNegotiation.com/promotion-course](https://FearlessSalaryNegotiation.com/promotion-course/)

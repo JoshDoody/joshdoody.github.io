@@ -1,20 +1,18 @@
 ---
 layout: book_excerpt
-title: TKTK
-tagline: TKTK
+title: What is your target job?
+tagline: Defining your goal for your next job promotion
 excerpt: TKTK
 last_modified_at: 2016-06-22
 chapter: promotion
 section: 2
 ---
 
-## 1. Define your goal—your target job
-
 What really matters is that you know where you want to be promoted. *Specifically*, I mean. Not "I want a promotion", but “I want to be promoted to Engineer II” or “I want to be promoted to a role in Operations.” This matters because you need to know how your target role is different from your current role so that you can identify opportunities to do things associated with your target role.
 
 There are two common types of promotion: straight-up and over-and-up. 
 
-### Straight-up promotions
+## Straight-up promotions
 
 With a straight-up promotion, you’re just moving to the next job above your current one on your career path. Most straight-up promotions look something like this:
 
@@ -25,7 +23,7 @@ If you’re an Engineer, you might move up to Engineer II. If you’re an Associ
 
 For straight-up promotions, the easiest way to learn what makes your target job different from your current role is to compare the two job descriptions. This should be pretty easy because most job descriptions within a career path are literally copied and pasted with minor updates. By looking at the job descriptions, you can clearly see what your current job responsibilities are, and then you can see what additional responsibilities accompany the description for your target job.
 
-### Over-and-up promotions
+## Over-and-up promotions
 
 With an over-and-up promotion, you’re moving "over" into a different part of the business and “up” into a new role. Your target job might be *related* to your current job, but isn’t necessarily on the same career path. If you’re in Consulting, maybe you could move over and up to Product Management. If you’re in Finance, you could move over and up to Operations.
 
@@ -37,7 +35,7 @@ When you’re comparing your job description to the one you’re targeting, don�
 
 Your takeaway from this section is that you have some idea what you’re shooting for (a promotion), *and* you know what you can do to demonstrate that you have already earned that promotion before you request it.
 
-### Do you want to do that job?
+## Do you want to do that job?
 
 This may seem silly, but it's important: Now that you have a clear picture of what your target job is, do you want to do that job? If your answer is "Yep!" then you're in good shape and ready to move on to the next topic, "Produce results to show you’re ready".
 

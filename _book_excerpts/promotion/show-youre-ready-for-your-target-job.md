@@ -1,6 +1,6 @@
 ---
 layout: book_excerpt
-title: TKTK
+title: Produce results to show you’re ready for your target job
 tagline: TKTK
 excerpt: TKTK
 last_modified_at: 2016-06-22
@@ -8,11 +8,9 @@ chapter: promotion
 section: 3
 ---
 
-## 2. Produce results to show you’re ready for your target job
-
 The first part of defining your goal is determining what you’re after. The second part of defining your goal is determining the differences between your current job and your target job. The third part of defining your goal is to create a specific plan—a roadmap—to get experience with each of those differences to demonstrate that you’re ready for this promotion.
 
-### A CEO tells me what managers look for
+## A CEO tells me what managers look for
 
 A few years ago, I had an opportunity to talk with the CEO of a large public utility company. We met in his office on the top floor of a tall building and we talked for 90 minutes. This was extremely generous of him—think how much his time must be worth—and I wanted to make the most of it.
 
@@ -24,7 +22,7 @@ I expected him to use words like "potential" and “future”, but instead he us
 
 In hindsight, this is obvious. Managers are very, very busy people. They don’t have much time to teach people how to do new jobs. They barely have enough time to delegate and manage the business they’re responsible for running. So they’re not looking for *potential*, they’re looking for value *right now*.
 
-### Do the job, then ask to make it official
+## Do the job, then ask to make it official
 
 From this perspective, a promotion looks a little different. Instead of something that’s granted to you by managers when they think you’re ready, it’s something you do and then ask to make it official.
 

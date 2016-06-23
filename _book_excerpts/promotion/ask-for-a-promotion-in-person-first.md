@@ -1,6 +1,6 @@
 ---
 layout: book_excerpt
-title: TKTK
+title: Ask for a promotion in person and follow up with an email
 tagline: TKTK
 excerpt: TKTK
 last_modified_at: 2016-06-22
@@ -8,19 +8,17 @@ chapter: promotion
 section: 6
 ---
 
-## 5. Present your case
-
 Now you’re ready to present your case and request your promotion. The proof is in the email you drafted. You have a list of things you've done that demonstrate that you're already doing your target job, and you have praise from clients and colleagues to really drive things home.
 
 Although you’ve written a strong email that makes your case well, I don’t recommend dropping that on your manager without some sort of warning. First, you should meet with your manager and ask for your promotion, then you'll follow up on your request by sending the email you composed.
 
-### Schedule a meeting to ask your manager for your promotion
+## Schedule a meeting to ask your manager for your promotion
 
 If you have regular 1-on-1s with your manager, then you should bring this topic up in your next 1-on-1. If you don’t have regular 1-on-1s scheduled, or if your 1-on-1 is frequently cancelled, you should reach out to your manager and let her know that you would like to meet soon to talk through some questions you have. Try to get a specific date and time on the calendar so that you can prepare for the conversation and so that you can be sure the conversation happens. You may need to take some initiative here to ensure that you have an opportunity to talk with your manager.
 
 Once you’re having this conversation, you can say something like, "I’ve been thinking about my career path, and I would like to talk with you about being promoted to Senior Business Analyst." Hopefully your manager will talk with you about this and give you some sense as to how likely a promotion might be. Because you have been working hard and have done your homework, you will already be prepared to back up your request with your accomplishments and accolades. You’ll want to emphasize that you’ve already been working hard to demonstrate your readiness for this promotion, and let your manager know you’ll follow up with a short, written summary of your request after your meeting.
 
-### Send your email after you’ve spoken to your manager
+## Send your email after you’ve spoken to your manager
 
 Once you’ve spoken to your manager, review the email you drafted in the "Prepare your case" section above, and make any changes that seem necessary after your conversation. You don’t want to send outdated information in the email. Once you’ve made any updates, go ahead and send it along to your manager for review and consideration.
 

@@ -1,6 +1,6 @@
 ---
 layout: book_excerpt
-title: TKTK
+title: What to do when you don't get promoted
 tagline: TKTK
 excerpt: TKTK
 last_modified_at: 2016-06-22
@@ -8,13 +8,11 @@ chapter: promotion
 section: 7
 ---
 
-## If you don’t get your promotion, work with your manager to formulate a plan
-
 If you didn’t get what you asked for, you should ask your manager to help you formulate a plan to achieve your goal. "I’m disappointed that I couldn’t be promoted to Senior Business Analyst. Can we please talk about what I need to do, specifically, to earn that promotion?"
 
 Your manager may be able to work with you to put a plan and timeline in place so that you know specifically what you need to do to get your promotion. This is also a good outcome as it provides clarity and gives you a clear path to follow.
 
-### You may need to consider other options
+## You may need to consider other options
 
 Sometimes you won’t get what you asked for, and your manager won’t be able to offer a plan to achieve your goals. That’s disappointing, but it’s also an informative outcome: You now know that the promotion you feel you deserve isn’t attainable at your current company or in your current part of that company. 
 
