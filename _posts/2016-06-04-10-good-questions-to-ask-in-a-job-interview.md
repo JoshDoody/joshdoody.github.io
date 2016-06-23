@@ -13,7 +13,7 @@ If you reach the end of the job interview and the interviewer asks if you have a
 
 > **“What does a typical day look like for this role?”**
 
-The answer to this question could help you decide if this is a job you realy want, and this is also an opportunity for you to demonstrate genuine interest in the job itself.
+The answer to this question could help you decide if this is a job you really want, and this is also an opportunity for you to demonstrate genuine interest in the job itself.
 
 Here's another good question:
 
