@@ -1,9 +1,9 @@
 ---
 layout: book_excerpt
 title: What to do when you don't get promoted
-tagline: TKTK
-excerpt: TKTK
-last_modified_at: 2016-06-22
+tagline: Work with your manager to make a plan
+excerpt: Even if you put in the work, there's no guarantee you'll be promoted. Here's how to plan your next move after bad news.
+last_modified_at: 2016-06-23
 chapter: promotion
 section: 7
 ---
@@ -23,9 +23,3 @@ After some soul searching, it may be time to start looking elsewhere for better 
 What do I mean by "*other*-valued"? It’s possible you’re extremely good at what you do and that you have accomplished a lot in your current role, but that your specific company or industry simply doesn’t value your skillset. Maybe you’re really, really good at client-facing customer service, but your company is outsourcing that function to another company or is working to automate customer service as much as possible. Or maybe you’re very strong in a certain technology that your company just doesn’t use very much.
 
 Either way—if you’re undervalued or *other*-valued at your current company—it may be time to start searching elsewhere for better opportunities.
-
-## Looking ahead
-
-Now that the potentially bad outcome is out of the way, let’s talk about the good outcome you were pursuing and hopefully have achieved—you got your promotion! Now what?
-
-By earning this promotion, you have demonstrated that you’re already doing your new job at a level that merits that title. Start pursuing your next challenge by identifying the job you’ll target next time you pursue a promotion. The sooner you start learning and demonstrating the necessarily skills for your next job, the sooner you can revisit this process and start preparing your case for your next promotion.

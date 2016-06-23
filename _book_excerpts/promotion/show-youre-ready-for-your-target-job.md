@@ -1,9 +1,9 @@
 ---
 layout: book_excerpt
 title: Produce results to show you’re ready for your target job
-tagline: TKTK
-excerpt: TKTK
-last_modified_at: 2016-06-22
+tagline: It's much easier to get promoted if you're already doing your target job
+excerpt: If you focus on doing your target job, then you're much more likely to be promoted than if you just focus on your current job.
+last_modified_at: 2016-06-23
 chapter: promotion
 section: 3
 ---
@@ -30,4 +30,4 @@ What does this mean for you? It means that those differences you found between y
 
 If you can do those new things without asking permission, just look for an opportunity and go for it. Of course you won’t always be able to just start doing that new job, so you may need to think of other ways to get experience with your target job’s duties. For example, maybe you're aiming for a promotion from Consultant to Senior Consultant, and the main difference between those two roles is that a Senior Consultant mentors other Consultants. Mentoring probably isn't something you can just do, so ask your manager if there are any good mentoring opportunities where you can be useful. "I’m really comfortable with the Consultant role, and am already documenting processes and creating training for new Consultants. If there are any Associate Consultants that need a mentor, I would love to work with them."
 
-In the sections below, you’ll build your case for a promotion, and the strongest component of your case will be that *you’re already doing that job*. When you go to your manager to ask for a promotion using the method in this book, you will say something like, "I looked into it, and I think I’ve been doing the Senior Business Analyst job for the past few months. What else can I do to make things official with a promotion to Senior Business Analyst?" 
+[The next step]({{ site.baseurl }}/promotion-accomplishments-and-accolades/) is to build your case for a promotion, and the strongest component of your case will be that *you’re already doing that job*. When you go to your manager to ask for a promotion using the method in this book, you will say something like, "I looked into it, and I think I’ve been doing the Senior Business Analyst job for the past few months. What else can I do to make things official with a promotion to Senior Business Analyst?" 

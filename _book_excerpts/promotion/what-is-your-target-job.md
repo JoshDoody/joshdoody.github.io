@@ -2,8 +2,8 @@
 layout: book_excerpt
 title: What is your target job?
 tagline: Defining your goal for your next job promotion
-excerpt: TKTK
-last_modified_at: 2016-06-22
+excerpt: Your first step to getting promoted is to set your target job. What specific job do you want to do next?
+last_modified_at: 2016-06-23
 chapter: promotion
 section: 2
 ---
@@ -37,8 +37,8 @@ Your takeaway from this section is that you have some idea what you’re shootin
 
 ## Do you want to do that job?
 
-This may seem silly, but it's important: Now that you have a clear picture of what your target job is, do you want to do that job? If your answer is "Yep!" then you're in good shape and ready to move on to the next topic, "Produce results to show you’re ready".
+This may seem silly, but it's important: Now that you have a clear picture of what your target job is, do you want to do that job? If your answer is "Yep!" then you're in good shape and ready to move on to the next topic, [Produce results to show you’re ready for your target job]({{ site.baseurl }}/show-youre-ready-for-your-target-job/).
 
 But if your answer is "I'm not so sure", then consider looking for other jobs that are more interesting. You could talk to your manager about other opportunities in your company, and ask for suggestions that might suit you and your skillset. Maybe your manager can suggest some jobs you might enjoy and put you in touch with other managers in that area. 
 
-Once you find a job you want to pursue, you can loop back here to "Define your goal" and do some research to determine the differences between your current job and the new job you're targeting.
+Once you find a job you want to pursue, you can loop back here to do some research to determine the differences between your current job and the new job you're targeting.

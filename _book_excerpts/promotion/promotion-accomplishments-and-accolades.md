@@ -1,9 +1,9 @@
 ---
 layout: book_excerpt
-title: Document examples of accomplishments and accolades
-tagline: TKTK
-excerpt: TKTK
-last_modified_at: 2016-06-22
+title: Document examples of accomplishments and accolades for your promotion
+tagline: Show what you've accomplished and what others have said about your work
+excerpt: Make a strong case when you ask for your next promotion by showing your accomplishments and accolades.
+last_modified_at: 2016-06-23
 chapter: promotion
 section: 4
 ---

@@ -1,0 +1,19 @@
+---
+layout: post
+title: Key concepts for getting promoted at work
+excerpt: Key concepts to help you plan and request your next promotion at work.
+last_modified_at: 2016-06-23
+---
+{% assign excerpt_list = site.book_excerpts | where:"chapter", "promotion" %}
+{% assign excerpt_list = excerpt_list | sort:"section" %}
+			
+    <ul style="list-style-type: none;">
+    {% for book_excerpt in excerpt_list %}
+      <li style="list-style-type: none;">
+          <h2 class="excerpt-header">{{ book_excerpt.title }}</h2>
+					<div class="oc-excerpt">
+          <p>{% if book_excerpt.description %}{{ book_excerpt.description }}{% else %}{{ book_excerpt.excerpt }}{% endif %} <a href="{{ book_excerpt.url | prepend: site.baseurl }}">Read More</a></p>
+        </div>
+      </li>
+    {% endfor %}
+		</ul>

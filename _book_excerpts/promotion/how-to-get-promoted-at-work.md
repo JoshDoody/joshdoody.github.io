@@ -1,9 +1,9 @@
 ---
 layout: book_excerpt
 title: How to get promoted at work
-tagline: TKTK
-excerpt: TKTK
-last_modified_at: 2016-06-22
+tagline: An overview of the promotion process
+excerpt: Here's a simple process to get promoted at work. You'll define your target job, show you're ready, then request your promotion from your manager.
+last_modified_at: 2016-06-23
 chapter: promotion
 section: 1
 ---
@@ -26,11 +26,11 @@ Notice I didn’t say "...increased value you *might* add to the company..." or 
 
 Let’s look at the high-level process for earning a promotion. It’s pretty simple:
 
-1. Define your goal
-2. Produce results to show you’re ready
-3. Document your accomplishments and accolades
-4. Prepare your case
-5. Present your case
+1. [Define your goal]({{ site.baseurl }}/what-is-your-target-job/)
+2. [Produce results to show you’re ready]({{ site.baseurl }}/show-youre-ready-for-your-target-job/)
+3. [Document your accomplishments and accolades]({{ site.baseurl }}/promotion-accomplishments-and-accolades/)
+4. [Prepare your case]({{ site.baseurl }}/promotion-email-template/)
+5. [Present your case]({{ site.baseurl }}/ask-for-a-promotion-in-person-first/)
 
 The goal is that once you present your case, it’ll be such a good case for a promotion that your manager and her manager, plus the Finance person who has to approve things, will be impressed and immediately see that you’re doing your target job, so they’ll say, "Well, it seems like he’s already doing the job, so let’s make it official and promote him!" Or, at the very least, you’ll understand that although you feel that you’ve already demonstrated your readiness for a promotion, your company simply can’t accommodate you, so you’ll either need to put a plan in place to achieve your goal, or you may need to look at other options.
 

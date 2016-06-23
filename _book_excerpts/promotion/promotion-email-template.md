@@ -1,14 +1,14 @@
 ---
 layout: book_excerpt
-title: Draft your request with this promotion email template
+title: Use this promotion email template to draft your request
 tagline: Send your promotion request after you talk to your manager
-excerpt: TKTK
-last_modified_at: 2016-06-22
+excerpt: This is your chance to make your case in writing so your manager can ciruclate it in your own words. You'll make your case better than anyone else will.
+last_modified_at: 2016-06-23
 chapter: promotion
 section: 5
 ---
 
-The best way to prepare your case for a promotion is to write it down. As it turns out, you’ll also want to have a written summary of why you deserve your promotion later on (see the "Present your case" section below), so we’re going to kill two birds with one stone in this section by building an email that summarizes your case.
+The best way to prepare your case for a promotion is to write it down. As it turns out, you’ll also want to have a written summary of why you deserve your promotion later on when you [ask for a promotion]({{ site.baseurl }}/ask-for-a-promotion-in-person-first/), so we’re going to kill two birds with one stone in this section by building an email that summarizes your case.
 
 Here’s what your case for a promotion will look like once you’ve written it down. I’ve numbered each section in brackets so we can talk about it afterward.
 
@@ -69,7 +69,7 @@ Keep it short and sweet: "Hi Tina" will do. The bolded part is “Your manager�
 
 Cut right to the chase and make it brief. Be as specific as possible about which job you’re pursuing. 
 
-You’ll note that the example refers to a conversation that has already happened ("Thanks for your time the other day."). That’s because you won’t send this email cold—it will be a follow-up to a verbal conversation if at all possible. We’ll talk about that conversation more in the “Presenting your case” section below.
+You’ll note that the example refers to a conversation that has already happened ("Thanks for your time the other day."). That’s because you won’t send this email cold—it will be a follow-up to a verbal conversation if at all possible (learn more about how to [present your case]({{ site.baseurl }}/ask-for-a-promotion-in-person-first/)).
 
 **5. & 6. Accomplishments sections**
 
@@ -91,4 +91,4 @@ State your request and make your case again as concisely as possible. No more th
 
 Thank your manager for her time and keep it brief.
 
-Everything has now come together so that you know what you’re pursuing, and you have a written case that summarizes why you should be promoted. This should help clarify your own objectives, and it will provide a handy reference for you as you present your case.
+Everything has now come together so that you know what you’re pursuing, and you have a written case that summarizes why you should be promoted. This should help clarify your own objectives, and it will provide a handy reference for you as you [present your case]({{ site.baseurl }}/ask-for-a-promotion-in-person-first/).
