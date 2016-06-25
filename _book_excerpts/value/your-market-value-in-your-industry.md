@@ -3,7 +3,7 @@ layout: book_excerpt
 title: Use online research to estimate your market value in your industry
 tagline: Start by looking at comparable jobs and salaries in your geographic region
 excerpt: Estimate your market value by starting with a broad estimate of the market value for your skillset and experience in your industry.
-last_modified_at: 2016-06-21
+last_modified_at: 2016-06-25
 chapter: value
 section: 2
 ---

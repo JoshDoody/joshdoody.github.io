@@ -3,7 +3,7 @@ layout: book_excerpt
 title: How do you know your pay grade?
 tagline: Some ways you can learn what your pay grade looks like
 excerpt: Knowing your pay grade details will help you get paid what you're worth.
-last_modified_at: 2016-06-21
+last_modified_at: 2016-06-25
 chapter: salary-structures
 section: 3
 ---

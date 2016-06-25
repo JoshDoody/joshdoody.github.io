@@ -3,14 +3,14 @@ layout: book_excerpt
 title: Follow up with a thank you email after your job interview
 tagline: Sample thank you emails you can send after a job interview
 excerpt: Even after you finish your job interviews, you can continue to impress and stay in touch by sending thanks you emails.
-last_modified_at: 2016-06-21
+last_modified_at: 2016-06-25
 chapter: interview
 section: 9
 ---
 
 Now you’ve aced the Interview, but your work isn’t done yet—you still have a few more opportunities to stand out in the post-interview.
 
-First, if you happen to have your interviewer's email address (let's call him "Andy"), shoot him a very, very short email thanking him for his time. You’ll also want to discretely share your contact information just in case he needs it later. Unless there’s something specific he expects you to follow up on, don’t ask any new questions or give Andy any action items in this email. This is just a short email to say "Thanks!" and demonstrate professionalism; it shouldn’t require a response. 
+First, if you happen to have your interviewer's email address (we're calling him Andy), shoot him a very, very short email thanking him for his time. You’ll also want to discretely share your contact information just in case he needs it later. Unless there’s something specific he expects you to follow up on, don’t ask any new questions or give Andy any action items in this email. This is just a short email to say "Thanks!" and demonstrate professionalism; it shouldn’t require a response. 
 
 ## A sample thank you email to send to your interviewer
 

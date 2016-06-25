@@ -3,16 +3,16 @@ layout: book_excerpt
 title: How to handle curveball questions in a job interview
 tagline: Keep calm, think through the problem and constraints, and give your best answer
 excerpt: Curveball questions can really throw you off in a job interview. Here's how to make sure you give good answers to unexpected questions.
-last_modified_at: 2016-06-21
+last_modified_at: 2016-06-25
 chapter: interview
 section: 7
 ---
 
-## Don’t be caught off guard by curveball questions
-
 Interviewers will occasionally throw you a curveball. Sometimes they do this because they want to see how you react when presented with an uncomfortable situation. Sometimes they’re just bored.
 
 I’ve done this myself, and there’s usually a method to my madness.
+
+## An example of a curveball question
 
 One of my most interesting jobs was building a technical support team from scratch. I was hired specifically to help build a local team, and our goal was to grow the team to 25 people as quickly as possible.
 
@@ -31,6 +31,8 @@ I didn’t care what answer he gave (I had no idea how many tiles were up there)
 In this case, the candidate immediately looked up at the ceiling, then back down at me and gave an answer. He hadn’t listened closely and ignored the only constraint I gave him ("don’t look up"). Not a good sign. We didn’t hire him, and moved on to the next candidate on our list.
 
 I know this seems harsh, but tech support calls are a lot like an interview in that tiny little room—customers will tell you all kinds of useless details, but they won’t let you see the ceiling and they demand a solution quickly. It may seem like I asked him this question because I *wanted* him to fail, but I really needed to know if he *would* fail in a similar situation with a customer. I didn’t hire him because I didn’t want to put him in a situation where he might fail in his job. If I had hired him and he had failed, that would’ve been my fault.
+
+## How do you find the right answer?
 
 So how do you figure out how many tiles are up there?
 
