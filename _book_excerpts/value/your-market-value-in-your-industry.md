@@ -10,7 +10,7 @@ section: 2
 
 ## Market value for the average person
 
-Search online for "[your job title] salary" and spend some time with the first few results, which are usually salary calculators and aggregators. I recommend [salary.com](http://www.salary.com) and [glassdoor.com](https://www.glassdoor.com) as good places to start, but the specific sites aren’t important since they could change over time. Some sites are geared toward specific industries, so you may get better data by focusing on sites that cater to your industry if there are any.
+Search online for "[your job title] salary" and spend some time with the first few results, which are usually salary calculators and aggregators. I recommend [PayScale.com](http://www.payscale.com), [salary.com](http://www.salary.com) and [glassdoor.com](https://www.glassdoor.com/index.htm) as good places to start, but the specific sites aren’t important since they could change over time. Some sites are geared toward specific industries, so you may get better data by focusing on sites that cater to your industry if there are any.
 
 What are you looking for? Most sites will usually show a distribution-style description of salaries for a job. They’ll have a range—low to high—and they’ll identify the midpoint of that range. The midpoint is a good approximation of what the average person doing your job in your industry is paid.
 
