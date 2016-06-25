@@ -3,7 +3,7 @@ layout: book_excerpt
 title: Minimum acceptable salary
 tagline: You should set this number before you get your job offer
 excerpt: When you negotiate starting salary, it's critical to decide your minimum acceptable salary before you receive a job offer.
-last_modified_at: 2016-06-21
+last_modified_at: 2016-06-25
 chapter: negotiate
 section: 3
 ---
@@ -12,8 +12,6 @@ You have two main objectives before you begin negotiating:
 
 1. [Understand why you are a valuable candidate for this job]({{ site.baseurl }}/why-are-you-the-best-candidate-for-this-position)
 2. Determine the minimum salary you require to do this job
-
-## What is the minimum salary you require to do this job?
 
 You’ve probably heard that the key to negotiating is being willing to walk away. Your minimum salary requirement is how you pre-decide when you’re willing to walk away from this salary negotiation. This is also the single most important number you’ll use when negotiating your salary, and it’s your minimum metric for measuring success. 
 
@@ -32,27 +30,27 @@ The nice thing about this list is that there’s value in just thinking about ea
 
 Let’s take each of these items one by one to understand its significance and how it helps you determine your minimum acceptable salary.
 
-### Your current salary
+## Your current salary
 
 Chances are your goal is to increase your salary by taking a new job, so this is your starting point. Plus, it’s what you’ll ultimately measure your results against when your negotiation is finished.
 
-As I mentioned in "How to ace your next interview", you should *not* share this with the company! This number is for your eyes only!
+As I mentioned in [The Dreaded Salary Question]({{ site.baseurl }}/the-dreaded-salary-question/), you should *not* share this with the company! This number is for your eyes only!
 
-### Your market value for this job
+## Your market value for this job
 
-Estimating the market range and your market value for the job you’re pursuing is very important. This is your first step in determining the minimum salary you’ll accept for this job. Before you can set that minimum salary threshold, you need to understand what your skillset and experience are worth in your particular industry and for this particular job.
+Estimating the market range and [your market value]({{ site.baseurl }}/chapter/value/) for the job you’re pursuing is very important. This is your first step in determining the minimum salary you’ll accept for this job. Before you can set that minimum salary threshold, you need to understand what your skillset and experience are worth in your particular industry and for this particular job.
 
-This is important for *all* salary negotiations, including raises, so I wrote an entire chapter on the topic of estimating your market value. If you have not already read it, I strongly recommend you save your spot in this chapter and read the chapter on "How to estimate your market value" before you continue.
+This is important for *all* salary negotiations, including [raises]({{ site.baseurl }}/chapter/raise/), so I wrote an entire chapter on the topic of [estimating your market value]({{ site.baseurl }}/chapter/value/). If you have not already, I recommend estimating your market value before you continue.
 
-### The amount you think you can get
+## The amount you think you can get
 
-This is a ballpark number that you’ll keep private. It’s one metric for measuring your success in this negotiation. It represents what you think you’ll get without using what you learn in this chapter. Think of it like this: This ballpark figure is what you’d answer if someone surprised you right after you sent your first application to the company by asking, "If they offered this job to you right now, what do you think they’d pay you?"
+This is a ballpark number that you’ll keep private. It’s one metric for measuring your success in this negotiation. It represents what you think you’ll get without using what you learn here. Think of it like this: This ballpark figure is what you’d answer if someone surprised you right after you sent your first application to the company by asking, "If they offered this job to you right now, what do you think they’d pay you?"
 
-My goal in this chapter is to help you exceed this number.
+My goal is to help you exceed this number.
 
-### What people in your target job at your target company are currently making
+## What people in your target job at your target company are currently making
 
-This step is similar to some of the steps in "How to estimate your market value", but it’s slightly different. Rather than trying to learn about salaries in your own company or elsewhere in the industry, you’re specifically focused on people doing your target job at your target company.
+This step is similar to some of the steps for [estimating your market value]({{ site.baseurl }}/chapter/value/), but it’s slightly different. Rather than trying to learn about salaries in your own company or elsewhere in the industry, you’re specifically focused on people doing your target job at your target company.
 
 There are a couple ways you could find this out. If you know a manager at this company, they may be able to give you a sense of what your target job pays there.
 
@@ -62,7 +60,7 @@ It also helps if you can get a sense of how well the person does the job, and ho
 
 CAUTION: If you are able to find this information, you will *not* explicitly mention it during your negotiation! Pretend you have top-secret intel on the company, and that you're using that intel to your advantage.
 
-### How badly do they need you? (0—10)
+## How badly do they need you? (0—10)
 
 During your interviews, you may have gotten a sense of how badly they need you or someone else to fill this particular role. This is extremely subjective, but it helps to have a good idea of how badly they need you.
 
@@ -74,7 +72,7 @@ Here are some things you can consider to get a sense of how badly they need you:
 
 If you find that this number is close to 10, you’ll want to tactfully emphasize this during your negotiation.
 
-### How badly do you need this job? (0—10)
+## How badly do you need this job? (0—10)
 
 This one is less subjective. 
 
@@ -84,15 +82,15 @@ This one is less subjective.
 
 If your number is close to 0, you'll want to tactfully emphasize this during your negotiation.
 
-### When is your next merit increase at your current job?
+## When is your next merit increase at your current job?
 
 This one is pretty straightforward. The point matters to you because you’ll want to account for it when considering the minimum salary you need to entice you to take this job. If you’re due for a 3% merit raise next month, your minimum acceptable salary might be slightly higher when you account for your pending raise.
 
-### When is your next bonus at your current job?
+## When is your next bonus at your current job?
 
 Many companies give semi-annual or even quarterly bonuses, so this is a separate issue from your next merit increase. You may want to account for this when determining your minimum acceptable salary, and it could also come in handy in the final stages of your negotiation when you consider non-salary benefits. For example, you may use your upcoming bonus as justification for requesting a signing bonus: 
 
-*"I’m due for a bonus next month, and my on-target bonus this quarter is $2,000. It’s really going to sting to miss out on that. Can we talk about a signing bonus to help offset that loss?"*
+> *"I’m due for a bonus next month, and my on-target bonus this quarter is $2,000. It’s really going to sting to miss out on that. Can we talk about a signing bonus to help offset that loss?"*
 
 ## A few more things to consider before setting your minimum acceptable salary
 

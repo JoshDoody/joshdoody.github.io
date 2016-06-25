@@ -3,7 +3,7 @@ layout: book_excerpt
 title: How to respond to a job offer
 tagline: Always ask for some time to think it over
 excerpt: You should negotiate starting salary. But first, ask for some time to consider the job offer so you can plan for the negotiation.
-last_modified_at: 2016-06-21
+last_modified_at: 2016-06-25
 chapter: negotiate
 section: 5
 ---
@@ -16,6 +16,6 @@ Regardless of how they deliver the initial offer, you should answer something li
 
 That’s the straightforward version, but you can beef it up with something like, "...I just want to run it by my spouse to make sure we’re on the same page," or “...I just need to talk it over with my family before I respond.”
 
-In general, the more time you have to think it over and determine your counter, the better. Shoot for a day or two, and it may help if you can stretch it over a weekend.
+In general, the more time you have to think it over and [determine your counter]({{ site.baseurl }}/how-to-determine-your-counter-offer/), the better. Shoot for a day or two, and it may help if you can stretch it over a weekend.
 
 You may also want to ask some questions about the offer, but keep in mind that you are not negotiating yet. You might ask about start date, or ask for clarification on benefits, or confirm how many vacation days you would get, but you’re not countering or accepting yet. Not even if you really like the offer! Okay?

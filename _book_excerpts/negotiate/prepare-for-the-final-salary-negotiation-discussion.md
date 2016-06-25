@@ -3,12 +3,12 @@ layout: book_excerpt
 title: Preparing for your final salary negotiation discussion
 tagline: Prepare you script ahead of time so you don't make a mistake
 excerpt: After you counter offer, you'll usually have one more discussion to finalize your compensation. Here is how to prepare for your final salary negotiation discussion.
-last_modified_at: 2016-06-21
+last_modified_at: 2016-06-25
 chapter: negotiate
 section: 11
 ---
 
-You did your homework and waited for the company to make the initial offer without disclosing your current or desired salary. Then you carefully considered your counter, trying to maximize your salary while accounting for how badly the company needs you to do this job, and how badly you need this job. The recruiter may have then gone back to Finance or the hiring manager to talk about your counter and get final authorization for the amount they can pay you to do this job. 
+You did your homework and waited for the company to make [the initial offer[the final discussion]({{ site.baseurl }}/how-to-respond-to-a-job-offer/) without disclosing your [current or desired salary]({{ site.baseurl }}/the-dreaded-salary-question/). Then you carefully considered your [counter]({{ site.baseurl }}/how-to-determine-your-counter-offer/), trying to maximize your salary while accounting for how badly the company needs you to do this job, and how badly you need this job. The recruiter may have then gone back to Finance or the hiring manager to talk about your counter and get final authorization for the amount they can pay you to do this job. 
 
 ## Defining the negotiation window
 
@@ -26,7 +26,7 @@ Now you have to do some planning for different hypotheticals. We’ll make this 
 
 The first thing to do is determine whether there’s a number in your negotiation window that will make you happy such that you’ll just accept that number or anything above it. In my example above, I would be happy with 55 or above, so if they responded to my counter with an offer of $55,000 or more, I would accept it and stop negotiating.
 
-Next, you need to determine your minimum acceptable salary within the negotiation window. Note that this is not necessarily your "minimum acceptable salary" from earlier in the chapter. This may be a new number that you decide based on the window you have defined between their offer and your counter. You’re updating your minimum based on what you’ve learned from the offer they made you.
+Next, you need to determine your minimum acceptable salary within the negotiation window. Note that this is not necessarily your "[minimum acceptable salary]({{ site.baseurl }}/minimum-acceptable-salary/)" from earlier. This may be a new number that you decide based on the window you have defined between their offer and your counter. You’re updating your minimum based on what you’ve learned from the offer they made you.
 
 In my case, my minimum acceptable number was 52. This means that if their response to my counter is anything below 52, I’ll go straight to, "I’m sorry, but I can’t accept anything less than 52 for this job."
 
