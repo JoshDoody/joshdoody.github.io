@@ -1,3 +1,4 @@
+		
 			{% case page.chapter %}
 			{% when 'salary-structures' %}
 			<script async id="_ck_15649" src="https://forms.convertkit.com/15649?v=5"></script>
@@ -49,5 +50,19 @@
 
 			<hr>
 			{% endcase %}
+			
+			{% assign excerpt_list = site.book_excerpts | where:"chapter", page.chapter %}
+			{% assign excerpt_list = excerpt_list | sort:"section" %}
+			<p class="book-excerpt-footer">
+			{% if page == excerpt_list.first %}
+			<strong>NEXT:</strong> <a href="{{ site.baseurl }}{{ excerpt_list[1].url }}">{{ excerpt_list[1].title }}</a>
+			{% elsif page == excerpt_list.last %}
+			<strong>PREVIOUS:</strong> <a href="{{ site.baseurl }}{{ excerpt_list[page.section | minus: 2].url }}">{{ excerpt_list[page.section | minus: 2].title }}</a>
+			{% else %}
+			<strong>PREVIOUS:</strong> <a href="{{ site.baseurl }}{{ excerpt_list[page.section | minus: 2].url }}">{{ excerpt_list[page.section | minus: 2].title }}</a><br>
+			<strong>NEXT:</strong> <a href="{{ site.baseurl }}{{ excerpt_list[page.section].url }}">{{ excerpt_list[page.section].title }}</a>
+			{% endif %}
+			</p>
+			<hr>
 			
 			<p class="book-excerpt-footer"><strong>SHARE:</strong> <a href="{{ site.baseurl }}{{ page.url }}">{{ site.url }}{{ page.url }}</a></p>
