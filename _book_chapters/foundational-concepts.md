@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book_chapter
 title: A few foundational concepts
 excerpt: 'Introduction to "Part 1: Understanding your market value" from Fearless Salary Negotiation'
 last_modified_at: 2016-06-28

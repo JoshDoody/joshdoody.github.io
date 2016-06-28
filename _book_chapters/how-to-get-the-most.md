@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book_chapter
 title: How to get the most out of this book
 excerpt: Here's how to get the most out of Fearless Salary Negotiation.
 last_modified_at: 2016-06-28
@@ -20,3 +20,5 @@ Part 3 is about getting paid what you’re worth within your current company. If
 <p class="u-center">…</p>
 
 *Fearless Salary Negotiation* is one component of a full suite of tools and resources to help you get paid what you’re worth. The suite includes the book, case studies, video courses, and other great resources.
+
+{% include book_chapter_footer.html %}

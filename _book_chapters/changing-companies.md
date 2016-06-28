@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book_chapter
 title: Leveraging your best opportunity to significantly increase your salary
 excerpt: 'Introduction to "Part 2: Getting paid what you''re worth when changing companies" from Fearless Salary Negotiation'
 last_modified_at: 2016-06-28
