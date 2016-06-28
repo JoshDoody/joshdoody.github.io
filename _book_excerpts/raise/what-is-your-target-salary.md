@@ -12,7 +12,7 @@ How do you define your goal when you’re pursuing a raise? You estimate the mar
 
 ## Estimating the market value for your skillset and experience
 
-[Estimating your market value]({{ site.baseurl }}/chapter/value/) is a key component of salary negotiations. I strongly recommend you estimate your market value before you continue.
+[Estimating your market value]({{ site.baseurl }}/book/value/) is a key component of salary negotiations. I strongly recommend you estimate your market value before you continue.
 
 ## Adjusting your market value estimation for your specific company
 
@@ -32,7 +32,7 @@ After considering all of these things and coming up with your own criteria, make
 
 ## An example
 
-Let’s expand a bit on [the example]( {{site.baseurl }}/what-should-my-salary-be/) from [How to estimate your market value]({{ site.baseurl }}/chapter/value/). In that example, Alison is a Project Manager making $65,000 a year in the Construction industry and she estimated her market value at $80,000, give or take. She also found that other project managers in her industry and region were making around $75,000, and she knows that a project manager who left her company earlier in the year was making $73,000.
+Let’s expand a bit on [the example]( {{site.baseurl }}/what-should-my-salary-be/) from [How to estimate your market value]({{ site.baseurl }}/book/value/). In that example, Alison is a Project Manager making $65,000 a year in the Construction industry and she estimated her market value at $80,000, give or take. She also found that other project managers in her industry and region were making around $75,000, and she knows that a project manager who left her company earlier in the year was making $73,000.
 
 Her market value is a good starting point for estimating the amount of the raise that she should request, but she also needs to calibrate her request to account for what she knows about the current situation at her company.
 

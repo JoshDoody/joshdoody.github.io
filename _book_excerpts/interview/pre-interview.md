@@ -36,7 +36,7 @@ You may learn a lot by asking the recruiter some of these things:
 * I noticed this trend in your current job openings—what does that say about the company’s direction right now?
 * Can you tell me about career growth opportunities for this job? What would a long-term career look like at this company?
 
-The "career growth" question may be a good way to learn about the company’s [salary structure]({{ site.baseurl }}/chapter/salary-structures/). If people tend to stay in the role for a long time then the job may be in a wide [pay grade]({{ site.baseurl }}/what-is-a-salary-structure/), and you might be able to push for a higher salary during the negotiation process. If people only stay in the role for a year or two—true for many entry-level jobs—then the pay grade is probably narrower, and there may be less wiggle room when setting your salary. 
+The "career growth" question may be a good way to learn about the company’s [salary structure]({{ site.baseurl }}/book/salary-structures/). If people tend to stay in the role for a long time then the job may be in a wide [pay grade]({{ site.baseurl }}/what-is-a-salary-structure/), and you might be able to push for a higher salary during the negotiation process. If people only stay in the role for a year or two—true for many entry-level jobs—then the pay grade is probably narrower, and there may be less wiggle room when setting your salary. 
 
 Asking about career growth opportunities also shows that you are thinking about a long-term relationship with the company, and that may make them more interested in bringing you on board.
 
