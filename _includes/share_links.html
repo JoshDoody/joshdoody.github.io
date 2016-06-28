@@ -1,7 +1,13 @@
+{% if page.share_title %}
+{% assign link_title = page.share_title %}
+{% else %}
+{% assign link_title = page.title %}
+{% endif %}
+
 <p class="book-excerpt-footer">
 	<strong>SHARE:</strong> 
 	&nbsp;<a href="{{ site.baseurl }}{{ page.url }}"><i class="fa fa-link"></i> Direct link</a>
-	&nbsp;&nbsp;<a href="https://twitter.com/home?status={{ page.title | truncate:90 | url_encode }}%20{{ page.url | prepend: site.url | url_encode }}%20by%20@JoshDoody" target="_blank"><i class="fa fa-twitter"></i> Twitter</a>
+	&nbsp;&nbsp;<a href="https://twitter.com/home?status={{ link_title | truncate:90 | url_encode }}%20{{ page.url | prepend: site.url | url_encode }}%20by%20@JoshDoody" target="_blank"><i class="fa fa-twitter"></i> Twitter</a>
 	&nbsp;&nbsp;<a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url | url_encode }}" target="_blank"><i class='fa fa-facebook'></i> Facebook</a>
-	&nbsp;&nbsp;<a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | prepend: site.url | url_encode }}&title={{ page.title | url_encode }}&summary={% if page.excerpt %}{{ page.excerpt | url_encode }}{% else %}Fearless%20Salary%20Negotiation{% endif %}&source=" target="_blank"><i class='fa fa-linkedin'></i> LinkedIn</a>
+	&nbsp;&nbsp;<a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | prepend: site.url | url_encode }}&title={{ link_title | url_encode }}&summary={% if page.excerpt %}{{ page.excerpt | url_encode }}{% else %}Fearless%20Salary%20Negotiation{% endif %}&source=" target="_blank"><i class='fa fa-linkedin'></i> LinkedIn</a>
 </p>

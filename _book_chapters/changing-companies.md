@@ -1,9 +1,11 @@
 ---
 layout: book_chapter
-title: Leveraging your best opportunity to significantly increase your salary
-excerpt: 'Introduction to "Part 2: Getting paid what you''re worth when changing companies" from Fearless Salary Negotiation'
+title: 'Part 2: Leveraging your best opportunity to significantly increase your salary'
+excerpt: The most reliable way to significantly increase your salary is to change companies.
 last_modified_at: 2016-06-28
-chapter: contents
+share_title: Leveraging your best opportunity to significantly increase your salary
+type: contents
+chapter: part-2
 section: 6
 ---
 

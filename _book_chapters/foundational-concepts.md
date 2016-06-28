@@ -1,9 +1,11 @@
 ---
 layout: book_chapter
-title: A few foundational concepts
-excerpt: 'Introduction to "Part 1: Understanding your market value" from Fearless Salary Negotiation'
+title: 'Part 1: Foundational concepts to negotiate your salary like a pro'
+excerpt: Before you can negotiate your salary like a pro, it's worth taking a few minutes to learn these foundational concepts.
 last_modified_at: 2016-06-28
-chapter: contents
+share_title: Foundational concepts to negotiate your salary like a pro
+type: contents
+chapter: part-1
 section: 3
 ---
 

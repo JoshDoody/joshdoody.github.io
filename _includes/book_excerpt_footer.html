@@ -3,53 +3,29 @@
 			{% when 'salary-structures' %}
 			<script async id="_ck_15649" src="https://forms.convertkit.com/15649?v=5"></script>
 						
-			<hr>
-			<p class="book-excerpt-footer"><strong>TAKEN FROM:</strong> <a href="{{ site.baseurl }}/book/salary-structures">How companies manage their salary structures</a></p>
-
-			<hr>
 			{% when 'value' %}
 			<script async id="_ck_14072" src="https://forms.convertkit.com/14072?v=5"></script>
 						
-			<hr>
-			<p class="book-excerpt-footer"><strong>TAKEN FROM:</strong> <a href="{{ site.baseurl }}/book/value">How to estimate your market value</a></p>
-
-			<hr>
 			{% when 'interview' %}
 			<script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
 
-			<hr>
-			<p class="book-excerpt-footer"><strong>TAKEN FROM:</strong> <a href="{{ site.baseurl }}/book/interview">How to ace your next interview</a></p>
-
-			<hr>
 			{% when 'negotiate' %}
 			<script async id="_ck_1661" src="https://forms.convertkit.com/1661?v=5"></script>
 			
-			<hr>
-			<p class="book-excerpt-footer"><strong>TAKEN FROM:</strong> <a href="{{ site.baseurl }}/book/negotiate">How to negotiate your new salary</a></p>
-
-			<hr>
 			{% when 'leave' %}
 			<script async id="_ck_1616" src="https://forms.convertkit.com/1616?v=5"></script>
 						
-			<hr>
-			<p class="book-excerpt-footer"><strong>TAKEN FROM:</strong> <a href="{{ site.baseurl }}/book/leave">How to leave a job on the best possible terms</a></p>
-
-			<hr>
 			{% when 'promotion' %}
 			<script async id="_ck_13571" src="https://forms.convertkit.com/13571?v=5"></script>
 									
-			<hr>
-			<p class="book-excerpt-footer"><strong>TAKEN FROM:</strong> <a href="{{ site.baseurl }}/book/promotion">How to get your next promotion</a></p>
-
-			<hr>
 			{% when 'raise' %}
 			<script async id="_ck_9237" src="https://forms.convertkit.com/9237?v=5"></script>
 												
-			<hr>
-			<p class="book-excerpt-footer"><strong>TAKEN FROM:</strong> <a href="{{ site.baseurl }}/book/raise">How to get your next raise</a></p>
-
-			<hr>
 			{% endcase %}
+			
+			
+			{% assign this_chapter = site.book_chapters | where:"chapter", page.chapter %}
+			<hr>			
 			
 			{% assign excerpt_list = site.book_excerpts | where:"chapter", page.chapter %}
 			{% assign excerpt_list = excerpt_list | sort:"section" %}
@@ -58,13 +34,13 @@
 			
 			
 			{% if page == excerpt_list.first %}
-			<p class="book-excerpt-footer"><strong>NEXT:</strong> <a href="{{ site.baseurl }}{{ excerpt_list[1].url }}">{{ excerpt_list[1].title }}</a></p>
+			<p class="book-excerpt-footer"><strong>NEXT:</strong> <a href="{{ site.baseurl }}/book/">Book</a> >  <a href="{{ site.baseurl }}/book/{{ page.chapter }}">Chapter {{ this_chapter.first.chapter_number }}</a> > <a href="{{ site.baseurl }}{{ excerpt_list[1].url }}">{{ excerpt_list[1].title }}</a></p>
 			{% elsif page == excerpt_list.last %}
-			<p class="book-excerpt-footer"><strong>PREVIOUS:</strong> <a href="{{ site.baseurl }}{{ excerpt_list[previous_index].url }}">{{ excerpt_list[previous_index].title }}</a></p>
+			<p class="book-excerpt-footer"><strong>PREV:</strong> <a href="{{ site.baseurl }}/book/">Book</a> >  <a href="{{ site.baseurl }}/book/{{ page.chapter }}">Chapter {{ this_chapter.first.chapter_number }}</a> > <a href="{{ site.baseurl }}{{ excerpt_list[previous_index].url }}">{{ excerpt_list[previous_index].title }}</a></p>
 			{% else %}
-			<p class="book-excerpt-footer"><strong>PREVIOUS:</strong> <a href="{{ site.baseurl }}{{ excerpt_list[previous_index].url }}">{{ excerpt_list[previous_index].title }}</a></p>
+			<p class="book-excerpt-footer"><strong>PREV:</strong> <a href="{{ site.baseurl }}/book/">Book</a> >  <a href="{{ site.baseurl }}/book/{{ page.chapter }}">Chapter {{ this_chapter.first.chapter_number }}</a> > <a href="{{ site.baseurl }}{{ excerpt_list[previous_index].url }}">{{ excerpt_list[previous_index].title }}</a></p>
 			<hr>
-			<p class="book-excerpt-footer"><strong>NEXT:</strong> <a href="{{ site.baseurl }}{{ excerpt_list[next_index].url }}">{{ excerpt_list[page.section].title }}</a></p>
+			<p class="book-excerpt-footer"><strong>NEXT:</strong> <a href="{{ site.baseurl }}/book/">Book</a> >  <a href="{{ site.baseurl }}/book/{{ page.chapter }}">Chapter {{ this_chapter.first.chapter_number }}</a> > <a href="{{ site.baseurl }}{{ excerpt_list[next_index].url }}">{{ excerpt_list[page.section].title }}</a></p>
 			{% endif %}
 			<hr>
 			

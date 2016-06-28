@@ -1,9 +1,10 @@
 ---
 layout: book_chapter
-title: Introduction
+title: Fearless Salary Negotiation—Introduction
 excerpt: An introduction to Fearless Salary Negotiation—common fears people have and how we can overcome them.
 last_modified_at: 2016-06-28
-chapter: contents
+type: contents
+chapter: introduction
 section: 1
 ---
 
