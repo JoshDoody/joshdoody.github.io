@@ -398,3 +398,19 @@ p.book-excerpt-footer {
 .footer__col--last {
   margin-right: 0;
 }
+
+/* share buttons */
+
+ul.share-buttons {
+	float: left;
+  list-style: none;
+  padding: 0;
+}
+
+ul.share-buttons li {
+  display: inline;
+}
+
+ul.share-buttons img {
+  width: 32px;
+}

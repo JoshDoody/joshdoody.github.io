@@ -4,10 +4,11 @@
 {% assign link_title = page.title %}
 {% endif %}
 
-<p class="book-excerpt-footer">
-	<strong>SHARE:</strong> 
-	&nbsp;<a href="{{ site.baseurl }}{{ page.url }}"><i class="fa fa-link"></i> Direct link</a>
-	&nbsp;&nbsp;<a href="https://twitter.com/home?status={{ link_title | truncate:90 | url_encode }}%20{{ page.url | prepend: site.url | url_encode }}%20by%20@JoshDoody" target="_blank"><i class="fa fa-twitter"></i> Twitter</a>
-	&nbsp;&nbsp;<a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url | url_encode }}" target="_blank"><i class='fa fa-facebook'></i> Facebook</a>
-	&nbsp;&nbsp;<a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | prepend: site.url | url_encode }}&title={{ link_title | url_encode }}&summary={% if page.excerpt %}{{ page.excerpt | url_encode }}{% else %}Fearless%20Salary%20Negotiation{% endif %}&source=" target="_blank"><i class='fa fa-linkedin'></i> LinkedIn</a>
+<p style="float: left;" class="book-excerpt-footer">
+	<strong>SHARE:</strong> &nbsp;
 </p>
+<ul class="share-buttons">
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url | url_encode }}&t={{ link_title | url_encode }}" title="Share on Facebook" target="_blank"><img src="{{ site.baseurl }}/images/social_icons/Facebook.svg"></a></li>
+  <li><a href="https://twitter.com/home?status={{ link_title | truncate:90 | url_encode }}%20{{ page.url | prepend: site.url | url_encode }}%20by%20@JoshDoody" target="_blank" title="Tweet"><img src="{{ site.baseurl }}/images/social_icons/Twitter.svg"></a></li>
+  <li><a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | prepend: site.url | url_encode }}&title={{ link_title | url_encode }}&summary={% if page.excerpt %}{{ page.excerpt | url_encode }}{% else %}Fearless%20Salary%20Negotiation{% endif %}&source=" target="_blank" title="Share on LinkedIn"><img src="{{ site.baseurl }}/images/social_icons/LinkedIn.svg"></a></li>
+</ul>
