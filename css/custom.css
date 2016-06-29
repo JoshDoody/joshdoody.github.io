@@ -414,3 +414,14 @@ ul.share-buttons li {
 ul.share-buttons img {
   width: 32px;
 }
+
+i {
+  display: inline-block;
+	text-decoration: none;
+  padding-right: .35em;
+}
+
+a {
+  color: #00A9FF !important;
+  text-decoration: underline;
+}

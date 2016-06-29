@@ -495,12 +495,12 @@ blockquote a,
 .toc__list a,
 .post a {
   color: #00A9FF;
-  text-decoration: none;
-  display: inline-block;
+  text-decoration: underline;
+  /* nonedisplay: inline-block;
   box-shadow: inset 0 -2px 0 0 rgba(0, 169, 255, 0.5);
   -webkit-transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
   -moz-transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-  transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);*/
 }
 
 p a:hover,
@@ -508,7 +508,7 @@ blockquote a:hover,
 .toc__list a:hover,
 .post a:hover {
   color: #0087cc;
-  box-shadow: inset 0 -2px 0 0 rgba(0, 169, 255, 0.9);
+  /*box-shadow: inset 0 -2px 0 0 rgba(0, 169, 255, 0.9);*/
 }
 
 p, ul, ol {
@@ -1648,11 +1648,11 @@ h3, h4, h5 {
 
 .author__container p a {
   color: #fff;
-  box-shadow: inset 0 -2px 0 0 rgba(255, 255, 255, 0.5);
+  /* box-shadow: inset 0 -2px 0 0 rgba(255, 255, 255, 0.5); */
 }
 
 .author__container p a:hover {
-  box-shadow: inset 0 -2px 0 0 #fff;
+  /* box-shadow: inset 0 -2px 0 0 #fff; */
 }
 
 .author__container p b, .author__container p .u-highlight {

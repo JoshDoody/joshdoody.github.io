@@ -10,7 +10,7 @@ section: 3
 
 You have two main objectives before you begin negotiating:
 
-1. [Understand why you are a valuable candidate for this job]({{ site.baseurl }}/why-are-you-the-best-candidate-for-this-position)
+1. [Understand why you are a valuable candidate for this job]({{ site.baseurl }}/why-are-you-the-best-candidate)
 2. Determine the minimum salary you require to do this job
 
 You’ve probably heard that the key to negotiating is being willing to walk away. Your minimum salary requirement is how you pre-decide when you’re willing to walk away from this salary negotiation. This is also the single most important number you’ll use when negotiating your salary, and it’s your minimum metric for measuring success. 
