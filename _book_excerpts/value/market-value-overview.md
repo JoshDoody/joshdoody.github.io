@@ -14,13 +14,14 @@ Estimating your market value is both an art and a science. You start by gatherin
 
 In short, you’ll find a broad average salary for your job in your industry. Then you adjust that average to compensate for *your* particular skillset and experience.
 
-## Determining the market value for your skillset and experience
+
 
 <div class="ad-box">
-	<p class='u-center'>
-		<strong>Get the Market Value Estimation worksheet when you buy <a href="/#basic">The Basic Edition</a>!</strong><br>
-		The Market Value Estimation Worksheet will help you save your work for each opportunity.
-	</p>
+	<h3>Get the Market Value Estimation worksheet when you buy The Basic Edition</h3>
+
+	<p>Before you go too much further, you might want to get the market value estimation worksheet that accompanies this chapter. It will help you keep track of the data you will gather and aggregate throughout the estimation process.</p>
+
+	<p>The Basic Edition includes...</p>
 	<div style="float: left; margin-right: 20px;" class="hidden-md">
 		<a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/FearlessSalary_noquote_small.jpg" width="95px;" alt="Fearless Salary Negotiation cover"></a>
 	</div>
@@ -34,8 +35,11 @@ In short, you’ll find a broad average salary for your job in your industry. Th
     <span class="package__button-price">$29</span>
     <span class="package__button-text">Buy Now</span>
   </a>
+	<p class='u-center'>Or click hear to learn about the other editions</p>
 	<div style="clear:both;"></div>
 </div>
+
+## Determining the market value for your skillset and experience
 
 I recommend three primary ways of determining your market value. Some of these may yield more useful information than others. Your goal is simply to gather as much information as you can to estimate your market value.
 
