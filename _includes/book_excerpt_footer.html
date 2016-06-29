@@ -1,4 +1,8 @@
 			{% unless page.has_basic_edition_pitch == true %}
+			{% include book_ad_box.html blurb="Ready to buy? With the <em>Fearless Salary Negotiation</em> Basic Edition, you can read on your own eReader and you get worksheets and templates to help you get the most out of the book." %}
+			{% endunless %}
+			
+			{% comment %}
 			{% case page.chapter %}
 			{% when 'salary-structures' %}
 			<script async id="_ck_15649" src="https://forms.convertkit.com/15649?v=5"></script>
@@ -22,7 +26,7 @@
 			<script async id="_ck_9237" src="https://forms.convertkit.com/9237?v=5"></script>
 												
 			{% endcase %}
-			{% endunless %}
+			{% endcomment %}
 			
 			
 			{% assign this_chapter = site.book_chapters | where:"chapter", page.chapter %}
