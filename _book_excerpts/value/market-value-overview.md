@@ -16,6 +16,27 @@ In short, you’ll find a broad average salary for your job in your industry. Th
 
 ## Determining the market value for your skillset and experience
 
+<div class="ad-box">
+	<p class='u-center'>
+		<strong>Get the Market Value Estimation worksheet when you buy <a href="/#basic">The Basic Edition</a>!</strong><br>
+		The Market Value Estimation Worksheet will help you save your work for each opportunity.
+	</p>
+	<div style="float: left; margin-right: 20px;" class="hidden-md">
+		<a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/FearlessSalary_noquote_small.jpg" width="95px;" alt="Fearless Salary Negotiation cover"></a>
+	</div>
+  <ul class="checkbox-list">
+    <li class="checkbox-list__item">200-page eBook in Kindle, iBooks and PDF formats</li>
+		<li class="checkbox-list__item">4 worksheets</li>
+		<li class="checkbox-list__item">7 email templates</li>
+		<li class="checkbox-list__item">3 case studies</li>
+	</ul>
+  <a href="https://gum.co/fearless-salary-basic?wanted=true" class="button button--bright">
+    <span class="package__button-price">$29</span>
+    <span class="package__button-text">Buy Now</span>
+  </a>
+	<div style="clear:both;"></div>
+</div>
+
 I recommend three primary ways of determining your market value. Some of these may yield more useful information than others. Your goal is simply to gather as much information as you can to estimate your market value.
 
 1. [Online research]({{ site.baseurl }}/your-market-value-in-your-industry/)
