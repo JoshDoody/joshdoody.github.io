@@ -14,3 +14,15 @@ If you decide to buy the [book]({{ site.baseurl }}/#basic), [courses]({{ site.ba
 <html>
 {% include book_contents_linked.html %}
 </html>
+
+* * *
+
+## Why is are you giving this away for free?
+
+I like helping people, and this is another way I can help people by making sure everyone has access to my book.
+
+## Ok, but how do you make money if you're giving it away?
+
+Some people will be happy reading the book online, and others will want more. Some will want to read it on their [Kindle or in iBooks]({{ site.baseurl }}/#basic). Some will want the worksheets and email templates that come with [the book]({{ site.baseurl }}/#basic). Some will want [self-paced courses]({{ site.baseurl }}/video-courses/) to really master the material. And some will want [1-on-1 coaching]({{ site.baseurl }}/coach/) for accountability and a customized plan.
+
+My book is the *foundation* for everything else I offer, and those other things are very valuable. So I can make the foundation available for free and still make a living on the other things I offer.
