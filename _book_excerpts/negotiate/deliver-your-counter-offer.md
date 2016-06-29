@@ -3,7 +3,8 @@ layout: book_excerpt
 title: An example showing how to deliver your counter offer in an email
 tagline: A counter offer email example with detailed explanation
 excerpt: It's best to deliver your counter offer in an email. Here is a counter offer email example with detailed explanation.
-last_modified_at: 2016-06-25
+has_basic_edition_pitch: true
+last_modified_at: 2016-06-29
 chapter: negotiate
 section: 10
 ---
@@ -38,6 +39,7 @@ josh@example.com</p>
 </div>
 <hr>
 
+{% include book_ad_box.html offer="the sample counter offer email template" blurb="Download this email template and several others when you buy The Basic Edition of <em>Fearless Salary Negotiation</em>." %}
 
 Let’s look a little closer.
 

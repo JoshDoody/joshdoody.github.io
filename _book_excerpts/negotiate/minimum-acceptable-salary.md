@@ -3,7 +3,8 @@ layout: book_excerpt
 title: Minimum acceptable salary
 tagline: You should set this number before you get your job offer
 excerpt: When you negotiate starting salary, it's critical to decide your minimum acceptable salary before you receive a job offer.
-last_modified_at: 2016-06-25
+has_basic_edition_pitch: true
+last_modified_at: 2016-06-29
 chapter: negotiate
 section: 3
 ---
@@ -27,6 +28,8 @@ Here are several things you should consider as you determine the absolute minimu
 * When is your next bonus at your current job?
 
 The nice thing about this list is that there’s value in just thinking about each item. I recommend that you write down your responses, but if you’re not up for that, you should at least take a little time to think about each item. Something may occur to you that will help you find some little bit of leverage you may have otherwise missed. 
+
+{% include book_ad_box.html offer="the Salary Negotiation Worksheet" blurb="Before you go too much further, you might want to get the Salary Negotiation Worksheet to help you keep track of your answers to the questions below, and plan your salary negotiation." %}
 
 Let’s take each of these items one by one to understand its significance and how it helps you determine your minimum acceptable salary.
 

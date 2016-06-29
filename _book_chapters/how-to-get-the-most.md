@@ -2,7 +2,8 @@
 layout: book_chapter
 title: How to get the most out of Fearless Salary Negotiation
 excerpt: Here's how to get the most out of Fearless Salary Negotiation.
-last_modified_at: 2016-06-28
+has_basic_edition_pitch: true
+last_modified_at: 2016-06-29
 type: contents
 chapter: most
 section: 2
@@ -18,6 +19,4 @@ However, if you need a specific topic *right now*, you should have no trouble ju
 
 [Part 3]({{ site.baseurl }}/book/get-a-big-raise/) is about getting paid what you’re worth within your current company. If you like your company and think you’re under-paid, then pursuing a [promotion]({{ site.baseurl }}/book/promotion/) or [raise]({{ site.baseurl }}/book/raise/) may be a great way to increase your pay and stay with a company you enjoy.
 
-<p class="u-center">…</p>
-
-*Fearless Salary Negotiation* is one component of a full suite of tools and resources to help you get paid what you’re worth. The suite includes the book, case studies, video courses, and other great resources.
+{% include book_ad_box.html blurb="<em>Fearless Salary Negotiation</em> is one component of a full suite of tools and resources to help you get paid what you’re worth." %}

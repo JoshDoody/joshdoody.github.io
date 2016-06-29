@@ -1,4 +1,4 @@
-		
+			{% unless page.has_basic_edition_pitch == true %}
 			{% case page.chapter %}
 			{% when 'salary-structures' %}
 			<script async id="_ck_15649" src="https://forms.convertkit.com/15649?v=5"></script>
@@ -22,6 +22,7 @@
 			<script async id="_ck_9237" src="https://forms.convertkit.com/9237?v=5"></script>
 												
 			{% endcase %}
+			{% endunless %}
 			
 			
 			{% assign this_chapter = site.book_chapters | where:"chapter", page.chapter %}
@@ -38,9 +39,9 @@
 			{% elsif page == excerpt_list.last %}
 			<p class="book-excerpt-footer"><strong>PREV:</strong> <a href="{{ site.baseurl }}/book/">Book</a> >  <a href="{{ site.baseurl }}/book/{{ page.chapter }}">Chapter {{ this_chapter.first.chapter_number }}</a> > <a href="{{ site.baseurl }}{{ excerpt_list[previous_index].url }}">{{ excerpt_list[previous_index].title }}</a></p>
 			{% else %}
-			<p class="book-excerpt-footer"><strong>PREV:</strong> <a href="{{ site.baseurl }}/book/">Book</a> >  <a href="{{ site.baseurl }}/book/{{ page.chapter }}">Chapter {{ this_chapter.first.chapter_number }}</a> > <a href="{{ site.baseurl }}{{ excerpt_list[previous_index].url }}">{{ excerpt_list[previous_index].title }}</a></p>
-			<hr>
 			<p class="book-excerpt-footer"><strong>NEXT:</strong> <a href="{{ site.baseurl }}/book/">Book</a> >  <a href="{{ site.baseurl }}/book/{{ page.chapter }}">Chapter {{ this_chapter.first.chapter_number }}</a> > <a href="{{ site.baseurl }}{{ excerpt_list[next_index].url }}">{{ excerpt_list[page.section].title }}</a></p>
+			<hr>
+			<p class="book-excerpt-footer"><strong>PREV:</strong> <a href="{{ site.baseurl }}/book/">Book</a> >  <a href="{{ site.baseurl }}/book/{{ page.chapter }}">Chapter {{ this_chapter.first.chapter_number }}</a> > <a href="{{ site.baseurl }}{{ excerpt_list[previous_index].url }}">{{ excerpt_list[previous_index].title }}</a></p>
 			{% endif %}
 			<hr>
 			

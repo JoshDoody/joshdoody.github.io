@@ -3,7 +3,8 @@ layout: book_excerpt
 title: Follow up with a thank you email after your job interview
 tagline: Sample thank you emails you can send after a job interview
 excerpt: Even after you finish your job interviews, you can continue to impress and stay in touch by sending thanks you emails.
-last_modified_at: 2016-06-25
+has_basic_edition_pitch: true
+last_modified_at: 2016-06-29
 chapter: interview
 section: 9
 ---
@@ -55,3 +56,5 @@ josh@example.com<br>
 555-555-1234</p>
 </div>
 <hr>
+
+{% include book_ad_box.html offer="the sample thank you email templates" blurb="Download these email templates and several others when you buy The Basic Edition of <em>Fearless Salary Negotiation</em>." %}

@@ -3,7 +3,8 @@ layout: book_excerpt
 title: What is your market value?
 tagline: A three-phase approach to estimating your market value
 excerpt: A simple three-phase approach to estimate the market value of your skillset and experience in your industry, and for a particular company.
-last_modified_at: 2016-06-25
+has_basic_edition_pitch: true
+last_modified_at: 2016-06-29
 chapter: value
 section: 1
 ---
@@ -14,30 +15,7 @@ Estimating your market value is both an art and a science. You start by gatherin
 
 In short, you’ll find a broad average salary for your job in your industry. Then you adjust that average to compensate for *your* particular skillset and experience.
 
-
-
-<div class="ad-box">
-	<h3>Get the Market Value Estimation worksheet when you buy The Basic Edition</h3>
-
-	<p>Before you go too much further, you might want to get the market value estimation worksheet that accompanies this chapter. It will help you keep track of the data you will gather and aggregate throughout the estimation process.</p>
-
-	<p>The Basic Edition includes...</p>
-	<div style="float: left; margin-right: 20px;" class="hidden-md">
-		<a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/FearlessSalary_noquote_small.jpg" width="95px;" alt="Fearless Salary Negotiation cover"></a>
-	</div>
-  <ul class="checkbox-list">
-    <li class="checkbox-list__item">200-page eBook in Kindle, iBooks and PDF formats</li>
-		<li class="checkbox-list__item">4 worksheets</li>
-		<li class="checkbox-list__item">7 email templates</li>
-		<li class="checkbox-list__item">3 case studies</li>
-	</ul>
-  <a href="https://gum.co/fearless-salary-basic?wanted=true" class="button button--bright">
-    <span class="package__button-price">$29</span>
-    <span class="package__button-text">Buy Now</span>
-  </a>
-	<p class='u-center'>Or click hear to learn about the other editions</p>
-	<div style="clear:both;"></div>
-</div>
+{% include book_ad_box.html offer="the Market Value Estimation Worksheet" blurb="Before you go too much further, you might want to get the Market Value Estimation Worksheet to help you keep track of the data you will gather and aggregate throughout the estimation process." %}
 
 ## Determining the market value for your skillset and experience
 

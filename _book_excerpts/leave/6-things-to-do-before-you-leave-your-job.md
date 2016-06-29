@@ -3,7 +3,8 @@ layout: book_excerpt
 title: 6 things to do before you leave your job
 tagline: A checklist to leave your job on good terms
 excerpt: Here's how to use your last two weeks to make a strong impression on your colleagues and expand your professional network.
-last_modified_at: 2016-06-21
+has_basic_edition_pitch: true
+last_modified_at: 2016-06-29
 chapter: leave
 section: 2
 ---
@@ -73,3 +74,5 @@ I'm on LinkedIn at: https://www.linkedin.com/in/joshdoody</p>
 <p>Josh</p>
 </div>
 <hr>
+
+{% include book_ad_box.html offer="the sample goodbye email template" blurb="Download this email template and several others when you buy The Basic Edition of <em>Fearless Salary Negotiation</em>." %}

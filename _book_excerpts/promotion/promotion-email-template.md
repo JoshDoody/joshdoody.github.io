@@ -3,7 +3,8 @@ layout: book_excerpt
 title: Use this promotion email template to draft your request
 tagline: Send your promotion request after you talk to your manager
 excerpt: This is your chance to make your case in writing so your manager can ciruclate it in your own words. You'll make your case better than anyone else will.
-last_modified_at: 2016-06-23
+has_basic_edition_pitch: true
+last_modified_at: 2016-06-29
 chapter: promotion
 section: 5
 ---
@@ -50,6 +51,8 @@ Here’s what your case for a promotion will look like once you’ve written it 
 <hr>
 
 Now, all you need to do is go through the template and replace anything in **bold** with the appropriate piece of information. This should be pretty easy because you’ve already done all the hard work. Feel free to edit this email to make it your own. This is just a template to get you started and show you the bare necessities you should include to make this as useful as possible.
+
+{% include book_ad_box.html offer="the Promotion email template" blurb="Get this email template and a worksheet you can use to help define your roadmap, track your results, and make your case for your next promotion." %}
 
 Let’s go section by section to build your email and make your case.
 
