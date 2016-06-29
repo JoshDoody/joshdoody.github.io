@@ -12,7 +12,7 @@ section: 10
 
 It’s common knowledge that the way to get big pay increases is to change jobs. But is that really your only option?
 
-The answer depends on how your company handles raises and promotions. Some companies are very rigid when it comes to pay increases—merit increases are almost always in a well-defined range, and promotions come with predetermined raise amounts depending on how many pay grades you advance. Other companies are much more fluid and have fewer restrictions in place when it comes to employee pay.
+The answer depends on how your company handles [raises]({{ site.baseurl }}/book/raise/) and [promotions]({{ site.baseurl }}/book/promotion/). Some companies are very rigid when it comes to pay increases—merit increases are almost always in a well-defined range, and promotions come with predetermined raise amounts depending on how many pay grades you advance. Other companies are much more fluid and have fewer restrictions in place when it comes to employee pay.
 
 So it’s possible you’ll need to change jobs to get a big raise, but it’s also possible you can get a pretty big raise by staying put and playing your cards right.
 
@@ -51,7 +51,7 @@ At that company, I realized my potential earnings were more or less predetermine
 
 ## Things to find out when determining your potential for a big raise
 
-I’ll leave you with a few specific things to help you determine if you can get a big raise without leaving your current job. You can usually ask your manager about these things, or you may find information in your company’s employee handbook or from coworkers who have recently been promoted.
+I’ll leave you with a few specific things to help you determine if you can get a big raise without [leaving your current job]({{ site.baseurl }}/book/leave/). You can usually ask your manager about these things, or you may find information in your company’s employee handbook or from coworkers who have recently been promoted.
 
 * ***You* can initiate the conversation.** Many people assume that raises and promotions will come to them over time. That may be true, but you may be missing opportunities for more pay if you don’t talk to your manager about your options.
 * **Is there a fixed budget for raises and promotions during the normal merit increase cycle?** If there is, it can be very difficult for any one person to get a big raise during the normal merit increase cycle because so many people are vying for a piece of a fixed-budget pie. You may be better off waiting to shoot for an off-cycle promotion instead.
