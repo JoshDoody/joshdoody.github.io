@@ -611,7 +611,7 @@ p, ul, ol {
 
 .header__title {
   font-weight: bold;
-  font-style: italic;
+  /*font-style: italic;*/
   font-size: 2.5em;
   line-height: 1.0;
   color: #00A9FF;
@@ -638,7 +638,7 @@ p, ul, ol {
 }
 
 .header__tagline {
-  font-style: italic;
+  /*font-style: italic;*/
   font-size: 1.1em;
   color: #999;
 }
@@ -809,8 +809,8 @@ h5,
 .section-heading {
   color: #555;
   position: relative;
-  font-family: 'Asap';
-  font-style: italic;
+  font-family: 'Helvetica';
+  /*font-style: italic;*/
 }
 
 h1, h2 {

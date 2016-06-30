@@ -252,9 +252,9 @@ body {
 }
 
 .book-blurb__title {
-  font-family: 'Asap', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   font-weight: bold;
-  font-style: italic;
+  /*font-style: italic;*/
   font-size: 2.5em;
   line-height: 1.0;
   color: #00A9FF;
@@ -281,7 +281,7 @@ body {
 }
 
 .book-blurb__sub-title {
-  font-style: italic;
+  /*font-style: italic;*/
   font-size: 1.3em;
   color: #999;
   margin: .25em 0 .25em 0;
