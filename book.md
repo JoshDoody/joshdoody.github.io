@@ -17,7 +17,7 @@ If you decide to buy the [book]({{ site.baseurl }}/#basic), [courses]({{ site.ba
 
 * * *
 
-## Why is are you giving this away for free?
+## Why are you giving this away for free?
 
 I like helping people, and this is another way I can help people by making sure everyone has access to my book.
 
