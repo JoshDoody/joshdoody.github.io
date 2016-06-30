@@ -20,8 +20,6 @@ If you decide to buy the [book]({{ site.baseurl }}/#basic), [courses]({{ site.ba
 {% include book_contents_linked.html %}
 </html>
 
-* * *
-
 ## Why are you giving this away for free?
 
 I like [helping people]({{ site.bsaeurl }}/testimonials/), and this is another way I can help people by making sure everyone has access to my book.
