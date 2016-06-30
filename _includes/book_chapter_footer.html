@@ -8,9 +8,9 @@
 			{% elsif page == chapter_list.last %}
 			<p class="book-excerpt-footer"><strong>PREV:</strong> <a href="{{ site.baseurl }}/book/">Book</a> >  <a href="{{ site.baseurl }}{{ chapter_list[previous_index].url }}">{{ chapter_list[previous_index].title }}</a></p>
 			{% else %}
-			<p class="book-excerpt-footer"><strong>PREV:</strong> <a href="{{ site.baseurl }}/book/">Book</a> >  <a href="{{ site.baseurl }}{{ chapter_list[previous_index].url }}">{{ chapter_list[previous_index].title }}</a></p>
-			<hr>
 			<p class="book-excerpt-footer"><strong>NEXT:</strong> <a href="{{ site.baseurl }}/book/">Book</a> >  <a href="{{ site.baseurl }}{{ chapter_list[next_index].url }}">{{ chapter_list[next_index].title }}</a></p>
+			<hr>
+			<p class="book-excerpt-footer"><strong>PREV:</strong> <a href="{{ site.baseurl }}/book/">Book</a> >  <a href="{{ site.baseurl }}{{ chapter_list[previous_index].url }}">{{ chapter_list[previous_index].title }}</a></p>
 			{% endif %}
 			<hr>
 			
