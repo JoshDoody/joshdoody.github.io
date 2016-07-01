@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Everything you need to know about salary negotiation, in one place
+title: This guide is all you need to know about salary negotiation
 tagline: Read Fearless Salary Negotiation for free
 excerpt: Read Fearless Salary Negotiation online for free and quickly learn everything you need to know about salary negotiation in one place.
-last_modified_at: 2016-06-30
+last_modified_at: 2016-07-01
 share_title: Read Fearless Salary Negotiation for free
 ---
 Most salary negotiation guides are a big collection of articles by different authors. They're good for digging into a *particular* topic, but you have to pick and choose the best article each time.
 
 Even when you find a good article, it may not cover the entire topic. And that means you have to go find *another* article by a *different* author to learn more. Different authors have different strategies and perspectives, which means you have to make sense of all those different ideas to use what you found.
 
-## Read the ultimate salary negotiation guide for free
+## Read Fearless Salary Negotiation for free online
 
 Wouldn't it be so much easier read a complete guide written by a single author to walk you through the entire salary negotiation process step-by-step?
 
