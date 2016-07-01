@@ -18,9 +18,9 @@ Wouldn't it be so much easier read a complete guide written by a single author t
 
 ## Where should you start?
 
-If you have a job interview coming up, start with [How to ace your next interview]({{ site.baseurl }}/book/interview/). If you already have a job offer, start with [How to negotiate your new salary]({{ site.baseurl }}/book/negotiate/).
+If you have a job interview coming up, start with [How to ace your next interview]({{ site.baseurl }}/interview-preparation/). If you already have a job offer, start with [How to negotiate your new salary]({{ site.baseurl }}/why-negotiate-starting-salary/).
 
-If you're happy where you are but want more from your current job, start with [How to get your next raise]({{ site.baseurl }}/book/raise/).
+If you're happy where you are but want more from your current job, start with [How to get your next raise]({{ site.baseurl }}/how-to-ask-for-a-raise-at-work/).
 
 <html>
 {% include book_contents_linked.html %}
