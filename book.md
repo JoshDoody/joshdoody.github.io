@@ -1,20 +1,26 @@
 ---
 layout: post
-title: This is the ultimate salary negotiation guide
+title: Everything you need to know about salary negotiation, in one place
 tagline: Read Fearless Salary Negotiation for free
-excerpt: Read Fearless Salary Negotiation—the ultimate salary negotiation guide—online for free to decide if it's right for you.
+excerpt: Read Fearless Salary Negotiation online for free and quickly learn everything you need to know about salary negotiation in one place.
 last_modified_at: 2016-06-30
 share_title: Read Fearless Salary Negotiation for free
 ---
-Most salary negotiation guides are a big collection of articles. They're good for digging into a *particular* topic, but you have to pick and choose the best article each time.
+Most salary negotiation guides are a big collection of articles by different authors. They're good for digging into a *particular* topic, but you have to pick and choose the best article each time.
 
-It would be so much easier read a guide designed to walk you through the entire salary negotiation process step-by-step. That's why I wrote *Fearless Salary Negotiation*, which quickly became a #1 Best Seller on Amazon. It's a step-by-step guide that walks you through every phase of the interview and salary negotiation processes, and it's packed with specific tactics so you always know what to do next.
+Even when you find a good article, it may not cover the entire topic. And that means you have to go find *another* article by a *different* author to learn more. Different authors have different strategies and perspectives, which means you have to make sense of all those different ideas to use what you found.
 
 ## Read the ultimate salary negotiation guide for free
 
-***Fearless Salary Negotiation* is *the* ultimate salary negotiation guide**, and you can read it here for free.
+Wouldn't it be so much easier read a complete guide written by a single author to walk you through the entire salary negotiation process step-by-step?
 
-If you decide to buy the [book]({{ site.baseurl }}/#basic), [courses]({{ site.baseurl }}/video-courses/) or [coaching]({{ site.baseurl }}/coach/), you can do that any time. If you prefer to skim the book online, you can do that too. 
+*Fearless Salary Negotiation* is a step-by-step guide that walks you through every phase of the interview and salary negotiation processes, and it's packed with specific tactics so you always know what to do next. That's why it quickly became a #1 Best Seller on Amazon.
+
+## Where should you start?
+
+If you have a job interview coming up, start with [How to ace your next interview]({{ site.baseurl }}/book/interview/). If you already have a job offer, start with [How to negotiate your new salary]({{ site.baseurl }}/book/negotiate/).
+
+If you're happy where you are but want more from your current job, start with [How to get your next raise]({{ site.baseurl }}/book/raise/).
 
 <html>
 {% include book_contents_linked.html %}
@@ -46,4 +52,4 @@ My book is the *foundation* for everything else I offer, and those other things 
 
 Share it. The more you share, the more people will see it. That means more people can use *Fearless Salary Negotiation*, and more people will buy it.
 
-Use the little buttons below to share on your favorite social network, or just copy/paste [the link to this page]({{ site.baseurl }}/book/) and send it to someone who might benefit from it.
+Use the little buttons below to share on your favorite social network, or just copy/paste [the link to this page]({{ site.baseurl }}{{ page.url }}) and send it to someone who might benefit from it.
