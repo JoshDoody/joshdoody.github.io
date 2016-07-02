@@ -68,4 +68,4 @@ After the question and answer portion of the interview, you'll usually move into
 
 ## What about curveball questions?
 
-Curveball questions can be tricky. Read about how to handle curveball questions [here({{ site.baseurl }}/curveball-questions/).
+Curveball questions can be tricky. Read about how to handle curveball questions [here]({{ site.baseurl }}/curveball-questions/).
