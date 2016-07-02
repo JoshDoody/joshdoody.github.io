@@ -1,33 +1,6 @@
 			{% unless page.has_basic_edition_pitch == true %}
 			{% include book_ad_box.html blurb="Ready to buy? With the <em>Fearless Salary Negotiation</em> Basic Edition, download your own copy and read on your own eReader, plus get worksheets, email templates, and case studies to help you get the most out of the book." %}
-			{% endunless %}
-			
-			{% comment %}
-			{% case page.chapter %}
-			{% when 'salary-structures' %}
-			<script async id="_ck_15649" src="https://forms.convertkit.com/15649?v=5"></script>
-						
-			{% when 'value' %}
-			<script async id="_ck_14072" src="https://forms.convertkit.com/14072?v=5"></script>
-						
-			{% when 'interview' %}
-			<script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
-
-			{% when 'negotiate' %}
-			<script async id="_ck_1661" src="https://forms.convertkit.com/1661?v=5"></script>
-			
-			{% when 'leave' %}
-			<script async id="_ck_1616" src="https://forms.convertkit.com/1616?v=5"></script>
-						
-			{% when 'promotion' %}
-			<script async id="_ck_13571" src="https://forms.convertkit.com/13571?v=5"></script>
-									
-			{% when 'raise' %}
-			<script async id="_ck_9237" src="https://forms.convertkit.com/9237?v=5"></script>
-												
-			{% endcase %}
-			{% endcomment %}
-			
+			{% endunless %}			
 			
 			{% assign this_chapter = site.book_chapters | where:"chapter", page.chapter %}
 			<hr>			
@@ -63,3 +36,30 @@
 			<hr>
 			
 			{% include share_links.html %}
+			
+			
+			{% comment %}
+			{% case page.chapter %}
+			{% when 'salary-structures' %}
+			<script async id="_ck_15649" src="https://forms.convertkit.com/15649?v=5"></script>
+						
+			{% when 'value' %}
+			<script async id="_ck_14072" src="https://forms.convertkit.com/14072?v=5"></script>
+						
+			{% when 'interview' %}
+			<script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
+
+			{% when 'negotiate' %}
+			<script async id="_ck_1661" src="https://forms.convertkit.com/1661?v=5"></script>
+			
+			{% when 'leave' %}
+			<script async id="_ck_1616" src="https://forms.convertkit.com/1616?v=5"></script>
+						
+			{% when 'promotion' %}
+			<script async id="_ck_13571" src="https://forms.convertkit.com/13571?v=5"></script>
+									
+			{% when 'raise' %}
+			<script async id="_ck_9237" src="https://forms.convertkit.com/9237?v=5"></script>
+												
+			{% endcase %}
+			{% endcomment %}
