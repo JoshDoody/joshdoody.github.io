@@ -463,7 +463,7 @@ li a {
  * Callout Box
  */
 .chapter-nav-box {
-  background: #555;
+  background: #777;
 	color: white;
   margin-bottom: 20px;
 	display: flex;
@@ -488,7 +488,7 @@ li a {
 	flex: 1;
 	padding: 10px 20px;
 	text-align: right;
-	border-left: 1px solid #888;
+	border-left: 1px solid white;
 }
 
 .chapter-nav-box__content-right i {
