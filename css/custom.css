@@ -465,10 +465,8 @@ li a {
 .chapter-nav-box {
   background: #555;
 	color: white;
-  overflow: hidden;
-	position: relative;
   margin-bottom: 20px;
-  max-width: 68em;
+	display: flex;
 }
 
 .chapter-nav-box p {
@@ -481,39 +479,20 @@ li a {
 	font-weight: 800;
 }
 
-.chapter-nav-box::after {
-  clear: both;
-  content: "";
-  display: table;
-}
-
 /*@media only screen and (min-width: 650px) {*/
   .chapter-nav-box__content-left {
-    width: 50%;
+		flex: 1;
 		padding: 10px 20px;
-  }
-  .chapter-nav-box__content-left:last-child {
-    margin-right: 0;
   }
 	/*}*/
 
 /*@media only screen and (min-width: 650px) {*/
   .chapter-nav-box__content-right {
+		flex: 1;
 		padding: 10px 20px;
 		text-align: right;
-    width: 50%;
-		height: 100%;
 		border-left: 1px solid #888;
-		position: absolute;
-    top: 0;
-    right: 0;
   }
-  .chapter-nav-box__content-right:last-child {
-    margin-right: 0;
-  }
-	.chapter-nav-box__content-right i {
-		padding-right: 0;
-	}
 	/*}*/
 
 /*@media only screen and (min-width: 650px) {*/
