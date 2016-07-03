@@ -457,3 +457,70 @@ li a {
 .pull-right {
 	float: right;
 }
+
+/* chapter nav box */
+/**
+ * Callout Box
+ */
+.chapter-nav-box {
+  background: #555;
+	color: white;
+  overflow: auto;
+	padding: 10px 20px 10px 20px;
+  margin-bottom: 20px;
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.chapter-nav-box p {
+	margin-bottom: 0;
+}
+
+.chapter-nav-box a, .chapter-nav-box a:hover, .chapter-nav-box a:active {
+	text-decoration: none;
+	color: white;
+	font-weight: 800;
+}
+
+.chapter-nav-box::after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+/*@media only screen and (min-width: 650px) {*/
+  .chapter-nav-box__content-left {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+		padding-right: 20px;
+    width: 48.821175%;
+		border-right: 1px solid #888;
+  }
+  .chapter-nav-box__content-left:last-child {
+    margin-right: 0;
+  }
+	/*}*/
+
+/*@media only screen and (min-width: 650px) {*/
+  .chapter-nav-box__content-right {
+    float: left;
+		text-align: right;
+    display: block;
+    margin-right: 2.35765%;
+    width: 48.821175%;
+  }
+  .chapter-nav-box__content-right:last-child {
+    margin-right: 0;
+  }
+	.chapter-nav-box__content-right i {
+		padding-right: 0;
+	}
+	/*}*/
+
+/*@media only screen and (min-width: 650px) {*/
+  .cnapter-nav-box--spaced {
+    margin: 4em 0 2em 0;
+  }
+	/*}*/
