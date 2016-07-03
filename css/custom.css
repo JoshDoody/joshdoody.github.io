@@ -465,12 +465,10 @@ li a {
 .chapter-nav-box {
   background: #555;
 	color: white;
-  overflow: auto;
-	padding: 10px 20px 10px 20px;
+  overflow: hidden;
+	position: relative;
   margin-bottom: 20px;
   max-width: 68em;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .chapter-nav-box p {
@@ -491,12 +489,8 @@ li a {
 
 /*@media only screen and (min-width: 650px) {*/
   .chapter-nav-box__content-left {
-    float: left;
-    display: block;
-    margin-right: 2.35765%;
-		padding-right: 20px;
-    width: 48.821175%;
-		border-right: 1px solid #888;
+    width: 50%;
+		padding: 10px 20px;
   }
   .chapter-nav-box__content-left:last-child {
     margin-right: 0;
@@ -505,11 +499,14 @@ li a {
 
 /*@media only screen and (min-width: 650px) {*/
   .chapter-nav-box__content-right {
-    float: left;
+		padding: 10px 20px;
 		text-align: right;
-    display: block;
-    margin-right: 2.35765%;
-    width: 48.821175%;
+    width: 50%;
+		height: 100%;
+		border-left: 1px solid #888;
+		position: absolute;
+    top: 0;
+    right: 0;
   }
   .chapter-nav-box__content-right:last-child {
     margin-right: 0;

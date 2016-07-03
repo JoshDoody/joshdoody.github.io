@@ -28,7 +28,7 @@
 				</div>
 				{% else %}
 				<div class="chapter-nav-box__content-left">
-					<p><a href="{{ site.baseurl }}{{ previous_chapter.url }}"><i class="fa fa-arrow-left"></i>Previous<span class="hidden-sm chapter-title"><br>{{ previous_chapter.title }}</span></a></p>
+					<p><a href="{{ site.baseurl }}{{ previous_chapter.url }}"><i class="fa fa-arrow-left"></i>Prev<span class="hidden-xs">ious</span><span class="hidden-sm chapter-title"><br>{{ previous_chapter.title }}</span></a></p>
 				</div>
 				{% endif %}
       <div class="chapter-nav-box__content-right">
@@ -36,7 +36,7 @@
 			</div>
 			{% elsif page == excerpt_list.last %}
 			<div class="chapter-nav-box__content-left">
-				<p><a href="{{ site.baseurl }}{{ excerpt_list[previous_excerpt_index].url }}"><i class="fa fa-arrow-left"></i>Previous<span class="hidden-sm chapter-title"><br>{{ excerpt_list[previous_excerpt_index].title }}</a></span></p>
+				<p><a href="{{ site.baseurl }}{{ excerpt_list[previous_excerpt_index].url }}"><i class="fa fa-arrow-left"></i>Prev<span class="hidden-xs">ious</span><span class="hidden-sm chapter-title"><br>{{ excerpt_list[previous_excerpt_index].title }}</a></span></p>
 			</div>
 				{% if current_chapter == chapter_list.last %}
 				
@@ -51,7 +51,7 @@
 				{% endif %}
 			{% else %}
 			<div class="chapter-nav-box__content-left">
-				<p><a href="{{ site.baseurl }}{{ excerpt_list[previous_excerpt_index].url }}"><i class="fa fa-arrow-left"></i>Previous<span class="hidden-sm chapter-title"><br>{{ excerpt_list[previous_excerpt_index].title }}</a></span></p>
+				<p><a href="{{ site.baseurl }}{{ excerpt_list[previous_excerpt_index].url }}"><i class="fa fa-arrow-left"></i>Prev<span class="hidden-xs">ious</span><span class="hidden-sm chapter-title"><br>{{ excerpt_list[previous_excerpt_index].title }}</a></span></p>
 			</div>
       <div class="chapter-nav-box__content-right">
 				<p><a href="{{ site.baseurl }}{{ excerpt_list[next_excerpt_index].url }}">Next <i class="fa fa-arrow-right"></i><span class="hidden-sm"><br>{{ excerpt_list[page.section].title }}</a></span></p>
