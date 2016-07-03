@@ -5,8 +5,9 @@ tagline: An overview of the raise process
 excerpt: Here's a simple process to ask for a raise at work. You'll define your target salary, show how you've earned it, then ask for your raise from your manager.
 has_basic_edition_pitch: true
 last_modified_at: 2016-06-29
+book_section: 12
 chapter: raise
-section: 1
+section: 0
 ---
 
 Hiring people is expensive and risky. Each new hire costs thousands of dollars. This is why companies are often open to "market adjustments"—by paying employees something close to market value, they keep experienced, proven employees at the company, save the expense of hiring a replacement, and avoid the risk of hiring a new person who is unproven.

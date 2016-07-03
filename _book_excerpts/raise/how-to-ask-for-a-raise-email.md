@@ -5,8 +5,9 @@ tagline: Send your raise request after you talk to your manager
 excerpt: This is your chance to make your case in writing so your manager can circulate it in your own words. You'll make your case better than anyone else will.
 has_basic_edition_pitch: true
 last_modified_at: 2016-06-29
+book_section: 12
 chapter: raise
-section: 4
+section: 3
 ---
 
 The best way to prepare your case is to write it down. As it turns out, you’ll also want to have a written summary of why you deserve your raise later on (see the "Present your case" section below), so we’re going to kill two birds with one stone in this section by building an email that summarizes your case.

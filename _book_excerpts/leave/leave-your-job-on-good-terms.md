@@ -4,8 +4,9 @@ title: Leave your job on good terms
 tagline: Rage-quitting won't do you any good in the long run
 excerpt: When you leave your job on good terms, you leave the door open for future opportunities in your industry. Here's how to leave your job on good terms.
 last_modified_at: 2016-06-21
+book_section: 9
 chapter: leave
-section: 1
+section: 0
 ---
 
 *Leaving* a job isn’t nearly as exciting as *getting* or *starting* one, but it’s just as important. After your first job, every job you start will be preceded by one you left. And, more importantly, you’ll get many of your jobs through contacts from previous jobs.

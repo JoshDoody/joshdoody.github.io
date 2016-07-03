@@ -4,8 +4,9 @@ title: The wrap-up phase of a job interview
 tagline: Make sure to take advantage of the chance to ask questions in your job interviews
 excerpt: The interview isn't quite over when you've finished answering questions. There's still an opportunity to excel in your job interview.
 last_modified_at: 2016-06-25
+book_section: 7
 chapter: interview
-section: 6
+section: 5
 ---
 
 Things will usually start winding down when there are a few minutes left. You’ll feel the tone shift a little bit from more formal to more friendly. It may feel like the interview is already over, but it’s not! There may still be a few great opportunities to make a good impression on Andy (that's your interviewer's name).

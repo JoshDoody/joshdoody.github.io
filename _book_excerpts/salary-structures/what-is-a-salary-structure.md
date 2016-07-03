@@ -4,8 +4,9 @@ title: What is a salary structure?
 tagline: A look at all the components that make up a salary structure
 excerpt: A company's salary structure is made up of basic building blocks and determines how much you can be paid at your job.
 last_modified_at: 2016-06-25
+book_section: 4
 chapter: salary-structures
-section: 1
+section: 0
 ---
 
 Before we talk about *how* to get a [promotion]({{ site.baseurl }}/book/promotion/) or [raise]({{ site.baseurl }}/book/raise/), we need to talk a little about how companies typically structure pay scales. This is important because it helps explain why all raises aren’t created equal. Sometimes, it’s really tough to get a 5% pay bump, and sometimes it’ll be relatively easy to get a 10% pay bump or greater.

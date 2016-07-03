@@ -5,8 +5,9 @@ tagline: A checklist to leave your job on good terms
 excerpt: Here's how to use your last two weeks to make a strong impression on your colleagues and expand your professional network.
 has_basic_edition_pitch: true
 last_modified_at: 2016-06-29
+book_section: 9
 chapter: leave
-section: 2
+section: 1
 ---
 
 Here are six things you can do to make sure you leave your job on good terms while making a strong impression on your colleagues and expanding your professional network.

@@ -4,8 +4,9 @@ title: What to do when you don't get promoted
 tagline: Work with your manager to make a plan
 excerpt: Even if you put in the work, there's no guarantee you'll be promoted. Here's how to plan your next move after bad news.
 last_modified_at: 2016-06-23
+book_section: 11
 chapter: promotion
-section: 7
+section: 6
 ---
 
 If you didn’t get what you asked for, you should ask your manager to help you formulate a plan to achieve your goal. "I’m disappointed that I couldn’t be promoted to Senior Business Analyst. Can we please talk about what I need to do, specifically, to earn that promotion?"

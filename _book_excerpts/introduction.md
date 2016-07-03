@@ -1,11 +1,12 @@
 ---
-layout: book_chapter
+layout: book_excerpt
 title: Fearless Salary Negotiation—Introduction
 excerpt: An introduction to Fearless Salary Negotiation—common fears people have and how we can overcome them.
 last_modified_at: 2016-06-28
+permalink: /book/:path
 type: contents
-chapter: introduction
-section: 1
+book_section: 1
+section: 0
 ---
 
 When I ask people what keeps them from getting paid what they’re worth, I hear one word over and over again: *scared*. 

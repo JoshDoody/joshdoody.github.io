@@ -4,8 +4,9 @@ title: What is your target salary?
 tagline: Defining your goal for your next raise
 excerpt: Your first step to asking for a raise is to set your target salary. What salary should you be paid for the value you bring to the company?
 last_modified_at: 2016-06-24
+book_section: 12
 chapter: raise
-section: 2
+section: 1
 ---
 
 How do you define your goal when you’re pursuing a raise? You estimate the market value for your skillset and experience and adjust that number to account for how valuable your skillset and experience are at your specific company. 

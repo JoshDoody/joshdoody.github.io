@@ -4,8 +4,9 @@ title: Adjust your market value estimate for your specific geographic region
 tagline: Refine your estimate using local company data
 excerpt: Refine your estimate of your industry-wide market value by accounting for what similar people are paid for similar jobs in your geographic region.
 last_modified_at: 2016-06-25
+book_section: 5
 chapter: value
-section: 3
+section: 2
 ---
 
 This is tougher to get than the publicly-available salary data online, and easier to get than your intra-company peers’ salaries (which we’ll cover in the next section).

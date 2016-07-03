@@ -4,8 +4,9 @@ title: Ask for a raise in person and follow up with an email
 tagline: Ask for a raise in your regular 1-on-1 or schedule a dedicated meeting
 excerpt: How to ask for a raise in your 1-on-1 and then follow up with an email that can be circulated throughout the approval process.
 last_modified_at: 2016-06-24
+book_section: 12
 chapter: raise
-section: 5
+section: 4
 ---
 
 Now you’re ready to present your case and request your raise. The proof is in [the email you drafted]({{ site.baseurl }}/how-to-ask-for-a-raise-email/). You have a list of things you've done that demonstrate that you're adding more value than you were when your current salary was set, and you have praise from clients and colleagues to help drive things home.

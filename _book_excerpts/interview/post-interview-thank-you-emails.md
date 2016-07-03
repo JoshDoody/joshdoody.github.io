@@ -5,8 +5,9 @@ tagline: Sample thank you emails you can send after a job interview
 excerpt: Even after you finish your job interviews, you can continue to impress and stay in touch by sending thanks you emails.
 has_basic_edition_pitch: true
 last_modified_at: 2016-06-29
+book_section: 7
 chapter: interview
-section: 9
+section: 8
 ---
 
 Now you’ve aced the Interview, but your work isn’t done yet—you still have a few more opportunities to stand out in the post-interview.

@@ -5,8 +5,9 @@ tagline: It's much easier to get promoted if you're already doing your target jo
 excerpt: If you focus on doing your target job, then you're much more likely to be promoted than if you just focus on your current job.
 has_basic_edition_pitch: true
 last_modified_at: 2016-06-29
+book_section: 11
 chapter: promotion
-section: 3
+section: 2
 ---
 
 The first part of defining your goal is determining what you’re after. The second part of defining your goal is determining the differences between your current job and your target job. The third part of defining your goal is to create a specific plan—a roadmap—to get experience with each of those differences to demonstrate that you’re ready for this promotion.

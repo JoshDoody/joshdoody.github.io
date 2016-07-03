@@ -4,8 +4,9 @@ title: Ask for a promotion in person and follow up with an email
 tagline: Ask in your regular 1-on-1 or schedule a dedicated meeting
 excerpt: How to ask for a promotion in your 1-on-1 and then follow up with an email that can be circulated throughout the approval process.
 last_modified_at: 2016-06-23
+book_section: 11
 chapter: promotion
-section: 6
+section: 5
 ---
 
 Now you’re ready to present your case and request your promotion. The proof is in the [email you drafted]( {{ site.baseurl }}/promotion-email-template/). You have a list of things you've done that demonstrate that you're already doing your target job, and you have praise from clients and colleagues to really drive things home.

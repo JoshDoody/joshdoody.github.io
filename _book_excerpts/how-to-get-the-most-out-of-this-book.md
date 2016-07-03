@@ -1,12 +1,13 @@
 ---
-layout: book_chapter
+layout: book_excerpt
 title: How to get the most out of Fearless Salary Negotiation
 excerpt: Here's how to get the most out of Fearless Salary Negotiation.
 has_basic_edition_pitch: true
 last_modified_at: 2016-06-29
+permalink: /book/:path
 type: contents
-chapter: most
-section: 2
+book_section: 2
+section: 0
 ---
 
 There are really two ways to read this book: read it straight through or use it as a reference. Or both, of course. The best way to understand what *Fearless Salary Negotiation* is about is to just read the book straight through. Then you’ll have a full picture of how to [estimate your market value]({{ site.baseurl }}/book/value/), how to [interview]({{ site.baseurl }}/book/interview/) effectively, [how to negotiate your salary]({{ site.baseurl }}/book/negotiate/), [how to leave a job on the best possible terms]({{ site.baseurl }}/book/leave/) when the time comes, and how to get a [promotion]({{ site.baseurl }}/book/promotion/) or [raise]({{ site.baseurl }}/book/raise/).

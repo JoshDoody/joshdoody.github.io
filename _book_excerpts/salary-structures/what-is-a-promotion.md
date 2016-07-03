@@ -4,8 +4,9 @@ title: What is a promotion?
 tagline: Examples of promotions and raises
 excerpt: Simple examples to illustrate a promotion, a raise, and a promotion with a raise.
 last_modified_at: 2016-06-25
+book_section: 4
 chapter: salary-structures
-section: 2
+section: 1
 ---
 
 ## Promotions

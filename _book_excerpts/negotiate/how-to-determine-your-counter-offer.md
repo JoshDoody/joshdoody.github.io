@@ -4,8 +4,9 @@ title: How to determine your counteroffer when negotiating starting salary
 tagline: How to determine the right counteroffer for your specific situation
 excerpt: A step-by-step method to determine the right counteroffer for your specific situation.
 last_modified_at: 2016-06-25
+book_section: 8
 chapter: negotiate
-section: 8
+section: 7
 ---
 
 By waiting for them to make the first offer, you learned more about the range of salaries they’re willing to pay and gave yourself an opportunity to formulate a counter based on their offer so that you can get as close as possible to the *maximum* they’re willing to pay.

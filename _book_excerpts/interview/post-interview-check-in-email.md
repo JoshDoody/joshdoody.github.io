@@ -5,8 +5,9 @@ tagline: Wait about a week and send a follow-up
 excerpt: You should follow up weekly for at least a few weeks after your job interview to stay on the company's radar.
 has_basic_edition_pitch: true
 last_modified_at: 2016-06-29
+book_section: 8
 chapter: interview
-section: 10
+section: 9
 ---
 
 Some companies will let you know if they decide not to move forward with you, and some companies won’t. It’s difficult to know which you’re dealing with, so you may want to send one more follow-up email after about a week to make sure they haven’t forgotten about you. 

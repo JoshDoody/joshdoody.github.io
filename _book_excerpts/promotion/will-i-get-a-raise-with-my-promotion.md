@@ -4,8 +4,9 @@ title: '"Will I get a raise with my promotion?"'
 tagline: Most promotions come with a standard raise
 excerpt: If you just want a title change, then a raise might be the icing on top. But if you want a big raise with your promotion, you may need to specifically pursue it.
 last_modified_at: 2016-06-23
+book_section: 11
 chapter: promotion
-section: 8
+section: 7
 ---
 
 Raises are such an important subject, I’m dedicating an entire chapter to them. In the next chapter, "How to negotiate your next raise", I’ll walk you through the process of requesting a raise to bring your compensation in line with your market value.

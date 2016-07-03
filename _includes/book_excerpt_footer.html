@@ -2,65 +2,55 @@
 			{% include book_ad_box.html blurb="Ready to buy? With the <em>Fearless Salary Negotiation</em> Basic Edition, download your own copy and read on your own eReader, plus get worksheets, email templates, and case studies to help you get the most out of the book." %}
 			{% endunless %}			
 			
-			{% assign this_chapter = site.book_chapters | where:"chapter", page.chapter %}
+			{% assign this_chapter = site.book_chapters | where:"chapter", page.chapter | first %}
+			{% assign excerpts_from_this_book_section = site.book_excerpts | where:"book_section", page.book_section | sort:"section" %}
 			
-			{% assign excerpt_list = site.book_excerpts | where:"chapter", page.chapter | sort:"section" %}
-			{% assign next_excerpt_index = page.section %}
-			{% assign previous_excerpt_index = page.section | minus: 2 %}
+			{% assign next_book_section_index = page.book_section | plus: 1 %}
+			{% assign previous_book_section_index = page.book_section | minus: 1 %}
+			{% assign next_section_index = page.section | plus: 1 %}
+			{% assign previous_section_index = page.section | minus: 1 %}
 			
-			{% assign chapter_list = site.book_chapters %}
-			{% assign chapter_list = chapter_list | sort:"section" %}
-			{% assign current_chapter = chapter_list | where:"chapter", page.chapter | first %}
-			{% assign previous_chapter_index = current_chapter.section | minus: 1 %}
-			{% assign previous_chapter = chapter_list[previous_chapter_index] %}
-			{% assign next_chapter_index = current_chapter.section | plus: 1 %}
-			{% assign next_chapter = chapter_list[next_chapter_index] %}
+			{% if page.book_section == 0 and page.section == excerpts_from_this_book_section.first.section %}
+				{% assign previous_excerpt == nil %}
+			{% elsif page.section == 0 %}
+				{% assign excerpts_from_previous_book_section = site.book_excerpts | where:"book_section", previous_book_section_index | sort:"section" %}
+				{% assign previous_excerpt = excerpts_from_previous_book_section.last %}
+			{% else %}
+				{% assign previous_excerpt = excerpts_from_this_book_section[previous_section_index] %}
+			{% endif %}
 			
-			{% assign next_excerpt = site.book_excerpts | where:"chapter", next_chapter.chapter | sort:"section" | first %}
-			{% assign previous_excerpt = site.book_excerpts | where:"chapter", previous_chapter.chapter | sort:"section" | first %}
+			{% if page.book_section == 12 and page.section == excerpts_from_this_book_section.last.section %}
+				{% assign next_excerpt == nil %}
+			{% elsif page.section == excerpts_from_this_book_section.last.section %}
+				{% assign excerpts_from_next_book_section = site.book_excerpts | where:"book_section", next_book_section_index | sort:"section" %}
+				{% assign next_excerpt = excerpts_from_next_book_section.first %}
+			{% else %}
+				{% assign next_excerpt = excerpts_from_this_book_section[next_section_index] %}
+			{% endif %}
 			
       <div class="chapter-nav-box chapter-nav-box--spaced">
-			
-			{% if page == excerpt_list.first %}
-				{% if current_chapter == chapter_list.first %}
 				<div class="chapter-nav-box__content-left">
+				{% if previous_excerpt == nil %}
 					<p><a href="{{ site.baseurl }}/book/"><i class="fa fa-arrow-left"></i>Book home</a></p>
-				</div>
 				{% else %}
-				<div class="chapter-nav-box__content-left">
-					<p><a href="{{ site.baseurl }}{{ previous_chapter.url }}"><i class="fa fa-arrow-left"></i>Prev<span class="hidden-xs">ious</span><span class="hidden-sm chapter-title"><br>{{ previous_chapter.title }}</span></a></p>
-				</div>
+					<p><a href="{{ site.baseurl }}{{ previous_excerpt.url }}"><i class="fa fa-arrow-left"></i>Prev<span class="hidden-xs">ious</span><span class="hidden-sm chapter-title"><br>{{ previous_excerpt.title }}</span></a></p>
 				{% endif %}
-      <div class="chapter-nav-box__content-right">
-				<p><a href="{{ site.baseurl }}{{ excerpt_list[1].url }}">Next <i class="fa fa-arrow-right"></i><span class="hidden-sm"><br>{{ excerpt_list[1].title }}</a></span></p>
-			</div>
-			{% elsif page == excerpt_list.last %}
-			<div class="chapter-nav-box__content-left">
-				<p><a href="{{ site.baseurl }}{{ excerpt_list[previous_excerpt_index].url }}"><i class="fa fa-arrow-left"></i>Prev<span class="hidden-xs">ious</span><span class="hidden-sm chapter-title"><br>{{ excerpt_list[previous_excerpt_index].title }}</a></span></p>
-			</div>
-				{% if current_chapter == chapter_list.last %}
-				
+				</div>
 				<div class="chapter-nav-box__content-right">
+				{% if next_excerpt == nil %}
 					<p><a href="{{ site.baseurl }}/book/">Book home <i class="fa fa-arrow-right"></i></a></p>
-				</div>
 				{% else %}
-				
-	      <div class="chapter-nav-box__content-right">
 					<p><a href="{{ site.baseurl }}{{ next_excerpt.url }}">Next <i class="fa fa-arrow-right"></i><span class="hidden-sm"><br>{{ next_excerpt.title }} {{ next_chapter.title }}</a></span></p>
-				</div>
 				{% endif %}
-			{% else %}
-			<div class="chapter-nav-box__content-left">
-				<p><a href="{{ site.baseurl }}{{ excerpt_list[previous_excerpt_index].url }}"><i class="fa fa-arrow-left"></i>Prev<span class="hidden-xs">ious</span><span class="hidden-sm chapter-title"><br>{{ excerpt_list[previous_excerpt_index].title }}</a></span></p>
-			</div>
-      <div class="chapter-nav-box__content-right">
-				<p><a href="{{ site.baseurl }}{{ excerpt_list[next_excerpt_index].url }}">Next <i class="fa fa-arrow-right"></i><span class="hidden-sm"><br>{{ excerpt_list[page.section].title }}</a></span></p>
-			</div>
-			{% endif %}
+				</div>
 			</div>
 			
 			<p class="book-excerpt-footer">
-				<strong>YOU ARE HERE:</strong> <a href="{{ site.baseurl }}/book/">Book</a> >  <a href="{{ site.baseurl }}/book/{{ page.chapter }}">Chapter {{ this_chapter.first.chapter_number }}</a> > <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+				<strong>YOU ARE HERE:</strong> <a href="{{ site.baseurl }}/book/">Book</a> >
+				{% unless page.chapter == nil %} 
+				<a href="{{ site.baseurl }}/book/{{ page.chapter }}">Chapter {{ this_chapter.chapter_number }}</a> >
+				{% endunless %}
+				<a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
 			</p>
 			<hr>
 			

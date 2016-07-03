@@ -5,8 +5,9 @@ tagline: A counter offer email example with detailed explanation
 excerpt: It's best to deliver your counter offer in an email. Here is a counter offer email example with detailed explanation.
 has_basic_edition_pitch: true
 last_modified_at: 2016-06-29
+book_section: 8
 chapter: negotiate
-section: 10
+section: 9
 ---
 
 When you deliver your [counter]({{ site.baseurl }}/how-to-determine-your-counter-offer/), you have another opportunity to make your case for the maximum possible salary. And, more importantly, you can help the recruiter or hiring manager make a strong case to whoever is holding the purse strings. Your counter will probably require approval by someone higher up the chain of command, so you should give them everything they need to make the strongest case possible for you. Most of the time, if you’re this far in the process, they want to make things work, so this is the perfect time to make your case again.

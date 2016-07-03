@@ -4,8 +4,9 @@ title: Counteroffer even if you really like the job offer
 tagline: Always counter offer because you never know you salary potential
 excerpt: You should counter offer even if you really like your job offer because you could leave money on the table.
 last_modified_at: 2016-06-25
+book_section: 8
 chapter: negotiate
-section: 6
+section: 5
 ---
 
 They’ve finally [made you an offer]({{ site.baseurl }}/how-to-respond-to-a-job-offer/), and *they* threw out the first number because you didn’t give in to [the dreaded salary question]({{ site.baseurl }}/the-dreaded-salary-question/). Now what? You need to [determine your counter]({{ site.baseurl }}/how-to-determine-your-counter-offer/).

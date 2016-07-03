@@ -4,8 +4,9 @@ title: How do you know your pay grade?
 tagline: Some ways you can learn what your pay grade looks like
 excerpt: Knowing your pay grade details will help you get paid what you're worth.
 last_modified_at: 2016-06-25
+book_section: 4
 chapter: salary-structures
-section: 3
+section: 2
 ---
 
 The short answer is that you probably can’t, at least not for your specific company. I’ve worked at one company that told me the midpoint of my pay grade (but not the bottom and top bounds). Every other company I have worked for has protected their pay grade information like a trade secret.

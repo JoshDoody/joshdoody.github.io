@@ -4,8 +4,9 @@ title: You aggression factor
 tagline: How aggressive should you be when you negotiate starting salary?
 excerpt: A simple way to determine how aggressive you should be when negotiating starting salary.
 last_modified_at: 2016-06-25
+book_section: 8
 chapter: negotiate
-section: 7
+section: 6
 ---
 
 Before we can [calculate your counter offer]({{ site.baseurl }}/how-to-determine-your-counter-offer/), we need to determine how aggressive you can be. 

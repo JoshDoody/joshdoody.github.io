@@ -1,13 +1,14 @@
 ---
-layout: book_chapter
+layout: book_excerpt
 title: 'Part 3: Do you have to quit your job to get a big raise?'
 tagline: How to know when you should ask for a raise
 excerpt: Timing your request correctly is extremely important. Here are some things to help determine when you should ask for a raise.
 last_modified_at: 2016-06-28
 share_title: Do you have to quit your job to get a big raise?
+permalink: /book/:path
 type: contents
-chapter: part-3
-section: 10
+book_section: 10
+section: 0
 ---
 
 It’s common knowledge that the way to get big pay increases is to change jobs. But is that really your only option?

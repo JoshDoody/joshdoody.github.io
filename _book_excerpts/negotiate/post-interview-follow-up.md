@@ -4,8 +4,9 @@ title: How to handle the post-interview follow-up call
 tagline: One last chance to avoid a starting salary negotiation pitfall while making your case
 excerpt: How to get the initial job offer without disclosing your desired salary and making your case that you're the best candidate for the postition.
 last_modified_at: 2016-06-25
+book_section: 8
 chapter: negotiate
-section: 4
+section: 3
 ---
 
 Once you’ve finished interviewing, you’ll usually hear from the recruiter or hiring manager, asking if you’re free to chat about your interview process and next steps. This will usually be a pretty short conversation—10 minutes or so. They just want to make sure you’re still interested in the position, and they’re almost always going to take one last shot at getting you to disclose your desired salary. 

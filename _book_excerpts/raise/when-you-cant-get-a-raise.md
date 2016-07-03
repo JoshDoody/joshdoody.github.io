@@ -4,8 +4,9 @@ title: When you should pursue a promotion along with a raise
 tagline: If your current job caps your pay, you may need to pursue a promotion
 excerpt: How to know if your current job can't pay enough for you to get a big raise, and what you can do about that.
 last_modified_at: 2016-06-24
+book_section: 12
 chapter: raise
-section: 7
+section: 6
 ---
 
 It’s possible you should *actually* be pursuing a promotion because the salary you requested is above the top of your [current pay grade]({{ site.baseurl }}/what-is-a-salary-structure/). Your manager may tell you this explicitly—"That raise would put you above the top of your pay grade"—or implicitly—“That would move you higher than most of your peers.” Either of these responses may mean that your best opportunity to keep things moving forward may be to pursue a promotion.

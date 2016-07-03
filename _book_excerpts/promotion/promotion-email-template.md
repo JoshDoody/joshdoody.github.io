@@ -5,8 +5,9 @@ tagline: Send your promotion request after you talk to your manager
 excerpt: This is your chance to make your case in writing so your manager can ciruclate it in your own words. You'll make your case better than anyone else will.
 has_basic_edition_pitch: true
 last_modified_at: 2016-06-29
+book_section: 11
 chapter: promotion
-section: 5
+section: 4
 ---
 
 The best way to prepare your case for a promotion is to write it down. As it turns out, you’ll also want to have a written summary of why you deserve your promotion later on when you [ask for a promotion]({{ site.baseurl }}/ask-for-a-promotion-in-person-first/), so we’re going to kill two birds with one stone in this section by building an email that summarizes your case.

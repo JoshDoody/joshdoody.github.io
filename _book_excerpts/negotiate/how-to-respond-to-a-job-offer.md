@@ -4,8 +4,9 @@ title: How to respond to a job offer
 tagline: Always ask for some time to think it over
 excerpt: You should negotiate starting salary. But first, ask for some time to consider the job offer so you can plan for the negotiation.
 last_modified_at: 2016-06-25
+book_section: 8
 chapter: negotiate
-section: 5
+section: 4
 ---
 
 The initial offer may arrive in a few forms, ranging from informal to formal. Many companies prefer to make the initial offer verbally. The recruiter or the hiring manager will reach out and ask if you have some time to chat, then set up a call where they’ll deliver the offer at a high level: base salary, bonus structure, any stock options, and maybe a possible start date. Sometimes the initial offer will come in an email. 

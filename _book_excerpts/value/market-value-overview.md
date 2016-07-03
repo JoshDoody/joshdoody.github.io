@@ -5,8 +5,9 @@ tagline: A three-phase approach to estimating your market value
 excerpt: A simple three-phase approach to estimate the market value of your skillset and experience in your industry, and for a particular company.
 has_basic_edition_pitch: true
 last_modified_at: 2016-06-29
+book_section: 5
 chapter: value
-section: 1
+section: 0
 ---
 
 Here’s a useful way to think about market value for your skillset and experience: What salary could you expect if you were to go do your job for another company in your industry and geographic area, or if your company were to rehire you as though you had never worked there? That’s the market value of your skillset and experience in your industry. 

@@ -4,8 +4,9 @@ title: How to handle curveball questions in a job interview
 tagline: Keep calm, think through the problem and constraints, and give your best answer
 excerpt: Curveball questions can really throw you off in a job interview. Here's how to make sure you give good answers to unexpected questions.
 last_modified_at: 2016-06-25
+book_section: 7
 chapter: interview
-section: 7
+section: 6
 ---
 
 Interviewers will occasionally throw you a curveball. Sometimes they do this because they want to see how you react when presented with an uncomfortable situation. Sometimes they’re just bored.

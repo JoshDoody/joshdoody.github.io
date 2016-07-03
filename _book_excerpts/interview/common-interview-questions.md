@@ -4,8 +4,9 @@ title: Common interview questions
 tagline: Eight common types of job interview questions you should expect
 excerpt: Here are eight types of job interview questions you should expect along with how to prepare for them.
 last_modified_at: 2016-06-25
+book_section: 7
 chapter: interview
-section: 5
+section: 4
 ---
 
 Once things are rolling, there are many different topics that may be covered during your interview. Every interview is different. Even Andy’s (that's your interviewer's name so we don't have to say "your interviewer" over and over) interviews may vary from day to day depending on his mood, the particular job he’s trying to fill, or whether he’s bored and feels like doing something different that day.

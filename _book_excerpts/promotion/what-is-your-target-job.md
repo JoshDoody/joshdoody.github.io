@@ -4,8 +4,9 @@ title: What is your target job?
 tagline: Defining your goal for your next job promotion
 excerpt: Your first step to getting promoted is to set your target job. What specific job do you want to do next?
 last_modified_at: 2016-06-23
+book_section: 11
 chapter: promotion
-section: 2
+section: 1
 ---
 
 What really matters is that you know where you want to be promoted. *Specifically*, I mean. Not "I want a promotion", but “I want to be promoted to Engineer II” or “I want to be promoted to a role in Operations.” This matters because you need to know how your target role is different from your current role so that you can identify opportunities to do things associated with your target role.

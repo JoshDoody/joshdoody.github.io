@@ -4,8 +4,9 @@ title: Refine your market value estimate for a specific company
 tagline: Refine your regional market value estimate for a specific company
 excerpt: Refine your regional market value estimate to determine the market value for your skillset and experience at a particular company.
 last_modified_at: 2016-06-25
+book_section: 5
 chapter: value
-section: 4
+section: 3
 ---
 
 I don’t recommend *asking* your peers for this information, but you may already know it or be able to infer it from water cooler conversations. 
