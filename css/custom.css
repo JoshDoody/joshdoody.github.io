@@ -479,24 +479,22 @@ li a {
 	font-weight: 800;
 }
 
-/*@media only screen and (min-width: 650px) {*/
-  .chapter-nav-box__content-left {
-		flex: 1;
-		padding: 10px 20px;
-  }
-	/*}*/
+.chapter-nav-box__content-left {
+	flex: 1;
+	padding: 10px 20px;
+}
 
-/*@media only screen and (min-width: 650px) {*/
-  .chapter-nav-box__content-right {
-		flex: 1;
-		padding: 10px 20px;
-		text-align: right;
-		border-left: 1px solid #888;
-  }
-	/*}*/
+.chapter-nav-box__content-right {
+	flex: 1;
+	padding: 10px 20px;
+	text-align: right;
+	border-left: 1px solid #888;
+}
 
-/*@media only screen and (min-width: 650px) {*/
-  .cnapter-nav-box--spaced {
-    margin: 4em 0 2em 0;
-  }
-	/*}*/
+.chapter-nav-box__content-right i {
+	padding-right: 0;
+}
+
+.cnapter-nav-box--spaced {
+  margin: 4em 0 2em 0;
+}

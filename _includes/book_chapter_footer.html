@@ -1,31 +1,36 @@
 			{% assign chapter_list = site.book_chapters %}
-			{% assign chapter_list = chapter_list | sort:"section" %}
-			{% assign next_index = page.section | plus: 1 %}
-			{% assign previous_index = page.section | minus: 1 %}
+			{% assign chapter_list = chapter_list | sort:"chapter_number" %}
+			{% assign next_index = page.chapter_number %}
+			{% assign previous_index = page.chapter_number | minus: 2 %}
+			
+			{% if page == chapter_list.first %}
+				{% assign previous_chapter = nil %}
+			{% else %}
+				{% assign previous_chapter = chapter_list[previous_index] %}
+			{% endif %}
+			
+			{% if page == chapter_list.last %}
+				{% assign next_chapter = nil %}
+			{% else %}
+				{% assign next_chapter = chapter_list[next_index] %}
+			{% endif %}
 		
       <div class="chapter-nav-box chapter-nav-box--spaced">
-			{% if page == chapter_list.first %}
 				<div class="chapter-nav-box__content-left">
+				{% if previous_chapter == nil %}
 					<p><a href="{{ site.baseurl }}/book/"><i class="fa fa-arrow-left"></i>Book home</a></p>
+				{% else %}
+					<p><a href="{{ site.baseurl }}{{ previous_chapter.url }}"><i class="fa fa-arrow-left"></i>Prev<span class="hidden-xs">ious</span><span class="hidden-sm chapter-title"><br>{{ previous_chapter.title }}</a></span></p>
+				{% endif %}
 				</div>
-	      <div class="chapter-nav-box__content-right">
-					<p><a href="{{ site.baseurl }}{{ chapter_list[1].url }}">Next <i class="fa fa-arrow-right"></i><span class="hidden-sm"><br>{{ chapter_list[1].title }}</a></span></p>
-				</div>
-			{% elsif page == chapter_list.last %}
-				<div class="chapter-nav-box__content-left">
-					<p><a href="{{ site.baseurl }}{{ chapter_list[previous_index].url }}"><i class="fa fa-arrow-left"></i>Prev<span class="hidden-xs">ious</span><span class="hidden-sm chapter-title"><br>{{ chapter_list[previous_index].title }}</a></span></p>
-				</div>
+				
 				<div class="chapter-nav-box__content-right">
+				{% if next_chapter == nil %}
 					<p><a href="{{ site.baseurl }}/book/">Book home <i class="fa fa-arrow-right"></i></a></p>
+				{% else %}
+					<p><a href="{{ site.baseurl }}{{ next_chapter.url }}">Next <i class="fa fa-arrow-right"></i><span class="hidden-sm"><br>{{ next_chapter.title }}</a></span></p>
+				{% endif %}
 				</div>
-			{% else %}				
-				<div class="chapter-nav-box__content-left">
-					<p><a href="{{ site.baseurl }}{{ chapter_list[previous_index].url }}"><i class="fa fa-arrow-left"></i>Prev<span class="hidden-xs">ious</span><span class="hidden-sm chapter-title"><br>{{ chapter_list[previous_index].title }}</a></span></p>
-				</div>				
-	      <div class="chapter-nav-box__content-right">
-					<p><a href="{{ site.baseurl }}{{ chapter_list[next_index].url }}">Next <i class="fa fa-arrow-right"></i><span class="hidden-sm"><br>{{ chapter_list[next_index].title }}</a></span></p>
-				</div>
-			{% endif %}
 			</div>
 			
 			<p class="book-excerpt-footer">
