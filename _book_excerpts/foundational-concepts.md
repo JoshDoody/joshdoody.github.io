@@ -4,7 +4,7 @@ title: 'Part 1: Foundational concepts to negotiate your salary like a pro'
 excerpt: Before you can negotiate your salary like a pro, it's worth taking a few minutes to learn these foundational concepts.
 last_modified_at: 2016-06-28
 share_title: Foundational concepts to negotiate your salary like a pro
-permalink: /book/:path
+permalink: /book/:path/
 type: contents
 book_section: 3
 section: 0

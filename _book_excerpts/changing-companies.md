@@ -4,7 +4,7 @@ title: 'Part 2: Leveraging your best opportunity to significantly increase your 
 excerpt: The most reliable way to significantly increase your salary is to change companies.
 last_modified_at: 2016-06-28
 share_title: Leveraging your best opportunity to significantly increase your salary
-permalink: /book/:path
+permalink: /book/:path/
 type: contents
 book_section: 6
 section: 0
