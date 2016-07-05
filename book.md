@@ -1,18 +1,16 @@
 ---
 layout: post
-title: This guide is all you need to know about salary negotiation
+title: The complete salary negotiation guide
 tagline: Read Fearless Salary Negotiation for free
 excerpt: Read Fearless Salary Negotiation online for free and quickly learn everything you need to know about salary negotiation in one place.
-last_modified_at: 2016-07-01
+last_modified_at: 2016-07-05
 share_title: Read Fearless Salary Negotiation for free
 ---
-Most salary negotiation guides are a big collection of articles by different authors. They're good for digging into a *particular* topic, but you have to pick and choose the best article each time.
+You have a feeling you should negotiate your salary, but you don't know where to start. Searching online will help you find *tons* of articles written on many salary negotiation topics, but the sheer number of articles from reputable sources can be overwhelming.
 
-Even when you find a good article, it may not cover the entire topic. And that means you have to go find *another* article by a *different* author to learn more. Different authors have different strategies and perspectives, which means you have to make sense of all those different ideas to use what you found.
+What if there were a complete guide written by a single expert to walk you through the entire salary negotiation process?
 
-## Read Fearless Salary Negotiation for free online
-
-Wouldn't it be so much easier read a complete guide written by a single author to walk you through the entire salary negotiation process step-by-step?
+## Read Fearless Salary Negotiation—the complete salary negotiation guide—for free online
 
 *Fearless Salary Negotiation* is a step-by-step guide that walks you through every phase of the interview and salary negotiation processes, and it's packed with specific tactics so you always know what to do next. That's why it quickly became a #1 Best Seller on Amazon.
 
@@ -20,7 +18,7 @@ Wouldn't it be so much easier read a complete guide written by a single author t
 
 If you have a job interview coming up, start with [How to ace your next interview]({{ site.baseurl }}/interview-preparation/). If you already have a job offer, start with [How to negotiate your new salary]({{ site.baseurl }}/why-negotiate-starting-salary/).
 
-If you're happy where you are but want more from your current job, start with [How to get your next raise]({{ site.baseurl }}/how-to-ask-for-a-raise-at-work/).
+If you're happy where you are but want more from your current job, start with [How to get your next promotion]({{ site.baseurl }}/how-to-get-promoted-at-work/).
 
 <html>
 {% include book_contents_linked.html %}
