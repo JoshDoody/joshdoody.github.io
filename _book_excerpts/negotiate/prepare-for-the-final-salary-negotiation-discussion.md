@@ -1,4 +1,4 @@
-r---
+---
 layout: book_excerpt
 title: Preparing for your final salary negotiation discussion
 tagline: Prepare you script ahead of time so you don't make a mistake

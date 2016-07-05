@@ -5,7 +5,7 @@ tagline: Make the most of this opportunity to maximize your starting salary and 
 excerpt: How to follow your script to maximize your starting salary and other benefits at a new job.
 clast_modified_at: 2016-06-21
 book_section: 8
-hapter: negotiate
+chapter: negotiate
 section: 11
 ---
 
