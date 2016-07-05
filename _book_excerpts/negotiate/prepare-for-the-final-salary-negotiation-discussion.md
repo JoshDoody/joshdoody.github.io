@@ -1,4 +1,4 @@
----
+r---
 layout: book_excerpt
 title: Preparing for your final salary negotiation discussion
 tagline: Prepare you script ahead of time so you don't make a mistake
@@ -9,7 +9,7 @@ chapter: negotiate
 section: 10
 ---
 
-You did your homework and waited for the company to make [the initial offer[the final discussion]({{ site.baseurl }}/how-to-respond-to-a-job-offer/) without disclosing your [current or desired salary]({{ site.baseurl }}/the-dreaded-salary-question/). Then you carefully considered your [counter]({{ site.baseurl }}/how-to-determine-your-counter-offer/), trying to maximize your salary while accounting for how badly the company needs you to do this job, and how badly you need this job. The recruiter may have then gone back to Finance or the hiring manager to talk about your counter and get final authorization for the amount they can pay you to do this job. 
+You did your homework and waited for the company to make [the initial offer]({{ site.baseurl }}/how-to-respond-to-a-job-offer/) without disclosing your [current or desired salary]({{ site.baseurl }}/the-dreaded-salary-question/). Then you carefully considered your [counter]({{ site.baseurl }}/how-to-determine-your-counter-offer/), trying to maximize your salary while accounting for how badly the company needs you to do this job, and how badly you need this job. The recruiter may have then gone back to Finance or the hiring manager to talk about your counter and get final authorization for the amount they can pay you to do this job. 
 
 ## Defining the negotiation window
 
