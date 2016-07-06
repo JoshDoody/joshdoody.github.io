@@ -4,6 +4,10 @@
 			{% endunless %}			
 			{% endcomment %}
 			
+			{% unless page.has_basic_edition_pitch == true %}
+			{% include book_email_opt_in.html blurb="Want your own copy? With the <em>Fearless Salary Negotiation</em> Basic Edition, download your own copy and read on your own eReader, plus get worksheets, email templates, and case studies to help you get the most out of the book." %}
+			{% endunless %}
+			
 			{% assign this_chapter = site.book_chapters | where:"chapter", page.chapter | first %}
 			{% assign excerpts_from_this_book_section = site.book_excerpts | where:"book_section", page.book_section | sort:"section" %}
 			
