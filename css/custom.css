@@ -540,7 +540,7 @@ li a {
 
 .coaching-nav-box__content-left {
   background: #00A9FF;
-	border: 3px solid #0088cc;
+	border: 1px solid #0088cc;
 	flex: 1;
 	margin-right: 5%;
 	border-radius: 10px;
@@ -548,17 +548,17 @@ li a {
 
 .coaching-nav-box__content-right {
   background: #00A9FF;
-	border: 3px solid #0088cc;
+	border: 1px solid #0088cc;
 	flex: 1;
 	border-radius: 10px;
 }
 
 .coaching-nav-box__content-left:hover, .coaching-nav-box__content-right:hover {
   background-color: #00A9FF;
-	border: 3px solid #006599;
+	border: 1px solid #006599;
 }
 
 .coaching-nav-box__content-left:active, .coaching-nav-box__content-right:active {
   background-color: #006599;
-	border: 3px solid #006599;
+	border: 1px solid ;
 }
