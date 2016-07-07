@@ -1,7 +1,8 @@
-# Allow all
 User-agent:  *
 Disallow: /extras/
 Disallow: /review/
 Disallow: /thanks/
 Disallow: /script-test/
+Disallow: /coach/apply/
+Disallow: /coach/register/
 Sitemap: https://fearlesssalarynegotiation.com/sitemap.xml
