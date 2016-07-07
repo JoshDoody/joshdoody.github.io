@@ -393,6 +393,11 @@ p.book-excerpt-footer {
 	min-height: 70vh;
 }
 
+.divider {
+	min-height: 30vh;
+	margin-bottom: 20px;
+}
+
 /* Page footer columns */
 
 @media only screen and (min-width: 650px) {
@@ -497,4 +502,63 @@ li a {
 
 .cnapter-nav-box--spaced {
   margin: 4em 0 2em 0;
+}
+
+/* coaching options boxes */
+.coaching-nav-box {
+	color: white;
+  margin-bottom: 20px;
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+}
+
+.coaching-nav-box p {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-weight: bold;
+	font-size: 2em;
+  line-height: 1.0;
+}
+
+.coaching-nav-box a, .coaching-nav-box a:hover, .coaching-nav-box a:active {
+	text-decoration: none;
+	color: white;
+  display:block;
+	height: 100%;
+  width: 100%;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+@media only screen and (min-width: 650px) {
+	.coaching-nav-box p {
+		font-size: 3em;
+	}
+}
+
+
+.coaching-nav-box__content-left {
+  background: #00A9FF;
+	border: 3px solid #0088cc;
+	flex: 1;
+	margin-right: 5%;
+	border-radius: 10px;
+}
+
+.coaching-nav-box__content-right {
+  background: #00A9FF;
+	border: 3px solid #0088cc;
+	flex: 1;
+	border-radius: 10px;
+}
+
+.coaching-nav-box__content-left:hover, .coaching-nav-box__content-right:hover {
+  background-color: #00A9FF;
+	border: 3px solid #006599;
+}
+
+.coaching-nav-box__content-left:active, .coaching-nav-box__content-right:active {
+  background-color: #006599;
+	border: 3px solid #006599;
 }
