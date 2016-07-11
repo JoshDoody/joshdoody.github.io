@@ -3,10 +3,10 @@ layout: book_excerpt
 title: How to maximize your starting salary and other benefits in the Final Discussion
 tagline: Make the most of this opportunity to maximize your starting salary and other benefits
 excerpt: How to follow your script to maximize your starting salary and other benefits at a new job.
-clast_modified_at: 2016-06-21
+last_modified_at: 2016-06-21
 book_section: 8
 chapter: negotiate
-section: 11
+section: 10
 ---
 
 The company made you an offer and you asked for some time to think it over. Then you countered, hopefully in an email that also made a strong case for why your skillset and experience are valuable to the company. The company will likely take some time to discuss things internally and determine how high they want to go within the window that has been established between their offer and your counter. Once they’ve determined how far they can go, they’ll usually reach out for one more discussion. The final discussion is almost always a phone call, but will sometimes be by email.

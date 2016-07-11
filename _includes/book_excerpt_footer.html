@@ -24,7 +24,7 @@
 			{% else %}
 				{% assign previous_excerpt = excerpts_from_this_book_section[previous_section_index] %}
 			{% endif %}
-			
+						
 			{% if page.book_section == 12 and page.section == excerpts_from_this_book_section.last.section %}
 				{% assign next_excerpt == nil %}
 			{% elsif page.section == excerpts_from_this_book_section.last.section %}

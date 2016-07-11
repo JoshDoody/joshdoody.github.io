@@ -6,7 +6,7 @@ excerpt: After you counter offer, you'll usually have one more discussion to fin
 last_modified_at: 2016-06-25
 book_section: 8
 chapter: negotiate
-section: 10
+section: 9
 ---
 
 You did your homework and waited for the company to make [the initial offer]({{ site.baseurl }}/how-to-respond-to-a-job-offer/) without disclosing your [current or desired salary]({{ site.baseurl }}/the-dreaded-salary-question/). Then you carefully considered your [counter]({{ site.baseurl }}/how-to-determine-your-counter-offer/), trying to maximize your salary while accounting for how badly the company needs you to do this job, and how badly you need this job. The recruiter may have then gone back to Finance or the hiring manager to talk about your counter and get final authorization for the amount they can pay you to do this job. 
