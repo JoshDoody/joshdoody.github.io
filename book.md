@@ -51,3 +51,5 @@ My book is the *foundation* for everything else I offer, and those other things 
 Share it. The more you share, the more people will see it. That means more people can use *Fearless Salary Negotiation*, and more people will buy it.
 
 Use the little buttons below to share on your favorite social network, or just copy/paste [the link to this page]({{ site.baseurl }}{{ page.url }}) and send it to someone who might benefit from it.
+
+<script async id="_ck_75874" src="https://forms.convertkit.com/75874?v=5"></script>
