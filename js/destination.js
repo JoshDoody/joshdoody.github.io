@@ -13,7 +13,7 @@ $(document).ready(function(){
 	
 	var p = getParameterByName("dest"); // get the value of 'dest'
 	
-	if (p !== 'undefined' && p) { // only do something if 'dest' is presnt
+	if (p !== 'undefined' && p) { // only do something if 'dest' is present
 		{% if jekyll.environment == 'production' %}
 	  var rootUrl = "{{ site.url }}/"; // set the root url for the redirect
 		{% else %}
