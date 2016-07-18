@@ -14,11 +14,7 @@ $(document).ready(function(){
 	var p = getParameterByName("dest"); // get the value of 'dest'
 	
 	if (p !== 'undefined' && p) { // only do something if 'dest' is present
-		{% if jekyll.environment == 'production' %}
-	  var rootUrl = "{{ site.url }}/"; // set the root url for the redirect
-		{% else %}
-	  var rootUrl = "http://localhost:4000/";
-		{% endif %}
+	  var rootUrl = "/"; // set the root url for the redirect
 		var url = rootUrl + p; // build the entire redirect url
 		 $.ajax({ // check to see if the redirect url exists and redirect only if it does
 		     type: 'HEAD',
