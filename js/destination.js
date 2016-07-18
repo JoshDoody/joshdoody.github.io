@@ -15,7 +15,7 @@ $(document).ready(function(){
 	
 	if (p !== 'undefined' && p) { // only do something if 'dest' is present
 	  var rootUrl = "/"; // set the root url for the redirect
-		var url = rootUrl + p; // build the entire redirect url
+		var url = rootUrl + p + "/"; // build the entire redirect url
 		 $.ajax({ // check to see if the redirect url exists and redirect only if it does
 		     type: 'HEAD',
 		     url: url,
