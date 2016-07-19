@@ -8,7 +8,8 @@ share_title: Fearless Salary Negotiation in the media
 
 [How to negotiate a raise - Forbes.com](http://www.forbes.com/sites/tomanderson/2016/07/06/how-to-negotiate-a-raise/#6dbd01246fa0)\\
 [11 ways to ruin a job interview according to three experts - Independent.co.uk](http://www.independent.co.uk/news/business/news/11-ways-to-ruin-a-job-interview-according-to-three-experts-a6721271.html)\\
-[How to (successfully) ask for a raise - General Assembly Blog](https://generalassemb.ly/blog/how-to-successfully-ask-for-a-raise/)
+[How to (successfully) ask for a raise - General Assembly Blog](https://generalassemb.ly/blog/how-to-successfully-ask-for-a-raise/)\\
+[Interview with Engr. Josh Doody - Career Coach and author of Fearless Salary Negotiation - EEWeb](https://www.eeweb.com/spotlight/interview-with-engr-josh-doody)
 
 ## Podcasts
 
