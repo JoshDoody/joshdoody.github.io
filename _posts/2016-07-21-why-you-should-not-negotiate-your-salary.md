@@ -38,7 +38,7 @@ This isn't going very well, but we'll find something eventually!
 
 This is a good one: Money isn't the most important thing. I think we can all agree on that. So we're done here, right?
 
-Weeeelllll, maybe not quite. The thing is the reason the company can pay you *any* salary is they're in business to make money. So money is actually probably very important to them. Maybe not *the most important thing*, but it's pretty high up there since money enables the business to continue exisiting and hiring people.
+Weeeelllll, maybe not quite. The thing is the reason the company can pay you *any* salary is they're in business to make money. So money is actually probably very important to them. Maybe not *the most important thing*, but it's pretty high up there since money enables the business to continue existing and hiring people.
 
 And it's not like you're going to show up to work every single day asking about money money money. In fact, focusing on money now, when you're negotiating the terms of your employment, will probably keep you from having to think about money *at all* for quite a while since you'll know you negotiated the best starting salary you could. You won't have to constantly wonder whether you are underpaid because you made the noble choice to ignore money and just accept the job.
 
@@ -46,7 +46,7 @@ Ah! I'm really sorry about this. I'm trying really hard to give you reasons you 
 
 ## 5. You don't know what you're worth
 
-This is probably true for most people and it's a legitemate concern. How can you negotiate your salary if you don't even know what you're worth? You might know about what you're worth in your industry or even in your region, but you can't possibly know what you're worth *at this company*. They probably knokw a lot more about that than you do, so why not just let them *tell you* what they think you're worth and accept that valuation?
+This is probably true for most people and it's a legitimate concern. How can you negotiate your salary if you don't even know what you're worth? You might know about what you're worth in your industry or even in your region, but you can't possibly know what you're worth *at this company*. They probably know a lot more about that than you do, so why not just let them *tell you* what they think you're worth and accept that valuation?
 
 That's pretty sound logic. But! Not knowing your worth could actually be even *more* reason to negotiate since you can learn more about what you're worth to the company by negotiating. Like, what if the salary they offer you isn't actually what they think you're worth? Then your strategy of just accepting the offer doesn't tell you anything new. But by negotiating, you could make more money *and* learn more about the current value of your skillset and experience.
 
