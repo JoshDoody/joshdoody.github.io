@@ -562,3 +562,7 @@ li a {
   background-color: #006599;
 	border: 1px solid ;
 }
+
+h3.ck_form_title {
+	line-height: 1;
+}
