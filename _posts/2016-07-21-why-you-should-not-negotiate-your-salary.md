@@ -3,6 +3,7 @@ layout: post
 title: 10 reasons you should NOT negotiate your salary
 tagline: Now that I've written this, I realize I was in over my head. Sorry about that!
 excerpt: This was supposed to be a list of reasons to NOT negotiate your salary, but I totally failed at making my point. Sorry!
+og-image: YoinkScreenCap.jpg
 ---
 There are *tons* of articles about why you *should* negotiate your salary, and the world needs more contrarian takes. So here are 10 reasons you should NOT negotiate your salary.
 
