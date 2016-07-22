@@ -85,7 +85,7 @@ Aaaaand I came up totally empty here. I promised you 8 reasons you should NOT ne
 Sorry about that. 
 
 <div class="ad-box">
-<p class="more-info"><strong>What did I miss?</strong> <a href="https://www.joshdoody.com/contact">Email me</a> the reasons I missed so I can add them to this article!</p>
+<p class="more-info"><strong>What did I miss?</strong> <a href="https://www.joshdoody.com/contact" target="_blank">Email me</a> the reasons I missed so I can add them to this article!</p>
 </div>
 
 <script async id="_ck_79111" src="https://forms.convertkit.com/79111?v=6"></script>
