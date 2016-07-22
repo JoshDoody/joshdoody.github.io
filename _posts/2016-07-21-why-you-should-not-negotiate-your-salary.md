@@ -12,7 +12,7 @@ The idea is that you applied, went through a number of interviews, finally got a
 
 This doesn't happen in the real world. Just as you've invested time and energy throughout the interview process, the company has invested its own resources. It's *expensive* to interview people. And they're not just going to throw all that effort away because you counter offered. Worst-case, they'll say, "Our offer is firm.", but even that's pretty rare. Best case, they'll accept your counter offer. More likely, they'll work with you to end up somewhere between their offer and your counter.
 
-<img src="{{ site.baseurl }}/images/yoink.gif" alt="Yoink!" style="display: block; width: 100%; max-width: 500px"/>
+<p class='u-center'><img src="{{ site.baseurl }}/images/yoink.gif" alt="Yoink!" style="display: block; width: 100%; max-width: 500px; margin: 0 auto;"/></p>
 
 Shoot. Ok, let's try another one.
 
@@ -50,7 +50,7 @@ This is probably true for most people and it's a legitimate concern. How can you
 
 That's pretty sound logic. But! Not knowing your worth could actually be even *more* reason to negotiate since you can learn more about what you're worth to the company by negotiating. Like, what if the salary they offer you isn't actually what they think you're worth? Then your strategy of just accepting the offer doesn't tell you anything new. But by negotiating, you could make more money *and* learn more about the current value of your skillset and experience.
 
-<img src="{{ site.baseurl }}/images/TenDollars.gif" alt="I mean, it's one banana, Michael. What could it cost? 10 dollars?" style="display: block; width: 100%; max-width: 500px"/>
+<p class='u-center'><img src="{{ site.baseurl }}/images/TenDollars.gif" alt="Yoink!" style="display: block; width: 100%; max-width: 500px; margin: 0 auto;"/></p>
 
 I almost had one!
 
@@ -76,11 +76,12 @@ But! How do you *know* they made their best possible offer? And what if there ar
 
 Companies usually leave themselves some room just in case you negotiate. So they may be making a good offer, but it's pretty unlikely they're making their *best* offer.
 
-<img src="{{ site.baseurl }}/images/BananaStand.gif" alt="There's always money in the banana stand" style="display: block; width: 100%; max-width: 500px"/>
-
+<p class='u-center'><img src="{{ site.baseurl }}/images/BananaStand.gif" alt="Yoink!" style="display: block; width: 100%; max-width: 500px; margin: 0 auto;"/></p>
 
 I guess that complicates things a little. Hm. Come to think of it, a good way to figure out if they *actually* made their best-possible offer is to negotiate and see if they budge. And even if they can't budge, you can always negotiate non-salary items like vacation, working from home a couple days a week, or a signing bonus.
 
 Aaaaand I came up totally empty here. I promised you 8 reasons you should NOT negotiate your salary and I couldn't make a good case for a single one. I'm going to rethink this piece and try again some other time.
 
-Sorry about that.
+Sorry about that. 
+
+Maybe you can help me out! [Send me an email with this form](http://www.joshdoody.com/contact) and tell me which reasons I missed so I can add them to this article.
