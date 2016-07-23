@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    <div class="page-content">
+      <div class="wrapper">
+				<header class="article-header header--centered">
+
+			    <div class="container container--normal">
+
+			      <h1 class="header__title">{% if page.title %}{{ page.title }}{% else %} Fearless Salary Negotiation {% endif %}</h1>
+			      {% if page.tagline %}
+						<h2 class="header__tagline">{{ page.tagline }}</h2>
+						{% else %}
+						<br><br>
+						{% endif %}
+
+			    </div>
+
+			  </header>
+				
+        {{ content }}
+      </div>
+    </div>
+  </body>
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="{{ site.baseurl }}/js/app.js"  type="text/javascript"></script>
+	<script src="{{ site.baseurl }}/js/destination.js" type="text/javascript"></script>
+	{% for js_name in page.extra_js %}
+	<script src="{{ site.baseurl }}/js/{{ js_name }}" type="text/javascript"></script>
+	{% endfor %}
+</html>
