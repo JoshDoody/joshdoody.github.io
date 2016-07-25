@@ -27,6 +27,7 @@ share_title: Fearless Salary Negotiation in the media
 * [Discover Your Talent Do What You Love - 282. Despite Upward Career Trajectory, Nothing Sparked His Imagination](http://www.discoveryourtalentpodcast.com/podcast/josh-doody/)
 * [The Engineering Career Coach - TECC 115: Salary Negotiation for Engineers](http://engineeringcareercoach.com/2016/05/17/tecc-115-salary-negotiation-engineers/)
 * [Copeland Coaching Podcast - CCP104: Josh Doody, Fearless Salary Negotiation](https://www.copelandcoaching.com/2016/06/14/ccp104-josh-doody-fearless-salary-negotiation/)
+* [Happen to Your Career - 136 Negotiating What You Are Worth with Josh Doody](http://happentoyourcareer.com/136)
 
 ## Talks
 
