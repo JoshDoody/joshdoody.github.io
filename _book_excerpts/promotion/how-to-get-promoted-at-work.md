@@ -38,4 +38,4 @@ The goal is that once you present your case, it’ll be such a good case for a p
 
 {% include book_ad_box.html offer="tools and templates to help you get promoted" blurb="Before you get started planning your next promotion, you might want to get worksheet and email template to help you keep track of your progress and document your plan as you go." %}
 
-If you prefer to learn by doing, take a look at "How to get promoted in 7 days". It's a free email course that walks you through the entire promotion process in seven quick lessons. Get it for free here: [FearlessSalaryNegotiation.com/promotion-course](https://FearlessSalaryNegotiation.com/promotion-course/)
+If you prefer to learn by doing, take a look at "How to get promoted in 7 days". It's a free, 7-lesson crash course on how to show your boss that you deserve a promotion.. Get it for free here: [FearlessSalaryNegotiation.com/promotion-course](https://FearlessSalaryNegotiation.com/promotion-course/)
