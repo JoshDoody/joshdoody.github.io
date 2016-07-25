@@ -47,7 +47,14 @@
 	document,'script','https://connect.facebook.net/en_US/fbevents.js');
 
 	fbq('init', '516906568489949');
-	fbq('track', "PageView");</script>
+	fbq('track', "PageView");
+	{% case page.fb-event %}
+	{% when 'CompleteRegistration' %}
+	fbq('track', 'CompleteRegistration');
+	{% when 'ViewContent' %}
+	fbq('track', 'ViewContent');
+	{% endcase %}
+	</script>
 	<noscript><img height="1" width="1" style="display:none"
 	src="https://www.facebook.com/tr?id=516906568489949&ev=PageView&noscript=1"
 	/></noscript>
