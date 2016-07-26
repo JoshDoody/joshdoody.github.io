@@ -579,3 +579,8 @@ h3.ck_form_title {
   font-size: 1.7em;
   line-height: 1.2;
 }
+
+.ck_form.ck_naked .ck_subscribe_button {
+	background: #F37021 !important;
+	font-weight: bold;
+}
