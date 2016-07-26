@@ -584,3 +584,5 @@ h3.ck_form_title {
 	background: #F37021 !important;
 	font-weight: bold;
 }
+
+.ck_form.ck_naked .ck_form_fields { padding: 1px !important; }
