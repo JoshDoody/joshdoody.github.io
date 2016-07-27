@@ -6,29 +6,31 @@ share_title: Fearless Salary Negotiation in the media
 ---
 ## Articles
 
-* [How to negotiate a raise - Forbes.com](http://www.forbes.com/sites/tomanderson/2016/07/06/how-to-negotiate-a-raise/#6dbd01246fa0)
-* [11 ways to ruin a job interview according to three experts - Independent.co.uk](http://www.independent.co.uk/news/business/news/11-ways-to-ruin-a-job-interview-according-to-three-experts-a6721271.html)
-* [How to (successfully) ask for a raise - General Assembly Blog](https://generalassemb.ly/blog/how-to-successfully-ask-for-a-raise/)
-* [Interview with Engr. Josh Doody - Career Coach and author of Fearless Salary Negotiation - EEWeb](https://www.eeweb.com/spotlight/interview-with-engr-josh-doody)
+* [How to negotiate a raise](http://www.forbes.com/sites/tomanderson/2016/07/06/how-to-negotiate-a-raise/#6dbd01246fa0) – Forbes.com
+* [11 ways to ruin a job interview according to three experts](http://www.independent.co.uk/news/business/news/11-ways-to-ruin-a-job-interview-according-to-three-experts-a6721271.html) – Independent.co.uk
+* [How to (successfully) ask for a raise](https://generalassemb.ly/blog/how-to-successfully-ask-for-a-raise/) – General Assembly Blog
+* [Interview with Engr. Josh Doody - Career Coach and author of Fearless Salary Negotiation](https://www.eeweb.com/spotlight/interview-with-engr-josh-doody) – EEWeb
 
 ## Podcasts
 
-* [Kalzumeus Podcast - Episode 12: Salary Negotiation with Josh Doody](http://www.kalzumeus.com/2016/06/03/kalzumeus-podcast-episode-12-salary-negotiation-with-josh-doody/)
-* [Engineering Insights - #025 – Fearless Salary Negotiation – Josh Doody](http://engineeringinsightspodcast.com/episode25/)
-* [CareerCloud Radio - How to Improve Your Salary Negotiation Skills](http://www.careercloud.com/news/2016/5/7/how-to-improve-your-salary-negotiation-skills)
-* [Staffing & Recruiter Training Podcast - Episode #39: Hiring Recruiters; Fearless Salary Negotiation for Recruiters](http://scottlove.libsyn.com/grt/episode-39-hiring-recruiters-fearless-salary-negotiation-for-recruiters-staffing)
-* [Career Design Coach - Fearless Salary Negotiation with Josh Doody](www.careerdesigncoach.com/episode26)
-* [Product People Club - Ep - 001 - Josh - Doody](https://soundcloud.com/productpeopleclub/ep-001-josh-doody)
-* [Build and Launch - EP22: Get some guts](http://buildandlaunch.net/22/)
-* [Chasing Product - Episode 35: The Startup-Style Book Launch w/Josh Doody](http://www.chasingproduct.com/episodes/episode-35-the-startup-style-book-launch-wjosh-doody)
-* [Built In A Day - Episode 3 – FearlessSalaryNegotiation.com](http://www.builtinadaypodcast.com/2016/04/24/episode-3/)
-* [Start Here: Web Development - 26. MASTERING The Interview Process & LinkedIn for Developers](https://soundcloud.com/starthere-webdev/26-level-up-your-web-dev-job-linkedin-for-developers-and-mastering-the-interview-process)
-* [Start Here: Web Development - 27. How to Get a Better Job w/Higher Salary (Interviewing Series Salary Negotiation Masterclass)](https://soundcloud.com/starthere-webdev/how-to-get-a-better-job-with-higher-salary)
-* [Discover Your Talent Do What You Love - 282. Despite Upward Career Trajectory, Nothing Sparked His Imagination](http://www.discoveryourtalentpodcast.com/podcast/josh-doody/)
-* [The Engineering Career Coach - TECC 115: Salary Negotiation for Engineers](http://engineeringcareercoach.com/2016/05/17/tecc-115-salary-negotiation-engineers/)
-* [Copeland Coaching Podcast - CCP104: Josh Doody, Fearless Salary Negotiation](https://www.copelandcoaching.com/2016/06/14/ccp104-josh-doody-fearless-salary-negotiation/)
-* [Happen to Your Career - 136 Negotiating What You Are Worth with Josh Doody](http://happentoyourcareer.com/136)
+* [Salary Negotiation with Josh Doody](http://www.kalzumeus.com/2016/06/03/kalzumeus-podcast-episode-12-salary-negotiation-with-josh-doody/) – Kalzumeus podcast with Patrick McKenzie
+* [Fearless Salary Negotiation – Josh Doody](http://engineeringinsightspodcast.com/episode25/) – Engineering Insights
+* [How to Improve Your Salary Negotiation Skills](http://www.careercloud.com/news/2016/5/7/how-to-improve-your-salary-negotiation-skills) – CareerCloud Radio
+* [Hiring Recruiters; Fearless Salary Negotiation for Recruiters](http://scottlove.libsyn.com/grt/episode-39-hiring-recruiters-fearless-salary-negotiation-for-recruiters-staffing) – Staffing & Recruiter Training Podcast
+* [Fearless Salary Negotiation with Josh Doody](www.careerdesigncoach.com/episode26) – Career Design Coach
+* [Josh Doody](https://soundcloud.com/productpeopleclub/ep-001-josh-doody) – Product People Club
+* [Get some guts](http://buildandlaunch.net/22/) – Build and Launch
+* [The Startup-Style Book Launch w/Josh Doody](http://www.chasingproduct.com/episodes/episode-35-the-startup-style-book-launch-wjosh-doody) – Chasing Product
+* [FearlessSalaryNegotiation.com](http://www.builtinadaypodcast.com/2016/04/24/episode-3/) – Built In A Day
+* [MASTERING The Interview Process & LinkedIn for Developers](https://soundcloud.com/starthere-webdev/26-level-up-your-web-dev-job-linkedin-for-developers-and-mastering-the-interview-process) – Start Here: Web Development
+* [How to Get a Better Job w/Higher Salary (Interviewing Series Salary Negotiation Masterclass)](https://soundcloud.com/starthere-webdev/how-to-get-a-better-job-with-higher-salary) – Start Here: Web Development
+* [Despite Upward Career Trajectory, Nothing Sparked His Imagination](http://www.discoveryourtalentpodcast.com/podcast/josh-doody/) – Discover Your Talent Do What You Love
+* [Salary Negotiation for Engineers](http://engineeringcareercoach.com/2016/05/17/tecc-115-salary-negotiation-engineers/) – The Engineering Career Coach
+* [Josh Doody, Fearless Salary Negotiation](https://www.copelandcoaching.com/2016/06/14/ccp104-josh-doody-fearless-salary-negotiation/) – Copeland Coaching Podcast
+* [Negotiating What You Are Worth with Josh Doody](http://happentoyourcareer.com/136) – Happen to Your Career
+* [How to negotiate your salary, with Josh Doody](http://www.graduatejobpodcast.com/salary/) – Graduate Job Podcast
 
 ## Talks
 
-* [Salary negotiation for engineers, developers, and designers - The Iron Yard Orlando and Orlando Devs](https://fearlesssalarynegotiation.com/salary-negotiation-for-engineers-developers-and-designers/)
+* [Salary negotiation for engineers, developers, and designers](https://fearlesssalarynegotiation.com/salary-negotiation-for-engineers-developers-and-designers/) – The Iron Yard Orlando and Orlando Devs
+* **COMING ON AUGUST 4**: [Getting a Raise or Promotion at Work](http://www.meetup.com/OrlandoDevs/events/232617857/) - Orlando Devs Meetup
