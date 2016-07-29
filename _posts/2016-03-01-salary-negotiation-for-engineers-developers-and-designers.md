@@ -55,4 +55,9 @@ I’m just linking to my answers (I usually repeat the question).
 *   [(1:06:44) What do you do when the word “budget” is used a blocker for continuing negotiation?](https://youtu.be/sN19aNmjBoU#t=1h6m44s)
 *   [(1:08:37) Does it help to negotiate using non-round numbers?](https://youtu.be/sN19aNmjBoU#t=1h8m37s)
 
-<script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
+<div class="ad-box">
+	<p><strong>Get promoted quickly at work</strong>—A free, 7-lesson crash course on how to show your boss that you deserve a promotion. Includes a free guide, worksheet, and email templates so you know exactly what to do every step along the way.</p>
+	
+  <script src="https://app.convertkit.com/landing_pages/2576.js"></script>
+</div>
+<script async id="_ck_75874" src="https://forms.convertkit.com/75874?v=5"></script>

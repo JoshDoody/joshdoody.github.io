@@ -42,4 +42,9 @@ Instead of waiting for a promotion to come to you, go get it with this two-step 
 1. **Do the job**—Determine the differences between what you’re doing now and what the new job requires, and find a way to start doing those things.
 2. **Ask to make it official**—Once you’re comfortable with the new job’s responsibilities, talk to your manager to determine whether you have more work to do, or if she’s ready to make it official.
 
-<script async id="_ck_1927" src="https://forms.convertkit.com/1927?v=5"></script>
+<div class="ad-box">
+	<p><strong>Get promoted quickly at work</strong>—A free, 7-lesson crash course on how to show your boss that you deserve a promotion. Includes a free guide, worksheet, and email templates so you know exactly what to do every step along the way.</p>
+	
+  <script src="https://app.convertkit.com/landing_pages/2576.js"></script>
+</div>
+<script async id="_ck_75874" src="https://forms.convertkit.com/75874?v=5"></script>

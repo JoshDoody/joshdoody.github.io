@@ -3,8 +3,6 @@ layout: post
 title: Do you have to quit your job to get a big raise?
 tagline: How to know when you should ask for a raise
 excerpt: Timing your request correctly is extremely important. Here are some things to help determine when you should ask for a raise.
-chapter: part 3
-section: 1
 ---
 
 It’s common knowledge that the way to get big pay increases is to change jobs. But is that really your only option?
@@ -58,4 +56,9 @@ I’ll leave you with a few specific things to help you determine if you can get
 
 This should help you determine if you can get a big raise by staying put, or if you may need to start looking elsewhere.
 
-<script async id="_ck_9237" src="https://forms.convertkit.com/9237?v=5"></script>
+<div class="ad-box">
+	<p><strong>Get promoted quickly at work</strong>—A free, 7-lesson crash course on how to show your boss that you deserve a promotion. Includes a free guide, worksheet, and email templates so you know exactly what to do every step along the way.</p>
+	
+  <script src="https://app.convertkit.com/landing_pages/2576.js"></script>
+</div>
+<script async id="_ck_75874" src="https://forms.convertkit.com/75874?v=5"></script>
