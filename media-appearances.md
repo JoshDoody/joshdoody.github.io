@@ -29,6 +29,7 @@ share_title: Fearless Salary Negotiation in the media
 * [Josh Doody, Fearless Salary Negotiation](https://www.copelandcoaching.com/2016/06/14/ccp104-josh-doody-fearless-salary-negotiation/) – Copeland Coaching Podcast
 * [Negotiating What You Are Worth with Josh Doody](http://happentoyourcareer.com/136) – Happen to Your Career
 * [How to negotiate your salary, with Josh Doody](http://www.graduatejobpodcast.com/salary/) – Graduate Job Podcast
+* [Expert Interview: How to Negotiate Your Salary Like a Pro](http://www.discoveryourtalentpodcast.com/podcast/josh-doody-2/) – Discover Your Talent Do What You Love
 
 ## Talks
 
