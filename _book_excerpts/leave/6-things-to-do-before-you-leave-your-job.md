@@ -76,4 +76,4 @@ I'm on LinkedIn at: https://www.linkedin.com/in/joshdoody</p>
 </div>
 <hr>
 
-{% include book_ad_box.html offer="the sample goodbye email template" blurb="Download this email template and several others when you buy The Basic Edition of <em>Fearless Salary Negotiation</em>." %}
+{% include book_ad_box.html offer="the sample goodbye email template" blurb="Get this email template and several others when you buy <em>Fearless Salary Negotiation</em>." %}

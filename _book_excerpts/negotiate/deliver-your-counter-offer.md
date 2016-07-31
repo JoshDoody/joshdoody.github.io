@@ -40,7 +40,7 @@ josh@example.com</p>
 </div>
 <hr>
 
-{% include book_ad_box.html offer="the sample counter offer email template" blurb="Download this email template and several others when you buy The Basic Edition of <em>Fearless Salary Negotiation</em>." %}
+{% include book_ad_box.html offer="the sample counter offer email template" blurb="Get this email template and several others when you buy <em>Fearless Salary Negotiation</em>." %}
 
 Let’s look a little closer.
 
