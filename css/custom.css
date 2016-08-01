@@ -586,3 +586,7 @@ h3.ck_form_title {
 }
 
 .ck_form.ck_naked .ck_form_fields { padding: 1px !important; }
+
+.u-left {
+  text-align: left;
+}
