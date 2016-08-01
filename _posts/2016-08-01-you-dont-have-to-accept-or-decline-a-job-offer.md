@@ -31,7 +31,7 @@ But you want a white coupe with tan interior and floormats, and your budget is o
 
 Companies have a menu of options to choose from and several of those options have a range of possibilities they can offer. Some things are take it or leave it—target bonus, health insurance plans—but other things are adjustable—base salary, vacation days, and start date, for example. And that means *you* have a menu of options to choose from when presented with a job offer, not just "accept" or "decline".
 
-## How you *should* respond to a job offer
+## How *should* you respond to a job offer?
 
 Instead of *accepting* or *declining* your next job offer, you should *negotiate* the job offer. That will enable you to learn more about the menu of options available to *improve* the initial job offer they made. 
 
