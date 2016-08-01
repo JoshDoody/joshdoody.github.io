@@ -10,7 +10,7 @@ last_modified_at: 2016-06-21
 	{% unless post.chapter %}
     <h2 class="excerpt-header">{{ post.title }}</h2>
     <div class="oc-excerpt">
-      <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt }}{% endif %} <a href="{{ post.url | prepend: site.baseurl }}">Read More</a></p>
+      <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt }}{% endif %} <a href="{{ post.url | prepend: site.baseurl }}">Read more</a></p>
     </div>
 		{% endunless %}
 {% endfor %}
