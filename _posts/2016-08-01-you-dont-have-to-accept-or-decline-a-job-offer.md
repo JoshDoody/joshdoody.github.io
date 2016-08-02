@@ -10,7 +10,7 @@ excerpt: There's a better response that can get you a higher base salary, more v
 
 This is a pretty common conversation, and you may not even see anything suspicious about it. But keep reading and you will!
 
-The problem is that both people are assuming there are two responses to the job offer: "I accept" and "I decline". Not only are there other responses, but those two aren't even very good.
+The problem is that both people are assuming there are only two responses to the job offer: "I accept" and "I decline". Not only are there other responses, but those two aren't even very good.
 
 To be fair, this is often a deliberate impression given by the company. They want you to think your options are "accept" or "decline". Here's what the last line in a job offer email from Google might look like:
 
