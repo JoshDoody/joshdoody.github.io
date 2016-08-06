@@ -166,7 +166,13 @@ body {
 
 .script-form {
 	background-color: #EEE;
-	padding: 20px 0 10px 0;
+	padding: 20px 10px 10px 10px;
+}
+
+@media only screen and (max-width: 320px) {
+	.script-form {
+		padding: 20px 0px 10px 0px;
+	}
 }
 
 @media only screen and (min-width: 650px) {

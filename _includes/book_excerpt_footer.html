@@ -1,90 +1,90 @@
-			{% comment %}
-			{% unless page.has_basic_edition_pitch == true %}
-			{% include book_ad_box.html blurb="Want your own copy? With <em>Fearless Salary Negotiation</em>, download your own copy and read on your own eReader, plus get worksheets, email templates, and case studies to help you get the most out of the book." %}
-			{% endunless %}			
-			{% endcomment %}
-			
-			{% unless page.has_basic_edition_pitch == true %}
-			{% include book_email_opt_in.html blurb="Want your own copy? With the <em>Fearless Salary Negotiation</em> Basic Edition, download your own copy and read on your own eReader, plus get worksheets, email templates, and case studies to help you get the most out of the book." %}
-			{% endunless %}
-			
-			{% assign this_chapter = site.book_chapters | where:"chapter", page.chapter | first %}
-			{% assign excerpts_from_this_book_section = site.book_excerpts | where:"book_section", page.book_section | sort:"section" %}
-			
-			{% assign next_book_section_index = page.book_section | plus: 1 %}
-			{% assign previous_book_section_index = page.book_section | minus: 1 %}
-			{% assign next_section_index = page.section | plus: 1 %}
-			{% assign previous_section_index = page.section | minus: 1 %}
-			
-			{% if page.book_section == 0 and page.section == excerpts_from_this_book_section.first.section %}
-				{% assign previous_excerpt == nil %}
-			{% elsif page.section == 0 %}
-				{% assign excerpts_from_previous_book_section = site.book_excerpts | where:"book_section", previous_book_section_index | sort:"section" %}
-				{% assign previous_excerpt = excerpts_from_previous_book_section.last %}
-			{% else %}
-				{% assign previous_excerpt = excerpts_from_this_book_section[previous_section_index] %}
-			{% endif %}
-						
-			{% if page.book_section == 12 and page.section == excerpts_from_this_book_section.last.section %}
-				{% assign next_excerpt == nil %}
-			{% elsif page.section == excerpts_from_this_book_section.last.section %}
-				{% assign excerpts_from_next_book_section = site.book_excerpts | where:"book_section", next_book_section_index | sort:"section" %}
-				{% assign next_excerpt = excerpts_from_next_book_section.first %}
-			{% else %}
-				{% assign next_excerpt = excerpts_from_this_book_section[next_section_index] %}
-			{% endif %}
-			
-      <div class="chapter-nav-box chapter-nav-box--spaced">
-				<div class="chapter-nav-box__content-left">
-				{% if previous_excerpt == nil %}
-					<p><a href="{{ site.baseurl }}/book/"><i class="fa fa-arrow-left"></i>Book home</a></p>
-				{% else %}
-					<p><a href="{{ site.baseurl }}{{ previous_excerpt.url }}"><i class="fa fa-arrow-left"></i>Prev<span class="hidden-xs">ious</span><span class="hidden-sm chapter-title"><br>{{ previous_excerpt.title }}</span></a></p>
-				{% endif %}
-				</div>
-				<div class="chapter-nav-box__content-right">
-				{% if next_excerpt == nil %}
-					<p><a href="{{ site.baseurl }}/book/">Book home <i class="fa fa-arrow-right"></i></a></p>
-				{% else %}
-					<p><a href="{{ site.baseurl }}{{ next_excerpt.url }}">Next <i class="fa fa-arrow-right"></i><span class="hidden-sm"><br>{{ next_excerpt.title }}</a></span></p>
-				{% endif %}
-				</div>
-			</div>
-			
-			<p class="book-excerpt-footer">
-				<strong>YOU ARE HERE:</strong> <a href="{{ site.baseurl }}/book/">Book</a> >
-				{% unless page.chapter == nil %} 
-				<a href="{{ site.baseurl }}/book/{{ page.chapter }}">Chapter {{ this_chapter.chapter_number }}</a> >
-				{% endunless %}
-				<a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
-			</p>
-			<hr>
-			
-			{% include share_links.html %}
-			
-			
-			{% comment %}
-			{% case page.chapter %}
-			{% when 'salary-structures' %}
-			<script async id="_ck_15649" src="https://forms.convertkit.com/15649?v=5"></script>
-						
-			{% when 'value' %}
-			<script async id="_ck_14072" src="https://forms.convertkit.com/14072?v=5"></script>
-						
-			{% when 'interview' %}
-			<script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
+{% comment %}
+{% unless page.has_basic_edition_pitch == true %}
+{% include book_ad_box.html blurb="Want your own copy? With <em>Fearless Salary Negotiation</em>, download your own copy and read on your own eReader, plus get worksheets, email templates, and case studies to help you get the most out of the book." %}
+{% endunless %}			
+{% endcomment %}
 
-			{% when 'negotiate' %}
-			<script async id="_ck_1661" src="https://forms.convertkit.com/1661?v=5"></script>
+{% unless page.has_basic_edition_pitch == true %}
+{% include book_email_opt_in.html blurb="Want your own copy? With the <em>Fearless Salary Negotiation</em> Basic Edition, download your own copy and read on your own eReader, plus get worksheets, email templates, and case studies to help you get the most out of the book." %}
+{% endunless %}
+
+{% assign this_chapter = site.book_chapters | where:"chapter", page.chapter | first %}
+{% assign excerpts_from_this_book_section = site.book_excerpts | where:"book_section", page.book_section | sort:"section" %}
+
+{% assign next_book_section_index = page.book_section | plus: 1 %}
+{% assign previous_book_section_index = page.book_section | minus: 1 %}
+{% assign next_section_index = page.section | plus: 1 %}
+{% assign previous_section_index = page.section | minus: 1 %}
+
+{% if page.book_section == 0 and page.section == excerpts_from_this_book_section.first.section %}
+	{% assign previous_excerpt == nil %}
+{% elsif page.section == 0 %}
+	{% assign excerpts_from_previous_book_section = site.book_excerpts | where:"book_section", previous_book_section_index | sort:"section" %}
+	{% assign previous_excerpt = excerpts_from_previous_book_section.last %}
+{% else %}
+	{% assign previous_excerpt = excerpts_from_this_book_section[previous_section_index] %}
+{% endif %}
 			
-			{% when 'leave' %}
-			<script async id="_ck_1616" src="https://forms.convertkit.com/1616?v=5"></script>
+{% if page.book_section == 12 and page.section == excerpts_from_this_book_section.last.section %}
+	{% assign next_excerpt == nil %}
+{% elsif page.section == excerpts_from_this_book_section.last.section %}
+	{% assign excerpts_from_next_book_section = site.book_excerpts | where:"book_section", next_book_section_index | sort:"section" %}
+	{% assign next_excerpt = excerpts_from_next_book_section.first %}
+{% else %}
+	{% assign next_excerpt = excerpts_from_this_book_section[next_section_index] %}
+{% endif %}
+
+<div class="chapter-nav-box chapter-nav-box--spaced">
+	<div class="chapter-nav-box__content-left">
+	{% if previous_excerpt == nil %}
+		<p><a href="{{ site.baseurl }}/book/"><i class="fa fa-arrow-left"></i>Book home</a></p>
+	{% else %}
+		<p><a href="{{ site.baseurl }}{{ previous_excerpt.url }}"><i class="fa fa-arrow-left"></i>Prev<span class="hidden-xs">ious</span><span class="hidden-sm chapter-title"><br>{{ previous_excerpt.title }}</span></a></p>
+	{% endif %}
+	</div>
+	<div class="chapter-nav-box__content-right">
+	{% if next_excerpt == nil %}
+		<p><a href="{{ site.baseurl }}/book/">Book home <i class="fa fa-arrow-right"></i></a></p>
+	{% else %}
+		<p><a href="{{ site.baseurl }}{{ next_excerpt.url }}">Next <i class="fa fa-arrow-right"></i><span class="hidden-sm"><br>{{ next_excerpt.title }}</a></span></p>
+	{% endif %}
+	</div>
+</div>
+
+<p class="book-excerpt-footer">
+	<strong>YOU ARE HERE:</strong> <a href="{{ site.baseurl }}/book/">Book</a> >
+	{% unless page.chapter == nil %} 
+	<a href="{{ site.baseurl }}/book/{{ page.chapter }}">Chapter {{ this_chapter.chapter_number }}</a> >
+	{% endunless %}
+	<a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+</p>
+<hr>
+
+{% include share_links.html %}
+
+
+{% comment %}
+{% case page.chapter %}
+{% when 'salary-structures' %}
+<script async id="_ck_15649" src="https://forms.convertkit.com/15649?v=5"></script>
+			
+{% when 'value' %}
+<script async id="_ck_14072" src="https://forms.convertkit.com/14072?v=5"></script>
+			
+{% when 'interview' %}
+<script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
+
+{% when 'negotiate' %}
+<script async id="_ck_1661" src="https://forms.convertkit.com/1661?v=5"></script>
+
+{% when 'leave' %}
+<script async id="_ck_1616" src="https://forms.convertkit.com/1616?v=5"></script>
+			
+{% when 'promotion' %}
+<script async id="_ck_13571" src="https://forms.convertkit.com/13571?v=5"></script>
 						
-			{% when 'promotion' %}
-			<script async id="_ck_13571" src="https://forms.convertkit.com/13571?v=5"></script>
+{% when 'raise' %}
+<script async id="_ck_9237" src="https://forms.convertkit.com/9237?v=5"></script>
 									
-			{% when 'raise' %}
-			<script async id="_ck_9237" src="https://forms.convertkit.com/9237?v=5"></script>
-												
-			{% endcase %}
-			{% endcomment %}
+{% endcase %}
+{% endcomment %}
