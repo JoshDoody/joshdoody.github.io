@@ -34,4 +34,3 @@ share_title: Fearless Salary Negotiation in the media
 ## Talks
 
 * [Salary negotiation for engineers, developers, and designers](https://fearlesssalarynegotiation.com/salary-negotiation-for-engineers-developers-and-designers/) – The Iron Yard Orlando and Orlando Devs
-* **COMING ON AUGUST 4**: [Getting a Raise or Promotion at Work](http://www.meetup.com/OrlandoDevs/events/232617857/) - Orlando Devs Meetup
