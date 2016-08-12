@@ -9,6 +9,7 @@
 				<header class="article-header header--centered">
 
 			    <div class="container container--normal">
+						{% if page.logo %}<img src="{{ site.baseurl }}/images/{{ page.logo }}"/>{% endif %}
 
 			      <h1 class="header__title">{% if page.title %}{{ page.title }}{% else %} Fearless Salary Negotiation {% endif %}</h1>
 			      {% if page.tagline %}
