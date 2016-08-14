@@ -38,3 +38,11 @@ I know this seems harsh, but tech support calls are a lot like an interview in t
 So how do you figure out how many tiles are up there?
 
 There’s no one true way to get the answer, but it’s important to listen carefully, acknowledge the constraints, and formulate a plan. It can also help to talk aloud as you think through tricky problems. If you feel comfortable with your interviewer, turn his question into a sort of one-sided discussion so that he can hear you work through the problem. This will give him a good sense of how you think. If you’re not comfortable talking aloud while you think through the problem, just tell him you need a moment to think it over.
+
+## Things to consider when preparing for an interview
+
+I’ll leave you with a few tips to help you stand out in your next interview:
+
+* **DO listen carefully and give thoughtful responses to every question.** This seems obvious, but you would be surprised how often candidates give canned answers that don’t address the actual question.
+* **DO take your time to formulate a good answer when necessary.** It’s ok to say, “That’s a good question. I’m going to take just a few seconds and think about it before I respond.” It demonstrates thoughtfulness and intentionality, which are two qualities many companies are looking for.
+* **DO come prepared to ask a few thoughtful questions of the interviewer.** Google the company and get a sense of what they do. Then prepare one or two questions specifically about that business. Most interviewers will end the interview with some time for you to ask questions of them—this is an opportunity to demonstrate genuine interest in that specific company by asking the questions you prepared beforehand.
