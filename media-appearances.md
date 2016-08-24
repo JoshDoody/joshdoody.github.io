@@ -30,8 +30,8 @@ share_title: Fearless Salary Negotiation in the media
 * [Negotiating What You Are Worth with Josh Doody](http://happentoyourcareer.com/136) – Happen to Your Career
 * [How to negotiate your salary, with Josh Doody](http://www.graduatejobpodcast.com/salary/) – Graduate Job Podcast
 * [Expert Interview: How to Negotiate Your Salary Like a Pro](http://www.discoveryourtalentpodcast.com/podcast/josh-doody-2/) – Discover Your Talent Do What You Love
-* [Fearless Salary Negotiation with Josh Doody](https://devchat.tv/ruby-rogues/274-rr-fearless-salary-negotiation-with-josh-doody) – Ruby Rogues
-
+* [Fearless Salary Negotiation with Josh Doody](https://devchat.tv/ruby-rogues/274-rr-fearless-salary-negotiation-with-josh-doody) – The Ruby Rogues
+* [How to get your next raise](https://www.macslist.org/ep-049-get-next-raise-josh-doody/) – Find Your Dream Job
 
 ## Talks
 
