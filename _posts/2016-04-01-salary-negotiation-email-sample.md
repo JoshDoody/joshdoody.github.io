@@ -6,6 +6,8 @@ excerpt: Use this salary negotiation email sample to deliver your counter offer 
 last_modified_at: 2016-08-25
 ---	
 Here's a salary negotiation email sample you can modify to deliver your own counter offer when you negotiate starting salary.
+
+Keep reading after the email sample for a detailed explanation of each component of the email!
 	
 <hr>
 <div class='u-highlight'>
