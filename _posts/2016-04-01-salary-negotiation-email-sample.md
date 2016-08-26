@@ -1,21 +1,21 @@
 ---
 layout: post
-title: Salary negotiation email sample
+title: Use this salary negotiation email sample to send your counter offer
 tagline: An email sample for delivering your counter offer
 excerpt: Use this salary negotiation email sample to deliver your counter offer when you negotiate starting salary.
 last_modified_at: 2016-08-25
 ---	
-Here's a salary negotiation email sample you can modify to deliver your own counter offer when you negotiate starting salary.
+You aced your interviews and there's a job offer on the way. Congrats! You know you should probably negotiate, which means you should counter offer. But how?
 
-Keep reading after the email sample for a detailed explanation of each component of the email!
+Use this salary negotiation email sample to deliver your own counter offer when you negotiate starting salary. Keep reading after the email sample for a detailed explanation of each component so you know how to modify it for your own situation and, more importantly, _why_ the template looks like it does.
 	
-<hr>
-<div class='u-highlight'>
+<div class='sample-email'>
 <p>
 	<strong><u>To:</u></strong> Brittany Jones <brittany.jones@example.com> [recruiter]<br>
 	<strong><u>CC:</u></strong> Katherine Thompson <katherine.thompson@example.com> [recruiter’s manager]<br>
 	<strong><u>Subject:</u></strong> Josh Doody - My thoughts on Tom’s verbal offer
 </p>
+<hr>
 <p>Hi Brittany</p>
 <p>I hope you had a great weekend!</p>
 <p>I've been considering Tom’s offer over the weekend and everything sounds good, although I would like to discuss the base salary component.</p>
@@ -27,7 +27,6 @@ Keep reading after the email sample for a detailed explanation of each component
 <p>Josh Doody<br>
 josh@example.com</p>
 </div>
-<hr>
 
 This looks like a big block of text, but there's a lot going on here and all of it is by design. Let's walk through the email and dig deeper.
 

@@ -596,3 +596,15 @@ h3.ck_form_title {
 .u-left {
   text-align: left;
 }
+
+/* styling sample emails */
+
+.sample-email {
+	padding: 10px 15px 0px 15px;
+	border: 1px solid black;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	background: #e6f7ff;
+  /*font-style: normal;
+  font-weight: 400;*/
+}
