@@ -56,13 +56,13 @@ The genuine part is that you’re giving your former coworkers a way to find you
 
 Here’s a short example you can use to say goodbye and make sure your former coworkers know how to find you if they need to. This is a real email—slightly modified—that I sent when I left a great job in 2015. 
 
-<hr>
-<div class='u-highlight'>
+<div class='sample-email'>
 <p>
 	<strong><u>To:</u></strong> ACME Corp—Consulting Practice<br>
 	<strong><u>CC:</u></strong> Josh Doody <josh@example.com> [personal email address]<br>
 	<strong><u>Subject:</u></strong> See you around!
 </p>
+<hr>
 <p>Hi everyone</p>
 <p>Today is my last day working with this amazing team at this amazing company. It has been a pleasure working with all of you, and I'm grateful for the opportunity to work with such a great team of experts. The amount of talent in this group is really astounding.</p>
 <p>I've been in this industry for almost 10 years now, and I've learned that this is a very tight-knit industry where I continuously bump into old friends. I'm sure we'll cross paths again, and that's very comforting given how great this team is.</p>
@@ -74,6 +74,5 @@ I'm on LinkedIn at: https://www.linkedin.com/in/joshdoody</p>
 <p>All the best</p>
 <p>Josh</p>
 </div>
-<hr>
 
 {% include book_ad_box.html offer="the sample goodbye email template" blurb="Get this email template and several others when you buy <em>Fearless Salary Negotiation</em>." %}

@@ -16,12 +16,12 @@ First, if you happen to have your interviewer's email address (we're calling him
 
 ## A sample thank you email to send to your interviewer
 
-<hr>
-<div class='u-highlight'>
+<div class='sample-email'>
 <p>
 	<strong><u>To:</u></strong> Andy Smith <andy.smith@example.com><br>
 	<strong><u>Subject:</u></strong> Josh Doody interview—Thanks for your time!
 </p>
+<hr>
 <p>Hi Andy</p>
 <p>I just wanted to say thanks for your time today. It was great to learn more about ACME Corp, and about the Associate Accountant role in particular. ACME Corp sounds like a great company to work for!</p>
 <p>Feel free to email or call anytime if you have any follow-up questions.</p>
@@ -32,19 +32,17 @@ First, if you happen to have your interviewer's email address (we're calling him
 josh@example.com<br>
 555-555-1234</p>
 </div>
-<hr>
-
 
 You’ll also want to send an email to the recruiter if that person and Andy are different people. There’s one wrinkle here: If you *don’t* have Andy’s contact information, you’ll want to ask the recruiter thank him for you and let him know that you appreciated his time.
 
 ## A sample thank you email to send to the recruiter you're working with
 
-<hr>
-<div class='u-highlight'>
+<div class='sample-email'>
 <p>
 	<strong><u>To:</u></strong> Shawn Jones <shawn.jones@example.com><br>
 	<strong><u>Subject:</u></strong> Josh Doody interview—Thanks for your time!
 </p>
+<hr>
 <p>Hi Shawn</p>
 <p>I hope you had a great weekend!</p>
 <p>Thanks so much for arranging my interview with Andy today. It was great to learn more about ACME Corp, and about the Associate Accountant role in particular. ACME Corp sounds like a great company to work for!</p>
@@ -56,6 +54,5 @@ You’ll also want to send an email to the recruiter if that person and Andy are
 josh@example.com<br>
 555-555-1234</p>
 </div>
-<hr>
 
 {% include book_ad_box.html offer="the sample thank you email templates" blurb="Get these email templates and several others when you buy <em>Fearless Salary Negotiation</em>." %}

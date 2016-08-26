@@ -14,12 +14,12 @@ The best way to prepare your case for a promotion is to write it down. As it tur
 
 Here’s what your case for a promotion will look like once you’ve written it down. I’ve numbered each section in brackets so we can talk about it afterward.
 
-<hr>
-<div class='u-highlight'>
+<div class='sample-email'>
 <p>
 	<strong>[1. Address] To: [Your manager]</strong><br>
 	<strong>[2. Subject] Subject: [Your name]</strong> promotion discussion—follow-up
 </p>
+<hr>
 <p><strong>[3. Greeting]</strong> Hi <strong>[Your manager's name]</strong></p>
 <p><strong>[4. Introduction and request]</strong> Thanks for your time the other day. As I mentioned in our conversation, I would like to be considered for a promotion to <strong>[target job title]</strong>.</p> 
 
@@ -49,7 +49,6 @@ Here’s what your case for a promotion will look like once you’ve written it 
 
 <p><strong>[Your name]</strong></p>
 </div>
-<hr>
 
 Now, all you need to do is go through the template and replace anything in **bold** with the appropriate piece of information. This should be pretty easy because you’ve already done all the hard work. Feel free to edit this email to make it your own. This is just a template to get you started and show you the bare necessities you should include to make this as useful as possible.
 

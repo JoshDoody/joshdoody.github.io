@@ -20,13 +20,13 @@ So how do you make your case to justify your counter? You already when you answe
 
 Here’s a real example of a counter email I sent for a job I landed. I’ve changed some details (names, numbers), but this is almost exactly what I sent. I’ve tried to scale the numbers so that the proportions are about the same as the real numbers.
 
-<hr>
-<div class='u-highlight'>
+<div class='sample-email'>
 <p>
 	<strong><u>To:</u></strong> Brittany Jones <brittany.jones@example.com> [recruiter]<br>
 	<strong><u>CC:</u></strong> Katherine Thompson <katherine.thompson@example.com> [recruiter’s manager]<br>
 	<strong><u>Subject:</u></strong> Josh Doody - My thoughts on Tom’s verbal offer
 </p>
+<hr>
 <p>Hi Brittany</p>
 <p>I hope you had a great weekend!</p>
 <p>I've been considering Tom’s offer over the weekend and everything sounds good, although I would like to discuss the base salary component.</p>
@@ -38,7 +38,6 @@ Here’s a real example of a counter email I sent for a job I landed. I’ve cha
 <p>Josh Doody<br>
 josh@example.com</p>
 </div>
-<hr>
 
 {% include book_ad_box.html offer="the sample counter offer email template" blurb="Get this email template and several others when you buy <em>Fearless Salary Negotiation</em>." %}
 

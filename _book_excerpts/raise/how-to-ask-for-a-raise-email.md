@@ -14,12 +14,12 @@ The best way to prepare your case is to write it down. As it turns out, you’ll
 
 Here’s what your case for a raise will look like once you’ve written it down. I’ve numbered each section on the left side so we can talk about it afterward.
 
-<hr>
-<div class='u-highlight'>
+<div class='sample-email'>
 <p>
 	<strong>[1. Address] To: [Your manager]</strong><br>
 	<strong>[2. Subject] Subject: [Your name]</strong> salary adjustment discussion—follow-up
 </p>
+<hr>
 <p><strong>[3. Greeting]</strong> Hi <strong>[Your manager's name]</strong></p>
 <p><strong>[4. Introduction and request]</strong> Thanks for your time the other day. As we discussed, it has been <strong>[amount of time]</strong> since <strong>["my last significant salary adjustment" OR “since I was hired”]</strong>, and I would like to revisit my salary now that I’m contributing much more to the company. I’ve been researching salaries for </strong>[job title]</strong> in <strong>[industry]</strong> industry, and it looks like the mid-point is around <strong>[mid-point from your research]</strong>. So I would like to request a raise to </strong>[target salary]</strong>.</p> 
 
@@ -49,7 +49,6 @@ Here’s what your case for a raise will look like once you’ve written it down
 
 <p><strong>[Your name]</strong></p>
 </div>
-<hr>
 
 Now, all you need to do is go through the template and replace anything in **bold** with the appropriate piece of information. This should be pretty easy because you’ve already done all the hard work when you did your research earlier. Feel free to edit this email to make it your own. This is just a template to get you started and show you the bare necessities you should include to make this as useful as possible.
 
