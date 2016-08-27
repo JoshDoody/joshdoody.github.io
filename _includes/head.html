@@ -10,13 +10,14 @@
 	{% endif %}
 	
 	{% if page.redirect_url %}
-	<meta http-equiv="refresh" content="2; url={{ page.redirect_url }}">
+	<meta http-equiv="refrdesh" content="2; url={{ page.redirect_url }}">
 	{% endif %}
 	
-  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }} | Fearless Salary Negotiation{% else %}{{ site.title | escape }}{% endif %}" />
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
-	<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/images/{% if page.og-image %}{{ page.og-image }}{% else %}FearlessSalary_noquote 400px-height.jpg{% endif %}" />
 	<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />	
+	<meta property="og:title" content="{% if page.title %}{{ page.title | escape }} | Fearless Salary Negotiation{% else %}{{ site.title | escape }}{% endif %}" />
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+	<meta property="og:type" content="{% if page.og-type %}{{ page.og-type | escape }}{% else %}article{% endif %}" />
+	<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/images/{% if page.og-image %}{{ page.og-image }}{% else %}FearlessSalary_noquote 400px-height.jpg{% endif %}" />
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/app.css">
