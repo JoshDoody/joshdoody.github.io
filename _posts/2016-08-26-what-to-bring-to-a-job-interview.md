@@ -2,9 +2,9 @@
 layout: post
 title: What to bring to a job interview
 tagline: Venue-specific recommendations for what to bring to a job interview
-excerpt: In person, phone call, video call—what to take to each type of job interview.
+excerpt: What to take to each type of job interview—in person, phone call, or video call.
+og-image: WhatToBringToAJobInterview.png
 ---
-
 
 ## In person interviews
 
