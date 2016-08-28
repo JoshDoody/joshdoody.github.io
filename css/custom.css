@@ -325,6 +325,12 @@ body {
 	}
 }
 
+@media only screen and (min-width: 1024px) {
+	.hidden-md-up {
+		display: none;
+	}
+}
+
 .article-header {
 	padding-top: 2em;
 }
