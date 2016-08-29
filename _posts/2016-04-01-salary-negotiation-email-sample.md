@@ -84,5 +84,5 @@ Finally, I recommend that you compose an email like the one above, then send it 
 <!--- embedded -->
 <script src="https://app.convertkit.com/landing_pages/1661.js"></script>
 
-<!--- slide-in - currently disabled in favor of hotjar poll-->
+<!--- slide-in -->
 <script async id="_ck_79111" src="https://forms.convertkit.com/79111?v=6"></script>
