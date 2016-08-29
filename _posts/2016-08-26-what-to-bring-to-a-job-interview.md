@@ -1,8 +1,9 @@
 ---
 layout: post
 title: What to bring to a job interview
-tagline: Venue-specific checklists for what to bring to a job interview
+tagline: Venue-specific checklists for each type of job interview
 excerpt: What to take to each type of job interview—in person, phone call, or video call.
+share_title: What to bring to a job interview—Venue-specific checklists for each type of job interview
 last_modified_at: 2016-08-29
 og-image: WhatToBringToAJobInterview.png
 ---
