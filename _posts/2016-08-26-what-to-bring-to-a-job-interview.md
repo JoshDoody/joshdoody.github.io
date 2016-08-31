@@ -7,6 +7,12 @@ share_title: What to bring to a job interview—Venue-specific checklists for ea
 last_modified_at: 2016-08-29
 og-image: WhatToBringToAJobInterview.png
 ---
+Even when you're totally prepared for your job interviews, it's easy to forget one little thing that can mess you up. Do you have your résumé handy? Some way to take notes?
+
+And of course what you need for your interview depends on what kind of interview it is. Are you interviewing in person? On the phone? On a video call?
+
+These checklists will help you make *sure* you don't forget anything for your next job interview.
+
 What kind of interview are you preparing for?
 
  * [In-person](#in-person)
