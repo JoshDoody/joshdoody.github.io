@@ -57,8 +57,15 @@ If the company wears jeans and t-shirts, you could wear jeans and a button-down 
 Here's a good article on [how to dress for your next job interview](http://www.forbes.com/sites/jacquelynsmith/2013/06/20/how-to-dress-for-your-next-job-interview/#277259b38bad).
 
 <div class="ad-box">
-	<p>Want a printable version of this checklist and other great ways to prepare for your job interviews? <a href="{{ site.baseurl }}/interview-cheat-sheet/">Buy The Interview Cheat Sheet and get it right away!</a></p>
+	<p><strong>Get the printable The Interview Cheat Sheet</strong></p>
+	
+	<div style="float: left; margin-right: 20px;" class="hidden-xs">
+		<a href="{{ site.baseurl }}/interview-cheat-sheet/"><img src="{{ site.baseurl }}/images/InterviewCheatSheet_thumbnail.png" width="100px;" alt="Interview Cheat Sheet thumbnail"></a>
+	</div>
+	<p>Get a printable version of this checklist and other great ways to prepare for your job interviews when you <a href="{{ site.baseurl }}/interview-cheat-sheet/">buy The Interview Cheat Sheet!</a></p>
+	<div style="clear:both;"></div>
 </div>
+
 
 ## <a name="phone"></a>Phone interviews
 
