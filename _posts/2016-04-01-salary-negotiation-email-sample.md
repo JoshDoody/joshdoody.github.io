@@ -4,7 +4,6 @@ title: Use this salary negotiation email sample to send your counter offer
 tagline: An email sample for delivering your counter offer
 excerpt: Use this salary negotiation email sample to deliver your counter offer when you negotiate starting salary.
 last_modified_at: 2016-08-25
-extra_js: hotjar.js
 ---	
 You aced your interviews and there's a job offer on the way. Congrats! You know you should probably negotiate, which means you should counter offer. But how?
 
