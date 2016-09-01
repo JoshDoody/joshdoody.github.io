@@ -56,6 +56,10 @@ If the company wears jeans and t-shirts, you could wear jeans and a button-down 
 
 Here's a good article on [how to dress for your next job interview](http://www.forbes.com/sites/jacquelynsmith/2013/06/20/how-to-dress-for-your-next-job-interview/#277259b38bad).
 
+<div class="ad-box">
+	<p>Want a printable version of this checklist and other great ways to prepare for your job interviews? <a href="{{ site.baseurl }}/interview-cheat-sheet/">Buy The Interview Cheat Sheet and get it right away!</a></p>
+</div>
+
 ## <a name="phone"></a>Phone interviews
 
 Here's a checklist to make sure you're prepared for your phone interviews:
@@ -102,6 +106,10 @@ Keep your hands free so you can take notes. It's hard to take notes when you're 
 ### Have some water handy
 
 If you're excited for the interview and you do a lot of talking, your throat could dry out so it's tough for you to talk. That could hamper your interview, so have some water handy in case your voice starts to give out.
+
+<div class="ad-box">
+	<p>Want a printable version of this checklist and other great ways to prepare for your job interviews? <a href="{{ site.baseurl }}/interview-cheat-sheet/">Buy The Interview Cheat Sheet and get it right away!</a></p>
+</div>
 
 ## <a name="video"></a>Video interviews
 
@@ -185,6 +193,10 @@ Here's a good article on [how to dress for your next job interview](http://www.f
 ### Have some water handy
 
 If you're excited for the interview and you do a lot of talking, your throat could dry out so it's tough for you to talk. That could hamper your interview, so have some water handy in case your voice starts to give out.
+
+<div class="ad-box">
+	<p>Want a printable version of this checklist and other great ways to prepare for your job interviews? <a href="{{ site.baseurl }}/interview-cheat-sheet/">Buy The Interview Cheat Sheet and get it right away!</a></p>
+</div>
 
 <!--- embedded -->
 <script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=6"></script>

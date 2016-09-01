@@ -614,3 +614,7 @@ h3.ck_form_title {
   /*font-style: normal;
   font-weight: 400;*/
 }
+
+div.ad-box p:last-child {
+	margin-bottom: 0px;
+}
