@@ -25,6 +25,25 @@
         {{ content }}
       </div>
     </div>
+	
+		<!-- Begin production-only code -->
+		{% if jekyll.environment == 'production' %}
+		<!-- Drip -->
+		<script type="text/javascript">
+		  var _dcq = _dcq || [];
+		  var _dcs = _dcs || {}; 
+		  _dcs.account = '6019475';
+
+		  (function() {
+		    var dc = document.createElement('script');
+		    dc.type = 'text/javascript'; dc.async = true; 
+		    dc.src = '//tag.getdrip.com/6019475.js';
+		    var s = document.getElementsByTagName('script')[0];
+		    s.parentNode.insertBefore(dc, s);
+		  })();
+		</script>
+		{% endif %}
+	
   </body>
 	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
