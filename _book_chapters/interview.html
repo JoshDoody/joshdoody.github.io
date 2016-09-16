@@ -15,6 +15,6 @@ section: 7
 {% for book_excerpt in excerpt_list %}
 <h2 class="excerpt-header">{{ book_excerpt.title }}</h2>
 <div class="oc-excerpt">
-  <p>{% if book_excerpt.description %}{{ book_excerpt.description }}{% else %}{{ book_excerpt.excerpt }}{% endif %} <a href="{{ book_excerpt.url | prepend: site.baseurl }}">Read More</a></p>
+  <p>{% if book_excerpt.description %}{{ book_excerpt.description }}{% else %}{{ book_excerpt.excerpt }}{% endif %} <a href="{{ book_excerpt.url | prepend: site.baseurl }}">Read more</a></p>
 </div>
 {% endfor %}
