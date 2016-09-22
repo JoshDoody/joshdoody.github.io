@@ -39,4 +39,4 @@ Each question is an opportunity to stand out and learn more about the opportunit
 
 One last thing—don't force it. If you're out of time or have already addressed all of your questions, it's ok to just tell the interviewer that you don't have anymore questions and thank them for their time.
 
-<script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=5"></script>
+{% include drip_form.html form="interview" %}

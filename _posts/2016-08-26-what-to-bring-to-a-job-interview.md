@@ -193,6 +193,6 @@ If you're excited for the interview and you do a lot of talking, your throat cou
 {% include interviewcheatsheet_interstitial_ad.html %}
 
 <!--- embedded -->
-<script async id="_ck_1523" src="https://forms.convertkit.com/1523?v=6"></script>
-<!--- slide-in -->
-<script async id="_ck_92316" src="https://forms.convertkit.com/92316?v=6"></script>
+{% include drip_form.html form="interview" %}
+<!--- slide-in form for interview sample chapter>
+<script async id="_ck_92316" src="https://forms.convertkit.com/92316?v=6"></script-->

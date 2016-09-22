@@ -59,7 +59,7 @@ Just like promotions, most people sit back and wait for merit increases or marke
 
 **You should actively pursue raises so that you're always paid what you're worth and recognized for all the value you add to your company.** Periodically do market research so you know your market value, and keep track of all the new skills and experience you contribute to your company as you add more and more value. When your value exceeds your salary, it's time to request a raise.
 			
-<script src="https://app.convertkit.com/landing_pages/9237.js"></script>
+{% include drip_form.html form="raise" %}
 
 ## Summary: 5 ways to get a raise and supercharge your lifetime earning potential
 

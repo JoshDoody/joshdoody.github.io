@@ -56,9 +56,6 @@ I’ll leave you with a few specific things to help you determine if you can get
 
 This should help you determine if you can get a big raise by staying put, or if you may need to start looking elsewhere.
 
-<div class="ad-box">
-	<p><strong>Get promoted quickly at work</strong>—A free, 7-lesson crash course on how to show your boss that you deserve a promotion. Includes a free guide, worksheet, and email templates so you know exactly what to do every step along the way.</p>
-	
-  <script src="https://app.convertkit.com/landing_pages/2576.js"></script>
-</div>
-<script async id="_ck_75874" src="https://forms.convertkit.com/75874?v=5"></script>
+{% include drip_form.html form="promotion-course" %}
+<!-- slide-in form for promotion course >
+<script async id="_ck_75874" src="https://forms.convertkit.com/75874?v=5"></script-->

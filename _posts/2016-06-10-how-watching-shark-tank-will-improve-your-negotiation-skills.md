@@ -55,4 +55,4 @@ You’ll realize that the Sharks are actively doing this exercise (the one I’m
 
 You can do this too. The more episodes you watch, the better you'll get at anticipating offers and evaluating deals. And that means your own negotiation skills will improve, just by watching Shark Tank.
 
-<script async id="_ck_1661" src="https://forms.convertkit.com/1661?v=5"></script>
+{% include drip_form.html form="negotiate" %}
