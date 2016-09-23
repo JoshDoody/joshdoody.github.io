@@ -43,6 +43,3 @@ Instead of waiting for a promotion to come to you, go get it with this two-step 
 2. **Ask to make it official**—Once you’re comfortable with the new job’s responsibilities, talk to your manager to determine whether you have more work to do, or if she’s ready to make it official.
 
 {% include drip_form.html form="promotion-course" %}
-
-<!-- slide-in form for promotion course >
-<script async id="_ck_75874" src="https://forms.convertkit.com/75874?v=5"></script-->

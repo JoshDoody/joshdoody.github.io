@@ -44,5 +44,3 @@ Let's loop back on the conversation at the beginning of the article to see how i
 > "I'm not quite to that point. I'm going to see if they'll increase the starting salary, and I want to see about getting another week of paid vacation."
 
 {% include drip_form.html form="negotiate" %}
-<!-- slide-in form for negotiation sample chapter>
-<script async id="_ck_79111" src="https://forms.convertkit.com/79111?v=6"></script-->

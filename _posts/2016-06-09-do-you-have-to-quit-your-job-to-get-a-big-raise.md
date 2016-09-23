@@ -57,5 +57,3 @@ I’ll leave you with a few specific things to help you determine if you can get
 This should help you determine if you can get a big raise by staying put, or if you may need to start looking elsewhere.
 
 {% include drip_form.html form="promotion-course" %}
-<!-- slide-in form for promotion course >
-<script async id="_ck_75874" src="https://forms.convertkit.com/75874?v=5"></script-->

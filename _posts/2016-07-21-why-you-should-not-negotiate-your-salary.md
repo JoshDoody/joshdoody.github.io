@@ -108,6 +108,3 @@ Aaaaand I came up totally empty here. I promised you 10 reasons you should NOT n
 Sorry about that. 
 
 {% include drip_form.html form="negotiate" %}
-
-<!--- slide-in form for negotiation sample chapter>
-<script async id="_ck_79111" src="https://forms.convertkit.com/79111?v=6"></script-->

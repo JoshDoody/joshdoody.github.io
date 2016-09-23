@@ -92,6 +92,3 @@ Just in case you don't have time to review all the suggestions I made above, her
 Then you can go back and review the situation to make a plan for your negotiation.
 
 {% include drip_form.html form="negotiate" %}
-
-<!--- slide-in form for negotiation sample chapter>
-<script async id="_ck_79111" src="https://forms.convertkit.com/79111?v=6"></script-->

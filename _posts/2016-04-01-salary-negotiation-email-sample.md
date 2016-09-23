@@ -81,6 +81,3 @@ If you don't have a meeting time or clear next steps, be sure to ask what comes 
 Finally, I recommend that you compose an email like the one above, then send it to a couple friends or family members for review. They’ll probably find some typos and might suggest some ways you can tighten it up or make it better. You can always redact the actual numbers if you’re not comfortable sharing them.
 	
 {% include drip_form.html form="negotiate" %}
-
-<!--- slide-in for negotiate sample chapter >
-<script async id="_ck_79111" src="https://forms.convertkit.com/79111?v=6"></script-->

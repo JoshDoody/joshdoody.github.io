@@ -56,6 +56,3 @@ I’m just linking to my answers (I usually repeat the question).
 *   [(1:08:37) Does it help to negotiate using non-round numbers?](https://youtu.be/sN19aNmjBoU#t=1h8m37s)
 
 {% include drip_form.html form="promotion-course" %}
-
-<!-- slide-in for promotion course >
-<script async id="_ck_75874" src="https://forms.convertkit.com/75874?v=5"></script-->
