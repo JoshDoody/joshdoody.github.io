@@ -1,17 +1,17 @@
 ---
 layout: post
-title: What to bring to a job interview
-tagline: Venue-specific checklists for each type of job interview
-excerpt: What to take to each type of job interview—in person, phone call, or video call.
-share_title: What to bring to a job interview—Venue-specific checklists for each type of job interview
+title: Interview checklists to prepare for your job interview
+tagline: Venue-specific interview checklists for each type of job interview
+excerpt: Venue-specific interview checklists to help you prepare for each type of job interview—in person, phone call, or video call.
+share_title: Interview checklists—Venue-specific checklists to prepare for each type of job interview
 last_modified_at: 2016-08-29
-og-image: WhatToBringToAJobInterview.png
+og-image: InterviewChecklists.png
 ---
 Even when you're totally prepared for your job interviews, it's easy to forget one little thing that can mess you up. Do you have your résumé handy? Some way to take notes?
 
 And of course what you need for your interview depends on what kind of interview it is. Are you interviewing in person? On the phone? On a video call?
 
-These checklists will help you make *sure* you don't forget anything for your next job interview.
+These interview checklists will help you make *sure* you don't forget anything for your next job interview.
 
 What kind of interview are you preparing for?
 
@@ -21,7 +21,7 @@ What kind of interview are you preparing for?
  
 ## <a name="in-person"></a>In-person interviews
 
-Here's a checklist to make sure you're prepared for your in-person interviews:
+Here's an interview checklist to make sure you're prepared for your in-person interviews:
 
 <ul class="checkbox-list">
   <li class="checkbox-list__item">Be 15 minutes early</li>
@@ -60,7 +60,7 @@ Here's a good article on [how to dress for your next job interview](http://www.f
 
 ## <a name="phone"></a>Phone interviews
 
-Here's a checklist to make sure you're prepared for your phone interviews:
+Here's an interview checklist to make sure you're prepared for your phone interviews:
 
 <ul class="checkbox-list">
   <li class="checkbox-list__item">Be ready 5 minutes early</li>
@@ -109,7 +109,7 @@ If you're excited for the interview and you do a lot of talking, your throat cou
 
 ## <a name="video"></a>Video interviews
 
-Here's a checklist to make sure you're prepared for your video interviews:
+Here's an interview checklist to make sure you're prepared for your video interviews:
 
 <ul class="checkbox-list">
   <li class="checkbox-list__item">Be ready 5 minutes early</li>
@@ -191,5 +191,3 @@ Here's a good article on [how to dress for your next job interview](http://www.f
 If you're excited for the interview and you do a lot of talking, your throat could dry out so it's tough for you to talk. That could hamper your interview, so have some water handy in case your voice starts to give out.
 
 {% include interviewcheatsheet_interstitial_ad.html %}
-
-{% include drip_form.html form="interview" %}

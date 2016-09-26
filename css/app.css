@@ -817,9 +817,9 @@ h1, h2 {
   font-weight: 400;
 }
 
-h3, h4, h5 {
+/*h3, h4, h5 {
   color: #888;
-}
+}*/
 
 .section-heading--with-line {
   padding: 0 0 .5em 0;
