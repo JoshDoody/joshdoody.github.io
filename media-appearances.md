@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fearless Salary Negotiation in the media
-last_modified_at: 2016-07-10
+last_modified_at: 2016-09-29
 share_title: Fearless Salary Negotiation in the media
 ---
 ## Articles
@@ -32,7 +32,10 @@ share_title: Fearless Salary Negotiation in the media
 * [Expert Interview: How to Negotiate Your Salary Like a Pro](http://www.discoveryourtalentpodcast.com/podcast/josh-doody-2/) – Discover Your Talent Do What You Love
 * [Fearless Salary Negotiation with Josh Doody](https://devchat.tv/ruby-rogues/274-rr-fearless-salary-negotiation-with-josh-doody) – The Ruby Rogues
 * [How to get your next raise](https://www.macslist.org/ep-049-get-next-raise-josh-doody/) – Find Your Dream Job
+* [Josh Doody, Author of Fearless Salary Negotiation](https://soundcloud.com/dandanglobal/dailydandan33) – Daily Dandan
 
 ## Talks
 
-* [Salary negotiation for engineers, developers, and designers](https://fearlesssalarynegotiation.com/salary-negotiation-for-engineers-developers-and-designers/) – The Iron Yard Orlando and Orlando Devs
+* [Salary negotiation for engineers, developers, and designers](https://fearlesssalarynegotiation.com/salary-negotiation-for-engineers-developers-and-designers/) – The Iron Yard Orlando and Orlando Devs – March 9, 2016
+* [Job interview preparation and salary negotiation workshop](http://www.intaadvising.gatech.edu/career/meet-and-greet-josh-doody-author-of-fearless-salary-negotiation-september-8th/) - Preparing Georgia Tech graduate students for Career Fair – September 8, 2016
+* [How to ace your job interviews](https://www.eng.ufl.edu/students/events/ace-job-interviews/) – Preparing University of Florida Engineering Students for Career Fair – September 16, 2016
