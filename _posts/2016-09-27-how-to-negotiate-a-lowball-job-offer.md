@@ -4,7 +4,7 @@ title: Lowball job offers: How to negotiate them
 tagline: Sometimes silence is the best response to a lowball job offer
 excerpt: Here's a tactic you can use to negotiate a lowball job offer without even counter offering.
 share_title: How to negotiate a lowball job offer
-last_modified_at: 2016-09-27
+last_modified_at: 2016-09-29
 og-image: LowballJobOffer.png
 ---
 What's your goal in an interview? To get the best job offer possible and to set yourself up to negotiate the best compensation package possible. You want the company to focus "What do we have to offer to convince them to join our team?" as opposed to "What's the minimum we can pay to bring them on board?" It's a subtle but important distinction.
