@@ -1,13 +1,17 @@
 ---
 layout: post
-title: Use this salary negotiation email sample to send your counter offer
-tagline: An email sample for delivering your counter offer
+title: Salary negotiation email sample for sending your counter offer
+tagline: Email sample to deliver your counter offer when negotiating starting salary
 excerpt: Use this salary negotiation email sample to deliver your counter offer when you negotiate starting salary.
-last_modified_at: 2016-08-25
+last_modified_at: 2016-09-30
 ---	
-You aced your interviews and there's a job offer on the way. Congrats! You know you should probably negotiate, which means you should counter offer. But how?
+You aced your interviews and you have a job offer in hand. Congrats! You know you should probably negotiate, which means you should counter offer. But how?
 
 Use this salary negotiation email sample to deliver your own counter offer when you negotiate starting salary. Keep reading after the email sample for a detailed explanation of each component so you know how to modify it for your own situation and, more importantly, _why_ the template looks like it does.
+
+<div class="ad-box">
+	<p><strong>Asking for a raise?</strong> You might be looking for the <a href="{{ site.baseurl }}/how-to-ask-for-a-raise-email/">email template to ask for a raise</a>!</p>
+</div>
 	
 <div class='sample-email'>
 <p>
@@ -36,7 +40,7 @@ This salary neogitation email sample is written to the recruiter I’ve been wor
 
 ## Suggest that you want to counter offer, but do not list the amount yet
 
-Then cut to the chase so that this section shows up in the email preview pane if possible: You're pretty happy with the offer, but you want to talk about the base salary component. Don't list your counter offer yet because because you want to make your case _before_ you make a specific ask.
+Then cut to the chase so that this section shows up in the email preview pane if possible: You're pretty happy with the offer, but you want to talk about the base salary component. Don't list your [counter offer]({{ site.baseurl }}/salary-negotiation-script/) yet because because you want to make your case _before_ you make a specific ask.
 
 ## Make your case
 
@@ -64,7 +68,7 @@ Briefly summarize the offer the hiring manager made so that there's no confusion
 
 ##  Make your counter offer (finally!)
 
-State your counter offer in a firm but neutral way. "...I would be more comfortable if we can settle on $56,000." is a good way to phrase your counter offer. It's not combative, but it is firm and makes it easy for the recruiter to simply reply with "Ok, we can do that." if it's within the budget.
+State your [counter offer]({{ site.baseurl }}/salary-negotiation/script/) in a firm but neutral way. "...I would be more comfortable if we can settle on $56,000." is a good way to phrase your counter offer. It's not combative, but it is firm and makes it easy for the recruiter to simply reply with "Ok, we can do that." if it's within the budget.
 
 "Are you sure you can't do any better?" is not firm or neutral. That makes it _very_ easy for the recruiter to simply say, "I'm sorry, we can't." By stating the actual amount along with "...I would be more comfortable...", you're forcing the recruiter to acknowledge the amount you counter offered and respond _to that amount_ while making it tougher to simply say "No."
 
