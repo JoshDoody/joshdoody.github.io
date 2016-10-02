@@ -19,7 +19,7 @@ One thing that could make this sort of situation easier is clarifying the purpos
 
 **Set your minimum acceptable salary ahead of time**
 
-For every company you talk to, you should set your [minimum acceptable salary](https://fearlesssalarynegotiation.com/minimum-acceptable-salary/). What's the minimum salary you'll accept to do that job? Knowing this ahead of time can at least ensure that you have *some* baseline before you negotiate.
+For every company you talk to, you should set your [minimum acceptable salary]({{ site.baseurl }}/minimum-acceptable-salary/). What's the minimum salary you'll accept to do that job? Knowing this ahead of time can at least ensure that you have *some* baseline before you negotiate.
 
 **Plan on counter offering 10% to 20% above their offer**
 
@@ -27,7 +27,7 @@ You should always counter offer at least 10%. Always. With your minimum acceptab
 
 Take their offer, add 10%. If that's more than your minimum acceptable salary, then that's your counter offer. If it's less than your minimum acceptable salary, then counter offer with your minimum.
 
-You can practice with this [counter offer calculator](https://fearlesssalarynegotiation.com/salary-negotiation-script/).
+You can practice with this [counter offer calculator]({{ site.baseurl }}/salary-negotiation-script/).
 
 **Always ask for time to consider the offer**
 
@@ -41,17 +41,17 @@ Just as Emily says, they're hiring you for your skillset and experience, not for
 
 The best way to mitigate this issue is to continue focusing on the value you can add to the company. You can do this by describing successful projects you've completed so far in your career, or by describing ways you'll help this particular company reach its goals or address its pain points.
 
-It's easier to describe yourself in those terms if you spend a little time [preparing](https://fearlesssalarynegotiation.com/interview-preparation/) before your interviews.
+It's easier to describe yourself in those terms if you spend a little time [preparing]({{ site.baseurl }}/interview-preparation/) before your interviews.
 
 ## "How much do you make now?"
 
 I winced when I read this heading because I knew what was coming.
 
-[Do not disclose your current or desired salary in an interview or salary negotiation](https://fearlesssalarynegotiation.com/the-dreaded-salary-question/). If you do, you will cost yourself money.
+[Do not disclose your current or desired salary in an interview or salary negotiation]({{ site.baseurl }}/the-dreaded-salary-question/). If you do, you will cost yourself money.
 
 Here's a quick reference you can use to handle the dreaded salary question:
 
-<p class='u-center'><a href="https://fearlesssalarynegotiation.com/the-dreaded-salary-question/"><img src="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" width="100%"></a></p>
+<p class='u-center'><a href="{{ site.baseurl }}/the-dreaded-salary-question/"><img src="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" width="100%"></a></p>
 
 ## I didn’t want to embarrass him/I wanted to be likable
 
@@ -71,13 +71,13 @@ The best way to avoid succumbing to nervousness is to have a clear plan going in
 * Then I will counter offer 10% to 20% above the offer.
 * Then I will maximize my base salary and work on other benefits if there's still room.
 
-Reviewing this [salary negotiation script](https://fearlesssalarynegotiation.com/salary-negotiation-script/) can help with that.
+Reviewing this [salary negotiation script]({{ site.baseurl }}/salary-negotiation-script/) can help with that.
 
 With a clear plan, it's a lot easier to identify when you're off script. In Emily's case, the plan would say "Any time I get a job offer, I will ask for time to think it over. Then counter offer." So when the interviewer said, "It sounds like we have a deal.", that wouldn't even compute because the interviewer is trying to jump several steps ahead. To use another driving analogy, it would be as if you were standing outside the car with the keys in your hand and your passenger said, "Ok, now let's just put this thing in drive and get out of here!" 
 
 That's just not how driving works. But it's hard to feel comfortable saying that unless you've planned and practiced driving for a while.
 
-Emily's takeaways are great. Ask for time to think it over. Then you can counter offer via email, just as she suggests. This [salary negotiation email sample](http://fearlesssalarynegotiation.com/salary-negotiation-email-sample/) will get you started.
+Emily's takeaways are great. Ask for time to think it over. Then you can counter offer via email, just as she suggests. This [salary negotiation email sample]({{ site.baseurl }}/salary-negotiation-email-sample/) will get you started.
 
 ## Make a plan. Practice the plan. Stick to the plan.
 
