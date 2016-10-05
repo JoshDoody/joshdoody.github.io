@@ -5,7 +5,7 @@ share_title: 10 good questions you can ask in a job interview
 tagline: Stand out as a candidate and learn more about the job opportunity
 excerpt: 10 good job interview questions you can ask to stand out and learn more about the opportunity.
 last_modified_at: 2016-10-05
-og-image: JobInterviewQuestionsYouCanAsk.png
+og-image: JobInterviewQuestionsYouCanAsk.jpg
 ---
 
 Your primary goal in the interview process is to get the best job offer possible. Sometimes you can do that by giving great answers to interview questions. But don't overlook the benefits of *asking* good questions during the interview process, starting as early as [the pre-interview]({{ site.baseurl }}/pre-interview).
