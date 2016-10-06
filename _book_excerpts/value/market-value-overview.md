@@ -3,7 +3,7 @@ layout: book_excerpt
 title: What is your market value?
 tagline: A three-phase approach to estimating your market value
 excerpt: A simple three-phase approach to estimate the market value of your skillset and experience in your industry, and for a particular company.
-has_basic_edition_pitch: true
+has_basic_bundle_pitch: true
 last_modified_at: 2016-06-29
 book_section: 5
 chapter: value

@@ -3,7 +3,7 @@ layout: book_excerpt
 title: How to get promoted at work
 tagline: An overview of the promotion process
 excerpt: Here's a simple process to get promoted at work. You'll define your target job, show you're ready, then request your promotion from your manager.
-has_basic_edition_pitch: true
+has_basic_bundle_pitch: true
 last_modified_at: 2016-06-29
 book_section: 11
 chapter: promotion
