@@ -72,9 +72,9 @@ You'll do that with this short email. First I'll share the email template, then 
 <p>Hi <strong>[Recruiter name]</strong></p>
 <p><strong>[Company name]</strong> seems like a great company and this particular opportunity is an exciting one for me because I’m a great fit for <strong>[company name]</strong>'s needs right now and it’s a great chance for me to continue growing as a <strong>[job title you're pursuing]</strong>.</p>
 
-<p>I was a little disappointed by the offer as it seems to be a bit below what I’ve seen for similar jobs in my market research. This is an exciting opportunity, but I want to be sure this move is a step forward for me in my career.</p>
+<p>Thank you for extending an offer. It is somewhat disappointing as it seems to be a bit below what I’ve seen for similar jobs in my market research. This is an exciting opportunity, but I want to be sure this move is a step forward for me in my career.</p>
 
-<p>I would like to take some time to think it over if that's ok.</p>
+<p>Are there improvements that can be made to this offer so I can consider them?</p>
 
 <p>Thanks for your time!</p>
 
