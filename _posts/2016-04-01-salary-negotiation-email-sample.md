@@ -32,6 +32,8 @@ Use this salary negotiation email sample to deliver your own counter offer when 
 josh@example.com</p>
 </div>
 
+{% include drip_form.html form="salary-negotiation-email-templates" %}
+
 This looks like a big block of text, but there's a lot going on here and all of it is by design. Let's walk through the email and dig deeper.
 
 ## Open with a greeting 
@@ -83,5 +85,3 @@ If you don't have a meeting time or clear next steps, be sure to ask what comes 
 ## Send your email to someone you trust for review
 
 Finally, I recommend that you compose an email like the one above, then send it to a couple friends or family members for review. They’ll probably find some typos and might suggest some ways you can tighten it up or make it better. You can always redact the actual numbers if you’re not comfortable sharing them.
-	
-{% include drip_form.html form="negotiate" %}
