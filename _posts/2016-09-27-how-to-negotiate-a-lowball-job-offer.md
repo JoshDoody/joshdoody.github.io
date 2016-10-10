@@ -84,6 +84,8 @@ You'll do that with this short email. First I'll share the email template, then 
 
 Replace all the **[bold text in brackets]** with your own details and this template should give you a great starting point.
 
+{% include drip_form.html form="salary-negotiation-email-templates" %}
+
 ## How this works
 
 The company wants to bring you on board, so they're thinking "What do we have to offer to convince them to join our team?" They're probably thinking pretty narrowly—a little more salary, slightly better benefits, maybe a signing bonus.
@@ -112,5 +114,3 @@ They may say, "Ok, thanks for considering our offer. We look forward to hearing 
 But sometimes they _will_ try again! "Let us see if we can do better. We'll get back to you." That's what you're after!
 
 Once they send a revised job offer, then you can proceed with a standard [starting salary negotiation]({{ site.baseurl }}/why-negotiate-starting-salary/).
- 
-{% include drip_form.html form="negotiate" %}

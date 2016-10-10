@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Salary negotiation email sample for sending your counter offer
+title: Salary negotiation email to send your counter offer
 tagline: Email sample to deliver your counter offer when negotiating starting salary
 excerpt: Use this salary negotiation email sample to deliver your counter offer when you negotiate starting salary.
 last_modified_at: 2016-09-30
@@ -8,10 +8,6 @@ last_modified_at: 2016-09-30
 You aced your interviews and you have a job offer in hand. Congrats! You know you should probably negotiate, which means you should counter offer. But how?
 
 Use this salary negotiation email sample to deliver your own counter offer when you negotiate starting salary. Keep reading after the email sample for a detailed explanation of each component so you know how to modify it for your own situation and, more importantly, _why_ the template looks like it does.
-
-<div class="ad-box">
-	<p><strong>Asking for a raise?</strong> You might be looking for the <a href="{{ site.baseurl }}/how-to-ask-for-a-raise-email/">raise request email template</a>!</p>
-</div>
 	
 <div class='sample-email'>
 <p>
@@ -32,9 +28,9 @@ Use this salary negotiation email sample to deliver your own counter offer when 
 josh@example.com</p>
 </div>
 
-{% include drip_form.html form="salary-negotiation-email-templates" %}
-
 This looks like a big block of text, but there's a lot going on here and all of it is by design. Let's walk through the email and dig deeper.
+
+{% include drip_form.html form="salary-negotiation-email-templates" %}
 
 ## Open with a greeting 
 
@@ -85,3 +81,7 @@ If you don't have a meeting time or clear next steps, be sure to ask what comes 
 ## Send your email to someone you trust for review
 
 Finally, I recommend that you compose an email like the one above, then send it to a couple friends or family members for review. They’ll probably find some typos and might suggest some ways you can tighten it up or make it better. You can always redact the actual numbers if you’re not comfortable sharing them.
+
+<div class="ad-box">
+	<p><strong>What's next?</strong> To determine your counter offer or plan your next steps after sending this salary negotiation email, use this <a href="{{ site.baseurl }}/salary-negotiation-script/">salary negotiation script</a>!</p>
+</div>
