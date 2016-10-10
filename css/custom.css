@@ -716,7 +716,12 @@ h3.ck_form_title {
   height: 42px;
 }
 
-/* v6 */
+/* .drip-tab .drip-content .drip-description ul */
+.drip_form ul, .drip_form ul {
+	font-size: inherit;
+	margin: 8px 0px 8px 0px;
+	padding-left: 30px;
+}
 
 @media all and (max-width: 403px) {	
 	.drip_form input[type="submit"], .drip_form input[type="text"], .drip_form input[type="email"] {
