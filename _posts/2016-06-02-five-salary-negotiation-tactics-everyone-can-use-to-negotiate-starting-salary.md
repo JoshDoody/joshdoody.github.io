@@ -21,7 +21,7 @@ And here is an answer you can give to continue progressing in your job interview
 
 > "I’m not comfortable sharing my current salary. I would prefer to focus on the value I can add to this company rather than what I’m paid at my current job. I don’t have a specific number in mind for a desired salary, and you know better than I do what value my skillset and experience could bring to your company. I want this move to be a big step forward for me in terms of both responsibility and compensation."
 
-## 2. Set your minimum acceptable salary *before* you get a job offer.
+## 2. Set your minimum acceptable salary *before* you get a job offer
 
 Your [minimum acceptable salary]({{ site.baseurl }}/minimum-acceptable-salary) is your "walk away" number—your line in the sand for the minimum salary you will accept if you take the job. This number is critical to your negotiation and it's best if you determine it *before* you get a job offer.
 

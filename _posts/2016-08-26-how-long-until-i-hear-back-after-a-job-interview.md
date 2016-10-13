@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '"How long until I hear back after a job interview?"'
-tagline: It depends! Here are some email tempmlates to help you find out.
+tagline: It depends! Here are some email templates to help you find out.
 excerpt: How long you should wait to hear back, and how often you should follow up after a job interview.
 ---
 You just finished an interview and you think it went pretty well. Or maybe it didn't? You want to play it cool and wait to hear back, but you know the recruiter is probably busy with other candidates and you don't want to fall through the cracks.
@@ -54,4 +54,4 @@ Some companies will let you know if they decide not to move forward with you, an
 
 You can ping the recruiter (or your contact) about once a week for a few weeks. If they don’t get back to you at all within about three weeks, they’ve probably decided not to move forward with you in the interview process.
 
-{% include drip_form.html form="negotiate" %}
+{% include drip_form.html form="interview" %}
