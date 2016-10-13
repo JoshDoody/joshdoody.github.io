@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fearless Salary Negotiation in the media
-last_modified_at: 2016-09-29
+last_modified_at: 2016-10-13
 share_title: Fearless Salary Negotiation in the media
 ---
 ## Articles
