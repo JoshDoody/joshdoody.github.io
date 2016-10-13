@@ -39,3 +39,8 @@ share_title: Fearless Salary Negotiation in the media
 * [Salary negotiation for engineers, developers, and designers](https://fearlesssalarynegotiation.com/salary-negotiation-for-engineers-developers-and-designers/) – The Iron Yard Orlando and Orlando Devs – March 9, 2016
 * [Job interview preparation and salary negotiation workshop](http://www.intaadvising.gatech.edu/career/meet-and-greet-josh-doody-author-of-fearless-salary-negotiation-september-8th/) - Preparing Georgia Tech graduate students for Career Fair – September 8, 2016
 * [How to ace your job interviews](https://www.eng.ufl.edu/students/events/ace-job-interviews/) – Preparing University of Florida Engineering Students for Career Fair – September 16, 2016
+
+## Guest posts
+
+* [A simple process to negotiate your starting salary](http://www.lewis-lin.com/blog/2016/10/13/a-simple-process-to-negotiate-your-starting-salary) – [lewis-lin.com](http://www.lewis-lin.com)
+* [What Shark Tank can teach us about career and business decisions](http://annieduke.com/annies-analysis/#what-shark-tank-can-teach-us-about-business-and-career-decisions) – [annieduke.com](http://annieduke.com)
