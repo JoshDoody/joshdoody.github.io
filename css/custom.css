@@ -388,6 +388,10 @@ body {
 	z-index: 1;
 }
 
+.package__button {
+  max-width: 450px;
+}
+
 h2 {
   font-weight: bold;
 	font-size: 200%;
