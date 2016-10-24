@@ -10,7 +10,7 @@
 		{% endfor %}
 		
 		<!-- Begin production-only code -->
-		{% if jekyll.environment == jekyll.environment %}
+		{% if jekyll.environment == 'production' %}
 		<!-- Drip -->
 		<script type="text/javascript">
 		  var _dcq = _dcq || [];
@@ -25,7 +25,7 @@
 		    s.parentNode.insertBefore(dc, s);
 		  })();
 		</script>
-		{% endif %}
+		{% endif %}	
 		
 		<script type="text/javascript">
 		window.drip_plinko = function(drip) {
@@ -48,7 +48,7 @@
 		        footer: 'product-footer'
 		      }
 		    }
-		  }*/
+		  } */
 		}
 
 		$(function(){
@@ -57,4 +57,5 @@
 				mixpanel: false
 		  })
 		})
+
 		</script>
