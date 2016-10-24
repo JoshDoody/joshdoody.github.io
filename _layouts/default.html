@@ -12,7 +12,7 @@
 
 			    <div class="container container--normal">
 
-			      <h1 class="header__title">{% if page.title %}{{ page.title }}{% else %} Fearless Salary Negotiation {% endif %}</h1>
+			      <h1 class="header__title">{% if page.headline %}{{ page.headline }}{% elsif page.title %}{{ page.title }}{% else %} Fearless Salary Negotiation {% endif %}</h1>
 			      {% if page.tagline %}
 						<h2 class="header__tagline">{{ page.tagline }}</h2>
 						{% else %}

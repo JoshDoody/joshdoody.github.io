@@ -1,5 +1,7 @@
 {% if page.share_title %}
 {% assign link_title = page.share_title %}
+{% elsif page.headline %}
+{% assign link_title = page.headline %}
 {% else %}
 {% assign link_title = page.title %}
 {% endif %}

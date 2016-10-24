@@ -1,13 +1,16 @@
 ---
 layout: post
 title: How to ask for a promotion at work
-tagline: A 2-step approach to get your next promotion
-excerpt: A 2-step method to ask for a promotion at work by looking at promotions from a manager's perspective.
+headline: Get promoted by thinking like a manager
+tagline: A proven two-step process to get your next promotion
+excerpt: A proven two-step process to get promoted at work by thinking like a manager.
+last_modified_at: 2016-10-24
 ---
+You’ve got your eye on a promotion. Maybe it’s the next job in your career path, or maybe it’s in another part of the company. How do you get there?
 
-You’ve got your eye on a promotion. Maybe it’s the next job in your career path, or maybe it’s in another part of the company. Now what?
+Conventional wisdom is that you just keep your head down, work hard, and wait until someone sees your potential and gives you a raise. But there's a much better way.
 
-## A CEO tells me what managers are looking for
+## What a CEO taught me about promotions
 
 A few years ago, I had a chance opportunity to talk with the CEO of a large public utility company. We met in his office on the top floor of a tall building, and we talked for 90 minutes. This was extremely generous of him—think how much his time must be worth—and I wanted to make the most of it.
 
@@ -21,19 +24,23 @@ In hindsight, this is obvious. Managers are very, very busy people. They don’t
 
 ## My two-step process
 
-From this perspective, a promotion looks a little different. Instead of something that’s granted to you by managers when they think you’re ready, it’s something you do and then ask to make it official.
+From this perspective, a promotion looks a little different. Instead of something that’s granted to you by managers who see potential in you, it’s something you do and then ask to make it official.
 
 ### 1. Do the job
 
-Determine the differences in responsibility between your current job and your target job, and start doing those things. You can usually find job descriptions on your company intranet, or on the company’s Jobs page. If you can’t find the job description for the job you’re targeting, find someone doing that job and ask them to tell you about it.
+What are the differences in responsibility between your current job and your target job? Start doing those things. You can usually find job descriptions on your company intranet, or on the company’s Jobs page. If you can’t find the job description for the job you’re targeting, find someone doing that job and ask them to tell you about it.
 
 If the new job you’re targeting is outside your current group, run it by your manager first. You may need to explain that you’re interested in a new role, and you want to get experience with it to see if it might be a good option for you in the future. Be as transparent as possible so your manager doesn’t feel that you’re being sneaky, and so you can avoid any political landmines that may be lurking.
 
-Sometimes, you can’t just start doing that new job, so you’ll need to think of other ways to get some exposure to it. For example, maybe you’re aiming for a promotion from Consultant to Senior Consultant, and the difference between those two roles is that a Senior Consultant mentors other Consultants. Mentoring probably isn’t something you can just do, so you’ll ask your manager if there are any good mentoring opportunities where you can be useful. “I’m really comfortable with the Consultant role, and am already documenting processes and creating training for new Consultants. If there are any Junior Consultants that need a mentor, I would love to work with them.”
+Sometimes, you can’t just start doing that new job, so you’ll need to think of other ways to get experience. For example, maybe you’re aiming for a promotion from Consultant to Senior Consultant, and the difference between those two roles is that a Senior Consultant mentors other Consultants. Mentoring probably isn’t something you can just do, so you’ll ask your manager if there are any good mentoring opportunities where you can be useful. 
+
+> “I’m really comfortable with the Consultant role, and am already documenting processes and creating training for new Consultants. If there are any Junior Consultants that need a mentor, I would love to work with them.”
 
 ### 2. Ask to make it official
 
-Once you’re pretty comfortable with the responsibilities for the job you’re targeting, then you can make a compelling case that your manager should promote you and make it official. “I want to show that I’m ready to be a Senior Consultant, so I created new training material and have been mentoring a Junior Consultant for the past couple of months. Can we talk about moving me up to Senior Consultant?”
+Once you’re comfortable with the responsibilities for the job you’re targeting, then you can make a compelling case that your manager should promote you and make it official. 
+
+> “I want to show that I’m ready to be a Senior Consultant, so I created new training material and have been mentoring a Junior Consultant for the past couple of months. Can we talk about moving me up to Senior Consultant?”
 
 ## Wrapping up
 
