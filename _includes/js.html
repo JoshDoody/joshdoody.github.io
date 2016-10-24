@@ -1,0 +1,60 @@
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script src="{{ site.baseurl }}/js/app.js"  type="text/javascript"></script>
+		<script src="{{ site.baseurl }}/js/destination.js" type="text/javascript"></script>
+		<script src="{{ site.baseurl }}/js/drip_pro.js" type="text/javascript"></script>
+		<script src="{{ site.baseurl }}/js/jquery.cookie.js" type="text/javascript"></script>
+		<script src="{{ site.baseurl }}/js/jquery.modal.js" type="text/javascript"></script>
+		
+		{% for js_name in page.extra_js %}
+		<script src="{{ site.baseurl }}/js/{{ js_name }}" type="text/javascript"></script>
+		{% endfor %}
+		
+		<!-- Begin production-only code -->
+		{% if jekyll.environment == jekyll.environment %}
+		<!-- Drip -->
+		<script type="text/javascript">
+		  var _dcq = _dcq || [];
+		  var _dcs = _dcs || {}; 
+		  _dcs.account = '6019475';
+  
+		  (function() {
+		    var dc = document.createElement('script');
+		    dc.type = 'text/javascript'; dc.async = true; 
+		    dc.src = '//tag.getdrip.com/6019475.js';
+		    var s = document.getElementsByTagName('script')[0];
+		    s.parentNode.insertBefore(dc, s);
+		  })();
+		</script>
+		{% endif %}
+		
+		<script type="text/javascript">
+		window.drip_plinko = function(drip) {
+		  if (drip.is_anon) {
+		    return {
+		      true
+					/* offer: 'promotion-course',
+		      modal: 'promotion-course-modal' */
+		    }
+		  } /*else {
+		    if (drip.has_tag('Customer')) {
+		      return {
+		        offer: 'show_love',
+		        footer: 'we-love-our-customers'
+		      }
+		    } else {
+		      return {
+		        offer: 'product-ad',
+		        sidebar: 'product-sidebar',
+		        footer: 'product-footer'
+		      }
+		    }
+		  }*/
+		}
+
+		$(function(){
+		  (new DripPro).init({
+		    template_path: '/ads/',
+				mixpanel: false
+		  })
+		})
+		</script>
