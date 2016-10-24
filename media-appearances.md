@@ -44,3 +44,5 @@ share_title: Fearless Salary Negotiation in the media
 
 * [A simple process to negotiate your starting salary](http://www.lewis-lin.com/blog/2016/10/13/a-simple-process-to-negotiate-your-starting-salary) – [lewis-lin.com](http://www.lewis-lin.com)
 * [What Shark Tank can teach us about career and business decisions](http://annieduke.com/annies-analysis/#what-shark-tank-can-teach-us-about-business-and-career-decisions) – [annieduke.com](http://annieduke.com)
+* [How to ask for a promotion at work](http://interview-coach.co.uk/howtoaskforapromotion/) – [interview-coach.co.uk](http://interview-coach.co.uk)
+* [Five salary negotiation tactics everyone can use to negotiate starting salary](http://interview-coach.co.uk/five-salary-negotiation-tactics-everyone-can-use-negotiate-starting-salary/) – [interview-coach.co.uk](http://interview-coach.co.uk)
