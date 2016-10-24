@@ -10,6 +10,7 @@ share_title: Fearless Salary Negotiation in the media
 * [11 ways to ruin a job interview according to three experts](http://www.independent.co.uk/news/business/news/11-ways-to-ruin-a-job-interview-according-to-three-experts-a6721271.html) – Independent.co.uk
 * [How to (successfully) ask for a raise](https://generalassemb.ly/blog/how-to-successfully-ask-for-a-raise/) – General Assembly Blog
 * [Interview with Engr. Josh Doody - Career Coach and author of Fearless Salary Negotiation](https://www.eeweb.com/spotlight/interview-with-engr-josh-doody) – EEWeb
+* [How to Negotiate Your Salary via Email](https://business.tutsplus.com/tutorials/how-to-negotiate-your-salary-via-email--cms-27031) – tuts+
 
 ## Podcasts
 
