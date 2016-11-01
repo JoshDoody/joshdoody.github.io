@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '"Do we have a deal?"'
+title: “Do we have a deal?”
 tagline: How to handle an unexpected job offer
 excerpt: Here's how to be ready for an unexpected job offer so you're not caught off guard.
-share_title: '"Do we have a deal?" How to handle an unexpected job offer'
+share_title: “Do we have a deal?” How to handle an unexpected job offer
 ---
 I stumbled upon this great piece by [Emily Withrow](https://twitter.com/emilywithrow): [I’m One of Those Women Who Didn’t Negotiate Her Salary](https://medium.com/@emilywithrow/im-one-of-those-women-who-didn-t-negotiate-her-salary-33026ad285e9#.mxoyyxkiy). It's a good piece about how she reacted to an unexpected job offer and didn't negotiate, including her analysis of what went wrong and what she learned.
 

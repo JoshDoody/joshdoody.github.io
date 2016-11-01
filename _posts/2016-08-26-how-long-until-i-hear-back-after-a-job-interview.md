@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"How long until I hear back after a job interview?"'
+title: “How long until I hear back after a job interview?”
 tagline: It depends! Here are some email templates to help you find out.
 excerpt: How long you should wait to hear back, and how often you should follow up after a job interview.
 ---
