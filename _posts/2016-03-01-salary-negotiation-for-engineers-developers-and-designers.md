@@ -14,7 +14,10 @@ After the talk, we did about 40 minutes of Q&A, which I thought was really fun a
 
 Here’s the full talk. And below that is an outline that shows all the topics we discussed, and a list of all the questions that were asked so you can jump right to something if you’re interested.
 
+<figure>
 <iframe align="middle" src="https://www.youtube.com/embed/sN19aNmjBoU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<figcaption>Salary Negotiation for Engineers, Developers, and Designers</figcaption>
+</figure>
 
 ## Talk outline
 
