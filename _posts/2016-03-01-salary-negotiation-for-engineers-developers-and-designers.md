@@ -16,7 +16,6 @@ Here’s the full talk. And below that is an outline that shows all the topics w
 
 <figure>
 <iframe align="middle" src="https://www.youtube.com/embed/sN19aNmjBoU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<figcaption>Salary Negotiation for Engineers, Developers, and Designers</figcaption>
 </figure>
 
 ## Talk outline
