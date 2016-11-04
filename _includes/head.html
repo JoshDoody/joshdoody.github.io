@@ -38,8 +38,10 @@
 	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-	  ga('create', 'UA-67642804-1', 'auto');
+	  ga('create', 'UA-67642804-1', 'auto', {'allowLinker': true});
 		ga('require', 'linkid');
+		ga('require', 'linker');
+	  ga('linker:autoLink', ['dpdcart.com']);
 		{% if page.redirect_url %}
 	  ga('send', 'pageview', {
 	    'hitCallback': function() {
@@ -52,7 +54,6 @@
 
 	</script>
 	<script async src='https://www.google-analytics.com/analytics.js'></script>
-	<script async src='{{ site.baseurl }}/js/autotrack.js'></script>
 	
 	<!-- hotjar snippet -->
 	<script>
