@@ -746,3 +746,28 @@ h3.ck_form_title {
 		margin-right: 0px;
 	}
 }
+
+/* styling tables */
+table {
+    border-collapse: collapse;
+    width: 100%;
+		margin-bottom: 20px;
+}
+
+table td, table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+table tr:nth-child(even){background-color: #f2f2f2;}
+
+table tr:hover {background-color: #ddd;}
+
+table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+		font-weight: bold;
+    text-align: center;
+    background-color: #00A9FF;
+    color: white;
+}
