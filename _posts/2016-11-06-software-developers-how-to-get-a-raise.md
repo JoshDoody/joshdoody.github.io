@@ -6,13 +6,13 @@ excerpt: Here’s how to boost your lifetime earnings by hundreds of thousands o
 ---
 How do you boost your lifetime earnings? The most common way is to change jobs occasionally and negotiate a higher salary.
 
-In his excellent article [The Ultimate Guide To Salary Negotiation For Software Developers](https://simpleprogrammer.com/2016/10/10/salary-negotiation-software-developers/), John Somnez shows the difference in salary over 10 years when you negotiate your starting salary to be $90,000 instead of settling for $80,000.
+In his excellent article [The Ultimate Guide To Salary Negotiation For Software Developers](https://simpleprogrammer.com/2016/10/10/salary-negotiation-software-developers/), [John Sonmez](https://simpleprogrammer.com/about-simple-programmer/) shows the difference in salary over 10 years when you negotiate your starting salary to be $90,000 instead of settling for $80,000.
 
 Making that leap to a new job and negotiating your starting salary can earn you hundreds of thousands or even a million dollars over the course of your career.
 
 But there are costs to changing jobs—you might have to move your family to a new city, learn new technology, or leave a team you really like working with—so this isn't always an easy option.
 
-## You can earn more by staying put
+## You can also earn more by staying put
 
 Here's a table from John's article. He assumes you'll get a 3% raise each year, which is pretty common. I've added a two columns showing what happens if you negotiate an *additional* 5% raise every two years in both scenarios. Five percent every two years is a *conservative* estimate of what is achievable for most software developers.
 
@@ -95,7 +95,7 @@ It's a good question, so let's go deeper on that one and hopefully you'll get so
 
 The obvious way to write more code is to work more hours. That *would* probably make you more valuable to your company, but it's not what I have in mind. Instead, look at "code" as something more than lines of code. Think of it as a tool to help do something. Instead of "write more code", we could say "build more tools". 
 
-That's something you can probably do without working more hours. How? The obvious way is to get more efficient through practice and doing code reviews. If you're more efficient, you can write more code in the same amount of time.
+That's something you can probably do without working more hours. How? The obvious way is to get more efficient through practice and code reviews. If you're more efficient, you can write more code in the same amount of time.
 
 Or what about learning a new part of the stack? If you mostly work on front-end code, instead of learning that new JS library, you could start learning the back-end part of your company's stack so you can work faster with fewer handoffs to other developers on your team.
 
@@ -105,9 +105,9 @@ Here's how you might describe the value you add by writing more code:
 
 **Write more code. Add more value. Make more money.**
 
-In that context, getting a 5% raise every two years is very doable. That's because it is! Look at all the value you can add with just *one item* on that list.
+In that context, getting a 5% raise every two years is very doable. Just look at all the value you can add with *one item* from that list.
 
-As you get more experience, some of these things will happen naturally. For example, you'll often be given more projects over time, and that makes you more valuable. You might help train new co-workers as they're hired, and *that* makes you more valuable. 
+As you get more experience, some of these things will happen naturally. For example, you'll often be given more projects over time, and that makes you more valuable. You might help train new co-workers as they're hired, and *that* makes you more valuable.
 
 All you're doing is proactively talking to your manager every two years to make sure your salary is adjusted to reflect the additional value you're bringing to your role since your last salary was set. 
 
