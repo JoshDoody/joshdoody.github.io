@@ -4,16 +4,17 @@ title: A software developer’s guide to getting a raise
 headline: 'Software Developers: Here’s how to get a raise'
 excerpt: Here’s how to boost your lifetime earnings by hundreds of thousands of dollars by getting periodic raises.
 ---
+How do you boost your lifetime earnings? The most common way is to change jobs occasionally and negotiate a higher salary.
 
-It's common knowledge that changing jobs is how to boost your salary. If you've been at a job for a while, and your salary has stagnated, you can probably get a big bump by starting over at a new company, resetting your base salary so it's something closer to "market".
+In his excellent article [The Ultimate Guide To Salary Negotiation For Software Developers](https://simpleprogrammer.com/2016/10/10/salary-negotiation-software-developers/), John Somnez shows the difference in salary over 10 years when you negotiate your starting salary to be $90,000 instead of settling for $80,000.
 
-In his excellent article [The Ultimate Guide To Salary Negotiation For Software Developers](https://simpleprogrammer.com/2016/10/10/salary-negotiation-software-developers/), John Somnez shows the difference in salary over 10 years when you negotiate your starting salary to be $90,000 instead of settling for $80,000. He does a great job of showing how much more you'll earn when you start at $90,000 if you get a 3% raise each year. 
+Making that leap to a new job and negotiating your starting salary effectively can earn you hundreds of thousands or even a million dollars or more over the course of your career.
 
-**Making that leap to a new job and negotiating your starting salary effectively can earn you hundreds of thousands or even a million dollars or more over the course of your career.** So there's a lot to be *gained* by changing jobs, but there are *costs* as well. You might have to move your family to a new city, learn new technology, or leave a team you really like working with.
+But there are costs to changing jobs—you might have to move your family to a new city, learn new technology, or leave a team you really like working with—so this isn't always an easy option.
 
-## What if you're not ready to make that big of a change? Can you earn more by staying put? 
+## You can also earn more by staying put
 
-Here's a table from John's article. I've added a two columns to his table showing what happens if you negotiate an *additional* 5% raise every two years in both scenarios. 5% every two years is a *very conservative* estimate of what is achievable for most software developers.
+Here's a table from John's article. He assumes you'll get a 3% raise each year, which is pretty common. I've added a two columns showing what happens if you negotiate an *additional* 5% raise every two years in both scenarios. Five percent every two years is a *conservative* estimate of what is achievable for most software developers.
 
 <table><tbody>
 <tr><th></th><th colspan="2">3% raise each year</th><th colspan="2">5% MORE every other year</th></tr>
@@ -31,7 +32,7 @@ Here's a table from John's article. I've added a two columns to his table showin
 <tr><td><strong>Total</strong></td><td><strong>$917,110</strong></td><td><strong>$1,031,749</strong></td><td><strong>$1,041,264</strong></td><td><strong>$1,171,422</strong></td></tr>
 </tbody></table>
 
-What do we see here? Three interesting things.
+There are three interesting things here.
 
 ## 1. Even if you didn't negotiate your starting salary at your current job, you have options
 
