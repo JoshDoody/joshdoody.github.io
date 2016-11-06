@@ -18,16 +18,16 @@ Here's a table from John's article. He assumes you'll get a 3% raise each year, 
 
 <table><tbody>
 <tr><th></th><th colspan="2">3% raise each year</th><th colspan="2">5% MORE every other year</th></tr>
-<tr><td>Year 1</td><td>$80,000</td><td>$90,000</td><td>$80,000.00</td><td>$90,000.00</td></tr>
-<tr><td>Year 2</td><td>$82,400.00</td><td>$92,700.00</td><td>$86,400.00</td><td>$97,200.00</td></tr>
-<tr><td>Year 3</td><td>$84,872.00</td><td>$95,481.00</td><td>$88,992.00</td><td>$100,116.00</td></tr>
-<tr><td>Year 4</td><td>$87,418.16</td><td>$98,345.43</td><td>$96,111.36</td><td>$108,125.28</td></tr>
-<tr><td>Year 5</td><td>$90,040.70</td><td>$101,295.79</td><td>$98,994.70</td><td>$111,369.04</td></tr>
-<tr><td>Year 6</td><td>$92,741.93</td><td>$104,334.67</td><td>$106,914.28</td><td>$120,278.56</td></tr>
-<tr><td>Year 7</td><td>$95,524.18</td><td>$107,464.71</td><td>$110,121.71</td><td>$123,886.92</td></tr>
-<tr><td>Year 8</td><td>$98,389.91</td><td>$110,688.65</td><td>$118,931.44</td><td>$133,797.87</td></tr>
-<tr><td>Year 9</td><td>$101,341.61</td><td>$114,009.31</td><td>$122,499.38</td><td>$137,811.81</td></tr>
-<tr><td>Year 10</td><td>$104,381.85</td><td>$117,429.59</td><td>$132,299.34</td><td>$148,836.75</td></tr>
+<tr><td>Year 1</td><td>$80,000</td><td>$90,000</td><td>$80,000</td><td>$90,000</td></tr>
+<tr><td>Year 2</td><td>$82,400</td><td>$92,700</td><td>$86,400</td><td>$97,200</td></tr>
+<tr><td>Year 3</td><td>$84,872</td><td>$95,481</td><td>$88,992</td><td>$100,116</td></tr>
+<tr><td>Year 4</td><td>$87,418</td><td>$98,345</td><td>$96,111</td><td>$108,125</td></tr>
+<tr><td>Year 5</td><td>$90,040</td><td>$101,295</td><td>$98,994</td><td>$111,369</td></tr>
+<tr><td>Year 6</td><td>$92,741</td><td>$104,334</td><td>$106,914</td><td>$120,278</td></tr>
+<tr><td>Year 7</td><td>$95,524</td><td>$107,464</td><td>$110,121</td><td>$123,886</td></tr>
+<tr><td>Year 8</td><td>$98,389</td><td>$110,688</td><td>$118,931</td><td>$133,797</td></tr>
+<tr><td>Year 9</td><td>$101,341</td><td>$114,009</td><td>$122,499</td><td>$137,811</td></tr>
+<tr><td>Year 10</td><td>$104,381</td><td>$117,429</td><td>$132,299</td><td>$148,836</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td><strong>Total</strong></td><td><strong>$917,110</strong></td><td><strong>$1,031,749</strong></td><td><strong>$1,041,264</strong></td><td><strong>$1,171,422</strong></td></tr>
 </tbody></table>
