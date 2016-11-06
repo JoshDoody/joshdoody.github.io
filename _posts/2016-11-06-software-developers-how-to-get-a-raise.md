@@ -8,11 +8,11 @@ How do you boost your lifetime earnings? The most common way is to change jobs o
 
 In his excellent article [The Ultimate Guide To Salary Negotiation For Software Developers](https://simpleprogrammer.com/2016/10/10/salary-negotiation-software-developers/), John Somnez shows the difference in salary over 10 years when you negotiate your starting salary to be $90,000 instead of settling for $80,000.
 
-Making that leap to a new job and negotiating your starting salary effectively can earn you hundreds of thousands or even a million dollars or more over the course of your career.
+Making that leap to a new job and negotiating your starting salary can earn you hundreds of thousands or even a million dollars over the course of your career.
 
 But there are costs to changing jobs—you might have to move your family to a new city, learn new technology, or leave a team you really like working with—so this isn't always an easy option.
 
-## You can also earn more by staying put
+## You can earn more by staying put
 
 Here's a table from John's article. He assumes you'll get a 3% raise each year, which is pretty common. I've added a two columns showing what happens if you negotiate an *additional* 5% raise every two years in both scenarios. Five percent every two years is a *conservative* estimate of what is achievable for most software developers.
 
