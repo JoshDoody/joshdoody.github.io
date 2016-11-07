@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A software developer’s guide to getting a raise
+title: The software developer’s guide to getting a raise
 headline: 'Software Developers: Here’s how to get a raise'
-excerpt: Here’s how to boost your lifetime earnings by hundreds of thousands of dollars by getting periodic raises.
+excerpt: Here’s how to boost your lifetime earnings by hundreds of thousands of dollars by getting periodic raises without changing jobs.
 last_modified_at: 2016-11-07
 og-image: SoftwareDevRaiseGuide.png
 ---
