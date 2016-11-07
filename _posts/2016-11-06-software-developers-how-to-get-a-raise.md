@@ -3,6 +3,8 @@ layout: post
 title: A software developer’s guide to getting a raise
 headline: 'Software Developers: Here’s how to get a raise'
 excerpt: Here’s how to boost your lifetime earnings by hundreds of thousands of dollars by getting periodic raises.
+last_modified_at: 2016-11-07
+og-image: SoftwareDevRaiseGuide.png
 ---
 How do you boost your lifetime earnings? The most common way is to change jobs occasionally and negotiate a higher salary.
 
