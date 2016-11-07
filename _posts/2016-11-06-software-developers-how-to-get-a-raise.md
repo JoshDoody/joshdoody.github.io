@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The software developer’s guide to getting a raise
-headline: 'Software Developers: Here’s how to get a raise'
+title: The software developer’s guide to getting a raise without changing jobs	
+headline: 'Software Developers: Here’s how to get a raise without changing jobs'
 excerpt: Here’s how to boost your lifetime earnings by hundreds of thousands of dollars by getting periodic raises without changing jobs.
 last_modified_at: 2016-11-07
 og-image: SoftwareDevRaiseGuide.png
@@ -10,13 +10,11 @@ How do you boost your lifetime earnings? The most common way is to change jobs o
 
 In his excellent article [The Ultimate Guide To Salary Negotiation For Software Developers](https://simpleprogrammer.com/2016/10/10/salary-negotiation-software-developers/), [John Sonmez](https://simpleprogrammer.com/about-simple-programmer/) shows the difference in salary over 10 years when you negotiate your starting salary to be $90,000 instead of settling for $80,000.
 
-Making that leap to a new job and negotiating your starting salary can earn you hundreds of thousands or even a million dollars over the course of your career.
-
 But there are costs to changing jobs—you might have to move your family to a new city, learn new technology, or leave a team you really like working with—so this isn't always an easy option.
 
-## You can also earn more by staying put
+## You can also earn more without changing jobs
 
-Here's a table from John's article. He assumes you'll get a 3% raise each year, which is pretty common. I've added a two columns showing what happens if you negotiate an *additional* 5% raise every two years in both scenarios. Five percent every two years is a *conservative* estimate of what is achievable for most software developers.
+In this table from John's article, he shows how much your salary will grow over 10 years if you get a 3% raise each year. Here's my own version of that table where I've added a two columns showing what happens if you negotiate an *additional* 5% raise every two years. Five percent every two years is a *conservative* estimate of what is achievable for most software developers without changing jobs.
 
 <table><tbody>
 <tr><th></th><th colspan="2">3% raise each year</th><th colspan="2">5% MORE every other year</th></tr>
@@ -36,27 +34,27 @@ Here's a table from John's article. He assumes you'll get a 3% raise each year, 
 
 There are three interesting things here.
 
-## 1. Even if you didn't negotiate your starting salary at your current job, you have options
+## 1. You can make up ground even if you didn't negotiate your starting salary
 
-Let's say you changed jobs, didn't negotiate your starting salary, and started at $80,000. Then you found out how powerful negotiating can be, and realized you probably could've negotiated for a starting salary of $90,000. You like your job, but now you feel like you're underpaid. What can you do?
+Let's you started your job at $80,000 and didn't negotiate your starting salary. Then you found out [how powerful negotiating can be]({{ site.baseurl }}/why-negotiate-starting-salary/), and realized you probably could've negotiated for a starting salary of $90,000. You like your job, but now you feel like you're underpaid. What can you do without changing jobs?
 
-The good news is you can stay at the job you like *and* make up that lost ground by negotiating a 5% raise every two years. Look at Year 6 in the table above. If you started at $80,000 and negotiated a 5% raise every two years on top of the 3% you'd probably get anyway, you're making more than if you had started at $90,000 and gotten the standard 3% raise every year!
+Take a look at the table above. If you negotiate an additional 5% raise every two years you'll make up that gap in your starting salary by Year 6. If you started at $80,000 and negotiated an additional 5% raise every two years, you're making more than if you had started at $90,000 and gotten the standard 3% raise every year!
 
 So if you're at a job you like and you *didn't* negotiate the best starting salary, you can make up ground by negotiating a raise every couple of years. Good to know!
 
-## 2. If you have to choose a raise or a job change, raises can beat higher starting salaries
+## 2. Periodic raises can beat higher starting salaries if you have to pick just one
 
-Take a look at the first three columns in our table. It's obvious that you're *much* better off negotiating a starting salary of $90,000 instead of $80,000. But look what happens when you compare a $90,000 starting salary with 3% raises each year to an $80,000 starting salary with an additional 5% raise every two years.
+Take a look at the first three columns in our table. It's obvious that you're *much* better off negotiating a starting salary of $90,000 instead of $80,000. But look what happens to the "Total" when you compare a $90,000 starting salary with 3% raises each year to an $80,000 starting salary with an additional 5% raise every two years.
 
 You can make *more* by pursuing a 5% raise every other year than if you just negotiate your starting salary!
 
 So if you had to pick one—a higher starting salary, or a higher-than-usual raise every couple years—you would be better off getting a bigger raise every couple years.
 
-## 3. You don't have to choose!
+## 3. You don't have to pick just one!
 
-But here's the best news of all: **You don't have to choose!** You can double-dip by negotiating your starting salary *and* negotiating moderate raises every couple of years! 
+The best news is that **you don't have to pick a higher starting salary *or* periodic raises**. You can double-dip by negotiating your starting salary *and* negotiating moderate raises every couple of years!
 
-And look what happens when you do: You make a *lot* more money over time. Back to the table above, the worst-case scenario is you didn't negotiate your starting salary *and* you just accept the 3% raise you'll get every year. The best-case scenario is that you negotiate your starting salary up to $90,000 *and* you negotiate an additional 5% raise every two years. In the best-case scenario, *you make $250,000 more than in the worst-case scenario*!
+And look what happens when you do: You make a *lot* more money over time. Back to the table above, the worst-case scenario is you didn't negotiate your $80,000 starting salary *and* you just accept the 3% raise you'll get every year. The best-case scenario is that you negotiate your starting salary up to $90,000 *and* you negotiate an additional 5% raise every two years. In the best-case scenario, *you make $250,000 more than in the worst-case scenario*!
 
 ## Add more value, make more money
 
@@ -64,15 +62,15 @@ I know what you're thinking. "Sounds great! But it's easy to say, 'Get a 5% rais
 
 **Bring more value to the company than what's expected of you. Then ask to be compensated for it.**
 
-Your current salary was set some time in the past. Either it's your starting salary or it's your starting salary plus some incremental raises over time. When your current salary was set, there were certain expectations for what you would do to earn that salary–to justify the cost to the company.
+Your current salary was set some time in the past. Either it's your original starting salary or it's your starting salary plus some incremental raises over time. When your current salary was set, the company had expectations for what you would do to earn that salary.
 
-So if you want to make more than your current salary, you need to bring more value than was expected of you when your salary was set. The company's goal is to make money, so you add more value by helping the company make money.
+So if you want to make *more* than your current salary, you need to bring *more value* than was expected of you when your salary was set. The company's ultimate goal is to make money, so you add more value by helping the company make money.
 
 > "But I'm a software developer. I don't have anything to do with sales! How am I supposed to do that?"
 
-Yes, generating revenue is one way to help the company make more money, and you're right that writing software often doesn't directly correlate to revenue. But "generate revenue" is only one of *three* ways you can help the company make money.
+Generating revenue is *one way* to help the company make more money, and you're right that writing software usually doesn't directly contribute to revenue. But "generate revenue" is only one of *three* ways you can help the company make money.
 
-Here are the three main ways you can add value to your company: drive revenue, reduce costs, reduce cycle time. If you focus on activities that do one more of those, you'll add value to your company.
+**Here are the three main ways you can add value to your company: drive revenue, reduce costs, reduce cycle time.** Focus on activities that do one more of those and you'll add value to your company.
 
 ***Stop right here and think of ways you could drive more revenue, reduce costs, or reduce cycle time on your projects.***
 
@@ -81,38 +79,38 @@ Got some ideas? Here are a few I came up with:
 - Write more code (cost reduction)
 - Manage more projects or bigger projects (more revenue and cost reduction)
 - Fix more bugs (cost and cycle time reduction)
-- Train new co-workers (cost and cycle time reduction)
-- Mentor junior developers (cycle time reduction)
-- Take some weekly status reports off of your manager's plate (cost reduction)
+- Train new team members (cost and cycle time reduction)
+- Mentor other software developers (cycle time reduction)
+- Take responsibility for a weekly status meeting that your manager usually runs (cost reduction)
 
-So most of the ways you will add value are *not* revenue generating, but that's ok because they're still valuable!
+Most of the ways software developers add value are *not* revenue generating, but that's ok because they're still valuable!
 
-That list above should give you some ideas where you can focus to add more value to the company. But if you can't think of anything, you can always ask your manager to help you out. "I would like to take on more responsibility and add more value. What else can I do?"
+That list should give you some good ideas. Still can't think of any ways to add more value? Ask your manager to help you out: "I would like to take on more responsibility and add more value. What else can I do?"
 
-## Let's dig into "Write more code"
+## “What do you mean ‘Write more code’?”
 
 "It's easy for *you* to say I should write more code, but I'm already working full-time. How am I supposed to that?"
 
-It's a good question, so let's go deeper on that one and hopefully you'll get some ideas you can use to go deeper on that entire list.
+Good question. Let's go deeper on that one and hopefully you'll get some ideas you can use to go deeper on that entire list.
 
-The obvious way to write more code is to work more hours. That *would* probably make you more valuable to your company, but it's not what I have in mind. Instead, look at "code" as something more than lines of code. Think of it as a tool to help do something. Instead of "write more code", we could say "build more tools". 
+One way to write more code is to work more hours. That *would* probably make you more valuable to your company, but it's not what I have in mind. Instead, look at "code" as something more than lines of code. Think of it as a tool to help do something. Instead of "write more code", we could say "build more tools". 
 
 That's something you can probably do without working more hours. How? The obvious way is to get more efficient through practice and code reviews. If you're more efficient, you can write more code in the same amount of time.
 
-Or what about learning a new part of the stack? If you mostly work on front-end code, instead of learning that new JS library, you could start learning the back-end part of your company's stack so you can work faster with fewer handoffs to other developers on your team.
+Or you could learn a new part of your company's tech stack. If you mostly write front-end code, you could start learning the back-end part of your company's stack so you can work faster with fewer handoffs to other developers on your team. That might be a more valuable use of your time than learning that new JS library.
 
 Here's how you might describe the value you add by writing more code:
 
 > "I started doing code reviews with Sara, and my code has gotten a lot better. I'm moving faster and bumping into fewer bugs. I also started working on the Ruby on Rails part of our stack so I can integrate our Angular code faster."
 
-**Write more code. Add more value. Make more money.**
+## Write more code. Add more value. Make more money.
 
-In that context, getting a 5% raise every two years is very doable. Just look at all the value you can add with *one item* from that list.
+When you add more value than was initially expected, getting an additional 5% raise every two years is very doable. Just look at all the value you can add with *one item* from that list!
 
-As you get more experience, some of these things will happen naturally. For example, you'll often be given more projects over time, and that makes you more valuable. You might help train new co-workers as they're hired, and *that* makes you more valuable.
+As you get more experience, some of these things will happen naturally. For example, you'll often be given more projects over time, and that makes you more valuable. You might be tapped to train new co-workers as they're hired, and *that* makes you more valuable.
 
-All you're doing is proactively talking to your manager every two years to make sure your salary is adjusted to reflect the additional value you're bringing to your role since your last salary was set. 
+So [keep track]({{ site.baseurl }}/raise-accomplishments-and-accolades/) of the ways you grow and add value. Keep track of your salary increases. When your salary lags your value, proactively talk to your manager to make sure your salary is adjusted to reflect the additional value you're bringing to to the company since your salary was last set. Every couple of years is a reasonable cadence for those conversations.
 
-So keep track of the ways you grow and add value. Keep track of your salary increases. When your salary is lagging your value, it's time to ask for a raise. Do that consistently, and **you'll make a lot more money over your career**.
+**Do that consistently, and you'll make a lot more money over your career**.
 
 {% include drip_form.html form="raise-course" %}
