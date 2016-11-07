@@ -113,6 +113,4 @@ All you're doing is proactively talking to your manager every two years to make 
 
 So keep track of the ways you grow and add value. Keep track of your salary increases. When your salary is lagging your value, it's time to ask for a raise. Do that consistently, and **you'll make a lot more money over your career**.
 
-<div class='ad-box'>
-<p><strong>How do you know if you're you ready to ask for a raise?</strong> Learn when and how to ask for a raise with my <a href="{{ base.url }}/raise-course/">free email course</a>.</p>
-</div>
+{% include drip_form.html form="raise-course" %}
