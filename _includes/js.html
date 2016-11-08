@@ -1,15 +1,8 @@
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 		<script src="{{ site.baseurl }}/js/app.js"  type="text/javascript"></script>
 		<script src="{{ site.baseurl }}/js/destination.js" type="text/javascript"></script>
-		<script src="{{ site.baseurl }}/js/jquery.cookie.js" type="text/javascript"></script>
-		<script src="{{ site.baseurl }}/js/jquery.modal.js" type="text/javascript"></script>
-		
-		{% for js_name in page.extra_js %}
-		<script src="{{ site.baseurl }}/js/{{ js_name }}" type="text/javascript"></script>
-		{% endfor %}
 		
 		<!-- Begin production-only code -->
-		{% if jekyll.environment == 'production' %}
+		{% if jekyll.environment == jekyll.environment %}
 		<!-- Drip -->
 		<script type="text/javascript">
 		  var _dcq = _dcq || [];
@@ -24,4 +17,46 @@
 		    s.parentNode.insertBefore(dc, s);
 		  })();
 		</script>
+		
+		<script src="{{ site.baseurl }}/js/drip_pro.js" type="text/javascript"></script>
+			
+		<script type="text/javascript">
+		// Changes made to drip_pro.js - may be overwritten on update
+		// commented out line to add optin_url field to forms since that's redundant to what I do in Drip itself for original_optin_url and last_optin_url
+		$(function(){
+		  (new DripPro).init({
+	      debug: true,
+		    template_path: '/ads/'
+		  })
+		})
+		
+		window.drip_plinko = function(drip) {
+		  if (drip.is_anon) {
+		    return {
+					/*offer: 'promotion-course',
+		      modal: 'promotion-course-modal'*/
+		    }
+		  } else {
+				return {
+					
+				}
+		    /*if (drip.has_tag('Customer')) {
+		      return {
+		        offer: 'show_love',
+		        footer: 'we-love-our-customers'
+		      }
+		    } else {
+		      return {
+		        offer: 'product-ad',
+		        sidebar: 'product-sidebar',
+		        footer: 'product-footer'
+		      }
+		    }*/
+		  }
+		}
+		</script>
+		
+		{% for js_name in page.extra_js %}
+		<script src="{{ site.baseurl }}/js/{{ js_name }}" type="text/javascript"></script>
+		{% endfor %}
 		{% endif %}
