@@ -2,8 +2,6 @@
 layout: post
 title: Salary negotiation for engineers, developers, and designers
 excerpt: A Salary Negotiation Workshop for software engineers and designers, given for the Orlando Devs Meetup and The Iron Yard Orlando campus.
-extra_js:
-  - jquery.responsive-video.js
 ---
 
 I recently did a Salary Negotiation workshop for the [Orlando Devs Meetup](http://www.meetup.com/OrlandoDevs/) and [The Iron Yard](https://www.theironyard.com/)'s Orlando campus. It was a great opportunity to work with software engineers and designers, who are simultaneously in _very_ high demand right now, and hesitant to negotiate their salary. 
@@ -14,9 +12,9 @@ After the talk, we did about 40 minutes of Q&A, which I thought was really fun a
 
 Here’s the full talk. And below that is an outline that shows all the topics we discussed, and a list of all the questions that were asked so you can jump right to something if you’re interested.
 
-<figure>
+<div class="video-container">
 <iframe align="middle" src="https://www.youtube.com/embed/sN19aNmjBoU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</figure>
+</div>
 
 ## Talk outline
 
