@@ -2,8 +2,9 @@
 layout: gynr
 metatags: noindex
 sitemap: false
-title: Get Your Next Raise - Setting your goal
-headline: 'Module 3: Setting your goal'
+title: Get Your Next Raise - Set your goal
+headline: 'Set your goal'
+tagline: Module 2
 extra_js:
   - gynr_access.js
 ---
@@ -41,10 +42,9 @@ extra_js:
 				<li><i class="fa fa-lock"></i>Document your accomplishments</li>
 				<li><i class="fa fa-lock"></i>Document your accolades</li>
 			</ol>
-			<p class='u-center'><a href="">I'm ready for the next module</a></p>
+			<p class='u-center'><a href="#">I'm ready for the next module</a></p>
 		</div>
-		
 	</div>
-	<div class="subscriber" style="display: none;"><h2>Subscriber</h2></div>
-	<div class="anonymous" style="display: none;"><h2>Anonymous</h2></div>
+	<div class="subscriber" style="display: none;"><a href="{{ site.baseurl }}/class/">Buy the course</a></div>
+	<div class="anonymous" style="display: none;">{% include drip_form.html form="raise-course" %}</div>
 </div>
