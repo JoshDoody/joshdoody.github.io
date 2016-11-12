@@ -18,14 +18,14 @@ $(document).ready(function () {
 		
 		if(dripUser.isAnon) {
 			console.log("Anonymous");
-			$("#anonymous").show();
+			$(".anonymous").each().show();
 		} else {
-			if(dripUser.rawDripContact.tags.indexOf('Started Workflow - Newsletter') !== -1){
+			if(dripUser.rawDripContact.tags.indexOf('Purchased - GYNR') !== -1){
 				console.log("Subscriber, Tagged");
-				$("#gynr-customer").show();
+				$(".gynr-customer").each().show();
 			} else {
 				console.log("Subscriber");
-				$("#subscriber").show();
+				$(".subscriber").each().show();
 			}
 		}
 	};
