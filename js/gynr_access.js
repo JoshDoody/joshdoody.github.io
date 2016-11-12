@@ -18,14 +18,20 @@ $(document).ready(function () {
 		
 		if(dripUser.isAnon) {
 			console.log("Anonymous");
-			$(".anonymous").each().show();
+			$(".anonymous").each(function () {
+				$(this).show();
+			})
 		} else {
 			if(dripUser.rawDripContact.tags.indexOf('Purchased - GYNR') !== -1){
 				console.log("Subscriber, Tagged");
-				$(".gynr-customer").each().show();
+				$(".gynr-customer").each(function () {
+					$(this).show();
+				})
 			} else {
 				console.log("Subscriber");
-				$(".subscriber").each().show();
+				$(".subscriber").each(function () {
+					$(this).show();
+				})
 			}
 		}
 	};
