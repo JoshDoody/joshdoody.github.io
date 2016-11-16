@@ -3,6 +3,7 @@ layout: book_excerpt
 title: Prepare to ask for a raise using this email template
 tagline: Send your raise request after you talk to your manager
 excerpt: This is your chance to make your case in writing so your manager can circulate it in your own words. You'll make your case better than anyone else will.
+has_basic_bundle_pitch: true
 last_modified_at: 2016-06-29
 book_section: 12
 chapter: raise
@@ -50,6 +51,8 @@ Here’s what your case for a raise will look like once you’ve written it down
 </div>
 
 Now, all you need to do is go through the template and replace anything in **bold** with the appropriate piece of information. This should be pretty easy because you’ve already done all the hard work when you did your research earlier. Feel free to edit this email to make it your own. This is just a template to get you started and show you the bare necessities you should include to make this as useful as possible.
+
+<!-- {% include book_ad_box.html offer="the Raise email template" blurb="Get this email template and a worksheet you can use to help set your target salary and make your case for your next raise." %} -->
 
 Let’s go section by section to build your email and make your case.
 

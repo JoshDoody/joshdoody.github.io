@@ -20,4 +20,4 @@ However, if you need a specific topic *right now*, you should have no trouble ju
 
 [Part 3]({{ site.baseurl }}/book/get-a-big-raise/) is about getting paid what you’re worth within your current company. If you like your company and think you’re under-paid, then pursuing a [promotion]({{ site.baseurl }}/book/promotion/) or [raise]({{ site.baseurl }}/book/raise/) may be a great way to increase your pay and stay with a company you enjoy.
 
-{% include book_ad_box.html blurb="<em>Fearless Salary Negotiation</em> is one component of a full suite of tools and resources to help you get paid what you’re worth." %}
+<!-- {% include book_ad_box.html blurb="<em>Fearless Salary Negotiation</em> is one component of a full suite of tools and resources to help you get paid what you’re worth." %} -->

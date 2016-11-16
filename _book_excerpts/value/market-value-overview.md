@@ -16,7 +16,7 @@ Estimating your market value is both an art and a science. You start by gatherin
 
 In short, you’ll find a broad average salary for your job in your industry. Then you adjust that average to compensate for *your* particular skillset and experience.
 
-{% include book_ad_box.html offer="the Market Value Estimation Worksheet" blurb="Before you go too much further, you might want to get the Market Value Estimation Worksheet to help you keep track of the data you will gather and aggregate throughout the estimation process." %}
+<!-- >{% include book_ad_box.html offer="the Market Value Estimation Worksheet" blurb="Before you go too much further, you might want to get the Market Value Estimation Worksheet to help you keep track of the data you will gather and aggregate throughout the estimation process." %} -->
 
 ## Determining the market value for your skillset and experience
 

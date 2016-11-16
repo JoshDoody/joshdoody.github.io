@@ -1,7 +1,22 @@
-{% unless page.has_basic_bundle_pitch == true %}
-	{% include drip_form.html form="raise-course" %}
-{% endunless %}
-
+{% case page.chapter %}
+{% when 'salary-structures' %}
+{% include drip_form.html form="salary-structures" %}
+{% when 'value' %}
+{% include drip_form.html form="value" %}
+{% when 'interview' %}
+{% include drip_form.html form="interview" %}
+{% when 'negotiate' %}
+{% include drip_form.html form="negotiate" %}
+{% when 'leave' %}
+{% include drip_form.html form="leave" %}
+{% when 'promotion' %}
+{% include drip_form.html form="promotion" %}
+{% when 'raise' %}
+{% include drip_form.html form="raise-course" %}
+{% else %}
+{% include drip_form.html form="raise-course" %}
+{% endcase %}	
+	
 {% assign this_chapter = site.book_chapters | where:"chapter", page.chapter | first %}
 {% assign excerpts_from_this_book_section = site.book_excerpts | where:"book_section", page.book_section | sort:"section" %}
 

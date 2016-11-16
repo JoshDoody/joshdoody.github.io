@@ -55,4 +55,4 @@ josh@example.com<br>
 555-555-1234</p>
 </div>
 
-{% include book_ad_box.html offer="the sample thank you email templates" blurb="Get these email templates and several others when you buy <em>Fearless Salary Negotiation</em>." %}
+<!-- >{% include book_ad_box.html offer="the sample thank you email templates" blurb="Get these email templates and several others when you buy <em>Fearless Salary Negotiation</em>." %} -->

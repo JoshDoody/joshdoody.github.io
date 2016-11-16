@@ -39,7 +39,7 @@ Here’s a real example of a counter email I sent for a job I landed. I’ve cha
 josh@example.com</p>
 </div>
 
-{% include book_ad_box.html offer="the sample counter offer email template" blurb="Get this email template and several others when you buy <em>Fearless Salary Negotiation</em>." %}
+<!-- >{% include book_ad_box.html offer="the sample counter offer email template" blurb="Get this email template and several others when you buy <em>Fearless Salary Negotiation</em>." %} -->
 
 Let’s look a little closer.
 

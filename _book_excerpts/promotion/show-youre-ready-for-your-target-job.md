@@ -34,4 +34,4 @@ If you can do those new things without asking permission, just look for an oppor
 
 [The next step]({{ site.baseurl }}/promotion-accomplishments-and-accolades/) is to build your case for a promotion, and the strongest component of your case will be that *you’re already doing that job*. When you go to your manager to ask for a promotion using the method in this book, you will say something like, "I looked into it, and I think I’ve been doing the Senior Business Analyst job for the past few months. What else can I do to make things official with a promotion to Senior Business Analyst?"
 
-{% include book_ad_box.html offer="the Promotion worksheet" blurb="Get a worksheet and email template you can use to help define your roadmap and track your results as you make progress toward your goal." %}
+<!-- >{% include book_ad_box.html offer="the Promotion worksheet" blurb="Get a worksheet and email template you can use to help define your roadmap and track your results as you make progress toward your goal." %} -->

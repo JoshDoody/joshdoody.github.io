@@ -52,7 +52,7 @@ Here’s what your case for a promotion will look like once you’ve written it 
 
 Now, all you need to do is go through the template and replace anything in **bold** with the appropriate piece of information. This should be pretty easy because you’ve already done all the hard work. Feel free to edit this email to make it your own. This is just a template to get you started and show you the bare necessities you should include to make this as useful as possible.
 
-{% include book_ad_box.html offer="the Promotion email template" blurb="Get this email template and a worksheet you can use to help define your roadmap, track your results, and make your case for your next promotion." %}
+<!-- {% include book_ad_box.html offer="the Promotion email template" blurb="Get this email template and a worksheet you can use to help define your roadmap, track your results, and make your case for your next promotion." %} -->
 
 Let’s go section by section to build your email and make your case.
 

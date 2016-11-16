@@ -75,4 +75,4 @@ I'm on LinkedIn at: https://www.linkedin.com/in/joshdoody</p>
 <p>Josh</p>
 </div>
 
-{% include book_ad_box.html offer="the sample goodbye email template" blurb="Get this email template and several others when you buy <em>Fearless Salary Negotiation</em>." %}
+<!-- >{% include book_ad_box.html offer="the sample goodbye email template" blurb="Get this email template and several others when you buy <em>Fearless Salary Negotiation</em>." %} -->
