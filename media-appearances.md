@@ -47,3 +47,4 @@ share_title: Fearless Salary Negotiation in the media
 * [What Shark Tank can teach us about career and business decisions](http://annieduke.com/annies-analysis/#what-shark-tank-can-teach-us-about-business-and-career-decisions) – [annieduke.com](http://annieduke.com)
 * [How to ask for a promotion at work](http://interview-coach.co.uk/howtoaskforapromotion/) – [interview-coach.co.uk](http://interview-coach.co.uk)
 * [Five salary negotiation tactics everyone can use to negotiate starting salary](http://interview-coach.co.uk/five-salary-negotiation-tactics-everyone-can-use-negotiate-starting-salary/) – [interview-coach.co.uk](http://interview-coach.co.uk)
+* [Do you have to quit your job to get a big raise?](https://simpleprogrammer.com/2016/11/16/do-you-have-to-quit-your-job-to-get-a-big-raise/) – [SimpleProgrammer.com](https://simpleprogrammer.com)
