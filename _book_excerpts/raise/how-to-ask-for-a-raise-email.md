@@ -3,7 +3,6 @@ layout: book_excerpt
 title: Prepare to ask for a raise using this email template
 tagline: Send your raise request after you talk to your manager
 excerpt: This is your chance to make your case in writing so your manager can circulate it in your own words. You'll make your case better than anyone else will.
-has_basic_bundle_pitch: true
 last_modified_at: 2016-06-29
 book_section: 12
 chapter: raise
