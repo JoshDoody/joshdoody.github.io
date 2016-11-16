@@ -3,7 +3,6 @@ layout: book_excerpt
 title: How to ask for a raise at work
 tagline: An overview of the raise process
 excerpt: Here's a simple process to ask for a raise at work. You'll define your target salary, show how you've earned it, then ask for your raise from your manager.
-has_basic_bundle_pitch: true
 last_modified_at: 2016-06-29
 book_section: 12
 chapter: raise
@@ -44,7 +43,5 @@ Here’s a high-level view of our process for requesting a raise:
 2. [Document your accomplishments and accolades]({{ site.baseurl }}/raise-accomplishments-and-accolades/)
 3. [Prepare your case]({{ site.baseurl }}/how-to-ask-for-a-raise-email/)
 4. [Present your case]({{ site.baseurl }}/ask-for-a-raise-in-person-first/)
-
-{% include book_ad_box.html offer="tools and templates to help you get a raise" blurb="Before you get started planning your next raise, you might want to get the worksheet and email template to help you keep track of your progress and document your plan as you go." %}
 
 Ready to get started? Start by [defining you goal]({{ site.baseurl }}/what-is-your-target-salary/).
