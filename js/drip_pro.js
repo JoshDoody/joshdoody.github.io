@@ -271,8 +271,9 @@ It's advised to pass in your own overrides in your initializer vs. overriding th
         var form = this
         var utms = t.storage.get(t.settings.cookie_prefix + '_utm')
         var affiliate_id = jQuery.cookie('appwp_ref')
-
-        // jQuery(this).append(jQuery('<input type="hidden">').attr('name', 'fields[optin_url]').val(window.location.origin + window.location.pathname))
+				
+				// changed default of optin_url to last_optin_url -- other magic happens in Drip Automation Rules
+        jQuery(this).append(jQuery('<input type="hidden">').attr('name', 'fields[last_optin_url]').val(window.location.origin + window.location.pathname))
 
         if (utms) {
           utms = jQuery.deparam(utms)
