@@ -8,13 +8,11 @@ og-image: SoftwareDevRaiseGuide.png
 ---
 How do you boost your lifetime earnings? The most common way is to change jobs occasionally and negotiate a higher salary.
 
-In his excellent article [The Ultimate Guide To Salary Negotiation For Software Developers](https://simpleprogrammer.com/2016/10/10/salary-negotiation-software-developers/), [John Sonmez](https://simpleprogrammer.com/about-simple-programmer/) shows the difference in salary over 10 years when you negotiate your starting salary to be $90,000 instead of settling for $80,000.
-
 But there are costs to changing jobs—you might have to move your family to a new city, learn new technology, or leave a team you really like working with—so this isn't always an easy option.
 
 ## You can also earn more without changing jobs
 
-In this table from John's article, he shows how much your salary will grow over 10 years if you get a 3% raise each year. Here's my own version of that table where I've added a two columns showing what happens if you negotiate an *additional* 5% raise every two years. Five percent every two years is a *conservative* estimate of what is achievable for most software developers without changing jobs.
+In this table from [John Sonmez](https://simpleprogrammer.com/about-simple-programmer/)' [Ultimate Guide To Salary Negotiation For Software Developers](https://simpleprogrammer.com/2016/10/10/salary-negotiation-software-developers/), John shows how much your salary will grow over 10 years if you get a 3% raise each year. Here's my own version of that table where I've added a two columns showing what happens if you negotiate an *additional* 5% raise every two years. Five percent every two years is a *conservative* estimate of what is achievable for most software developers without changing jobs.
 
 <table><tbody>
 <tr><th></th><th colspan="2">3% raise each year</th><th colspan="2">5% MORE every other year</th></tr>
@@ -113,4 +111,10 @@ So [keep track]({{ site.baseurl }}/raise-accomplishments-and-accolades/) of the 
 
 **Do that consistently, and you'll make a lot more money over your career**.
 
-{% include drip_form.html form="raise-course" %}
+<div class="container container--normal">		
+	<div class="ad-box u-center">
+		<img src="{{ site.baseurl }}/images/GetYourNextRaise.png" width="100%" alt="Self-paced course to navigate the raise and promotion process at work">
+		<p><strong>Save $50 when you pre-order, and get the first lesson by November 29!</strong></p>
+		<a data-dpd-type="button" data-variant="no-price" data-text="PRE-ORDER NOW - $197" data-button-size="dpd-large" data-bg-color="469d3d" data-bg-color-hover="5cc052" data-text-color="ffffff" data-pr-bg-color="ffffff" data-pr-color="000000" data-lightbox="1" href="https://joshdoody.dpdcart.com/cart/buy?product_id=140582&amp;product_price_id=150168&amp;gateway=creditcard&coupon=PREORDER1">PRE-ORDER NOW - $197</a><script src="https://joshdoody.dpdcart.com/dpd.js"></script>
+	</div>
+</div>
