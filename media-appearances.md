@@ -34,6 +34,7 @@ share_title: Fearless Salary Negotiation in the media
 * [Fearless Salary Negotiation with Josh Doody](https://devchat.tv/ruby-rogues/274-rr-fearless-salary-negotiation-with-josh-doody) – The Ruby Rogues
 * [How to get your next raise](https://www.macslist.org/ep-049-get-next-raise-josh-doody/) – Find Your Dream Job
 * [Josh Doody, Author of Fearless Salary Negotiation](https://soundcloud.com/dandanglobal/dailydandan33) – Daily Dandan
+* [Josh Doody on Salary Negotiation for Software Engineers](http://www.se-radio.net/2016/11/se-radio-episode-275-josh-doody-on-salary-negotiation-for-software-engineers/) – Software Engineering Radio
 
 ## Talks
 
