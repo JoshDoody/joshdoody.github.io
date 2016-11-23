@@ -5,19 +5,36 @@ headline: 'Start now'
 tagline: Get Your Next Raise - Lesson 1
 excerpt: The most important thing you can do to get your next raise is start now. Here's how to start planning to get your next raise.
 og-image: GYNR_StartNow_thumbnail_playbutton.png
+extra_css:
+  - flipclock.css
 extra_js:
+  - flipclock.min.js
   - gynr_access.js
 ---
 <div class="container container--normal">	
+	<div class='ad-box u-center'>
+		<h2 class='u-center'>Pre-order now for <s>$247</s> $197!</h2>
+		<div class="clock" style="display: inline-block; width: auto;"></div>
+			<a data-dpd-type="button" data-variant="no-price" data-text="PRE-ORDER PRICE - $197" data-button-size="dpd-large" data-bg-color="469d3d" data-bg-color-hover="5cc052" data-text-color="ffffff" data-pr-bg-color="ffffff" data-pr-color="000000" data-lightbox="1" href="https://joshdoody.dpdcart.com/cart/buy?product_id=140582&amp;product_price_id=150168&amp;gateway=creditcard&coupon=PREORDER1">PRE-ORDER PRICE - $197</a><script src="https://joshdoody.dpdcart.com/dpd.js"></script>
+
+		<script type="text/javascript">		
+		$( document ).ready(function() {
+			var nowSeconds = new Date().getTime() / 1000;
+			var deadlineSeconds = new Date("2016/11/28 23:59:59 -0500") / 1000;
+			var secondsUntilDeadline = deadlineSeconds - nowSeconds;
+			var clock = $('.clock').FlipClock(secondsUntilDeadline, {
+			        clockFace: 'DailyCounter',
+			        countdown: true
+			    });
+		});
+		</script>
+	</div>
+		
 	<div class="anonymous subscriber gynr-customer" style="display: none;">
 		<div class="video-container">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/f2FD3wOeTlw" frameborder="0" allowfullscreen></iframe>
 		</div>
-		<br><br>
-		<p class='u-center'>
-			<a data-dpd-type="button" data-variant="no-price" data-text="PRE-ORDER NOW - $197" data-button-size="dpd-large" data-bg-color="469d3d" data-bg-color-hover="5cc052" data-text-color="ffffff" data-pr-bg-color="ffffff" data-pr-color="000000" data-lightbox="1" href="https://joshdoody.dpdcart.com/cart/buy?product_id=140582&amp;product_price_id=150168&amp;gateway=creditcard&coupon=PREORDER1">PRE-ORDER NOW - $197</a><script src="https://joshdoody.dpdcart.com/dpd.js"></script><br>
-			<strong>(Coming November 29!)</strong>
-		</p>
+
 		<h2>What you'll learn in this lesson</h2>
 		<p>The most important thing you can do to get your next raise is <em>start now</em>. If you're like most people, you're here because you're stuck. Maybe you feel you’re underpaid or undervalued. You know you do good work, but your salary hasn't kept up with your contributions. So here you are. Stuck.</em>
 
@@ -48,14 +65,11 @@ extra_js:
 				<li><i class="fa fa-lock"></i>Plan your next steps for each likely outcome (Coming soon!)</li>
 			</ol>
 		</div>
-		
-		<div class='ad-box'>
-			<h2 class='u-center'>Save $50 when you pre-order</h2>
-			<p>Get immediate access to all of the course materials including the <em>Fearless Salary Negotiation</em> eBook, worksheets, email templates, and a 50-minute self-serve video course on how to get your next raise or promotion.</p>
-			<p>All of the lessons for Get Your Next Raise will be available by November 29!</p>
-			<div class='u-center'>
-				<a data-dpd-type="button" data-variant="no-price" data-text="PRE-ORDER NOW - $197" data-button-size="dpd-large" data-bg-color="469d3d" data-bg-color-hover="5cc052" data-text-color="ffffff" data-pr-bg-color="ffffff" data-pr-color="000000" data-lightbox="1" href="https://joshdoody.dpdcart.com/cart/buy?product_id=140582&amp;product_price_id=150168&amp;gateway=creditcard&coupon=PREORDER1">PRE-ORDER NOW - $197</a><script src="https://joshdoody.dpdcart.com/dpd.js"></script>
-			</div>
+
+		<div class="ad-box u-center">
+			<img src="{{ site.baseurl }}/images/GetYourNextRaise.png" width="100%" alt="Self-paced course to navigate the raise and promotion process at work">
+			<p><strong>Instant access to the course materials. Get the first lesson by November 29!</strong></p>
+			<a data-dpd-type="button" data-variant="no-price" data-text="PRE-ORDER PRICE - $197" data-button-size="dpd-large" data-bg-color="469d3d" data-bg-color-hover="5cc052" data-text-color="ffffff" data-pr-bg-color="ffffff" data-pr-color="000000" data-lightbox="1" href="https://joshdoody.dpdcart.com/cart/buy?product_id=140582&amp;product_price_id=150168&amp;gateway=creditcard&coupon=PREORDER1">PRE-ORDER PRICE - $197</a><script src="https://joshdoody.dpdcart.com/dpd.js"></script>
 		</div>
 	</div>
 </div>
