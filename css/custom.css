@@ -848,3 +848,11 @@ table th {
 	    -moz-transform: scale(0.4)
 	}
 }
+
+/* gynr styles */
+ul.lesson-list {
+	list-style: none;
+}
+
+ul.lesson-list li {
+}
