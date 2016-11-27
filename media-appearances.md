@@ -18,7 +18,7 @@ share_title: Fearless Salary Negotiation in the media
 * [Fearless Salary Negotiation – Josh Doody](http://engineeringinsightspodcast.com/episode25/) – Engineering Insights
 * [How to Improve Your Salary Negotiation Skills](http://www.careercloud.com/news/2016/5/7/how-to-improve-your-salary-negotiation-skills) – CareerCloud Radio
 * [Hiring Recruiters; Fearless Salary Negotiation for Recruiters](http://scottlove.libsyn.com/grt/episode-39-hiring-recruiters-fearless-salary-negotiation-for-recruiters-staffing) – Staffing & Recruiter Training Podcast
-* [Fearless Salary Negotiation with Josh Doody](www.careerdesigncoach.com/episode26) – Career Design Coach
+* [Fearless Salary Negotiation with Josh Doody](http://www.careerdesigncoach.com/episode26) – Career Design Coach
 * [Josh Doody](https://soundcloud.com/productpeopleclub/ep-001-josh-doody) – Product People Club
 * [Get some guts](http://buildandlaunch.net/22/) – Build and Launch
 * [The Startup-Style Book Launch w/Josh Doody](http://www.chasingproduct.com/episodes/episode-35-the-startup-style-book-launch-wjosh-doody) – Chasing Product
