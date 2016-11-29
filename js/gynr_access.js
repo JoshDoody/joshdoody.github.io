@@ -22,7 +22,7 @@ $(document).ready(function () {
 				$(this).show();
 			})
 		} else {
-			if(dripUser.rawDripContact.tags.indexOf('Purchased - Get Your Next Raise - Test') !== -1){
+			if(dripUser.rawDripContact.tags.indexOf('Purchased - Get Your Next Raise') !== -1){
 				console.log("Subscriber, Tagged");
 				$(".gynr-customer").each(function () {
 					$(this).show();
