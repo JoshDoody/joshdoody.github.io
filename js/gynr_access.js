@@ -1,3 +1,5 @@
+---
+---
 var dripSetup = {
 	init: function(successHandler) {
 		_dcq.push(['identify', {
@@ -37,6 +39,42 @@ $(document).ready(function () {
 	};
 	
 	dripSetup.init(drip_user);
+	
+	$("#next-lesson").click(function() {
+		var lesson_number = $(this).data('lesson-number');
+		
+		switch(lesson_number) {
+			case 1:
+				var next_lesson_one_word_name = "estimate"
+				break;
+			case 2:
+				var next_lesson_one_word_name = "goal"
+				break;
+			case 3:
+				var next_lesson_one_word_name = "build"
+				break;
+			case 4:
+				var next_lesson_one_word_name = "write"
+				break;
+			case 5:
+				var next_lesson_one_word_name = "ask"
+				break;
+			case 6:
+				var next_lesson_one_word_name = "plan"
+				break;
+			case 7:
+				var next_lesson_one_word_name = "thanks"
+				break;
+		 default:
+				var next_lesson_one_word_name = "thanks"
+		};
+		
+		 _dcq.push(["track", "Completed Lesson GYNR", {
+		  "lesson_number": lesson_number,
+			 "completed_by": "student",
+		  success: function() { window.location = "{{ site.baseurl }}/ask-for-a-raise-course/"+next_lesson_one_word_name; }
+		 }]);
+	});
 });
 
 // // The number comments are to guide you through the order that each statement will be hit.
