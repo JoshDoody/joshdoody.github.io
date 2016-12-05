@@ -111,10 +111,4 @@ So [keep track]({{ site.baseurl }}/raise-accomplishments-and-accolades/) of the 
 
 **Do that consistently, and you'll make a lot more money over your career**.
 
-<div class="container container--normal">		
-	<div class="ad-box u-center">
-		<img src="{{ site.baseurl }}/images/GetYourNextRaise.png" width="100%" alt="Self-paced course to navigate the raise and promotion process at work">
-		<p><strong>Save $50 when you pre-order, and get the first lesson by November 29!</strong></p>
-		<a data-dpd-type="button" data-variant="no-price" data-text="PRE-ORDER PRICE - $197" data-button-size="dpd-large" data-bg-color="469d3d" data-bg-color-hover="5cc052" data-text-color="ffffff" data-pr-bg-color="ffffff" data-pr-color="000000" data-lightbox="1" href="https://joshdoody.dpdcart.com/cart/buy?product_id=140582&amp;product_price_id=150168&amp;gateway=creditcard&coupon=PREORDER1">PRE-ORDER PRICE - $197</a><script src="https://joshdoody.dpdcart.com/dpd.js"></script>
-	</div>
-</div>
+{% include get_your_next_raise/gynr_free_raise_course_ad.html %}

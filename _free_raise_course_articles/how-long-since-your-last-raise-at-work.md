@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: gynr_markdown
 title: How long has it been since your last raise at work?
 excerpt: The best way to get a raise is to ask for one. How long has it been since you asked for a raise at work?
-last_modified_at: 2016-11-16
+article_number: 0
+last_modified_at: 2016-12-03
 og-image: RaiseCourse.png
 ---
 This might sound familiar…
@@ -31,6 +32,8 @@ We'll start from the beginning—what is a raise, *really*?—and take it from t
 
 In this series, you’ll gain a whole new perspective on raises and promotions, and you’ll see that you can take control of this process.
 
-In the next article, we’ll answer a basic question that many people struggle to answer: “What is a raise, really?”
+In the next article, [“What is a raise, REALLY?”]({{ site.baseurl }}/free-raise-course/salary-raise-definition/), we’ll answer a basic question that many people struggle to answer.
 
-{% include drip_form.html form="raise" %}
+{% include get_your_next_raise/gynr_free_raise_course_ad.html %}
+
+{% include raise_course_footer.html %}
