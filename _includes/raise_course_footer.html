@@ -18,14 +18,16 @@
 <div class="chapter-nav-box chapter-nav-box--spaced">
 	<div class="chapter-nav-box__content-left">
 	{% if previous_article == nil %}
+		<p></p>
 	{% else %}
 		<p><a href="{{ site.baseurl }}{{ previous_article.url }}"><i class="fa fa-arrow-left"></i>Prev<span class="hidden-xs">ious</span><span class="hidden-sm chapter-title"><br>{% if previous_article.headline %}{{ previous_article.headline }}{% else %}{{ previous_article.title }}{% endif %}</span></a></p>
 	{% endif %}
 	</div>
 	<div class="chapter-nav-box__content-right">
 	{% if next_article == nil %}
+		<p></p>
 	{% else %}
-		<p><a href="{{ site.baseurl }}{{ next_article.url }}">Next <i class="fa fa-arrow-right"></i><span class="hidden-sm"><br>XYZ</a></span></p>
+		<p><a href="{{ site.baseurl }}{{ next_article.url }}">Next <i class="fa fa-arrow-right"></i><span class="hidden-sm"><br>{% if next_article.headline %}{{ next_article.headline }}{% else %}{{ next_article.title }}{% endif %}</a></span></p>
 	{% endif %}
 	</div>
 </div>
