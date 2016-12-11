@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fearless Salary Negotiation in the media
-last_modified_at: 2016-11-22
+last_modified_at: 2016-12-10
 share_title: Fearless Salary Negotiation in the media
 ---
 ## Articles
@@ -11,6 +11,7 @@ share_title: Fearless Salary Negotiation in the media
 * [How to (successfully) ask for a raise](https://generalassemb.ly/blog/how-to-successfully-ask-for-a-raise/) – General Assembly Blog
 * [Interview with Engr. Josh Doody - Career Coach and author of Fearless Salary Negotiation](https://www.eeweb.com/spotlight/interview-with-engr-josh-doody) – EEWeb
 * [How to Negotiate Your Salary via Email](https://business.tutsplus.com/tutorials/how-to-negotiate-your-salary-via-email--cms-27031) – tuts+
+* [How to leap past 90% of applicants](https://purelyfunctional.tv/functional-programming-career-guide/resume-interview-salary/) – purelyfunctional.tv
 
 ## Podcasts
 
