@@ -26,7 +26,7 @@ So he reached out and asked if I could help. Of course I could!
 
 Shawn needed a strong case showing the value he brought to the company, and he needed to know the best time to ask for a raise. If we presented a strong case at the right time, then we would short-circuit most of the knee-jerk objections managers often give to raise requests and shift the focus of the conversation to the value Shawn brought to his role at the company and what his compensation should be for that role.
 
-Setting Shawn’s target salary
+### Setting Shawn’s target salary
 
 The first thing we needed to know was, “What *should* Shawn be paid?”
 
@@ -34,7 +34,7 @@ We started by looking into what a Director of Sales and Service might make at ot
 
 Through a combination of sites like [salary.com](http://salary.com) and industry contacts, Shawn was able to determine that he could be making quite a bit more money doing the same job at other similar companies. It seemed like $15,000–$20,000 more was in the ballpark.
 
-## Building his case
+### Building his case
 
 We also looked at valuable responsibilities he had taken on since the last time his salary was set. We needed to confirm that Shawn was driving more revenue for the business and find specific examples where he had done that.
 
@@ -44,13 +44,13 @@ Both of these initiatives created valuable new revenue streams for the company.
 
 It was clear that our initial goal of a $15,000–$20,000 raise was still about right. And some of the activities could be tied to a specific value to the company, so that would help us demonstrate that Shawn’s work had directly led to more revenue and profit.
 
-## Finding the right time
+### Finding the right time
 
 There was no company-wide performance review time, which meant he just needed to focus on asking for a raise when the company was likely to have budget available to grant his request. So we considered the next several months, looking for times when the company was likely to have either greater revenue or reduced costs so that there might be budget available.
 
 They had contracted with a software developer to do some custom work, and that contract would end in about two months. There wasn’t currently any plan to renew that contract, so that was our opportunity.
 
-## The plan
+### The plan
 
 We decided Shawn would ask for a $20,000 raise about a month before the developer contract was ending. That way the company could earmark some of the cost of that contract to go to Shawn’s increased salary before releasing that budget for other projects.
 
