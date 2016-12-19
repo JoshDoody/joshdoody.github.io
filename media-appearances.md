@@ -36,6 +36,7 @@ share_title: Fearless Salary Negotiation in the media
 * [How to get your next raise](https://www.macslist.org/ep-049-get-next-raise-josh-doody/) – Find Your Dream Job
 * [Josh Doody, Author of Fearless Salary Negotiation](https://soundcloud.com/dandanglobal/dailydandan33) – Daily Dandan
 * [Josh Doody on Salary Negotiation for Software Engineers](http://www.se-radio.net/2016/11/se-radio-episode-275-josh-doody-on-salary-negotiation-for-software-engineers/) – Software Engineering Radio
+* [Josh Doody Talks About How to Get Your First Development Job](https://www.angularonrails.com/josh-doody-talks-get-first-development-job/) – Angular on Rails
 
 ## Talks
 
