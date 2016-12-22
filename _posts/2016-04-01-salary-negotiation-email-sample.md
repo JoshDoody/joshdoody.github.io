@@ -10,7 +10,7 @@ You aced your interviews and you have a job offer in hand. Congrats! You know yo
 Use this salary negotiation email sample to deliver your own counter offer when you negotiate starting salary. Keep reading after the email sample for a detailed explanation of each component so you know how to modify it for your own situation and, more importantly, _why_ the template looks like it does.
 
 <div class='ad-box'>
-<p><strong>Looking for a salary increase letter sample?</strong> Here you go! <a href="{{ site.baseurl }}/salary-increase-letter-sample/">Salary increase letter sample</a></p>
+<p><strong>Looking for a salary increase letter sample to ask for a raise?</strong> Here you go! <a href="{{ site.baseurl }}/salary-increase-letter-sample/">Salary increase letter sample</a></p>
 </div>
 	
 <div class='sample-email'>
