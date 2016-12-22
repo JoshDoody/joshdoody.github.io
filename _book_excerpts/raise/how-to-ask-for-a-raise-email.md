@@ -85,7 +85,7 @@ One of the benefits of preparing your case ahead of time is that you can be conf
 
 Again, this should be brief, but should highlight your best results from the past six months to a year. This isn’t a complete record, it’s a skimmable list that should raise eyebrows when others see it. Remember that the person approving this raise may not know who you are, so you’re giving them a short summary of your accolades to let them know that they should be impressed with you because other people are impressed with you.
 
-This section is less crucial than the "Accomplishments" section, but it really helps. If you have trouble completing this part, you may still move forward with your request, or you may not. Some jobs are very solitary and simply don’t garner accolades from clients or peers. I strongly recommend you have at least a couple items in this section before your present your case, but if your “Accomplishments” section makes a very strong case on its own, this section may not be necessary.
+This section is less crucial than the "Accomplishments" section, but it really helps. If you have trouble completing this part, you may still move forward with your request, or you may not. Some jobs are very solitary and simply don’t garner accolades from clients or peers. I strongly recommend you have at least a couple items in this section before you present your case, but if your “Accomplishments” section makes a very strong case on its own, this section may not be necessary.
 
 **9. Conclusion and repeated request**
 

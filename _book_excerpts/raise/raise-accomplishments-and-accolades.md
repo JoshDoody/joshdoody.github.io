@@ -12,7 +12,7 @@ section: 2
 Your primary reason for requesting a raise is that the salary you’re being paid doesn’t reflect your current value to the company. That salary was set some time in the past, so your argument is that you are more valuable now than you were when your current salary was set.
 
 So you need to identify the specific reasons—the things you’ve done since your current salary was set—why your value exceeds your salary. These are your *accomplishments*. You should also document positive feedback from your colleagues and clients, demonstrating that your work has positive impact on the company, and showing that others have noticed the additional value you bring to the company. These bits of positive feedback are your *accolades*.
-
+<a name="accomplishments"></a>
 ## Accomplishments
 
 *Accomplishments* are things you’ve done to add additional value to your company by helping it make more money or save money. 
@@ -47,7 +47,7 @@ Having trouble thinking of things you've accomplished? Here are some questions t
 * How have you made yourself and your peers more productive so that they can do more work with the same resources?
 * What new responsibilities have you taken on that you didn’t have when your current salary was set?
 * What other ways are you making your company more money or saving money?
-
+<a name="accolades"></a>
 ## Accolades
 
 *Accolades* are praise and awards you’ve received over the past several months. Accolades are helpful because they demonstrate to your company’s management that others have noticed the great job you’re doing, even if your managers haven’t.

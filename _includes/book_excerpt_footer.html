@@ -12,9 +12,9 @@
 {% when 'promotion' %}
 {% include drip_form.html form="promotion" %}
 {% when 'raise' %}
-{% include drip_form.html form="raise-course" %}
+{% include drip_form.html form="free-raise-course" %}
 {% else %}
-{% include drip_form.html form="raise-course" %}
+{% include drip_form.html form="free-raise-course" %}
 {% endcase %}	
 	
 {% assign this_chapter = site.book_chapters | where:"chapter", page.chapter | first %}

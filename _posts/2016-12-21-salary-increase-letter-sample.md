@@ -5,9 +5,9 @@ tagline: Use this sample to build your case to ask for a raise
 excerpt: Ask for a salary increase with this detailed template you can use to write the perfect case
 last_modified_at: 2016-12-21
 ---
-The best way to prepare your case is to write it down. As it turns out, you’ll also want to have a written summary of why you deserve your raise later on (see the "Present your case" section below), so we’re going to kill two birds with one stone in this section by building an email that summarizes your case.
+You want to ask for a salary increase, and all you need is a sample letter to get started. You've come to the right place!
 
-Here’s what your case for a raise will look like once you’ve written it down. I’ve numbered each section on the left side so we can talk about it afterward.
+Here is a salary increase letter that you can use as a template. Below the letter sample is an explanation of each section and how to make sure your salary increase request has all the components you need to ensure success.
 
 <div class='sample-email'>
 <p>
@@ -45,50 +45,82 @@ Here’s what your case for a raise will look like once you’ve written it down
 <p><strong>[Your name]</strong></p>
 </div>
 
-Now, all you need to do is go through the template and replace anything in **bold** with the appropriate piece of information. This should be pretty easy because you’ve already done all the hard work when you did your research earlier. Feel free to edit this email to make it your own. This is just a template to get you started and show you the bare necessities you should include to make this as useful as possible.
+Let's walk through each section of the salary increase letter so you're comfortable with each section. You may already have everything you need to send your letter and request your salary increase. Or you may need to do some light research to fill in the blanks.
 
-<!-- {% include book_ad_box.html offer="the Raise email template" blurb="Get this email template and a worksheet you can use to help set your target salary and make your case for your next raise." %} -->
+## Request your salary increase *before* you send this letter!
 
-Let’s go section by section to build your email and make your case.
+I recommend requesting your salary increase in person *before* you send this letter. Writing your salary increase letter ahead of time is the *perfect* way to prepare for that discussion so you're sure that your case is rock solid before you make your request.
 
-**1. Address**
+After we go through each section of this salary increase letter, I'll walk you through the approval process that may happen behind the scenes so you have the full context for this letter.
 
-You’re writing this to your manager or whoever who spoke to about your raise.
+{% include drip_form.html form="free-raise-course" %}
 
-**2. Subject**
+## A section-by-section review of this salary increase letter sample
 
-Make sure you include your name in the subject, and make it clear exactly what this email is about.
+Each section below has everything you need to complete the template, so let's get started!
 
-**3. Greeting**
+### 1. Address
 
-Keep it short and sweet: "Hi Tina" will do. The bolded part is “Your manager’s name” because I’m assuming you’ll send this written request to your manager. If you’re sending it to someone different, you’ll want to change that to their name.
+Remember, you should send this letter *after* you have requested your salary increase from your manager. So you're addressing this letter to your manager as a follow-up to a previous conversation.
 
-**4. Introduction and request**
+### 2. Subject
 
-Cut right to the chase and make it brief, specifically listing your desired salary. 
+This letter is your written salary increase request, so you want everything to be as clear and obvious as possible. Include your name and explicitly state that this letter is about your salary increase request so that there are no surprises for anyone who might read it later on.
 
-Notice that I recommend you state the midpoint from your market research *before* your desired salary. This is so that the first number is a market number—a fact that is determined by external forces—and that should soften up your manager for your request. Your request will seem much more reasonable when presented immediately after the market-set midpoint. 
+### 3. Greeting
 
-You may also notice that the example refers to a conversation that has already happened ("Thanks for your time the other day."). That’s because you won’t send this email cold—it will be a follow-up to a verbal conversation if at all possible. We’ll talk about that conversation more in the “Presenting your case” section below.
+Keep it short and sweet: "Hi Tina" will do. The bolded part is “Your manager’s name” because you're sending this written request to your manager *after* you request your salary increase.
 
-**5. & 6. Accomplishments sections**
+### 4. Introduction and request (your target salary)
 
-Lay out your case as succinctly as possible. You should list no more than five accomplishments, so be sure to pick your strongest ones. This email isn’t a complete historical record of everything you’ve ever done for the company. This is a skimmable document that makes a strong case for whoever is holding the purse strings to give you a raise. You want the person reading this to think, "She’s already adding so much more value to the company then when she was hired. This seems like a totally reasonable request given all the money she has made and saved us since then."
+You have already requested your salary increase, and this is a way of reminding your manager what you requested so it's easy to find when they need to.
 
-One of the benefits of preparing your case ahead of time is that you can be confident that your case is strong before you present it. If you have trouble with this section, that’s a red flag that your case may not be as strong as you anticipated, and you may not have earned as much of a raise as you thought. This isn’t an ironclad rule, but I recommend covering a reasonable amount of time (several weeks or a few months) in this section so that your case is as compelling as possible when you finally present it.
+I recommend stating the midpoint from your [market research](TKTK_URL) *before* your target salary so that the first number is a market number—a fact that is determined by external forces—and that should soften up your manager for your request. Your request will seem much more reasonable when presented immediately after the market-set midpoint.
 
-**7. & 8. Accolades sections**
+<div class='ad-box'>
+<p><strong>Learn how to set your target salary:</strong> <a href="{{ site.baseurl }}/what-is-your-target-salary/">What is your target salary?</a></p>
+</div>
 
-Again, this should be brief, but should highlight your best results from the past six months to a year. This isn’t a complete record, it’s a skimmable list that should raise eyebrows when others see it. Remember that the person approving this raise may not know who you are, so you’re giving them a short summary of your accolades to let them know that they should be impressed with you because other people are impressed with you.
+### 5. & 6. Accomplishments sections
 
-This section is less crucial than the "Accomplishments" section, but it really helps. If you have trouble completing this part, you may still move forward with your request, or you may not. Some jobs are very solitary and simply don’t garner accolades from clients or peers. I strongly recommend you have at least a couple items in this section before your present your case, but if your “Accomplishments” section makes a very strong case on its own, this section may not be necessary.
+This is the most important part of your salary increase letter because it clearly describes the additional, unanticipated value you have added to the company since your salary was last set. This is why you're asking for a raise, so take your time and do this right.
 
-**9. Conclusion and repeated request**
+Include a few of your best recent accomplishments to highlight the value of your work. This letter isn’t a complete historical record of everything you’ve ever done for the company. It's a skimmable document that makes a strong case for whoever is holding the purse strings to give you a raise.
 
-State your request and make your case again as concisely as possible. No more than two or three sentences.
+You want the person reading this to think, "They're already adding so much more value to the company then when they were hired. This seems like a totally reasonable request given all the money they have and saved us since then."
 
-**10. Signoff and signature**
+I recommend covering a reasonable amount of time—the past six to 12 months—in this section so that your case is as compelling as possible when you finally present it. If you have trouble with this section, that’s a red flag that your case may not be as strong as you anticipated, and you may not have earned as much of a raise as you thought.
 
-Thank your manager for her time and keep it brief.
+<div class='ad-box'>
+<p><strong>Learn how to identify and describe your accomplishments:</strong> <a href="{{ site.baseurl }}/raise-accomplishments-and-accolades/#accomplishments">Defining your accomplishments</a></p>
+</div>
 
-Everything has now come together so that [you know what you’re pursuing]({{ site.baseurl }}/what-is-your-target-salary/), and you have a written case that summarizes why you should be given a raise. This should help clarify your own objectives, and it will provide a handy reference for you as you [present your case]({{ site.baseurl }}/ask-for-a-raise-in-person-first/).
+### 7. & 8. Accolades sections
+
+Accolades are awards or recognition that you've received for your work. Managers are busy people, and sometimes they won't notice the great work you do. This is your chance to let them know that *others* have noticed your great work in case they missed it.
+
+Highlight your best results from the past six months to a year. This isn’t a complete record, it’s a skimmable list that should raise eyebrows when others see it. Remember that the person approving this raise may not know who you are, so you’re giving them a short summary of your accolades to let them know that they should be impressed with you because other people are impressed with you.
+
+I strongly recommend you have at least a couple items in this section before you ask for your salary increase, but if your “Accomplishments” section makes a very strong case on its own, this section may not be necessary.
+
+<div class='ad-box'>
+<p><strong>Learn how to identify and describe your accolades:</strong> <a href="{{ site.baseurl }}/raise-accomplishments-and-accolades/#accolades">Defining your accolades</a></p>
+</div>
+
+### 9. Conclusion and repeated request
+
+Finish your letter with a summary of your salary increase request along with your case. This is a one-paragraph summary of your request, just in case the reader is in a hurry. Keep it to just two or three sentences.
+
+### 10. Signoff and signature
+
+Thank your manager for their time and keep it brief.
+
+## What happens next?
+
+Once you've requested your salary increase from your manager and then followed up by sending this letter, your manager will need to get approval for your raise.
+
+The reason this salary increase letter is so important is that your manager will likely forward it to the approvers so they have all the information they need to make their decision. If you request your salary increase *without* sending this letter, then your manager will have to summarize your case for you, and they're just not going to do as good a job as you can.
+
+So this letter gives you the opportunity to make your case *in your own words* to whoever needs to approve your request. And that gives you the greatest chance getting your salary increase.
+
+{% include drip_form.html form="free-raise-course" %}
