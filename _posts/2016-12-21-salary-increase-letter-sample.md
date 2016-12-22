@@ -45,8 +45,6 @@ Here is a salary increase letter that you can use as a template. Below the lette
 <p><strong>[Your name]</strong></p>
 </div>
 
-Let's walk through each section of the salary increase letter so you're comfortable with each section. You may already have everything you need to send your letter and request your salary increase. Or you may need to do some light research to fill in the blanks.
-
 ## Request your salary increase *before* you send this letter!
 
 I recommend requesting your salary increase in person *before* you send this letter. Writing your salary increase letter ahead of time is the *perfect* way to prepare for that discussion so you're sure that your case is rock solid before you make your request.
@@ -56,6 +54,8 @@ After we go through each section of this salary increase letter, I'll walk you t
 {% include drip_form.html form="free-raise-course" %}
 
 ## A section-by-section review of this salary increase letter sample
+
+Let's walk through each section of the salary increase letter so you're comfortable with each section. You may already have everything you need to send your letter and request your salary increase. Or you may need to do some light research to fill in the blanks.
 
 Each section below has everything you need to complete the template, so let's get started!
 
