@@ -3,7 +3,7 @@ layout: post
 title: Salary increase letter sample to ask for a raise
 tagline: Use this sample to build your case to ask for a raise
 excerpt: Ask for a salary increase with this detailed template you can use to write the perfect case
-last_modified_at: 2016-12-21
+last_modified_at: 2016-12-22
 ---
 You want to ask for a salary increase, and all you need is a sample letter to get started. You've come to the right place!
 
