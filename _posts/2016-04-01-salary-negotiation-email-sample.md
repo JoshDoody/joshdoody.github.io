@@ -71,7 +71,7 @@ Briefly summarize the offer the hiring manager made so that there's no confusion
 
 ##  Make your counter offer (finally!)
 
-State your [counter offer]({{ site.baseurl }}/salary-negotiation/script/) in a firm but neutral way. "...I would be more comfortable if we can settle on $56,000." is a good way to phrase your counter offer. It's not combative, but it is firm and makes it easy for the recruiter to simply reply with "Ok, we can do that." if it's within the budget.
+State your [counter offer]({{ site.baseurl }}/salary-negotiation-script/) in a firm but neutral way. "...I would be more comfortable if we can settle on $56,000." is a good way to phrase your counter offer. It's not combative, but it is firm and makes it easy for the recruiter to simply reply with "Ok, we can do that." if it's within the budget.
 
 "Are you sure you can't do any better?" is not firm or neutral. That makes it _very_ easy for the recruiter to simply say, "I'm sorry, we can't." By stating the actual amount along with "...I would be more comfortable...", you're forcing the recruiter to acknowledge the amount you counter offered and respond _to that amount_ while making it tougher to simply say "No."
 

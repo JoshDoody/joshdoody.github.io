@@ -33,4 +33,4 @@ If you get what you asked for, congratulations! Your work here is done!
 
 By earning this raise, you have demonstrated that you’re helping your company make more money or save money beyond what was expected of you last time your salary was set. But don’t sit still! Now is a good time to start looking ahead at your career path, identifying positions where you can move to a higher pay grade, giving yourself more room for your next raise.
 
-If you didn't get the raise you asked for, [work with your manager to make a plan]({{ site.baseurl }}/when-you-dont-get-your-raise/).
+If you didn't get the raise you asked for, [work with your manager to make a plan]({{ site.baseurl }}/when-you-dont-get-a-raise/).

@@ -6,7 +6,7 @@ tagline: He just needed good timing and a good case, and a couple conversations
 excerpt: How Shawn built a strong case, waited for the right time, and got a $17,000 raise.
 article_number: 4
 ---
-You’ve seen [how expensive it can be]({{ site.baseurl }}/free-raise-course/how-long-has-it-been-since-your-last-raise-at-work/) to sit back and wait for a raise to come to you. And you’ve learned [how to build a strong case]({{ site.bsaeurl }}/free-raise-course/how-not-to-ask-for-a-raise/) and [time your request]({{ site.bsaeurl }}/free-raise-course/when-to-ask-for-a-raise/) to maximize your chances of success.
+You’ve seen [how expensive it can be]({{ site.baseurl }}/how-long-since-your-last-raise-at-work/) to sit back and wait for a raise to come to you. And you’ve learned [how to build a strong case]({{ site.bsaeurl }}/free-raise-course/how-not-to-ask-for-a-raise/) and [time your request]({{ site.bsaeurl }}/free-raise-course/when-to-ask-for-a-raise/) to maximize your chances of success.
 
 All that’s great, but wouldn’t it be better to see a real example of this whole process put to use? Yes it would!
 
