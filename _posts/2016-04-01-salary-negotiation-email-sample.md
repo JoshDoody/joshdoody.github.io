@@ -3,12 +3,14 @@ layout: post
 title: Salary negotiation email - free counter offer template
 headline: Counter offer with this salary negotiation email template
 tagline: Email sample to deliver your counter offer when negotiating starting salary
-excerpt: Use this salary negotiation email template to deliver your counter offer when you negotiate starting salary.
-last_modified_at: 2016-12-23
+excerpt: A salary negotiation email template to counter offer once you have a job offer letter or verbal job offer.
+last_modified_at: 2016-12-26
 ---	
-You aced your interviews and you have a job offer in hand. Congrats! You know you should probably negotiate, which means you should counter offer. But how?
+You have a job offer letter in hand or you've received a verbal job offer. Congrats! You know you should probably negotiate your starting salary. But how?
 
-Use this salary negotiation email sample to deliver your own counter offer when you negotiate starting salary. Keep reading after the email sample for a detailed explanation of each component so you know how to modify it for your own situation and, more importantly, _why_ the template looks like it does.
+You need to counter offer, and the best way to do that is using this salary negotiation email template. This is a *real* counter offer example from a *real* salary negotiation.
+
+Keep reading after the email template for a detailed explanation of how to modify it and send *your* counter offer to negotiate your starting salary.
 
 <div class='ad-box'>
 <p><strong>Looking for a salary increase letter sample to ask for a raise?</strong> Here you go! <a href="{{ site.baseurl }}/salary-increase-letter-sample/">Salary increase letter sample</a></p>
@@ -33,59 +35,67 @@ Use this salary negotiation email sample to deliver your own counter offer when 
 josh@example.com</p>
 </div>
 
-This looks like a big block of text, but there's a lot going on here and all of it is by design. Let's walk through the email and dig deeper.
+This counter offer example might look like a big block of text, but there's a lot going on here and all of it is by design. Let's dig deeper.
 
 {% include drip_form.html form="salary-negotiation-email-templates" %}
 
 ## Open with a greeting 
 
-This salary neogitation email sample is written to the recruiter I’ve been working with throughout the hiring process. Even small things like "I hope you had a great weekend!" can help build rapport with the recruiter. That could be beneficial later on in the salary negotiation process when you need them to go to bat for you.
+This salary negotiation email template is written to the recruiter I’ve been working with throughout the hiring process, *not* the hiring manager who extended the verbal job offer. This recruiter has been my primary point of contact throughout the job interview process and I will negotiate my starting salary with this same recruiter as well. 
+
+In this example, I got a verbal job offer from the hiring manager, but this example works just as well if you received a written job offer letter. 
+
+Even small things like "I hope you had a great weekend!" can help build rapport with the recruiter. That could be beneficial later on in the salary negotiation process when you need them to go to bat for you.
 
 ## Suggest that you want to counter offer, but do not list the amount yet
 
-Then cut to the chase so that this section shows up in the email preview pane if possible: You're pretty happy with the offer, but you want to talk about the base salary component. Don't list your [counter offer]({{ site.baseurl }}/salary-negotiation-script/) yet because because you want to make your case _before_ you make a specific ask.
+Then cut to the chase so that this section shows up in the email preview pane if possible: You're pretty happy with the job offer, but you want to talk about the base salary component. In other words: you want to *counter offer*.
+
+Don't list your [counter offer]({{ site.baseurl }}/salary-negotiation-script/) yet because because you want to make your case _before_ you make a specific ask.
 
 ## Make your case
 
-Why make your case instead of just getting to the point? There are two main reasons you want to make your case in your counter offer email:
+Why spend all this time making your case instead of just getting to the point and making your counter offer? There are two main reasons to start by making your case in this counter offer email:
 
 ### 1. Make your counter offer more compelling and easier to accept
 
 By making your case _before_ your counter offer, you're reinforcing the fact that you will add significant value to the company in this role. The better your case, the more reasonable your counter offer will seem.
 
-This is the longest paragraph in the entire email by far. Why? This is a good example of when a wall of text can work in your favor. After one or two sentences, it's pretty obvious this a long list of really compelling reasons that you're a good fit for the company. It's one of the few times it's a _good_ thing if the recruiter doesn't read the entire paragraph. It's a long, dense paragraph specifically so the recruiter will finally think, "Ok, I get it! You're the perfect candidate for this job! What's it going to cost to bring you on board?"
+This is the longest paragraph in the entire email. Why? Because sometimes a wall of text can work in your favor. After one or two sentences, it's pretty obvious this a long list of really compelling reasons that you're a good fit for the company. It's one of the few times it's a _good_ thing if the recruiter doesn't read the entire paragraph. It's a long, dense paragraph specifically so the recruiter will finally think, "Ok, I get it! You're the perfect candidate for this job! What's it going to cost to bring you on board?"
 
 Don't go overboard here, but it's ok if this paragraph is a little long. Six or seven reasons that you're a good fit for the role should do it.
 
 ### 2. Give the recruiter a written case to circulate internally
 
-Sometimes, the recruiter will have an approved pay range they can accomodate and they'll have authority to negotiate with you directly without further approval. 
+Sometimes, the recruiter will have an approved salary range they can accommodate and they'll have authority to negotiate with you directly without further approval. And sometimes they'll need further approval.
 
-And sometimes they'll need further approval. When they need further approval, you want to make it as easy as possible for them to make a strong case to justify the additional money. You could tell them your case verbally, but then you're counting on them to remember everything and convey it to Finance or whoever can approve additional budget for your salary.
+When they need further approval, you need to make it as easy as possible for them to make a strong case to justify the additional salary. You could tell them your case verbally, but then you're counting on them to remember everything and convey it to Finance or whoever can approve additional budget for your salary.
 
-Instead, you're giving them a written case that they can circulate along with their request for additional budget. You will make your own case much better than they will, so giving them your case in writing allows you to make your best case to whoever needs to approve your final salary.
+Instead, you're giving them a well-written counter offer email that they can circulate along with their request for additional budget. You will make your own case much better than they will, so giving them your case in writing allows you to make your best case to whoever needs to approve your final salary.
 
-## Re-state the verbal offer
+## Re-state the job offer
 
-Briefly summarize the offer the hiring manager made so that there's no confusion or miscommunication. If you received a _verbal_ offer, you want to be sure the recruiter is aware of that offer and that it matches what they were told by the hiring manager. If there was a miscommunication internally, now is the time to find out.
+Briefly summarize the job offer so that there's no confusion or miscommunication. If you received a _verbal_ job offer, you want to be sure the recruiter is aware of that offer and that it matches what they were told by the hiring manager. If you received a written job offer letter, then summarizing the job offer is just a formality, but it's still useful.
+
+If there has been any miscommunication around your job offer, now is the time to find out.
 
 ##  Make your counter offer (finally!)
 
-State your [counter offer]({{ site.baseurl }}/salary-negotiation-script/) in a firm but neutral way. "...I would be more comfortable if we can settle on $56,000." is a good way to phrase your counter offer. It's not combative, but it is firm and makes it easy for the recruiter to simply reply with "Ok, we can do that." if it's within the budget.
+State your [counter offer]({{ site.baseurl }}/salary-negotiation-script/) in a firm but neutral way. "...I would be more comfortable if we can settle on $56,000." is a good way to phrase your counter offer. It's not combative, but it is firm and makes it easy for the recruiter to simply reply with "Ok, we can do that." if it's within the approved salary range.
 
-"Are you sure you can't do any better?" is not firm or neutral. That makes it _very_ easy for the recruiter to simply say, "I'm sorry, we can't." By stating the actual amount along with "...I would be more comfortable...", you're forcing the recruiter to acknowledge the amount you counter offered and respond _to that amount_ while making it tougher to simply say "No."
+"Are you sure you can't do any better?" is not firm or neutral. That makes it _very_ easy for the recruiter to simply say, "I'm sorry, we can't." By stating the actual amount along with "...I would be more comfortable...", you're forcing the recruiter to acknowledge the amount you counter offered and respond _to that specific amount_ while making it tougher to simply say "No."
 
 Immediately after your counter offer, summarize your case in a single sentence, just to remind them of the great case you made earlier.
 
 ## Confirm or request next steps
 
-In this case, I already had plans to talk with the recruiter on Monday at 10:30 AM, so I simply confirmed that meeting time.
+In this case, I had already scheduled a follow up call to discuss my job offer with the recruiter on Monday at 10:30 AM, so I simply confirmed that meeting time.
 
 If you don't have a meeting time or clear next steps, be sure to ask what comes next. "Thanks for your time, and please let me know our next steps."
 
-## Send your email to someone you trust for review
+## Send your own counter offer example to someone you trust for review
 
-Finally, I recommend that you compose an email like the one above, then send it to a couple friends or family members for review. They’ll probably find some typos and might suggest some ways you can tighten it up or make it better. You can always redact the actual numbers if you’re not comfortable sharing them.
+Finally, after you use the counter offer example above to write your own salary negotiation email, send it to a couple friends or family members for review. They might find some typos or suggest some ways you can tighten it up or make it better. You can always remove the specific details of your job offer and counter offer if you’re not comfortable sharing them.
 
 <div class="ad-box">
 	<p><strong>What's next?</strong> To determine your counter offer or plan your next steps after sending this salary negotiation email, use this <a href="{{ site.baseurl }}/salary-negotiation-script/">salary negotiation script</a>!</p>
