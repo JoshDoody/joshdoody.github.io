@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Salary negotiation counteroffer calculator and sample script
+title: Salary negotiation script and counter offer calculator
 tagline: How to negotiate starting salary once you have a job offer
-excerpt: Calculate your counteroffer and plan your salary negotiation with this salary negotiation script generator and counteroffer calculator.
+excerpt: Calculate your counter offer, email your counter offer, and plan your salary negotiation with this salary negotiation script.
+last_modified_at: 2016-12-27
 extra_css:
   - bootstrap-slider.min.css
 extra_js:
@@ -19,14 +20,14 @@ extra_js:
   <p>The <em>Fearless Salary Negotiation</em> method is easy to use while generating phenomenal results. <strong>It's so easy, I summarized it on this single page.</strong> That's why <a href="{{ site.baseurl }}/"><em>Fearless Salary Negotiation</em></a> is a #1 Best Seller on Amazon.</p>
 	<p><strong>How does it work?</strong></p>
 	<ol>
-		<li><strong>Calculate your counteroffer.</strong> The calculator accounts for four factors—your job offer, your minimum acceptable salary ("walk away" number), how badly the company needs you to do the job, and how badly you need the job.</li>
-		<li><strong>Deliver your counteroffer.</strong> Use the <a href="{{ site.baseurl }}/salary-negotiation-email-sample">salary negotiation email sample</a> as your guide.</li>
+		<li><strong>Calculate your counter offer.</strong> The counter offer calculator accounts for four factors—the base salary of your job offer, your minimum acceptable salary ("walk away" number), how badly the company needs you to accept the job offer, and how badly you need the job.</li>
+		<li><strong>Email your counter offer.</strong> Use the <a href="{{ site.baseurl }}/salary-negotiation-email-sample">salary negotiation email sample</a> as your guide.</li>
 		<li><strong>Prepare for your final discussion.</strong> Use the <a href="{{ site.baseurl }}/salary-negotiation-script-example">salary negotiation script example</a> as your guide.</li>
 	</ol>
   <p><strong>You're less than 1 minute away from having a complete salary negotiation script to successfully negotiate starting salary!</strong></p>
 	
-  <h2>1. Calculate your counteroffer</h2>
-  <p><strong>Let's start with your counteroffer.</strong> The most common salary negotiation mistake is to not negotiate. All you need to negotiate is a counteroffer.</p>
+  <h2>1. Calculate your counter offer</h2>
+  <p><strong>Let's start with your counter offer.</strong> The most common salary negotiation mistake is to not negotiate. All you need to negotiate is a counter offer.</p>
 </div>
 
 <div class="script-form">
@@ -42,7 +43,7 @@ extra_js:
 
   <div class="container container--grid">
     <div class="script-fields__left">
-      <p><strong>How badly do they need you? (0–10)</strong> What's your sense of how badly they specifically need you to fill this particular position?</p>
+      <p><strong>How badly do they need you to accept the job offer? (0–10)</strong> What's your sense of how badly they specifically need you to fill this particular position?</p>
     </div>
     <div class="script-fields__right">
       <p><input id="they_need_you" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="8"/></p>
@@ -51,7 +52,7 @@ extra_js:
 
   <div class="container container--grid">
     <div class="script-fields__left">
-      <p><strong>How badly do you need them? (0–10)</strong> How desperate are you to get the job?</p>
+      <p><strong>How badly do you need the job? (0–10)</strong> How desperate are you to get the job?</p>
     </div>
     <div class="script-fields__right">
       <p><input id="you_need_them" data-slider-id='ex1Slider' type="text" data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="6"/></p>
@@ -60,7 +61,7 @@ extra_js:
 
   <div class="container container--normal">
     <div class="script-fields__left">
-      <p><strong>What's your minimum acceptable salary?</strong> What's the absolute minimum base salary you need to accept this job? <a href="https://youtu.be/effQltGYtF8" target="_blank">Tell me more...</a></p>
+      <p><strong>What's your minimum acceptable salary?</strong> What's the absolute minimum base salary you must get to accept this job? <a href="https://youtu.be/effQltGYtF8" target="_blank">Tell me more...</a></p>
     </div>
     <div class="script-fields__right">
       <p>$ &nbsp;<input id="minimum_acceptable" type="text" value="52,000"></p>
@@ -69,7 +70,7 @@ extra_js:
 
   <div class="container container--grid">   
     <div class="script-fields__left">
-      <p><strong>(Optional) What other benefits do you prefer once your base salary is maximized?</strong> Choose up to three other benefits in order of decreasing importance to you (most important is first).</p>
+      <p><strong>(Optional) What non-salary benefits do you prefer once your base salary is maximized?</strong> List up to three benefits—most important is first.</p>
     </div>
     <div class="script-fields__right">
       <p>1. <input id="benefit_1" type="text" value="Extra week of vacation"><br><br>
@@ -89,15 +90,15 @@ extra_js:
 
   <div class="container container--grid">
     <a id="generate_script" href="#" class="button button--bright">
-      <span class="package__button-text"><i class="fa fa-calculator"></i> <strong>Show my counteroffer!</strong></span>
+      <span class="package__button-text"><i class="fa fa-calculator"></i> <strong>Calculate my counter offer!</strong></span>
     </a><br><br>
   </div>
 
-  <!-- When they click the giant button, this div is un-hidden so that everything below slides down the page to reveal the counteroffer and form for requesting a custom salary negotiation script -->
+  <!-- When they click the giant button, this div is un-hidden so that everything below slides down the page to reveal the counter offer and form for requesting a custom salary negotiation script -->
 
   <div id="counteroffer-section" style="display: none;">
     <div class="container container--normal u-highlight" style="padding: 20px;">
-      <h1 class='section-heading header--centered'>Here's your counteroffer!</h1>
+      <h1 class='section-heading header--centered'>Here's your counter offer!</h1>
 
 			<p class='u-center'><span class="counteroffer counteroffer-number">$56,000</span></p>
 			<!--p class='counteroffer-reminder'>Add your email address above and hit the button again and I'll send your custom script!</p--> 
@@ -106,19 +107,21 @@ extra_js:
 </div>
   
 <div class="container container--normal">		
-  <h2>2. Deliver your counteroffer</h2>
-  <p><strong>Now that you have your counteroffer calculated, you need to deliver it to the recruiter or hiring manager.</p>
+  <h2>2. Email your counter offer</h2>
+  <p><strong>Now that you have your counter offer calculated, send it to the recruiter or hiring manager.</p>
 
-  <p><strong>If possible, deliver your counteroffer in an email.</strong> Why? So that you can also make your case to justify your counteroffer and so your written case can be circulated internally at the company if they need to discuss it.</p>
-
-	<p>Here's a template you can use: <a href="{{ site.baseurl }}/salary-negotiation-email-sample">Salary negotiation email sample</a>
+  <p><strong>If possible, send your counter offer in an email.</strong> Why? So that you can also make your case to justify your counter offer and so your written case can be circulated internally at the company if they need to discuss it.</p>
+	
+	<p>“That <em>sounds</em> easy enough, but do you have a salary negotiation counter offer letter sample I can use to get started?”</p>
+	
+	<p>As a matter of fact, I do! Here's a sample counter offer letter you can use: <a href="{{ site.baseurl }}/salary-negotiation-email-sample">Salary negotiation email sample</a></p>
 
   <h2>3. Prepare for your final discussion</h2>
-  <p><strong>Once you've countered, the company will probably respond with something between your job offer and your counteroffer.</strong> That's your salary negotiation window. Your goal is to maximize your salary within that window.</p>
+  <p><strong>Once you've counter offered, the company will probably respond with something between the base salary of your job offer and your counter offer.</strong> That's your salary negotiation window. Your goal is to maximize your salary within that window.</p>
 
-  <p>Let's say the company has made <em class='u-highlight'>a job offer of <span class="original-offer">$50,000</span></em>, and <em class='u-highlight'>your counteroffer is <span class="counteroffer-number">$56,000</span></em>. <em class='u-highlight'>Your negotiation window is now <span class="original-offer">$50,000</span>–<span class="counteroffer-number">$56,000</span></em>.</p>
+  <p>Let's say the company made <em class='u-highlight'>a job offer of <span class="original-offer">$50,000</span></em>, and <em class='u-highlight'>your counter offer is <span class="counteroffer-number">$56,000</span></em>. <em class='u-highlight'>Your salary negotiation window is now <span class="original-offer">$50,000</span>–<span class="counteroffer-number">$56,000</span></em>.</p>
 			
-	<p>Break your salary negotiation window into increments. Each increment represents a possible response the company might make to your counteroffer.</p>
+	<p>Break your salary negotiation window into increments. Each increment represents a possible response the company might make to your counter offer.</p>
 		
 	<p>For each increment, plan <em>your</em> response. First, you'll work to maximize your starting salary. <em class='u-highlight'>Your minimum acceptable salary is <span class='minimum-acceptable'>$52,000</span>, so you will not take the job for less than that amount.</em></p>
 		
