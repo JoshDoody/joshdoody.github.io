@@ -2,22 +2,26 @@
 layout: post
 title: 'Lowball job offers: How to negotiate them'
 tagline: When silence is the best response to a lowball job offer
-excerpt: Here's a tactic you can use to negotiate a lowball job offer without even counter offering.
+excerpt: How to counter a lowball job offer using a silence, a simple negotiation tactic
 share_title: How to negotiate a lowball job offer
 last_modified_at: 2016-09-29
 og-image: LowballJobOffer.png
 ---
-What's your goal in an interview? To get the best job offer possible and to set yourself up to negotiate the best compensation package possible. You want the company to focus "What do we have to offer to convince them to join our team?" as opposed to "What's the minimum we can pay to bring them on board?" It's a subtle but important distinction.
+What's your goal in an interview? To get the best job offer possible and to set yourself up to negotiate the best salary possible. You want the company to focus on "What do we have to offer to convince them to join our team?" as opposed to "What's the minimum we can pay to bring them on board?" It's a subtle but important distinction.
 
 Occasionally you'll ace your interviews and still get a lowball job offer, way below your [minimum acceptable salary]({{ site.baseurl }}/minimum-acceptable-salary/). Maybe they simply can't afford you, or maybe their pay range for this particular job is so wide that they don't know where to slot you in.
 
-## Going straight to your minimum acceptable salary
+So what can you do to reset the salary negotiation? Here's a tactic you can use when negotiating a lowball salary offer.
+
+## You *could* go straight to your minimum acceptable salary
 
 Your minimum acceptable salary makes negotiating pretty easy because it allows you to draw a line in the sand, determine whether a standard negotiation strategy can get you past that line, and counter offer appropriately. Then you know whether to counter offer above your minimum acceptable salary, or just state your minimum acceptable salary as an ultimatum:
 
 > "I'm sorry, but I can't accept this position for less than [your minimum acceptable salary]."
 
-But what if there were a way to significantly improve your job offer without counter offering at all?
+But declaring your minimum acceptable salary should be a last resort—you don't want to do this unless you absolutely have to.
+
+Fortunately, there's were a way to significantly improve on a lowball job offer without counter offering at all! Here's how Joe did it.
 
 ## How Joe improved his job offer without counter offering
 
@@ -25,7 +29,7 @@ I recently worked with a coaching client—let's call him Joe—who was pursuing
 
 Joe did really well in his interviews, and we were anticipating a strong job offer from ACME Corp.
 
-"We would like to extend you a job offer..." Great news! But the salary and equity they offered caused us to do a double-take. _That's it? That's the offer? We were hoping for much better than that._
+"We would like to extend you a job offer..." Great news! But the salary and equity they offered caused us to do a double-take. _That's it? That's the job offer? We were hoping for much better than that._
 
 The offer was well below the minimum acceptable salary Joe had set before they made the job offer.
 
@@ -43,7 +47,7 @@ With a lowball job offer, the best move may be to use a very powerful negotiatio
 
 Silence can sometimes turn a lowball job offer into a more reasonable job offer by giving the company a chance to reset the salary negotiation _without making a counter offer_. This is key because you really only get one "big" counter offer, and you want to save it until the baseline job offer is as strong as possible.
 
-So how do you know when silence is the right response to a lowball job offer?
+**How do you know when silence is the right response to a lowball job offer?**
 
 If these things are true, then responding with silence may be the right move:
 
@@ -55,13 +59,11 @@ If these things are true, then responding with silence may be the right move:
 
 Are all those things true for you? If they are, then this tactic may be good for your situation.
 
-## Getting a better offer
+## How to use silence when negotiating a lowball salary offer
 
-So how do you use silence to turn a lowball job offer into a competitive job offer?
+You won't be _totally_ silent—you are going to say _something_—but you will be silent in terms of explicitly negotiating the job offer they made. Rather than counter offering their lowball job offer, you will give them the opportunity to improve the offer and reset the salary negotiation.
 
-Well, you won't be _totally_ silent—you are going to say _something_. You're just going to be silent in terms of explicitly negotiating the offer they made. Rather than counter offering, you will give them the opportunity to improve their offer.
-
-You'll do that with this short email. First I'll share the email template, then I'll explain why it works.
+You'll do that with this short email template you can use to respond to a lowball job offer. First I'll share the email template, then I'll explain why it works.
 
 <div class='sample-email'>
 <p>
@@ -92,16 +94,16 @@ The company wants to bring you on board, so they're thinking "What do we have to
 
 This email tells them "You need to think bigger if you want me to come on board." The second paragraph is key as it does two things:
 
-1. **It let's the company know you're "disappointed" with the job offer.** This is a diplomatic way of saying, "This offer is no good. If you're trying to convince me to join the team, and this is a miss."
+1. **It let's the company know you're "disappointed" with the job offer.** This is a diplomatic way of saying, "This job offer is no good. If you're trying to convince me to join the team, this is a miss."
 2. **It tells how to right the ship.** "...I want to be sure this move is a step forward in my career." In other words, "This offer _isn't_ a big enough step forward for me."
 
-Translation: "This job offer hasn't convinced me to come on board. Want to try again?"
+Translation: "This lowball job offer hasn't convinced me to come on board. Want to try again?"
 
-## Joe improved his job offer by 30% without counter offering
+## Joe improved his lowball job offer by 30% without counter offering
 
 Joe sent a very similar email in response to his lowball job offer. We didn't hear anything for a day or so, but then he got a call from the recruiter he had been working with...
 
-"Hi Joe, we agree that our offer was a little underwhelming. So we went back to the drawing board and here's what we came up with..."
+"Hi Joe, we agree that our job offer was a little underwhelming. So we went back to the drawing board and here's what we came up with..."
 
 The new offer was still heavy on equity, but they increased it by 30% by adding a little to the base salary and increasing the equity portion by more than 60%! The best part was that the new offer was strong enough to meet Joe's minimum acceptable salary _and_ it gave him an opportunity to counter offer and see just how high the company would go.
 
@@ -109,8 +111,10 @@ The new offer was still heavy on equity, but they increased it by 30% by adding 
 
 This email will usually elicit one of two responses, and both are useful.
 
-They may say, "Ok, thanks for considering our offer. We look forward to hearing your response." Essentially, they're letting you know that they're comfortable with that job offer and it's pretty close to as good as it's going to get. In this case, you would just proceed with your [standard counter offer]({{ site.baseurl }}/salary-negotiation-script/).
+They may say, "Ok, thanks for considering our job offer. We look forward to hearing your response." Essentially, they're letting you know that they're comfortable with that job offer and it's pretty close to as good as it's going to get. In this case, you would just proceed with your [standard counter offer]({{ site.baseurl }}/salary-negotiation-script/).
 
 But sometimes they _will_ try again! "Let us see if we can do better. We'll get back to you." That's what you're after!
 
-Once they send a revised job offer, then you can proceed with a standard [starting salary negotiation]({{ site.baseurl }}/why-negotiate-starting-salary/).
+Once they send a revised job offer, then you can proceed with a standard [starting salary negotiation]({{ site.baseurl }}/why-negotiate-starting-salary/). 
+
+Beware that companies will often revise their lowball job offer to be pretty close to their best-possible job offer, which means your standard salary negotiation strategy may not yield as big a return when used in conjunction with this technique. The ultimate result is what you want—you've determined how much the company is willing to pay you to do the job—and you just got there combining *two* techniques instead of a single salary negotiation technique.
