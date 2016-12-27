@@ -3,14 +3,16 @@ layout: post
 title: Salary negotiation email - free counter offer template
 headline: Counter offer with this salary negotiation email template
 tagline: Email sample to deliver your counter offer when negotiating starting salary
-excerpt: A salary negotiation email template to counter offer once you have a job offer letter or verbal job offer.
-last_modified_at: 2016-12-26
+excerpt: A salary negotiation email template you can use to counter offer and negotiate your salary once you have a job offer.
+last_modified_at: 2016-12-27
 ---	
-You have a job offer letter in hand or you've received a verbal job offer. Congrats! You know you should probably negotiate your starting salary. But how?
+You have a job offer, which means you successfully navigated the tricky job interview process. Congrats!
 
-You need to counter offer, and the best way to do that is using this salary negotiation email template. This is a *real* counter offer example from a *real* salary negotiation.
+You know you should probably negotiate your salary, and that means starting with a counter offer. But how? What do you say? Should you negotiate your salary over email? Call the recruiter you've been working with? Reach out to the hiring manager?
 
-Keep reading after the email template for a detailed explanation of how to modify it and send *your* counter offer to negotiate your starting salary.
+The best way to counter offer is with this salary negotiation email template. This is a *real* counter offer letter used in a *real* salary negotiation.
+
+Keep reading after the salary negotiation letter sample for a detailed explanation of how you can use this template to counter offer and negotiate your starting salary.
 
 <div class='ad-box'>
 <p><strong>Looking for a salary increase letter sample to ask for a raise?</strong> Here you go! <a href="{{ site.baseurl }}/salary-increase-letter-sample/">Salary increase letter sample</a></p>
@@ -35,15 +37,13 @@ Keep reading after the email template for a detailed explanation of how to modif
 josh@example.com</p>
 </div>
 
-This counter offer example might look like a big block of text, but there's a lot going on here and all of it is by design. Let's dig deeper.
+This counter offer letter might look like a big block of text, but there's a lot going on here and all of it is by design. Let's dig deeper.
 
 {% include drip_form.html form="salary-negotiation-email-templates" %}
 
 ## Open with a greeting 
 
-This salary negotiation email template is written to the recruiter I’ve been working with throughout the hiring process, *not* the hiring manager who extended the verbal job offer. This recruiter has been my primary point of contact throughout the job interview process and I will negotiate my starting salary with this same recruiter as well. 
-
-In this example, I got a verbal job offer from the hiring manager, but this example works just as well if you received a written job offer letter. 
+This email is addressed to the recruiter I’ve been working with throughout the hiring process, *not* the hiring manager who extended the verbal job offer. This recruiter has been my primary point of contact throughout the job interview process so I will negotiate with this same recruiter as well. 
 
 Even small things like "I hope you had a great weekend!" can help build rapport with the recruiter. That could be beneficial later on in the salary negotiation process when you need them to go to bat for you.
 
@@ -71,7 +71,7 @@ Sometimes, the recruiter will have an approved salary range they can accommodate
 
 When they need further approval, you need to make it as easy as possible for them to make a strong case to justify the additional salary. You could tell them your case verbally, but then you're counting on them to remember everything and convey it to Finance or whoever can approve additional budget for your salary.
 
-Instead, you're giving them a well-written counter offer email that they can circulate along with their request for additional budget. You will make your own case much better than they will, so giving them your case in writing allows you to make your best case to whoever needs to approve your final salary.
+Instead, you're giving them a well-written counter offer letter that they can circulate along with their request for additional budget. You will make your own case much better than they will, so giving them your case in writing allows you to make your best case to whoever needs to approve your final salary.
 
 ## Re-state the job offer
 
@@ -95,7 +95,7 @@ If you don't have a meeting time or clear next steps, be sure to ask what comes 
 
 ## Send your own counter offer example to someone you trust for review
 
-Finally, after you use the counter offer example above to write your own salary negotiation email, send it to a couple friends or family members for review. They might find some typos or suggest some ways you can tighten it up or make it better. You can always remove the specific details of your job offer and counter offer if you’re not comfortable sharing them.
+Finally, after you use the counter offer letter sample above to write your own salary negotiation letter, send it to a couple friends or family members for review. They might find some typos or suggest some ways you can tighten it up or make it better. You can always remove the specific details of your job offer and counter offer if you’re not comfortable sharing them.
 
 <div class="ad-box">
 	<p><strong>What's next?</strong> To determine your counter offer or plan your next steps after sending this salary negotiation email, use this <a href="{{ site.baseurl }}/salary-negotiation-script/">salary negotiation script</a>!</p>
