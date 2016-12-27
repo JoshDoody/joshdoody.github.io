@@ -2,7 +2,7 @@
 layout: post
 title: 'Lowball job offers: How to negotiate them'
 tagline: When silence is the best response to a lowball job offer
-excerpt: How to counter a lowball job offer using a silence, a simple negotiation tactic
+excerpt: 'How to counter a lowball job offer using a simple negotiation tactic: silence.'
 share_title: How to negotiate a lowball job offer
 last_modified_at: 2016-09-29
 og-image: LowballJobOffer.png
