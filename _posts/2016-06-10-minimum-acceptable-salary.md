@@ -1,14 +1,10 @@
 ---
-layout: book_excerpt
+layout: post
 title: Minimum acceptable salary
 tagline: You should set this number before you get your job offer
 excerpt: When you negotiate starting salary, it's critical to decide your minimum acceptable salary before you receive a job offer.
 has_basic_bundle_pitch: true
 last_modified_at: 2016-06-29
-canonical_url: 'https://fearlesssalarynegotiation.com/minimum-acceptable-salary/'
-book_section: 8
-chapter: negotiate
-section: 2
 ---
 
 You have two main objectives before you begin negotiating:

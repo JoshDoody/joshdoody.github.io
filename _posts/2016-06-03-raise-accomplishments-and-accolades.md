@@ -1,13 +1,9 @@
 ---
-layout: book_excerpt
+layout: post
 title: Document examples of accomplishments and accolades for your raise
 tagline: Show how you're adding value and what others have said about your work
 excerpt: Make a strong case when you ask for a raise by showing how you add value to the company and citing praise from clients and colleagues.
 last_modified_at: 2016-06-24
-canonical_url: 'https://fearlesssalarynegotiation.com/raise-accomplishments-and-accolades/'
-book_section: 12
-chapter: raise
-section: 2
 ---
 
 Your primary reason for requesting a raise is that the salary you’re being paid doesn’t reflect your current value to the company. That salary was set some time in the past, so your argument is that you are more valuable now than you were when your current salary was set.

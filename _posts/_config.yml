@@ -27,7 +27,7 @@ collections:
     permalink: /book/:title/
   book_excerpts:
     output: true
-    permalink: /:title/
+    permalink: /book/:path/
   podcasts:
     output: true
     permalink: /:title/

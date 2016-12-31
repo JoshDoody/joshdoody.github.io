@@ -1,13 +1,9 @@
 ---
-layout: book_excerpt
+layout: post
 title: How I almost made a huge mistake in an exit interview
 tagline: Don't use your exit interview as a chance to blow of steam
 excerpt: How I avoided making a huge mistake in my exit interview.
-last_modified_at: 2016-12-31
-canonical_url: 'https://fearlesssalarynegotiation.com/how-to-handle-an-exit-interview/'
-book_section: 9
-chapter: leave
-section: 2
+last_modified_at: 2016-06-21
 ---
 
 ## Be vague and use positive language in your exit interview
