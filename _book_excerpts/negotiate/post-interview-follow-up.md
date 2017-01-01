@@ -23,7 +23,7 @@ The recruiter’s last attempt to elicit your desired salary will probably sound
 
 > *"Okay, I just need to talk to Finance and your hiring manager to see whether we’re ready to move forward with an offer. What sort of salary did you have in mind for this job? I just want to have something to run by Finance. And do you have any questions for me before we move forward?"*
 
-You may recognize the second part of [The dreaded salary question]({{ site.baseurl }}book/interview/dont-share-current-or-desired-salary/) in the recruiter’s dialogue above.
+You may recognize the second part of [The dreaded salary question]({{ site.baseurl }}/book/interview/dont-share-current-or-desired-salary/) in the recruiter’s dialogue above.
 
 Here’s the dreaded salary question again, to refresh your memory:
 
@@ -39,7 +39,7 @@ Notice that I ended the answer with an ellipsis this time? That’s because the 
 
 > *"...because I know I can immediately contribute to help you address [this need] with [this positive attribute], and [this other need] with [this other positive attribute]."*
 
-Turn the dreaded salary question redux into an opportunity to make a case for yourself just before the recruiter goes to Finance to determine the salary they’ll offer you. This is why you spent time doing research and thinking about the company’s needs during the [preparation phase]({{ site.baseurl }}book/interview/interview-preparation/) of your interview process and again during your [preparation for this negotiation]({{ site.baseurl }}/book/negotiate/why-are-you-the-best-candidate/). Now you can identify specific attribute-for-need combinations to describe how you will address specific needs and add value to the company.
+Turn the dreaded salary question redux into an opportunity to make a case for yourself just before the recruiter goes to Finance to determine the salary they’ll offer you. This is why you spent time doing research and thinking about the company’s needs during the [preparation phase]({{ site.baseurl }}/book/interview/interview-preparation/) of your interview process and again during your [preparation for this negotiation]({{ site.baseurl }}/book/negotiate/why-are-you-the-best-candidate/). Now you can identify specific attribute-for-need combinations to describe how you will address specific needs and add value to the company.
 
 The recruiter may cover other things too, but it’s a successful call for you as long as you meet your two objectives. The call will usually end with the recruiter saying they just need to reach out to Finance and your hiring manager to see if the company will move forward with an offer, and they’ll let you know when they’re ready to move forward.
 
