@@ -12,7 +12,7 @@ Hiring people is expensive and risky. Each new hire costs thousands of dollars. 
 
 This chapter is about getting a "big" raise of 8% or more—often described as a “market adjustment”—rather than a standard merit increase or a small “cost of living” increase. 
 
-As I discussed in [the introduction to this part of the book]({{ site.baseurl }}/book/get-a-big-raise/)", getting a big raise can sometimes be difficult without changing companies because raises are often predetermined and limited. But it *can* be done, and there’s usually no harm in seeing how much of a raise you can get.
+As I discussed in [the introduction to this part of the book]({{ site.baseurl }}/book/should-you-pursue-a-promotion-or-raise/)", getting a big raise can sometimes be difficult without changing companies because raises are often predetermined and limited. But it *can* be done, and there’s usually no harm in seeing how much of a raise you can get.
 
 ## The raise process
 
