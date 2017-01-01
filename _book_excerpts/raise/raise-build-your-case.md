@@ -9,7 +9,6 @@ book_section: 12
 chapter: raise
 section: 2
 ---
-
 Your primary reason for requesting a raise is that the salary you’re being paid doesn’t reflect your current value to the company. That salary was set some time in the past, so your argument is that you are more valuable now than you were when your current salary was set.
 
 So you need to identify the specific reasons—the things you’ve done since your current salary was set—why your value exceeds your salary. These are your *accomplishments*. You should also document positive feedback from your colleagues and clients, demonstrating that your work has positive impact on the company, and showing that others have noticed the additional value you bring to the company. These bits of positive feedback are your *accolades*.

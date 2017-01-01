@@ -8,7 +8,6 @@ book_section: 11
 chapter: promotion
 section: 3
 ---
-
 A big step toward making your case for a promotion is to document your results. Many people are uncomfortable with this step, and this is why they often find themselves waiting for a promotion to come to them instead of going after it. But it’s up to you to make sure your accomplishments are recognized. Many managers are so busy that they may not be aware of what specific things you’re doing to excel at your job. This is how you’ll make sure your manager knows you are excelling at your job and ready for this promotion.
 
 ## Accomplishments

@@ -9,7 +9,6 @@ book_section: 8
 chapter: negotiate
 section: 0
 ---
-
 You’ve [aced your interview]({{ site.baseurl }}/book/interview/) and the company is about to make you an offer. This is when many people will breathe a sigh of relief and begin to celebrate, assuming the hard work is over. Maybe you're just happy to be leaving your old job, or excited to have a chance to work at a new company. 
 
 Don’t relax yet! This is an opportunity to make the most of this transition and maximize your salary. 

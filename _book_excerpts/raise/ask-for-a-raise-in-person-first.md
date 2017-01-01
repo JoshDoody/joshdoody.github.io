@@ -8,7 +8,6 @@ book_section: 12
 chapter: raise
 section: 4
 ---
-
 Now you’re ready to present your case and request your raise. The proof is in [the email you drafted]({{ site.baseurl }}/book/raise/ask-for-a-raise-email-sample/). You have a list of things you've done that demonstrate that you're adding more value than you were when your current salary was set, and you have praise from clients and colleagues to help drive things home.
 
 Although you’ve written a strong email that makes your case well, I don’t recommend dropping that on your manager without some sort of warning. First, you should meet with your manager and ask for your raise, then you'll follow up on your request by sending the email you composed.

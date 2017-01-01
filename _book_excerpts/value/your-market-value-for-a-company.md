@@ -8,7 +8,6 @@ book_section: 5
 chapter: value
 section: 3
 ---
-
 I don’t recommend *asking* your peers for this information, but you may already know it or be able to infer it from water cooler conversations. 
 
 ## Market value for the average person

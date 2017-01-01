@@ -8,7 +8,6 @@ book_section: 4
 chapter: salary-structures
 section: 2
 ---
-
 The short answer is that you probably can’t, at least not for your specific company. I’ve worked at one company that told me the midpoint of my pay grade (but not the bottom and top bounds). Every other company I have worked for has protected their pay grade information like a trade secret.
 
 You could try asking your manager where you are in your pay grade, and it’s possible your manager will tell you "the low end" or “the high end” or “near the middle”. But you probably won’t get much more info beyond that.

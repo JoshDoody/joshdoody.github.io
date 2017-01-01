@@ -8,7 +8,6 @@ book_section: 11
 chapter: promotion
 section: 1
 ---
-
 What really matters is that you know where you want to be promoted. *Specifically*, I mean. Not "I want a promotion", but “I want to be promoted to Engineer II” or “I want to be promoted to a role in Operations.” This matters because you need to know how your target role is different from your current role so that you can identify opportunities to do things associated with your target role.
 
 There are two common types of promotion: straight-up and over-and-up. 

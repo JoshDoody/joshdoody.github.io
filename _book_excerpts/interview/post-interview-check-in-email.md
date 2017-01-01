@@ -9,7 +9,6 @@ book_section: 7
 chapter: interview
 section: 9
 ---
-
 Some companies will let you know if they decide not to move forward with you, and some companies won’t. It’s difficult to know which you’re dealing with, so you may want to send one more follow-up email after about a week to make sure they haven’t forgotten about you. 
 
 In this example, "Shawn" is the recruiter you've been working with and "Andy" is the hiring manager who interviewed you last.

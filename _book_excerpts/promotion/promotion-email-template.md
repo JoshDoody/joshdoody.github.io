@@ -9,7 +9,6 @@ book_section: 11
 chapter: promotion
 section: 4
 ---
-
 The best way to prepare your case for a promotion is to write it down. As it turns out, you’ll also want to have a written summary of why you deserve your promotion later on when you [ask for a promotion]({{ site.baseurl }}/book/promotion/ask-for-a-promotion-in-person-first/), so we’re going to kill two birds with one stone in this section by building an email that summarizes your case.
 
 Here’s what your case for a promotion will look like once you’ve written it down. I’ve numbered each section in brackets so we can talk about it afterward.

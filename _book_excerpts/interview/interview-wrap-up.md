@@ -8,7 +8,6 @@ book_section: 7
 chapter: interview
 section: 5
 ---
-
 Things will usually start winding down when there are a few minutes left. You’ll feel the tone shift a little bit from more formal to more friendly. It may feel like the interview is already over, but it’s not! There may still be a few great opportunities to make a good impression on Andy (that's your interviewer's name).
 
 If you’re lucky, Andy will open the door for you by asking whether *you* have any questions for *him*. As a matter of fact, you do!

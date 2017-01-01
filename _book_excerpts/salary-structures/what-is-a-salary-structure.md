@@ -8,7 +8,6 @@ book_section: 4
 chapter: salary-structures
 section: 0
 ---
-
 Before we talk about *how* to get a [promotion]({{ site.baseurl }}/book/promotion/) or [raise]({{ site.baseurl }}/book/raise/), we need to talk a little about how companies typically structure pay scales. This is important because it helps explain why all raises aren’t created equal. Sometimes, it’s really tough to get a 5% pay bump, and sometimes it’ll be relatively easy to get a 10% pay bump or greater.
 
 So let’s talk about some common terminology and I’ll explain how salary structures work while we’re at it.

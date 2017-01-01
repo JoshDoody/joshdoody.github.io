@@ -8,7 +8,6 @@ book_section: 7
 chapter: interview
 section: 0
 ---
-
 When an opportunity is on the way, you’ll usually get some kind of heads-up: a message on LinkedIn, an email, a voicemail, or even a text message from a recruiter or hiring manager. Once you get the heads-up, you need to do some prep work before you’re ready to talk.
 
 ## Basic company research

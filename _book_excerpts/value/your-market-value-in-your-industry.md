@@ -8,7 +8,6 @@ book_section: 5
 chapter: value
 section: 1
 ---
-
 ## Market value for the average person
 
 Search online for "[your job title] salary" and spend some time with the first few results, which are usually salary calculators and aggregators. I recommend [PayScale.com](http://www.payscale.com), [salary.com](http://www.salary.com) and [glassdoor.com](https://www.glassdoor.com/index.htm) as good places to start, but the specific sites aren’t important since they could change over time. Some sites are geared toward specific industries, so you may get better data by focusing on sites that cater to your industry if there are any.

@@ -8,7 +8,6 @@ book_section: 7
 chapter: interview
 section: 4
 ---
-
 Once things are rolling, there are many different topics that may be covered during your interview. Every interview is different. Even Andy’s (that's your interviewer's name so we don't have to say "your interviewer" over and over) interviews may vary from day to day depending on his mood, the particular job he’s trying to fill, or whether he’s bored and feels like doing something different that day.
 
 Make sure to listen carefully to each question, and then consider your answer before you give it. Don’t be afraid to ask for some time to think about a particular question before you answer. Sometimes Andy will ask you a question you didn’t anticipate, and you’ll be caught off guard. It’s okay to say, "Wow, that’s a good question. I’m just going to think about this for a few seconds before I answer." Then gather yourself, compose your answer in your head, and deliver your answer to Andy. Most interviewers will appreciate that you took the time to really think about your answer rather than just blurting something out. You can do this two or three times in a single interview, but no more than that. 

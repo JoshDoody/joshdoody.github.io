@@ -9,7 +9,6 @@ book_section: 12
 chapter: raise
 section: 3
 ---
-
 The best way to prepare your case is to write it down. As it turns out, you’ll also want to have a written summary of why you deserve your raise later on (see the "Present your case" section below), so we’re going to kill two birds with one stone in this section by building an email that summarizes your case.
 
 Here’s what your case for a raise will look like once you’ve written it down. I’ve numbered each section on the left side so we can talk about it afterward.

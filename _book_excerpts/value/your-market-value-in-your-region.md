@@ -8,7 +8,6 @@ book_section: 5
 chapter: value
 section: 2
 ---
-
 This is tougher to get than the publicly-available salary data online, and easier to get than your intra-company peers’ salaries (which we’ll cover in the next section).
 
 ## Market value for the average person

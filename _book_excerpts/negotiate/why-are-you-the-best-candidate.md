@@ -8,7 +8,6 @@ book_section: 8
 chapter: negotiate
 section: 1
 ---
-
 You have two main objectives before you begin negotiating:
 
 1. Understand why you are a valuable candidate for this job

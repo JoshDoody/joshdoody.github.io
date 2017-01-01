@@ -8,7 +8,6 @@ book_section: 4
 chapter: salary-structures
 section: 1
 ---
-
 ## Promotions
 
 [*Promotions*]({{ site.baseurl }}/book/promotion/) happen when you move *up* to the next job in your career path, and it usually represents a jump to a higher pay grade as well. In our example above, this means stepping up to the next pay grade. If you look closely at the example, you’ll see that many of the pay grades overlap, which implies that you can be promoted without getting a raise. For example, a Jr. Developer making $75,000 could theoretically be promoted to Developer without a pay increase by moving from the higher end of the “E01” pay grade to the lower end of the “E02” pay grade.

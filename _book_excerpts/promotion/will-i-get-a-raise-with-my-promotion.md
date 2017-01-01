@@ -8,7 +8,6 @@ book_section: 11
 chapter: promotion
 section: 7
 ---
-
 Raises are such an important subject, I’m dedicating an entire chapter to them. In the next chapter, "How to negotiate your next raise", I’ll walk you through the process of requesting a raise to bring your compensation in line with your market value.
 
 Still, I would be remiss if I didn’t at least give a general overview of the "raise" component of a promotion here. So this section is really just a description of what is likely to happen if you get promoted and don’t focus on pay at all.

@@ -9,7 +9,6 @@ book_section: 11
 chapter: promotion
 section: 2
 ---
-
 The first part of defining your goal is determining what you’re after. The second part of defining your goal is determining the differences between your current job and your target job. The third part of defining your goal is to create a specific plan—a roadmap—to get experience with each of those differences to demonstrate that you’re ready for this promotion.
 
 ## A CEO tells me what managers look for

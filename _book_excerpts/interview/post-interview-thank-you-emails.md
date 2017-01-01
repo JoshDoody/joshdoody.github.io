@@ -9,7 +9,6 @@ book_section: 7
 chapter: interview
 section: 8
 ---
-
 Now you’ve aced the Interview, but your work isn’t done yet—you still have a few more opportunities to stand out in the post-interview.
 
 First, if you happen to have your interviewer's email address (we're calling him Andy), shoot him a very, very short email thanking him for his time. You’ll also want to discretely share your contact information just in case he needs it later. Unless there’s something specific he expects you to follow up on, don’t ask any new questions or give Andy any action items in this email. This is just a short email to say "Thanks!" and demonstrate professionalism; it shouldn’t require a response. 

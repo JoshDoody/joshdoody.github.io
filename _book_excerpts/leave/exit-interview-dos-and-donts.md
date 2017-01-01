@@ -9,7 +9,6 @@ book_section: 9
 chapter: leave
 section: 2
 ---
-
 ## Be vague and use positive language in your exit interview
 
 When I left my first job, I was frustrated and a little disillusioned. I didn't think my boss had helped me find opportunities I wanted, and I realized that my own performance didn't matter.

@@ -8,7 +8,6 @@ book_section: 12
 chapter: raise
 section: 0
 ---
-
 Hiring people is expensive and risky. Each new hire costs thousands of dollars. This is why companies are often open to "market adjustments"—by paying employees something close to market value, they keep experienced, proven employees at the company, save the expense of hiring a replacement, and avoid the risk of hiring a new person who is unproven.
 
 This chapter is about getting a "big" raise of 8% or more—often described as a “market adjustment”—rather than a standard merit increase or a small “cost of living” increase. 
