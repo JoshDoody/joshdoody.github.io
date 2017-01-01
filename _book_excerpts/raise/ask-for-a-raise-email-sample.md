@@ -96,4 +96,4 @@ State your request and make your case again as concisely as possible. No more th
 
 Thank your manager for her time and keep it brief.
 
-Everything has now come together so that [you know what you’re pursuing]({{ site.baseurl }}/what-is-your-target-salary/), and you have a written case that summarizes why you should be given a raise. This should help clarify your own objectives, and it will provide a handy reference for you as you [present your case]({{ site.baseurl }}/ask-for-a-raise-in-person-first/).
+Everything has now come together so that [you know what you’re pursuing]({{ site.baseurl }}/book/raise/what-is-your-target-salary/), and you have a written case that summarizes why you should be given a raise. This should help clarify your own objectives, and it will provide a handy reference for you as you [present your case]({{ site.baseurl }}/book/raise/ask-for-a-raise-in-person-first/).

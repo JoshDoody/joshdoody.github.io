@@ -51,7 +51,7 @@ Frame your answers so that they define how you’ll contribute to the company an
 
 ## "Why do you want to work here?"
 
-Some companies will just come right out with it, so you should be prepared to answer this question. Fortunately, you’ve [spent time]({{ site.baseurl }}/interview-preparation/) reviewing their website and looking at their job openings, so you know what they do and how you can contribute.
+Some companies will just come right out with it, so you should be prepared to answer this question. Fortunately, you’ve [spent time]({{ site.baseurl }}/book/interview/interview-preparation/) reviewing their website and looking at their job openings, so you know what they do and how you can contribute.
 
 Mention things you like about the company in general, and then talk specifically about how your skillset would be a good fit for the company’s mission. This is also a good opportunity to mention some good things you might have heard about the company from friends or acquaintances
 
@@ -65,8 +65,8 @@ Interviewers ask this type of question because it can provide some insight into 
 
 Andy might ask you about special projects you’ve worked on or side projects you’ve done on your own time. Make sure you’re ready to talk about at least one of these in detail. Before the interview, think about your previous special projects in the context of the company you’re interviewing with so that your answer resonates with Andy.
 
-After the question and answer portion of the interview, you'll usually move into the [interview wrap-up]({{ site.baseurl }}/interview-wrap-up/), where you'll have an opportunity to ask questions of your own.
+After the question and answer portion of the interview, you'll usually move into the [interview wrap-up]({{ site.baseurl }}/book/interview/interview-wrap-up/), where you'll have an opportunity to ask questions of your own.
 
 ## What about curveball questions?
 
-Curveball questions can be tricky. Read about how to handle curveball questions [here]({{ site.baseurl }}/curveball-questions/).
+Curveball questions can be tricky. Read about how to handle curveball questions [here]({{ site.baseurl }}/book/interview/curveball-questions/).

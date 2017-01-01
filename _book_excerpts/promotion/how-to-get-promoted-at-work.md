@@ -9,7 +9,6 @@ book_section: 11
 chapter: promotion
 section: 0
 ---
-
 Requesting a promotion can be intimidating. Here are some common reasons you might use to talk yourself out of asking for a promotion, along with my response to each:
 
 * **I don't even know how to ask for a promotion. Do I ask in person? Through email?** We'll cover this in detail. You will start by asking in person, then follow up with an email—I'll walk you through both.
@@ -18,7 +17,7 @@ Requesting a promotion can be intimidating. Here are some common reasons you mig
 * **Don’t I just need to work harder and harder until I get a promotion?** It would be nice if it were this simple, but this just isn’t how companies work.
 * **Don’t I have to wait until my next performance review?** Nope!
 
-What about raises? [In another article]({{ site.baseurl }}/will-i-get-a-raise-with-my-promotion/), I’ll cover the very general "standard raise" that often accompanies a promotion. My assumption is that a promotion really contains two components: a title change and a consummate increase in pay. This isn’t always true, but it’s the case most of the time. As I mentioned in [Do you have to quit your job to get a big raise?]({{ site.baseurl }}/do-you-have-to-quit-your-job-to-get-a-big-raise/), many companies have a rubric they use to determine the specific raise amount that accompanies a promotion, so I'm assuming some sort of rubric will be used to determine the raise that should accompany your promotion at your company.
+What about raises? [In another article]({{ site.baseurl }}/book/promotion/will-i-get-a-raise-with-my-promotion/), I’ll cover the very general "standard raise" that often accompanies a promotion. My assumption is that a promotion really contains two components: a title change and a consummate increase in pay. This isn’t always true, but it’s the case most of the time. As I mentioned in [the introduction to this part of the book]({{ site.baseurl }}/book/get-a-big-raise/), many companies have a rubric they use to determine the specific raise amount that accompanies a promotion, so I'm assuming some sort of rubric will be used to determine the raise that should accompany your promotion at your company.
 
 In [How to get your next raise]({{ site.baseurl }}/book/raise/) I’ll talk about requesting a raise to bring your compensation into alignment with your market value. So if you’re not looking for a title change, and are just looking for a "market adjustment" or more money for your current role, you may want to check that out. If you’re looking for a title change *and* a market adjustment, keep reading!
 
@@ -28,14 +27,14 @@ Notice I didn’t say "...increased value you *might* add to the company..." or 
 
 Let’s look at the high-level process for earning a promotion. It’s pretty simple:
 
-1. [Define your goal]({{ site.baseurl }}/what-is-your-target-job/)
-2. [Produce results to show you’re ready]({{ site.baseurl }}/show-youre-ready-for-your-target-job/)
-3. [Document your accomplishments and accolades]({{ site.baseurl }}/promotion-accomplishments-and-accolades/)
-4. [Prepare your case]({{ site.baseurl }}/promotion-email-template/)
-5. [Present your case]({{ site.baseurl }}/ask-for-a-promotion-in-person-first/)
+1. [Define your goal]({{ site.baseurl }}/book/promotion/what-is-your-target-job/)
+2. [Produce results to show you’re ready]({{ site.baseurl }}/book/promotion/show-youre-ready-for-your-target-job/)
+3. [Document your accomplishments and accolades]({{ site.baseurl }}/book/promotion/promotion-build-your-case/)
+4. [Prepare your case]({{ site.baseurl }}/book/promotion/promotion-email-template/)
+5. [Present your case]({{ site.baseurl }}/book/promotion/ask-for-a-promotion-in-person-first/)
 
 The goal is that once you present your case, it’ll be such a good case for a promotion that your manager and her manager, plus the Finance person who has to approve things, will be impressed and immediately see that you’re doing your target job, so they’ll say, "Well, it seems like he’s already doing the job, so let’s make it official and promote him!" Or, at the very least, you’ll understand that although you feel that you’ve already demonstrated your readiness for a promotion, your company simply can’t accommodate you, so you’ll either need to put a plan in place to achieve your goal, or you may need to look at other options.
 
 <!-- >{% include book_ad_box.html offer="tools and templates to help you get promoted" blurb="Before you get started planning your next promotion, you might want to get worksheet and email template to help you keep track of your progress and document your plan as you go." %} -->
 
-If you prefer to learn by doing, take a look at "How to get promoted in 7 days". It's a free, 7-lesson crash course on how to show your boss that you deserve a promotion.. Get it for free here: [FearlessSalaryNegotiation.com/promotion-course](https://FearlessSalaryNegotiation.com/promotion-course/)
+If you prefer to learn by doing, take a look at "How to get promoted in 7 days". It's a free, 7-lesson crash course on how to show your boss that you deserve a promotion.. Get it for free here: [FearlessSalaryNegotiation.com/promotion-course]({{ site.baseurl }}/promotion-course/)

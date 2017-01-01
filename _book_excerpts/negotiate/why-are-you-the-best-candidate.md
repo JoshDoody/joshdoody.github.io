@@ -12,13 +12,13 @@ section: 1
 You have two main objectives before you begin negotiating:
 
 1. Understand why you are a valuable candidate for this job
-2. [Determine the minimum salary you require to do this job]({{ site.baseurl }}/minimum-acceptable-salary)
+2. [Determine the minimum salary you require to do this job]({{ site.baseurl }}/book/negotiate/what-is-your-minimum-acceptable-salary)
 
 ## Why are you a valuable candidate for this job?
 
 This is extremely subjective, but you’ve spent enough time researching and discussing this particular job that you should be able to identify what your most valuable attributes are as they relate to the job and the company. Think about them and then write them down.
 
-Start by thinking about what needs this company hopes to meet by filling this particular job. Identifying their needs is key because you can tailor your own pitch to specifically address those needs. The research you did in the [preparation phase]({{ site.baseurl }}/interview-preparation) of your interview process will come in handy as you prepare to negotiate your new salary. 
+Start by thinking about what needs this company hopes to meet by filling this particular job. Identifying their needs is key because you can tailor your own pitch to specifically address those needs. The research you did in the [preparation phase]({{ site.baseurl }}/book/interview/interview-preparation) of your interview process will come in handy as you prepare to negotiate your new salary. 
 
 Here are some needs the company may be trying to satisfy:
 

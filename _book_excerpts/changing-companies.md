@@ -9,7 +9,6 @@ type: contents
 book_section: 6
 section: 0
 ---
-
 The most reliable way to significantly increase your salary is to change companies. The catch is that you only get so many opportunities to take advantage of this fact because most people will only work for a handful of companies during their careers. You have to make these opportunities count.
 
 In Part 2, we’re going to focus on maximizing your salary at a new company. There are several interrelated areas where a good plan can really pay off with a successful salary negotiation. Your [market value estimation]({{ site.baseurl }}/book/value/) from [Part 1]({{ site.baseurl }}/book/foundational-concepts/) comes into play because it’s important to understand your market value so that you can set a realistic goal for your [salary negotiation]({{ site.baseurl }}/book/negotiate/). And you can set yourself up for a successful negotiation by standing out during [the interview process]({{ site.baseurl }}/book/interview/) and continuously, subtly making your case that you would be a valuable addition to this company.

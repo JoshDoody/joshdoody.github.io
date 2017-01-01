@@ -9,14 +9,13 @@ book_section: 8
 chapter: negotiate
 section: 8
 ---
-
-When you deliver your [counter]({{ site.baseurl }}/how-to-determine-your-counter-offer/), you have another opportunity to make your case for the maximum possible salary. And, more importantly, you can help the recruiter or hiring manager make a strong case to whoever is holding the purse strings. Your counter will probably require approval by someone higher up the chain of command, so you should give them everything they need to make the strongest case possible for you. Most of the time, if you’re this far in the process, they want to make things work, so this is the perfect time to make your case again.
+When you deliver your [counter]({{ site.baseurl }}/book/negotiate/how-to-determine-your-counter-offer/), you have another opportunity to make your case for the maximum possible salary. And, more importantly, you can help the recruiter or hiring manager make a strong case to whoever is holding the purse strings. Your counter will probably require approval by someone higher up the chain of command, so you should give them everything they need to make the strongest case possible for you. Most of the time, if you’re this far in the process, they want to make things work, so this is the perfect time to make your case again.
 
 We’ll approach this section as though you’re going to email your counter because the best way to make your strongest case *and* make it easy for the recruiter or hiring manager to share that case with the final approver is to make it in writing. 
 
 If you absolutely can’t give your counter via email, you should still write the email so that you can use it for reference when you verbally deliver your counter.
 
-So how do you make your case to justify your counter? You already when you answered the question "[Why are you the best candidate for this position?]({{ site.baseurl }}/why-are-you-the-best-candidate/)" You’ve probably already made it once—verbally to the recruiter—and you’re going to make it one more time, in writing.
+So how do you make your case to justify your counter? You already when you answered the question "[Why are you the best candidate for this position?]({{ site.baseurl }}/book/negotiate/why-are-you-the-best-candidate/)" You’ve probably already made it once—verbally to the recruiter—and you’re going to make it one more time, in writing.
 
 Here’s a real example of a counter email I sent for a job I landed. I’ve changed some details (names, numbers), but this is almost exactly what I sent. I’ve tried to scale the numbers so that the proportions are about the same as the real numbers.
 
@@ -47,14 +46,14 @@ I open with a greeting (I’m emailing the recruiter I’ve been working with th
 
 Next, I summarize the verbal offer the hiring manager made, and state my preferred counter in a neutral way. I make one more one-sentence case for myself, confirm when I’ll have my next phone call with the recruiter, politely signoff, and include my signature.
 
-Notice that my counter is 12% above their initial offer, implying that my [aggression factor]({{ site.baseurl }}/salary-negotiation-aggression-factor/) was only a 2. In this case, I rated "How badly do they need me?" at about an 8, but I rated “How badly do I need this job?” at about a 6 because I was anxious to make a change.
+Notice that my counter is 12% above their initial offer, implying that my [aggression factor]({{ site.baseurl }}/book/negotiate/salary-negotiation-aggression-factor/) was only a 2. In this case, I rated "How badly do they need me?" at about an 8, but I rated “How badly do I need this job?” at about a 6 because I was anxious to make a change.
 
 I recommend that you compose an email like the one above, then send it to a couple friends or family members for review. They’ll probably find some typos and might suggest some ways you can tighten it up or make it better. You can always redact the actual numbers if you’re not comfortable sharing them.
 
-Once you’re happy with your [counter]({{ site.baseurl }}/how-to-determine-your-counter-offer/) and you feel you’ve made a strong case to justify it, send it to the recruiter. 
+Once you’re happy with your [counter]({{ site.baseurl }}/book/negotiate/how-to-determine-your-counter-offer/) and you feel you’ve made a strong case to justify it, send it to the recruiter. 
 
 ## After you’ve made your counter
 
-So now you’ve made a counter and extended the negotiating window up from their offer to your counter. The recruiter will almost certainly say, "Okay, I’ll need to go talk to Finance about this and see what we can do." In that case, you can jump to preparing for [the final discussion]({{ site.baseurl }}/prepare-for-the-final-salary-negotiation-discussion/). They may also say, “Okay, we can do that!” and you’re done (and congrats, by the way!). 
+So now you’ve made a counter and extended the negotiating window up from their offer to your counter. The recruiter will almost certainly say, "Okay, I’ll need to go talk to Finance about this and see what we can do." In that case, you can jump to preparing for [the final discussion]({{ site.baseurl }}/book/negotiate/prepare-for-the-final-salary-negotiation-discussion/). They may also say, “Okay, we can do that!” and you’re done (and congrats, by the way!). 
 
-Occasionally, they’ll say, "Oh no, we can’t do that. The best we can do is [some number]." They’ve just bumped you straight to the final discussion. Fortunately, you read this before you started negotiating, so you already have your plan for [the final discussion]({{ site.baseurl }}/prepare-for-the-final-salary-negotiation-discussion/). But for now, we’ll treat it like a separate part of the process.
+Occasionally, they’ll say, "Oh no, we can’t do that. The best we can do is [some number]." They’ve just bumped you straight to the final discussion. Fortunately, you read this before you started negotiating, so you already have your plan for [the final discussion]({{ site.baseurl }}/book/negotiate/prepare-for-the-final-salary-negotiation-discussion/). But for now, we’ll treat it like a separate part of the process.

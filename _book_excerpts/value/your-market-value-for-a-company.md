@@ -25,4 +25,4 @@ This is *very* subjective, so you’ll need to work hard to be honest with yours
 
 Note that I’m not advocating all-out competition with your peers at your company. You *are* competing for resources (money) with them and everyone else in your company, but you still want to cultivate a positive working environment. You’re not looking for opportunities to go head-to-head with your peers—you’re just trying to understand how the value you add to the company compares to theirs so that you can estimate how high a salary you can shoot for when negotiating your salary.
 
-Next, look at all the data you have gathered to answer the question ["What should my salary be?"]({{ site.baseurl }}/what-should-my-salary-be/)
+Next, look at all the data you have gathered to answer the question ["What should my salary be?"]({{ site.baseurl }}/book/value/what-should-my-salary-be/)

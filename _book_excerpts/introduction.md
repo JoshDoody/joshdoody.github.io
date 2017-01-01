@@ -8,7 +8,6 @@ type: contents
 book_section: 1
 section: 0
 ---
-
 When I ask people what keeps them from getting paid what they’re worth, I hear one word over and over again: *scared*. 
 
 "I am *scared* to counteroffer." 

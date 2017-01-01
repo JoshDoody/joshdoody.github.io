@@ -31,6 +31,6 @@ josh@example.com<br>
 555-555-1234</p>
 </div>
 
-Hopefully, Shawn will reach out and let you know they’re ready to schedule your next interview. In that case, you’re right back to the [interview]({{ site.baseurl }}/the-interview-phase/) step, and you’ll rinse and repeat that step along with the [Post-interview]({{ site.baseurl }}/post-interview-thank-you-emails/) step until you either get an offer or they let you know, explicitly or implicitly, that they’re not going to move forward with you.
+Hopefully, Shawn will reach out and let you know they’re ready to schedule your next interview. In that case, you’re right back to the [interview]({{ site.baseurl }}/book/interview/the-interview-phase/) step, and you’ll rinse and repeat that step along with the [Post-interview]({{ site.baseurl }}/book/interview/post-interview-thank-you-emails/) step until you either get an offer or they let you know, explicitly or implicitly, that they’re not going to move forward with you.
 
 <!-- >{% include book_ad_box.html offer="the sample check-in email template" blurb="Get this email template and several others when you buy <em>Fearless Salary Negotiation</em>." %} -->

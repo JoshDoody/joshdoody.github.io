@@ -22,10 +22,10 @@ In short, you’ll find a broad average salary for your job in your industry. Th
 
 I recommend three primary ways of determining your market value. Some of these may yield more useful information than others. Your goal is simply to gather as much information as you can to estimate your market value.
 
-1. [Online research]({{ site.baseurl }}/your-market-value-in-your-industry/)
-2. [Inter-company research]({{ site.baseurl }}/your-market-value-in-your-region/)
-3. [Intra-company research]({{ site.baseurl }}/your-market-value-for-a-company/)
+1. [Online research]({{ site.baseurl }}/book/value/your-market-value-in-your-industry/)
+2. [Inter-company research]({{ site.baseurl }}/book/value/your-market-value-in-your-region/)
+3. [Intra-company research]({{ site.baseurl }}/book/value/your-market-value-for-a-company/)
 
 With those three types of data, you can start with a broad look at the market value of your skillset and experience in your industry as a whole, then narrow that estimate for your geographic region, and narrow it again for a particular company. That's your estimated market value for your skillset and experience at the particular company you're evaluating.
 
-Start by estimating the market value for your skillset and experience in [your industry]({{ site.baseurl }}/your-market-value-in-your-industry/).
+Start by estimating the market value for your skillset and experience in [your industry]({{ site.baseurl }}/book/value/your-market-value-in-your-industry/).

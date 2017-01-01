@@ -8,7 +8,6 @@ book_section: 12
 chapter: raise
 section: 1
 ---
-
 How do you define your goal when you’re pursuing a raise? You estimate the market value for your skillset and experience and adjust that number to account for how valuable your skillset and experience are at your specific company. 
 
 ## Estimating the market value for your skillset and experience
@@ -33,7 +32,7 @@ After considering all of these things and coming up with your own criteria, make
 
 ## An example
 
-Let’s expand a bit on [the example]( {{site.baseurl }}/what-should-my-salary-be/) from [How to estimate your market value]({{ site.baseurl }}/book/value/). In that example, Alison is a Project Manager making $65,000 a year in the Construction industry and she estimated her market value at $80,000, give or take. She also found that other project managers in her industry and region were making around $75,000, and she knows that a project manager who left her company earlier in the year was making $73,000.
+Let’s expand a bit on [the example]( {{site.baseurl }}/book/value/what-should-my-salary-be/) from [How to estimate your market value]({{ site.baseurl }}/book/value/). In that example, Alison is a Project Manager making $65,000 a year in the Construction industry and she estimated her market value at $80,000, give or take. She also found that other project managers in her industry and region were making around $75,000, and she knows that a project manager who left her company earlier in the year was making $73,000.
 
 Her market value is a good starting point for estimating the amount of the raise that she should request, but she also needs to calibrate her request to account for what she knows about the current situation at her company.
 
@@ -49,8 +48,8 @@ Alison can reasonably request a raise to about $80,000 because that is her appro
 
 Now that you’ve estimated your market value and have adjusted that estimate to account for your value at your specific company, you have your goal. Now it’s time to move forward and make your best possible case to justify your goal.
 
-Real talk: You may already be ready to ask for a raise. Your best ammo is the [market mid-point data]({{ site.baseurl }}/your-market-value-in-your-industry/), augmented with a general sense of how you stack up against an "average" employee doing your job. So you could stop reading right now, call your manager up and say, “The mid-point for my job in our industry is $80,000 and I’m only making $65,000. Can we adjust my salary to align with the market?” Sometimes, that’s all it takes. Some companies’ HR departments are very attuned to the market, and expect they’ll need to adjust salaries to align with the market over time. Your request could be just the push they need to look at your particular situation and make an adjustment.
+Real talk: You may already be ready to ask for a raise. Your best ammo is the [market mid-point data]({{ site.baseurl }}/book/value/your-market-value-in-your-industry/), augmented with a general sense of how you stack up against an "average" employee doing your job. So you could stop reading right now, call your manager up and say, “The mid-point for my job in our industry is $80,000 and I’m only making $65,000. Can we adjust my salary to align with the market?” Sometimes, that’s all it takes. Some companies’ HR departments are very attuned to the market, and expect they’ll need to adjust salaries to align with the market over time. Your request could be just the push they need to look at your particular situation and make an adjustment.
 
 The problem is you can’t really know whether this sort of request will be sufficient until *after* you’ve made it. And since you don’t know what you don’t know, the best strategy is to present the most compelling case possible for your raise up front.
 
-How do you do that? Start building your case by [documenting your accomplishments and accolades]({{ site.baseurl }}/raise-accomplishments-and-accolades/).
+How do you do that? Start building your case by [documenting your accomplishments and accolades]({{ site.baseurl }}/book/raise/raise-build-your-case/).

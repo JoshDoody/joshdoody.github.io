@@ -8,10 +8,9 @@ book_section: 8
 chapter: negotiate
 section: 6
 ---
+Before we can [calculate your counter offer]({{ site.baseurl }}/book/negotiate/how-to-determine-your-counter-offer/), we need to determine how aggressive you can be. 
 
-Before we can [calculate your counter offer]({{ site.baseurl }}/how-to-determine-your-counter-offer/), we need to determine how aggressive you can be. 
-
-Remember those two "0—10" questions we looked at when you set your [minimum acceptable salary]({{ site.baseurl }}/minimum-acceptable-salary/)? We’re finally going to use them! 
+Remember those two "0—10" questions we looked at when you set your [minimum acceptable salary]({{ site.baseurl }}/book/negotiate/what-is-your-minimum-acceptable-salary/)? We’re finally going to use them! 
 
 We’re going to do some very light math here. Here’s the formula for your aggression factor:
 
@@ -25,4 +24,4 @@ If your aggression factor works out to be less than zero, just set it to 0. That
 
 Pretty easy! Make sure you keep this number handy because we’ll come back to it in a little bit.
 
-Okay, now we’re ready to [determine your counter]({{ site.baseurl }}/how-to-determine-your-counter-offer/).
+Okay, now we’re ready to [determine your counter]({{ site.baseurl }}/book/negotiate/how-to-determine-your-counter-offer/).

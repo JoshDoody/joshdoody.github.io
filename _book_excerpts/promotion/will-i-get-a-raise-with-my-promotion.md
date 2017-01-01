@@ -1,6 +1,6 @@
 ---
 layout: book_excerpt
-title: ”Will I get a raise with my promotion?”
+title: “Will I get a raise with my promotion?”
 tagline: Most promotions come with a standard raise
 excerpt: If you just want a title change, then a raise might be the icing on top. But if you want a big raise with your promotion, you may need to specifically pursue it.
 last_modified_at: 2016-06-23
@@ -25,7 +25,7 @@ Very rarely, a company will promote you by changing your title and job responsib
 
 So how do you find out what your raise will be when you’re promoted? Just ask when you’re requesting your promotion. You’re already requesting your promotion in two ways: first, you’re scheduling a 1-on-1 with your manager to request your promotion; second, you’re following up with a written request via email. Those are both great opportunities to ask about a raise as well.
 
-You literally just need to add a single sentence to [your conversation with your manager]({{ site.baseurl }}/ask-for-a-promotion-in-person-first/) and to [your follow-up email]({{ site.baseurl }}/promotion-email-template/). During your conversation, I suggested you say something like this: "I’ve been thinking about my career path, and I would like to talk with you about being promoted to Senior Business Analyst." All you need to do is add one more sentence, “I’m also curious what sort of raise might accompany this promotion.” In your follow-up email, just add that sentence to the end of the “introduction and request” section.
+You literally just need to add a single sentence to [your conversation with your manager]({{ site.baseurl }}/book/promotion/ask-for-a-promotion-in-person-first/) and to [your follow-up email]({{ site.baseurl }}/book/promotion/promotion-email-template/). During your conversation, I suggested you say something like this: "I’ve been thinking about my career path, and I would like to talk with you about being promoted to Senior Business Analyst." All you need to do is add one more sentence, “I’m also curious what sort of raise might accompany this promotion.” In your follow-up email, just add that sentence to the end of the “introduction and request” section.
 
 That’s it! All you’re doing is letting your manager know you want this promotion and making sure she knows that you anticipate an accompanying raise. That will give your manager an opportunity to let you know what the typical raise might look like or she might tell you that there’s no raise available with the promotion you're pursuing.
 

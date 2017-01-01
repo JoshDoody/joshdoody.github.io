@@ -1,7 +1,7 @@
 ---
 layout: book_excerpt
-title: What is a promotion?
-tagline: Examples of promotions and raises
+title: What are promotions and raises?
+tagline: How salary structure affects promotions and raises
 excerpt: Simple examples to illustrate a promotion, a raise, and a promotion with a raise.
 last_modified_at: 2016-06-25
 book_section: 4
@@ -17,7 +17,7 @@ This usually doesn’t happen, but that’s how it *could* happen.
 
 ## Raises
 
-[*Raises*]({{ site.baseurl }}/book/raise/) are when you move to a higher salary. This may mean just moving "up" (to the right, toward the top of the pay grade) in your current pay grade, or it could mean moving into a higher [pay grade]({{ site.baseurl }}/what-is-a-salary-structure/) *and* moving “up” within that new pay grade.
+[*Raises*]({{ site.baseurl }}/book/raise/) are when you move to a higher salary. This may mean just moving "up" (to the right, toward the top of the pay grade) in your current pay grade, or it could mean moving into a higher [pay grade]({{ site.baseurl }}/book/salary-structures/what-is-a-salary-structure/) *and* moving “up” within that new pay grade.
 
 Counterintuitively, being *lower* in your pay grade is better for your prospects of getting a raise while staying in that pay grade. The higher you are in your pay grade, the less room there is before you bump into the "top" of the pay grade, and that’s often a hard limit. Even if a big raise wouldn’t bump you into the top of your pay grade, it can still be difficult to get into that top part because the tippy-top of a pay grade is often reserved for people who have been in that pay grade for a long time, and either aren’t being promoted or don’t *want* to be promoted.
 

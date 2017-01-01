@@ -9,7 +9,6 @@ type: contents
 book_section: 2
 section: 0
 ---
-
 There are really two ways to read this book: read it straight through or use it as a reference. Or both, of course. The best way to understand what *Fearless Salary Negotiation* is about is to just read the book straight through. Then you’ll have a full picture of how to [estimate your market value]({{ site.baseurl }}/book/value/), how to [interview]({{ site.baseurl }}/book/interview/) effectively, [how to negotiate your salary]({{ site.baseurl }}/book/negotiate/), [how to leave a job on the best possible terms]({{ site.baseurl }}/book/leave/) when the time comes, and how to get a [promotion]({{ site.baseurl }}/book/promotion/) or [raise]({{ site.baseurl }}/book/raise/).
 
 However, if you need a specific topic *right now*, you should have no trouble jumping right to the relevant chapter and reading through it without any background. Later on, after you’ve read the entire book, you can use it as a reference for each specific topic as your career requires it.

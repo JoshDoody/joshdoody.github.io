@@ -27,4 +27,4 @@ Determining how you compare to someone doing your job for a different company in
 
 Then, think about how you stack up. Is your work better than theirs? Worse? Are you faster than they are? Slower? Do you do more things than they do? Fewer? 
 
-Next, estimate the market value for your skillset and experience for [a specific company]({{ site.baseurl }}/your-market-value-for-a-company/).
+Next, estimate the market value for your skillset and experience for [a specific company]({{ site.baseurl }}/book/value/your-market-value-for-a-company/).

@@ -8,7 +8,6 @@ book_section: 7
 chapter: interview
 section: 3
 ---
-
 For the most part, an interview is just a conversation between someone who’s trying to fill a job (the interviewer), and someone who wants to fill that job (you, in this case). I’m going to call your interviewer "Andy" because this section feels weird if I keep saying “your interviewer” over and over.
 
 We’ll start with a general overview of what to be ready for in your interview, and then I’ll talk a little about the different venues where you might interview.
@@ -37,4 +36,4 @@ Have your résumé ready to send electronically if you need to. You’ve probabl
 
 Most of the time, the interview will begin with a little small talk. "So, you know Tom Smith huh?" or “I see you went to Florida State. I’m a Gator, so hopefully we’ll get through this okay.” Try to give accurate, concise responses. Don’t spend 20 minutes talking about that one time Tom jumped off the hotel balcony into the pool at a sales conference a few years ago. Make sure your answers are genuine, and take the opportunity to relax a little bit so that you’re both comfortable during your interview.
 
-Once the introductions are over, you'll usually move into the [question and answer portion]({{ site.baseurl }}/common-interview-questions/) of the interview.
+Once the introductions are over, you'll usually move into the [question and answer portion]({{ site.baseurl }}/book/interview/common-interview-questions/) of the interview.

@@ -12,7 +12,7 @@ What if there were a complete guide written by a single expert to walk you throu
 
 ## Read Fearless Salary Negotiation—the complete salary negotiation guide—for free online -->
 
-*Fearless Salary Negotiation* is a step-by-step guide that walks you through every phase of the interview and salary negotiation processes, and it's packed with specific tactics so you always know what to do next. That's why it quickly became [a #1 Best Seller on Amazon]({{ site.baseurl }}/amazon/).
+*Fearless Salary Negotiation* is a step-by-step guide that walks you through every phase of the interview and salary negotiation processes, and it's packed with specific tactics so you always know what to do next. That's why it quickly became a #1 Best Seller on Amazon.
 
 <html>
 {% include book_contents_linked.html %}
@@ -20,13 +20,13 @@ What if there were a complete guide written by a single expert to walk you throu
 
 ## Where should you start?
 
-If you have a job interview coming up, start with [How to ace your next interview]({{ site.baseurl }}/interview-preparation/). If you already have a job offer, start with [How to negotiate your new salary]({{ site.baseurl }}/why-negotiate-starting-salary/).
+If you have a job interview coming up, start with [How to ace your next interview]({{ site.baseurl }}/book/interview/interview-preparation/). If you already have a job offer, start with [How to negotiate your new salary]({{ site.baseurl }}/book/negotiate/salary-negotiation-strategy-overview/).
 
-If you're happy where you are but want more from your current job, start with [How to get your next promotion]({{ site.baseurl }}/how-to-get-promoted-at-work/).
+If you're happy where you are but want more from your current job, start with [How to get your next raise]({{ site.baseurl }}/book/raise/how-to-ask-for-a-raise-at-work/).
 
 ## Why am I giving this away for free?
 
-I like [helping people]({{ site.bsaeurl }}/testimonials/), and this is another way I can help people by making sure everyone has access to my book.
+I like [helping people]({{ site.baseurl }}/testimonials/), and this is another way I can help people by making sure everyone has access to my book.
 
 ## How do I make money if I'm giving it away?
 
@@ -39,7 +39,7 @@ My book is the *foundation* for everything else I offer, and those other things 
 ## Why would you buy it if you can get it here for free?
 
 <ul class="checkbox-list">
-  <li class="checkbox-list__item"><strong>Convenience.</strong> I've tried to make the online version of <em>Fearless Salary Negotiation</em> easy to read and navigate, but it's still a collection of web pages. When you buy <a href="/#basic">The Basic Bundle</a> or any of the <a href="{{ site.baseurl }}/video-courses/">video course bundles</a>, you can download the eBook to your own eReader where you can read offline, take notes, and own the book. When you buy the video course bundles, you can download the video courses and you own them forever.</li>
+  <li class="checkbox-list__item"><strong>Convenience.</strong> I've tried to make the online version of <em>Fearless Salary Negotiation</em> easy to read and navigate, but it's still a collection of web pages. When you buy <a href="{{ site.baseurl }}/#basic">The Basic Bundle</a> or any of the <a href="{{ site.baseurl }}/video-courses/">video course bundles</a>, you can download the eBook to your own eReader where you can read offline, take notes, and own the book. When you buy the video course bundles, you can download the video courses and you own them forever.</li>
 	<li class="checkbox-list__item"><strong>Worksheets.</strong> Several of the chapters have companion worksheets that you get when you buy the book. Those worksheets will help you get better results (more money).</li>
 	<li class="checkbox-list__item"><strong>Email templates.</strong> Several of the chapters have email templates, which are hard to replicate from an HTML page. When you buy the book, you also get your own editable copy of those templates so you can use them yourself and get better results (more money).</li>
 	<li class="checkbox-list__item"><strong>Case studies.</strong> When you buy the book, you get case studies that are real stories from real people about how they negotiated a higher salary.</li> 
