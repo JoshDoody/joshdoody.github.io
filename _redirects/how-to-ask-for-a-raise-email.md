@@ -3,10 +3,9 @@ layout: post
 title: Prepare to ask for a raise using this email template
 tagline: Send your raise request after you talk to your manager
 excerpt: This is your chance to make your case in writing so your manager can circulate it in your own words. You'll make your case better than anyone else will.
-last_modified_at: 2016-06-29
-canonical_url: 'https://fearlesssalarynegotiation.com/salary-increase-letter-sample/'
+last_modified_at: 2017-01-03
+301_to_url: 'https://fearlesssalarynegotiation.com/salary-increase-letter-sample/'
 ---
-
 The best way to prepare your case is to write it down. As it turns out, you’ll also want to have a written summary of why you deserve your raise later on (see the "Present your case" section below), so we’re going to kill two birds with one stone in this section by building an email that summarizes your case.
 
 Here’s what your case for a raise will look like once you’ve written it down. I’ve numbered each section on the left side so we can talk about it afterward.

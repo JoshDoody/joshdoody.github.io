@@ -3,9 +3,9 @@ layout: post
 title: How I almost made a huge mistake in an exit interview
 tagline: Don't use your exit interview as a chance to blow of steam
 excerpt: How I avoided making a huge mistake in my exit interview.
-last_modified_at: 2016-06-21
+last_modified_at: 2017-01-03
+301_to_url: 'https://fearlesssalarynegotiation.com/book/leave/exit-interview-dos-and-donts/'
 ---
-
 ## Be vague and use positive language in your exit interview
 
 When I left my first job, I was frustrated and a little disillusioned. I didn't think my boss had helped me find opportunities I wanted, and I realized that my own performance didn't matter.
