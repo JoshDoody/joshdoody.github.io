@@ -1,12 +1,10 @@
 ---
-layout: book_excerpt
+layout: post
 title: Ask for a raise in person and follow up with an email
 tagline: Ask for a raise in your regular 1-on-1 or schedule a dedicated meeting
 excerpt: How to ask for a raise and then follow up with a salary increase email request that can be circulated throughout the approval process.
-last_modified_at: 2016-12-27
-book_section: 12
-chapter: raise
-section: 4
+last_modified_at: 2017-01-03
+301_to_url: 'https://fearlesssalarynegotiation.com/book/raise/ask-for-a-raise-in-person-first/'
 ---
 Now you’re ready to present your case and request your raise. The proof is in [the email you drafted]({{ site.baseurl }}/book/raise/ask-for-a-raise-email-sample/). You have a list of things you've done that demonstrate that you're adding more value than you were when your current salary was set, and you have praise from clients and colleagues to help drive things home.
 

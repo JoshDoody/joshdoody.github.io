@@ -8,7 +8,6 @@ book_section: 12
 chapter: raise
 section: 3
 ---
-
 The best way to prepare your case is to write it down. As it turns out, you’ll also want to have a written summary of why you deserve your raise later on (see the "Present your case" section below), so we’re going to kill two birds with one stone in this section by building an email that summarizes your case.
 
 Here’s what your case for a raise will look like once you’ve written it down. I’ve numbered each section on the left side so we can talk about it afterward.
@@ -95,4 +94,4 @@ State your request and make your case again as concisely as possible. No more th
 
 Thank your manager for her time and keep it brief.
 
-Everything has now come together so that [you know what you’re pursuing]({{ site.baseurl }}/what-is-your-target-salary/), and you have a written case that summarizes why you should be given a raise. This should help clarify your own objectives, and it will provide a handy reference for you as you [present your case]({{ site.baseurl }}/ask-for-a-raise-in-person-first/).
+Everything has now come together so that [you know what you’re pursuing]({{ site.baseurl }}/book/raise/what-is-your-target-salary/), and you have a written case that summarizes why you should be given a raise. This should help clarify your own objectives, and it will provide a handy reference for you as you [present your case]({{ site.baseurl }}/book/raise/ask-for-a-raise-in-person-first/).

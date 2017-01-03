@@ -5,11 +5,11 @@ tagline: Why you shouldn't disclose your current or desired salary during a job 
 excerpt: One of the most common starting salary neogotiation mistakes is disclosing your current or desired salary during the interview process. Here's how to avoid it.
 og-image: DreadedSalaryQuestion.png
 last_modified_at: 2016-06-25
+canonical_url: 'https://fearlesssalarynegotiation.com/the-dreaded-salary-question/'
 book_section: 7
 chapter: interview
 section: 1
 ---
-
 ## Prepare for the dreaded salary question
 
 You need to be prepared to answer the following two­-part question:
@@ -24,7 +24,7 @@ Once you’ve completed the interview process, the company will assess your skil
 
 Your objective with your salary negotiation is to get them as close as possible to the maximum they’re willing to pay. You will do this by giving them as many reasons as possible to pay you more and by avoiding giving them any reasons to pay you less.
 
-Sharing either your current salary or your desired salary could possibly give them a reason to pay you less (if either or both of those numbers is below the maximum they’re [willing to pay]({{ site.baseurl }}/what-is-a-salary-structure/)) and is very unlikely to give them reason to pay you more. So, disclosing either your current or desired salary is risky because it will most likely work against you and could cost you money. 
+Sharing either your current salary or your desired salary could possibly give them a reason to pay you less (if either or both of those numbers is below the maximum they’re [willing to pay]({{ site.baseurl }}/book/salary-structures/what-is-a-salary-structure/)) and is very unlikely to give them reason to pay you more. So, disclosing either your current or desired salary is risky because it will most likely work against you and could cost you money. 
 
 ## How to respond to the dreaded salary question 
 
@@ -44,4 +44,4 @@ Here is my recommendation for a good answer to the full dreaded salary question:
 
 > *"I’m not comfortable sharing my current salary. I would prefer to focus on the value I can add to this company rather than what I’m paid at my current job. I don’t have a specific number in mind for a desired salary, and you know better than I do what value my skillset and experience could bring to your company. I want this move to be a big step forward for me in terms of both responsibility and compensation."*
 
-Now you’re prepared to ace the [pre­-interview]({{ site.baseurl }}/pre-interview/). 
+Now you’re prepared to ace the [pre­-interview]({{ site.baseurl }}/book/interview/pre-interview-phase/).

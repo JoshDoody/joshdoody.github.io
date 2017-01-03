@@ -8,7 +8,6 @@ book_section: 5
 chapter: value
 section: 2
 ---
-
 This is tougher to get than the publicly-available salary data online, and easier to get than your intra-company peers’ salaries (which we’ll cover in the next section).
 
 ## Market value for the average person
@@ -27,4 +26,4 @@ Determining how you compare to someone doing your job for a different company in
 
 Then, think about how you stack up. Is your work better than theirs? Worse? Are you faster than they are? Slower? Do you do more things than they do? Fewer? 
 
-Next, estimate the market value for your skillset and experience for [a specific company]({{ site.baseurl }}/your-market-value-for-a-company/).
+Next, estimate the market value for your skillset and experience for [a specific company]({{ site.baseurl }}/book/value/your-market-value-for-a-company/).

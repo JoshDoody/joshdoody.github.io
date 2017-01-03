@@ -9,12 +9,11 @@ book_section: 9
 chapter: leave
 section: 1
 ---
-
 Here are six things you can do to make sure you leave your job on good terms while making a strong impression on your colleagues and expanding your professional network.
 
 ## Ask your manager and coworkers what you can help with before you go
 
-I was let go during the third round of layoffs [that year]({{ site.baseurl }}/leave-your-job-on-good-terms/). Earlier the same year, in the second round of layoffs, a very reliable coworker (let’s call him Jim) was let go.  They gave him the bad news in the morning, and told him he had until the end of the day to clear everything out and wrap things up. He immediately emailed my boss and me—he had been supporting us on that special project—to let us know he had been let go. But, more importantly, he also told us he was working to give us credentials to all the servers, databases, folders, etc., that we would need to take everything off his plate. He even put together a document with passwords, URLs, network addresses, instructions, etc. He left us a full manual to use once he was gone.
+I was let go during the third round of layoffs [that year]({{ site.baseurl }}/book/leave/leave-your-job-on-good-terms/). Earlier the same year, in the second round of layoffs, a very reliable coworker (let’s call him Jim) was let go.  They gave him the bad news in the morning, and told him he had until the end of the day to clear everything out and wrap things up. He immediately emailed my boss and me—he had been supporting us on that special project—to let us know he had been let go. But, more importantly, he also told us he was working to give us credentials to all the servers, databases, folders, etc., that we would need to take everything off his plate. He even put together a document with passwords, URLs, network addresses, instructions, etc. He left us a full manual to use once he was gone.
 
 He didn’t have to do that. He could’ve just said, "Well, I guess that’s it for me," powered down his laptop and signed off for the day. No one would’ve faulted him for just clocking out and leaving the rest of us to fend for ourselves. Instead, he took care to make sure his coworkers had everything they needed to continue his projects in his absence.
 

@@ -8,7 +8,6 @@ type: contents
 book_section: 0
 section: 0
 ---
-
 <img src="{{ site.baseurl }}/images/josh-doody-700px-circle.png" alt="Josh Doody headshot" class="author__image" width="150" style="float: left; margin-right: 20px;">
 					
 Josh Doody dual-majored in Computer and Electrical Engineering, and later earned his MBA at the University of Florida. He began his professional career as an electrical engineer, then transitioned to project management and consulting in the talent management software industry. 

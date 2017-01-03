@@ -1,13 +1,11 @@
 ---
-layout: book_excerpt
+layout: post
 title: Use this promotion email template to draft your request
 tagline: Send your promotion request after you talk to your manager
 excerpt: This is your chance to make your case in writing so your manager can ciruclate it in your own words. You'll make your case better than anyone else will.
 has_basic_bundle_pitch: true
-last_modified_at: 2016-06-29
-book_section: 11
-chapter: promotion
-section: 4
+last_modified_at: 2017-01-03
+301_to_url: 'https://fearlesssalarynegotiation.com/book/promotion/promotion-build-your-case/'
 ---
 The best way to prepare your case for a promotion is to write it down. As it turns out, you’ll also want to have a written summary of why you deserve your promotion later on when you [ask for a promotion]({{ site.baseurl }}/book/promotion/ask-for-a-promotion-in-person-first/), so we’re going to kill two birds with one stone in this section by building an email that summarizes your case.
 

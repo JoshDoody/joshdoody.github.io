@@ -8,10 +8,9 @@ book_section: 12
 chapter: raise
 section: 5
 ---
-
 ## If you don’t get your raise, work with your manager to formulate a plan
 
-If you didn’t get what you [asked for]({{ site.bsaeurl }}/ask-for-a-raise-in-person-first/), you should ask your manager to help you formulate a plan to achieve your goal. "I’m disappointed that we couldn’t adjust my salary to $75,000. Can we please talk about what I need to do, specifically, to earn that raise? And can we talk about a timetable for when it might be feasible?"
+If you didn’t get what you [asked for]({{ site.bsaeurl }}/book/raise/ask-for-a-raise-in-person-first/), you should ask your manager to help you formulate a plan to achieve your goal. "I’m disappointed that we couldn’t adjust my salary to $75,000. Can we please talk about what I need to do, specifically, to earn that raise? And can we talk about a timetable for when it might be feasible?"
 
 Your manager may be able to work with you to put a plan and timeline in place so that you know exactly what you can do to earn your raise. This is also a good outcome as it provides clarity and gives you a clear path to follow.
 

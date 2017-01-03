@@ -8,7 +8,6 @@ book_section: 7
 chapter: interview
 section: 4
 ---
-
 Once things are rolling, there are many different topics that may be covered during your interview. Every interview is different. Even Andy’s (that's your interviewer's name so we don't have to say "your interviewer" over and over) interviews may vary from day to day depending on his mood, the particular job he’s trying to fill, or whether he’s bored and feels like doing something different that day.
 
 Make sure to listen carefully to each question, and then consider your answer before you give it. Don’t be afraid to ask for some time to think about a particular question before you answer. Sometimes Andy will ask you a question you didn’t anticipate, and you’ll be caught off guard. It’s okay to say, "Wow, that’s a good question. I’m just going to think about this for a few seconds before I answer." Then gather yourself, compose your answer in your head, and deliver your answer to Andy. Most interviewers will appreciate that you took the time to really think about your answer rather than just blurting something out. You can do this two or three times in a single interview, but no more than that. 
@@ -51,7 +50,7 @@ Frame your answers so that they define how you’ll contribute to the company an
 
 ## "Why do you want to work here?"
 
-Some companies will just come right out with it, so you should be prepared to answer this question. Fortunately, you’ve [spent time]({{ site.baseurl }}/interview-preparation/) reviewing their website and looking at their job openings, so you know what they do and how you can contribute.
+Some companies will just come right out with it, so you should be prepared to answer this question. Fortunately, you’ve [spent time]({{ site.baseurl }}/book/interview/interview-preparation/) reviewing their website and looking at their job openings, so you know what they do and how you can contribute.
 
 Mention things you like about the company in general, and then talk specifically about how your skillset would be a good fit for the company’s mission. This is also a good opportunity to mention some good things you might have heard about the company from friends or acquaintances
 
@@ -65,8 +64,8 @@ Interviewers ask this type of question because it can provide some insight into 
 
 Andy might ask you about special projects you’ve worked on or side projects you’ve done on your own time. Make sure you’re ready to talk about at least one of these in detail. Before the interview, think about your previous special projects in the context of the company you’re interviewing with so that your answer resonates with Andy.
 
-After the question and answer portion of the interview, you'll usually move into the [interview wrap-up]({{ site.baseurl }}/interview-wrap-up/), where you'll have an opportunity to ask questions of your own.
+After the question and answer portion of the interview, you'll usually move into the [interview wrap-up]({{ site.baseurl }}/book/interview/interview-wrap-up/), where you'll have an opportunity to ask questions of your own.
 
 ## What about curveball questions?
 
-Curveball questions can be tricky. Read about how to handle curveball questions [here]({{ site.baseurl }}/curveball-questions/).
+Curveball questions can be tricky. Read about how to handle curveball questions [here]({{ site.baseurl }}/book/interview/curveball-questions/).

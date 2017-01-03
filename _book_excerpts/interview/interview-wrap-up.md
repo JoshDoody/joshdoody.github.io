@@ -8,7 +8,6 @@ book_section: 7
 chapter: interview
 section: 5
 ---
-
 Things will usually start winding down when there are a few minutes left. You’ll feel the tone shift a little bit from more formal to more friendly. It may feel like the interview is already over, but it’s not! There may still be a few great opportunities to make a good impression on Andy (that's your interviewer's name).
 
 If you’re lucky, Andy will open the door for you by asking whether *you* have any questions for *him*. As a matter of fact, you do!
@@ -31,6 +30,6 @@ Another good question is:
 
 Both of these questions show that you’re already thinking about the job itself and the answers will help you evaluate whether the job is a good fit for you. It’s possible you’ll hear about the day-to-day and think, "Oh, that sounds terrible." Or you’ll hear about the challenges and realize you wouldn’t function well in that kind of environment. You’re not asking these questions just to sound like you care—you’re asking them so that you can evaluate whether you want to continue pursuing the job.
 
-Sometimes, you will have already addressed these two questions organically during the interview. That’s okay because we’ve already discussed some questions you might ask a recruiter in [the pre-interview]({{ site.baseurl }}/pre-interview/), and those questions are good here too. You can also find some good questions to ask [here]({{ site.baseurl }}/10-good-questions-to-ask-in-a-job-interview/).
+Sometimes, you will have already addressed these two questions organically during the interview. That’s okay because we’ve already discussed some questions you might ask a recruiter in [the pre-interview]({{ site.baseurl }}/book/interview/pre-interview-phase/), and those questions are good here too. You can also find some good questions to ask [here]({{ site.baseurl }}/10-good-questions-to-ask-in-a-job-interview/).
 
 If Andy gives you an opportunity to ask questions, take it. But if you really don’t have any questions, don’t just ask something to fill the time. It’s okay to say, "Well, I was going to ask about the day-to-day work, and about challenges your team faces, but we’ve already talked about those, so I’m all set!" Andy would rather have 10 minutes back than have to answer silly questions that you’re obviously asking just to fill the time, so don’t do that.

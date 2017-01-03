@@ -8,7 +8,6 @@ book_section: 8
 chapter: negotiate
 section: 10
 ---
-
 The company made you an offer and you asked for some time to think it over. Then you countered, hopefully in an email that also made a strong case for why your skillset and experience are valuable to the company. The company will likely take some time to discuss things internally and determine how high they want to go within the window that has been established between their offer and your counter. Once they’ve determined how far they can go, they’ll usually reach out for one more discussion. The final discussion is almost always a phone call, but will sometimes be by email.
 
 You should have your script from the previous section ready to go because the final discussion will probably move quickly. You’ll exchange greetings, then the recruiter or hiring manager will let you know that they’ve discussed your counter internally and they’re prepared to offer some amount. You can’t know that exact amount before they say it out loud, but that’s okay because you’ve already written a script that covers most of their possible responses.

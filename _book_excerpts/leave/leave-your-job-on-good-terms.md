@@ -8,7 +8,6 @@ book_section: 9
 chapter: leave
 section: 0
 ---
-
 *Leaving* a job isn’t nearly as exciting as *getting* or *starting* one, but it’s just as important. After your first job, every job you start will be preceded by one you left. And, more importantly, you’ll get many of your jobs through contacts from previous jobs.
 
 Sometimes, you’ll leave a job because you found a much better opportunity, and you’re really excited about starting a new chapter in your career. Sometimes, you’ll leave because you were laid off, or fired, or because it just wasn’t a good fit for you. Regardless of why you’re leaving, the most important thing is that you do it gracefully. Why? Because people know people, and they talk to people, and they will talk about *you*. And when they talk about you, you want to be absolutely sure that they only have great things to say.

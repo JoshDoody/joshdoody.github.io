@@ -8,7 +8,6 @@ book_section: 11
 chapter: promotion
 section: 6
 ---
-
 If you didn’t get what you asked for, you should ask your manager to help you formulate a plan to achieve your goal. "I’m disappointed that I couldn’t be promoted to Senior Business Analyst. Can we please talk about what I need to do, specifically, to earn that promotion?"
 
 Your manager may be able to work with you to put a plan and timeline in place so that you know specifically what you need to do to get your promotion. This is also a good outcome as it provides clarity and gives you a clear path to follow.

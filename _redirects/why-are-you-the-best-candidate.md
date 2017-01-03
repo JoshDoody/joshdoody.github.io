@@ -1,12 +1,10 @@
 ---
-layout: book_excerpt
+layout: post
 title: Why are you the best candidate for this position?
 tagline: How to describe why you're a valuable candidate for the position
 excerpt: How to describe why you're a valuable candidate for the position by addressing the company's specific goals and needs.
-last_modified_at: 2016-06-21
-book_section: 8
-chapter: negotiate
-section: 1
+last_modified_at: 2017-01-03
+301_to_url: 'https://fearlesssalarynegotiation.com/book/negotiate/why-are-you-the-best-candidate/'
 ---
 You have two main objectives before you begin negotiating:
 

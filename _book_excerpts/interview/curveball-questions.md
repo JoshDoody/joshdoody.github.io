@@ -8,7 +8,6 @@ book_section: 7
 chapter: interview
 section: 6
 ---
-
 Interviewers will occasionally throw you a curveball. Sometimes they do this because they want to see how you react when presented with an uncomfortable situation. Sometimes they’re just bored.
 
 I’ve done this myself, and there’s usually a method to my madness.

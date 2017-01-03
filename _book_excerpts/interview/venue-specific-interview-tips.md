@@ -8,7 +8,6 @@ book_section: 7
 chapter: interview
 section: 7
 ---
-
 There are a few common venues for interviews these days. The main ones are:
 
 * Telephone

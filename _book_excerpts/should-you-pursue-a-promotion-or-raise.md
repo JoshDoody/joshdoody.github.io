@@ -10,7 +10,6 @@ type: contents
 book_section: 10
 section: 0
 ---
-
 It’s common knowledge that the way to get big pay increases is to change jobs. But is that really your only option?
 
 The answer depends on how your company handles [raises]({{ site.baseurl }}/book/raise/) and [promotions]({{ site.baseurl }}/book/promotion/). Some companies are very rigid when it comes to pay increases—merit increases are almost always in a well-defined range, and promotions come with predetermined raise amounts depending on how many pay grades you advance. Other companies are much more fluid and have fewer restrictions in place when it comes to employee pay.

@@ -9,7 +9,6 @@ type: contents
 book_section: 3
 section: 0
 ---
-
 This part of the book is very short and will only take a few minutes to read, but it covers some foundational concepts that will give you a clearer lens through which to view the rest of the book. [How companies manage their salary structures]({{ site.baseurl }}/book/salary-structures/) not only gives you a quick survey of commonly used terminology, but also gives you a clear picture of how salaries are managed and determined behind the scenes. 
 
 [How to estimate your market value]({{ site.baseurl }}/book/value/) gives you a three-phase approach to estimating your market value by looking at your industry, your geographic region, and within your own company.

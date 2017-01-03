@@ -5,14 +5,14 @@ tagline: You should set this number before you get your job offer
 excerpt: When you negotiate starting salary, it's critical to decide your minimum acceptable salary before you receive a job offer.
 has_basic_bundle_pitch: true
 last_modified_at: 2016-06-29
+canonical_url: 'https://fearlesssalarynegotiation.com/minimum-acceptable-salary/'
 book_section: 8
 chapter: negotiate
 section: 2
 ---
-
 You have two main objectives before you begin negotiating:
 
-1. [Understand why you are a valuable candidate for this job]({{ site.baseurl }}/why-are-you-the-best-candidate)
+1. [Understand why you are a valuable candidate for this job]({{ site.baseurl }}/book/negotiate/why-are-you-the-best-candidate)
 2. Determine the minimum salary you require to do this job
 
 You’ve probably heard that the key to negotiating is being willing to walk away. Your minimum salary requirement is how you pre-decide when you’re willing to walk away from this salary negotiation. This is also the single most important number you’ll use when negotiating your salary, and it’s your minimum metric for measuring success. 
@@ -38,7 +38,7 @@ Let’s take each of these items one by one to understand its significance and h
 
 Chances are your goal is to increase your salary by taking a new job, so this is your starting point. Plus, it’s what you’ll ultimately measure your results against when your negotiation is finished.
 
-As I mentioned in [The Dreaded Salary Question]({{ site.baseurl }}/the-dreaded-salary-question/), you should *not* share this with the company! This number is for your eyes only!
+As I mentioned in [The Dreaded Salary Question]({{ site.baseurl }}/book/interview/dont-share-current-or-desired-salary/), you should *not* share this with the company! This number is for your eyes only!
 
 ## Your market value for this job
 

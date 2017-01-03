@@ -8,12 +8,11 @@ book_section: 12
 chapter: raise
 section: 0
 ---
-
 Hiring people is expensive and risky. Each new hire costs thousands of dollars. This is why companies are often open to "market adjustments"—by paying employees something close to market value, they keep experienced, proven employees at the company, save the expense of hiring a replacement, and avoid the risk of hiring a new person who is unproven.
 
 This chapter is about getting a "big" raise of 8% or more—often described as a “market adjustment”—rather than a standard merit increase or a small “cost of living” increase. 
 
-As I discussed in "[Do you have to quit your job to get a big raise?]({{ site.baseurl }}/do-you-have-to-quit-your-job-to-get-a-big-raise/)", getting a big raise can sometimes be difficult without changing companies because raises are often predetermined and limited. But it *can* be done, and there’s usually no harm in seeing how much of a raise you can get.
+As I discussed in [the introduction to this part of the book]({{ site.baseurl }}/book/should-you-pursue-a-promotion-or-raise/)", getting a big raise can sometimes be difficult without changing companies because raises are often predetermined and limited. But it *can* be done, and there’s usually no harm in seeing how much of a raise you can get.
 
 ## The raise process
 
@@ -39,9 +38,9 @@ In all three of these examples, there’s a common theme: You are more valuable 
 
 Here’s a high-level view of our process for requesting a raise:
 
-1. [Define your goal]({{ site.baseurl }}/what-is-your-target-salary/)
-2. [Document your accomplishments and accolades]({{ site.baseurl }}/raise-accomplishments-and-accolades/)
-3. [Prepare your case]({{ site.baseurl }}/how-to-ask-for-a-raise-email/)
-4. [Present your case]({{ site.baseurl }}/ask-for-a-raise-in-person-first/)
+1. [Define your goal]({{ site.baseurl }}/book/raise/what-is-your-target-salary/)
+2. [Document your accomplishments and accolades]({{ site.baseurl }}/book/raise/raise-build-your-case/)
+3. [Prepare your case]({{ site.baseurl }}/book/raise/ask-for-a-raise-email-sample/)
+4. [Present your case]({{ site.baseurl }}/book/raise/ask-for-a-raise-in-person-first/)
 
-Ready to get started? Start by [defining you goal]({{ site.baseurl }}/what-is-your-target-salary/).
+Ready to get started? Start by [defining you goal]({{ site.baseurl }}/book/raise/what-is-your-target-salary/).
