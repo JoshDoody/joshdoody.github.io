@@ -19,7 +19,7 @@ One thing that could make this sort of situation easier is clarifying the purpos
 
 **Set your minimum acceptable salary ahead of time**
 
-For every company you talk to, you should set your [minimum acceptable salary]({{ site.baseurl }}/minimum-acceptable-salary/). What's the minimum salary you'll accept to do that job? Knowing this ahead of time can at least ensure that you have *some* baseline before you negotiate.
+For every company you talk to, you should set your [minimum acceptable salary]({{ site.baseurl }}/book/negotiate/what-is-your-minimum-acceptable-salary/). What's the minimum salary you'll accept to do that job? Knowing this ahead of time can at least ensure that you have *some* baseline before you negotiate.
 
 **Plan on counter offering 10% to 20% above their offer**
 
@@ -41,7 +41,7 @@ Just as Emily says, they're hiring you for your skillset and experience, not for
 
 The best way to mitigate this issue is to continue focusing on the value you can add to the company. You can do this by describing successful projects you've completed so far in your career, or by describing ways you'll help this particular company reach its goals or address its pain points.
 
-It's easier to describe yourself in those terms if you spend a little time [preparing]({{ site.baseurl }}/interview-preparation/) before your interviews.
+It's easier to describe yourself in those terms if you spend a little time [preparing]({{ site.baseurl }}/book/interview/interview-preparation/) before your interviews.
 
 ## "How much do you make now?"
 

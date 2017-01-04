@@ -1,7 +1,7 @@
 ---
 layout: book_excerpt
-title: Document examples of accomplishments and accolades for your promotion
-tagline: Show what you've accomplished and what others have said about your work
+title: Build your case for your promotion
+tagline: Document examples of accomplishments and accolades for your promotion
 excerpt: Make a strong case when you ask for your next promotion by showing your accomplishments and accolades.
 last_modified_at: 2016-06-23
 book_section: 11
@@ -9,6 +9,7 @@ chapter: promotion
 section: 3
 ---
 A big step toward making your case for a promotion is to document your results. Many people are uncomfortable with this step, and this is why they often find themselves waiting for a promotion to come to them instead of going after it. But it’s up to you to make sure your accomplishments are recognized. Many managers are so busy that they may not be aware of what specific things you’re doing to excel at your job. This is how you’ll make sure your manager knows you are excelling at your job and ready for this promotion.
+<a name="accomplishments"></a>
 
 ## Accomplishments
 
@@ -39,6 +40,7 @@ Having trouble thinking of things you've accomplished? Here are some questions t
 * How have you made your team more efficient?
 * What was your most recent learning experience?
 * Have you made any suggestions that worked well and improved your team?
+<a name="accolades"></a>
 
 ## Accolades
 

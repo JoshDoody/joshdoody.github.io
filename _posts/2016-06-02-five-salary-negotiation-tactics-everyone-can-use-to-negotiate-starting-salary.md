@@ -30,7 +30,7 @@ So what should you say when asked for your current or desired salary? Here is an
 
 Job hunting and interviewing are a lot of work, and often take many hours of your time over many weeks. So once you *finally* get a job offer, it's easy to get caught up in the moment and forget to negotiate.
 
-That's why it's best to set your [minimum acceptable salary]({{ site.baseurl }}/minimum-acceptable-salary) *before* you get a job offer. This is your "walk away" number—your line in the sand for the minimum salary you will accept if you take the job, and it's critical to your salary negotiation.
+That's why it's best to set your [minimum acceptable salary]({{ site.baseurl }}/book/negotiate/what-is-your-minimum-acceptable-salary) *before* you get a job offer. This is your "walk away" number—your line in the sand for the minimum salary you will accept if you take the job, and it's critical to your salary negotiation.
 
 With this number in your back pocket, you can confidently negotiate starting salary knowing you will either exceed this number and take the job, or you will walk away from the opportunity satisfied that it wasn't a good fit.
 

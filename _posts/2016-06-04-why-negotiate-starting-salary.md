@@ -16,7 +16,7 @@ There are two factors that cause most people to leave money on the table when th
 
 ### Reducing information asymmetry
 
-From the moment you start the negotiation, there’s a maximum salary the company can or will pay you for your skillset and experience in their industry. Your goal is to get as close to that maximum salary as possible. First, you’ll do research to understand your [market value]({{ site.baseurl }}/book/value/) and consider the [minimum salary]({{ site.baseurl }}/minimum-acceptable-salary/) you require to accept the job. Then you’ll negotiate to maximize your salary.
+From the moment you start the negotiation, there’s a maximum salary the company can or will pay you for your skillset and experience in their industry. Your goal is to get as close to that maximum salary as possible. First, you’ll do research to understand your [market value]({{ site.baseurl }}/book/value/) and consider the [minimum salary]({{ site.baseurl }}/book/negotiate/what-is-your-minimum-acceptable-salary/) you require to accept the job. Then you’ll negotiate to maximize your salary.
 
 ### Squashing that reticence
 

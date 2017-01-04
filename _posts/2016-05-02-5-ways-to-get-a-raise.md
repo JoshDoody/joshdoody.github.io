@@ -33,7 +33,7 @@ When you get a job offer, **you should negotiate starting salary by countering 1
 
 Even if you counteroffer, you're not done negotiating—there's still another opportunity to get a raise before you finalize your compensation package!
 
-They'll usually come back to you with some sort of compromise—something less than your counter and more than their initial offer—to talk it over and finalize all the details. I call this [The Final Discussion]({{ site.baseurl }}/prepare-for-the-final-salary-negotiation-discussion/).
+They'll usually come back to you with some sort of compromise—something less than your counter and more than their initial offer—to talk it over and finalize all the details. I call this [The Final Discussion]({{ site.baseurl }}/book/negotiate/prepare-for-the-final-salary-negotiation-discussion/).
 			
 **This is a chance for you to keep negotiating for more base salary and other benefits like extra vacation, a signing bonus, equity, or even a different work schedule. This is one last chance to increase your lifetime earning potential.**
 
@@ -59,8 +59,6 @@ Just like promotions, most people sit back and wait for merit increases or marke
 
 **You should actively pursue raises so that you're always paid what you're worth and recognized for all the value you add to your company.** Periodically do market research so you know your market value, and keep track of all the new skills and experience you contribute to your company as you add more and more value. When your value exceeds your salary, it's time to request a raise.
 			
-{% include drip_form.html form="raise" %}
-
 ## Summary: 5 ways to get a raise and supercharge your lifetime earning potential
 
 Let's review the five ways to get a raise and supercharge your lifetime earning potential:
@@ -74,3 +72,5 @@ Let's review the five ways to get a raise and supercharge your lifetime earning 
 </ul>
 
 Take advantage of these five ways to get a raise and you'll supercharge your lifetime earning potential by doing the work you're already doing anyway.
+
+{% include drip_form.html form="raise" %}

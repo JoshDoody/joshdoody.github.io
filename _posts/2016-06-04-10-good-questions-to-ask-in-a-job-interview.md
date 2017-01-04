@@ -8,7 +8,7 @@ last_modified_at: 2016-10-05
 og-image: JobInterviewQuestionsYouCanAsk.jpg
 ---
 
-Your primary goal in the interview process is to get the best job offer possible. Sometimes you can do that by giving great answers to interview questions. But don't overlook the benefits of *asking* good questions during the interview process, starting as early as [the pre-interview]({{ site.baseurl }}/pre-interview).
+Your primary goal in the interview process is to get the best job offer possible. Sometimes you can do that by giving great answers to interview questions. But don't overlook the benefits of *asking* good questions during the interview process, starting as early as [the pre-interview]({{ site.baseurl }}/book/interview/pre-interview-phase/).
 
 When the interviewer asks if you have any questions, ask these job interview questions to establish yourself as a strong candidate for the position and to learn more about the opportunity you're pursuing.
 

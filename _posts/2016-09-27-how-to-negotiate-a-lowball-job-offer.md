@@ -9,7 +9,7 @@ og-image: LowballJobOffer.png
 ---
 What's your goal in an interview? To get the best job offer possible and to set yourself up to negotiate the best salary possible. You want the company to focus on "What do we have to offer to convince them to join our team?" as opposed to "What's the minimum we can pay to bring them on board?" It's a subtle but important distinction.
 
-Occasionally you'll ace your interviews and still get a lowball job offer, way below your [minimum acceptable salary]({{ site.baseurl }}/minimum-acceptable-salary/). Maybe they simply can't afford you, or maybe their pay range for this particular job is so wide that they don't know where to slot you in.
+Occasionally you'll ace your interviews and still get a lowball job offer, way below your [minimum acceptable salary]({{ site.baseurl }}/book/negotiate/what-is-your-minimum-acceptable-salary/). Maybe they simply can't afford you, or maybe their pay range for this particular job is so wide that they don't know where to slot you in.
 
 So what can you do to reset the salary negotiation? Here's a tactic you can use when negotiating a lowball salary offer.
 
@@ -53,7 +53,7 @@ If these things are true, then responding with silence may be the right move:
 
 <ul class="checkbox-list">
   <li class="checkbox-list__item"><strong>The company is impressed with you and has indicated they want you to join the team</strong>—Did they initiate contact with you and ask you to interview? Were you referred to them by a reliable employee? Have they said that they really want <em>you</em>, specifically, for this role? If any of these is true, you can check this off.</li>
-  <li class="checkbox-list__item"><strong>The offer is so low that your best response with a straightforward negotiation strategy is to deploy your <a href="{{ site.baseurl }}/minimum-acceptable-salary/">minimum acceptable salary</a> as an ultimatum</strong>—If their offer is more than 20% below your minimum acceptable salary, you can check this off.</li>
+  <li class="checkbox-list__item"><strong>The offer is so low that your best response with a straightforward negotiation strategy is to deploy your <a href="{{ site.baseurl }}/book/negotiate/what-is-your-minimum-acceptable-salary/">minimum acceptable salary</a> as an ultimatum</strong>—If their offer is more than 20% below your minimum acceptable salary, you can check this off.</li>
   <li class="checkbox-list__item"><strong>You're prepared to accept a little uncomfortable silence and stand your ground</strong>—This technique is not for the faint of heart. It will feel awkward and uncomfortable, and it may not work. If you're ok with this discomfort, you can check this off.</li>
 </ul>
 
@@ -115,6 +115,6 @@ They may say, "Ok, thanks for considering our job offer. We look forward to hear
 
 But sometimes they _will_ try again! "Let us see if we can do better. We'll get back to you." That's what you're after!
 
-Once they send a revised job offer, then you can proceed with a standard [starting salary negotiation]({{ site.baseurl }}/why-negotiate-starting-salary/). 
+Once they send a revised job offer, then you can proceed with a standard [starting salary negotiation]({{ site.baseurl }}/book/negotiate/salary-negotiation-strategy-overview/). 
 
 Beware that companies will often revise their lowball job offer to be pretty close to their best-possible job offer, which means your standard salary negotiation strategy may not yield as big a return when used in conjunction with this technique. The ultimate result is what you want—you've determined how much the company is willing to pay you to do the job—and you just got there combining *two* techniques instead of a single salary negotiation technique.

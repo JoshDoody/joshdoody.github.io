@@ -76,10 +76,10 @@ Keep it short and sweet: "Hi Tina" will do. The bolded part is “Your manager�
 
 You have already requested your salary increase, and this is a way of reminding your manager what you requested so it's easy to find when they need to.
 
-I recommend stating the midpoint from your [market research](TKTK_URL) *before* your target salary so that the first number is a market number—a fact that is determined by external forces—and that should soften up your manager for your request. Your request will seem much more reasonable when presented immediately after the market-set midpoint.
+I recommend stating the midpoint from your [market research]({{ site.baseurl }}/book/value/your-market-value-in-your-industry/) *before* your target salary so that the first number is a market number—a fact that is determined by external forces—and that should soften up your manager for your request. Your request will seem much more reasonable when presented immediately after the market-set midpoint.
 
 <div class='ad-box'>
-<p><strong>Learn how to set your target salary:</strong> <a href="{{ site.baseurl }}/what-is-your-target-salary/">What is your target salary?</a></p>
+<p><strong>Learn how to set your target salary:</strong> <a href="{{ site.baseurl }}/book/raise/what-is-your-target-salary/">What is your target salary?</a></p>
 </div>
 
 ### 5. & 6. Accomplishments sections
@@ -93,7 +93,7 @@ You want the person reading this to think, "They're already adding so much more 
 I recommend covering a reasonable amount of time—the past six to 12 months—in this section so that your case is as compelling as possible when you finally present it. If you have trouble with this section, that’s a red flag that your case may not be as strong as you anticipated, and you may not have earned as much of a raise as you thought.
 
 <div class='ad-box'>
-<p><strong>Learn how to identify and describe your accomplishments:</strong> <a href="{{ site.baseurl }}/raise-accomplishments-and-accolades/#accomplishments">Defining your accomplishments</a></p>
+<p><strong>Learn how to identify and describe your accomplishments:</strong> <a href="{{ site.baseurl }}/book/raise/raise-build-your-case/#accomplishments">Defining your accomplishments</a></p>
 </div>
 
 ### 7. & 8. Accolades sections
@@ -105,7 +105,7 @@ Highlight your best results from the past six months to a year. This isn’t a c
 I strongly recommend you have at least a couple items in this section before you ask for your salary increase, but if your “Accomplishments” section makes a very strong case on its own, this section may not be necessary.
 
 <div class='ad-box'>
-<p><strong>Learn how to identify and describe your accolades:</strong> <a href="{{ site.baseurl }}/raise-accomplishments-and-accolades/#accolades">Defining your accolades</a></p>
+<p><strong>Learn how to identify and describe your accolades:</strong> <a href="{{ site.baseurl }}/book/raise/raise-build-your-case/#accolades">Defining your accolades</a></p>
 </div>
 
 ### 9. Conclusion and repeated request

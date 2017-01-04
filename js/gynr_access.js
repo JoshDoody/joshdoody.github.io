@@ -72,7 +72,7 @@ $(document).ready(function () {
 		 _dcq.push(["track", "Completed Lesson GYNR", {
 		  "lesson_number": lesson_number,
 			 "completed_by": "student",
-		  success: function() { window.location = "{{ site.baseurl }}/ask-for-a-raise-course/"+next_lesson_one_word_name; }
+		  success: function() { window.location = "{{ site.baseurl }}/get-your-next-raise/"+next_lesson_one_word_name; }
 		 }]);
 	});
 });

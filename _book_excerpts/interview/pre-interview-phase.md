@@ -1,8 +1,8 @@
 ---
 layout: book_excerpt
-title: The pre-interview
+title: The pre-interview phase
 tagline: How to make the most of this brief opportunity
-excerpt: Here's how to make the most of the pre-interview before you dive into the interview process.
+excerpt: Here's how to make the most of the pre-interview phase before you dive into the interview process.
 last_modified_at: 2016-06-25
 canonical_url: 'https://fearlesssalarynegotiation.com/pre-interview/'
 book_section: 7

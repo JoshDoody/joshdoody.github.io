@@ -34,7 +34,7 @@ There are three interesting things here.
 
 ## 1. You can make up ground even if you didn't negotiate your starting salary
 
-Let's you started your job at $80,000 and didn't negotiate your starting salary. Then you found out [how powerful negotiating can be]({{ site.baseurl }}/why-negotiate-starting-salary/), and realized you probably could've negotiated for a starting salary of $90,000. You like your job, but now you feel like you're underpaid. What can you do without changing jobs?
+Let's you started your job at $80,000 and didn't negotiate your starting salary. Then you found out [how powerful negotiating can be]({{ site.baseurl }}/book/negotiate/salary-negotiation-strategy-overview/), and realized you probably could've negotiated for a starting salary of $90,000. You like your job, but now you feel like you're underpaid. What can you do without changing jobs?
 
 Take a look at the table above. If you negotiate an additional 5% raise every two years you'll make up that gap in your starting salary by Year 6. If you started at $80,000 and negotiated an additional 5% raise every two years, you're making more than if you had started at $90,000 and gotten the standard 3% raise every year!
 
@@ -107,7 +107,7 @@ When you add more value than was initially expected, getting an additional 5% ra
 
 As you get more experience, some of these things will happen naturally. For example, you'll often be given more projects over time, and that makes you more valuable. You might be tapped to train new co-workers as they're hired, and *that* makes you more valuable.
 
-So [keep track]({{ site.baseurl }}/raise-accomplishments-and-accolades/) of the ways you grow and add value. Keep track of your salary increases. When your salary lags your value, proactively talk to your manager to make sure your salary is adjusted to reflect the additional value you're bringing to to the company since your salary was last set. Every couple of years is a reasonable cadence for those conversations.
+So [keep track]({{ site.baseurl }}/book/raise/raise-build-your-case/) of the ways you grow and add value. Keep track of your salary increases. When your salary lags your value, proactively talk to your manager to make sure your salary is adjusted to reflect the additional value you're bringing to to the company since your salary was last set. Every couple of years is a reasonable cadence for those conversations.
 
 **Do that consistently, and you'll make a lot more money over your career**.
 
