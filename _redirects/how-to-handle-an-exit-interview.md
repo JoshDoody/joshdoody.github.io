@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I almost made a huge mistake in an exit interview
-tagline: Don't use your exit interview as a chance to blow of steam
+tagline: Don't use your exit interview as a chance to blow off steam
 excerpt: How I avoided making a huge mistake in my exit interview.
 last_modified_at: 2017-01-03
 301_to_url: 'https://fearlesssalarynegotiation.com/book/leave/exit-interview-dos-and-donts/'
