@@ -2,7 +2,7 @@
 layout: post
 title: Fearless Salary Negotiation in the media
 excerpt: Article, Podcasts, Talks, and Guest Posts featuring Fearless Salary Negotiation
-last_modified_at: 2016-12-23
+last_modified_at: 2017-01-16
 share_title: Fearless Salary Negotiation in the media
 ---
 ## Articles
@@ -52,3 +52,4 @@ share_title: Fearless Salary Negotiation in the media
 * [How to ask for a promotion at work](http://interview-coach.co.uk/howtoaskforapromotion/) – [interview-coach.co.uk](http://interview-coach.co.uk)
 * [Five salary negotiation tactics everyone can use to negotiate starting salary](http://interview-coach.co.uk/five-salary-negotiation-tactics-everyone-can-use-negotiate-starting-salary/) – [interview-coach.co.uk](http://interview-coach.co.uk)
 * [Do you have to quit your job to get a big raise?](https://simpleprogrammer.com/2016/11/16/do-you-have-to-quit-your-job-to-get-a-big-raise/) – [SimpleProgrammer.com](https://simpleprogrammer.com)
+* [How and when to ask for a raise at work—A 6-part series](https://www.paysa.com/blog/2017/01/16/the-cost-of-waiting-for-a-raise/) – [paysa](https://www.paysa.com)
