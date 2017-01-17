@@ -65,4 +65,4 @@ Here's a [salary negotiation script example]({{ site.baseurl }}/salary-negotiati
 
 With these five salary negotiation tactics that everyone can use to negotiate starting salary, you can significantly increase your starting salary when you start a new job. 
 
-{% include drip_form.html form="negotiate" %}
+{% include drip_form.html form="salary-negotiation-email-templates" %}

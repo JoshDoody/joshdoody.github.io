@@ -118,3 +118,5 @@ But sometimes they _will_ try again! "Let us see if we can do better. We'll get 
 Once they send a revised job offer, then you can proceed with a standard [starting salary negotiation]({{ site.baseurl }}/book/negotiate/salary-negotiation-strategy-overview/). 
 
 Beware that companies will often revise their lowball job offer to be pretty close to their best-possible job offer, which means your standard salary negotiation strategy may not yield as big a return when used in conjunction with this technique. The ultimate result is what you want—you've determined how much the company is willing to pay you to do the job—and you just got there combining *two* techniques instead of a single salary negotiation technique.
+
+{% include drip_form.html form="salary-negotiation-email-templates" %}

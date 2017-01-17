@@ -5,7 +5,6 @@ tagline: You should negotiate staring salary. Here's why.
 excerpt: You should negotiate your starting salary to maximize your pay when starting a new job. Here's why.
 last_modified_at: 2016-06-25
 ---
-
 You’ve [aced your interview]({{ site.baseurl }}/book/interview/) and the company is about to make you an offer. This is when many people will breathe a sigh of relief and begin to celebrate, assuming the hard work is over. Maybe you're just happy to be leaving your old job, or excited to have a chance to work at a new company. 
 
 Don’t relax yet! This is an opportunity to make the most of this transition and maximize your salary. 
@@ -39,3 +38,5 @@ Recruiters and hiring managers like to present an offer in terms of "your total 
 Your base salary is  more dependable. And your *initial* base salary affects your salary every year going forward, so that’s where you should focus during the negotiation.
 
 In some jobs commission comes into play, but I won’t address that directly. Commission is different, and the amount of commission available to a worker varies by industry and job. So I think it’s best to just treat commission like a second component of salary and negotiate them together.
+
+{% include drip_form.html form="negotiate" %}
