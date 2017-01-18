@@ -99,7 +99,7 @@ Hm. But how do you *know* they made their best possible offer? And what if there
 
 Companies usually leave themselves some room just in case you negotiate. So they may be making a good offer, but it's pretty unlikely they're making their *best* offer.
 
-<p class='u-center'><img src="{{ site.baseurl }}/images/BananaStand.gif" alt="There's always money in the banana stand." style="display: block; width: 100%; max-width: 500px; margin: 0 auto;"/></p>
+<p class='u-center'><img src="{{ site.baseurl }}/images/gifs/BananaStand.gif" alt="There's always money in the banana stand." style="display: block; width: 100%; max-width: 500px; margin: 0 auto;"/></p>
 
 I guess that complicates things a little. Come to think of it, a good way to figure out if they *actually* made their best-possible offer is to counter offer and see if they budge. And even if they can't budge, you can always negotiate non-salary items like vacation, working from home a couple days a week, or a signing bonus.
 
