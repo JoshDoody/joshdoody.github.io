@@ -31,9 +31,6 @@ collections:
   podcasts:
     output: true
     permalink: /:title/
-  free_raise_course_articles:
-    output: true
-    permalink: /free-raise-course/:title/
   redirects:
     output: true
     permalink: /:title/
