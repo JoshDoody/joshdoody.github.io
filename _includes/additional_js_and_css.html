@@ -1,6 +1,19 @@
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="{{ site.baseurl }}/css/jquery.modal.css">
+		{% for css_name in page.extra_css %}
+		<link rel="stylesheet" href="{{ site.baseurl }}/css/{{ css_name }}">
+		{% endfor %}
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script src="{{ site.baseurl }}/js/jquery.cookie.js" type="text/javascript"></script>
+		<script src="{{ site.baseurl }}/js/jquery.modal.js" type="text/javascript"></script>
 		<script src="{{ site.baseurl }}/js/app.js"  type="text/javascript"></script>
 		<script src="{{ site.baseurl }}/js/destination.js" type="text/javascript"></script>
-		
+		<script src="https://gumroad.com/js/gumroad.js"></script>
+		{% for js_name in page.extra_js %}
+		<script src="{{ site.baseurl }}/js/{{ js_name }}" type="text/javascript"></script>
+		{% endfor %}
+
 		<!-- Begin production-only code -->
 		{% if jekyll.environment == jekyll.environment %}
 		<!-- Drip -->
@@ -8,7 +21,7 @@
 		  var _dcq = _dcq || [];
 		  var _dcs = _dcs || {}; 
 		  _dcs.account = '6019475';
-  
+
 		  (function() {
 		    var dc = document.createElement('script');
 		    dc.type = 'text/javascript'; dc.async = true; 
@@ -17,9 +30,9 @@
 		    s.parentNode.insertBefore(dc, s);
 		  })();
 		</script>
-		
+
 		<script src="{{ site.baseurl }}/js/drip_pro.js" type="text/javascript"></script>
-			
+	
 		<script type="text/javascript">
 		$(function(){
 		   (new DripPro).init({
@@ -29,7 +42,3 @@
 		</script>
 		{% endif %}
 		<!-- End production-only code -->
-		
-		{% for js_name in page.extra_js %}
-		<script src="{{ site.baseurl }}/js/{{ js_name }}" type="text/javascript"></script>
-		{% endfor %}
