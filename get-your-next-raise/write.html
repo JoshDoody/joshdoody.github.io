@@ -7,10 +7,25 @@ excerpt: Write your case for your next raise using your target salary, accomplis
 last_modified_at: 2016-12-31
 lesson_number: 5
 og-image: GetYourNextRaise.png
+extra_css:
+  - flipclock.css
 extra_js:
   - gynr_access.js
+  - flipclock.min.js
+  - gynr_sale.js
 ---
 <div class="container container--normal">			
+	<div class="subscriber anonymous">
+		<div class="gynr-sale-price ad-box u-center hidden">
+			<h2>Save 20% when you buy now!</h2>
+			<div class="clock" style="display: inline-block; width: auto;"></div>
+			{% include gynr_buy_button.html %}
+		</div>	
+		<div class='gynr-full-price'>		
+			{% include gynr_buy_button.html %}
+		</div>
+	</div>
+	
 	<div class="anonymous subscriber gynr-customer" style="display: none;">
 		<div class="video-container">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/ld3QzXWC1rY" frameborder="0" allowfullscreen></iframe>

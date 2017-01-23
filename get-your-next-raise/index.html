@@ -7,16 +7,25 @@ excerpt: A self-paced course to navigate the raise and promotion process at work
 branded_title: false
 last_modified_at: 2016-11-30
 og-image: GetYourNextRaise.png
+extra_css:
+  - flipclock.css
+extra_js:
+  - flipclock.min.js
+  - gynr_sale.js
 ---
-<div class="container container--normal">
-	<!--p>You optimize every system you can, tweaking each line until its just right, but are you doing the same for your salary? Most devs I know are underpaid because they either don't know their value or they don't know where to start when it comes to asking for a raise or promotion. This 30-day class will help you know your value and plan for your next raise or promotion to optimize your salary.</p-->
-	
-	<p class='u-center'><a data-dpd-type="button" data-variant="no-price" data-text="ENROLL NOW - $247" data-button-size="dpd-large" data-bg-color="469d3d" data-bg-color-hover="5cc052" data-text-color="ffffff" data-pr-bg-color="ffffff" data-pr-color="000000" data-lightbox="1" href="https://joshdoody.dpdcart.com/cart/buy?product_id=140582&amp;product_price_id=150168&amp;gateway=creditcard">ENROLL NOW - $247</a><script src="https://joshdoody.dpdcart.com/dpd.js"></script><br>
-	<a href="{{ site.baseurl }}/get-your-next-raise/start/"><strong>Click for a <em>free</em> preview of the first lesson</strong></a></p>
-	
-	<!--div class="video-container">
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/mH2houJRDGA" frameborder="0" allowfullscreen></iframe>
-	</div-->
+<div class="container container--normal">	
+	<div class="gynr-sale-price ad-box u-center hidden">
+		<h2>Save 20% when you buy now!</h2>
+		<div class="clock" style="display: inline-block; width: auto;"></div>
+		{% include gynr_buy_button.html %}
+		<a href="{{ site.baseurl }}/get-your-next-raise/start/"><strong>Click for a <em>free</em> preview of the first lesson</strong></a>
+	</div>	
+	<div class='gynr-full-price'>		
+		{% include gynr_buy_button.html %}
+		<p class='u-center'>
+			<a href="{{ site.baseurl }}/get-your-next-raise/start/"><strong>Click for a <em>free</em> preview of the first lesson</strong></a>
+		</p>
+	</div>
 	
 	<p>Every Monday you start a new work week. You check your email, review your calendar, and plan for all your big meetings. Then you have a quiet moment and that same old thought creeps in:</p>
 	
@@ -59,9 +68,13 @@ og-image: GetYourNextRaise.png
 	<p>Waiting just six months to get a $5,000 raise will cost you $2,500—that's <em>ten times</em> the cost of this course!</p>
 	
 	<p>Hundreds of people have read my best selling book <em>Fearless Salary Negotiation</em>, and I've worked with many people 1-on-1 to walk them through this process with great results. Now I'm offering the same process as self-paced course!</p>
-		
-	<p class='u-center'><a data-dpd-type="button" data-variant="no-price" data-text="ENROLL NOW - $247" data-button-size="dpd-large" data-bg-color="469d3d" data-bg-color-hover="5cc052" data-text-color="ffffff" data-pr-bg-color="ffffff" data-pr-color="000000" data-lightbox="1" href="https://joshdoody.dpdcart.com/cart/buy?product_id=140582&amp;product_price_id=150168&amp;gateway=creditcard">ENROLL NOW - $247</a><script src="https://joshdoody.dpdcart.com/dpd.js"></script><br>
-	<a href="{{ site.baseurl }}/get-your-next-raise/start/">Click here to preview the first lesson for free</a></p>
+	
+	
+	{% include gynr_buy_button.html %}
+	
+	<p class='u-center'>
+		<a href="{{ site.baseurl }}/get-your-next-raise/start/"><strong>Click here to preview the first lesson for free</strong></a>
+	</p>
 </div>	
 
 {% include testimonials/thai_wood.html %}
@@ -124,8 +137,11 @@ og-image: GetYourNextRaise.png
 {% include testimonials/patrick_mckenzie.html %}
 
 <div class="container container--normal">		
-	<p class='u-center'><a data-dpd-type="button" data-variant="no-price" data-text="ENROLL NOW - $247" data-button-size="dpd-large" data-bg-color="469d3d" data-bg-color-hover="5cc052" data-text-color="ffffff" data-pr-bg-color="ffffff" data-pr-color="000000" data-lightbox="1" href="https://joshdoody.dpdcart.com/cart/buy?product_id=140582&amp;product_price_id=150168&amp;gateway=creditcard">ENROLL NOW - $247</a><script src="https://joshdoody.dpdcart.com/dpd.js"></script><br>
-	<a href="{{ site.baseurl }}/get-your-next-raise/start/">Click here to preview the first lesson for free</a></p>
+	{% include gynr_buy_button.html %}
+	
+	<p class='u-center'>
+		<a href="{{ site.baseurl }}/get-your-next-raise/start/"><strong>Click here to preview the first lesson for free</strong></a>
+	</p>
 </div>
 
 {% include testimonials/mike_g.html %}
