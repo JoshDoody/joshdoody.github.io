@@ -2,7 +2,7 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-
+	<link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.ico" />
   <title>{% if page.title %}{{ page.title | strip_html | escape }}{% unless page.branded_title == false %}{% if page.layout == 'gynr' %} | Get Your Next Raise{% else %} | Fearless Salary Negotiation{% endif %}{% endunless %}{% else %}{{ site.title | strip_html | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
 	{% if page.metatags %} 
