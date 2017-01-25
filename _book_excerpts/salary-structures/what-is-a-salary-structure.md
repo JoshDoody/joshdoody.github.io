@@ -38,7 +38,7 @@ A *salary structure* is a way of describing a series of pay grades. It’s essen
 
 Here’s an example of a salary structure to show you what this looks like with a visual: 
 
-<img src="{{ site.baseurl }}/images/SalaryStructure.png" width="100%">
+<img src="{{ site.baseurl }}/images/SalaryStructure.png" alt="Salary Structure example" width="100%">
 
 
 So, a Jr. Developer is in a pay grade named "E01" that goes from $60,000 (the bottom of the pay grade) to $80,000 (the top of the pay grade). Then a Developer is in a pay grade called “E02” that goes from $70,000 to $90,000. And a Sr. Developer is in a pay grade called “E03”, which goes from $80,000 to $100,000.

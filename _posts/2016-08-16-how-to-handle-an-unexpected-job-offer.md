@@ -51,7 +51,7 @@ I winced when I read this heading because I knew what was coming.
 
 Here's a quick reference you can use to handle the dreaded salary question:
 
-<p class='u-center'><a href="{{ site.baseurl }}/the-dreaded-salary-question/"><img src="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" width="100%"></a></p>
+<p class='u-center'><a href="{{ site.baseurl }}/the-dreaded-salary-question/"><img src="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" width="100%" alt="The Dreaded Salary Question summary"></a></p>
 
 ## I didn’t want to embarrass him/I wanted to be likable
 

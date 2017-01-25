@@ -9,7 +9,7 @@
 				<header class="article-header header--centered">
 
 			    <div class="container container--normal">
-						{% if page.logo %}<img src="{{ site.baseurl }}/images/{{ page.logo }}" style="max-width: 250px; margin-bottom: 20px;"/>{% endif %}
+						{% if page.logo %}<img src="{{ site.baseurl }}/images/{{ page.logo }}" style="max-width: 250px; margin-bottom: 20px;" alt="{{ page.logo-alt }}"/>{% endif %}
 
 			      <h1 class="header__title">{% if page.headline %}{{ page.headline }}{% elsif page.title %}{{ page.title }}{% else %} Fearless Salary Negotiation {% endif %}</h1>
 			      {% if page.tagline %}
