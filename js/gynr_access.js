@@ -19,18 +19,18 @@ $(document).ready(function () {
 	var drip_user = function(dripUser) {
 		
 		if(dripUser.isAnon) {
-			console.log("Anonymous");
+			console.log("GYNR_access: Anonymous");
 			$(".anonymous").each(function () {
 				$(this).show();
 			})
 		} else {
 			if(dripUser.rawDripContact.tags.indexOf('Purchased - Get Your Next Raise') !== -1){
-				console.log("Subscriber, Tagged");
+				console.log("GYNR_access: Customer");
 				$(".gynr-customer").each(function () {
 					$(this).show();
 				})
 			} else {
-				console.log("Subscriber");
+				console.log("GYNR_access: Subscriber");
 				$(".subscriber").each(function () {
 					$(this).show();
 				})
