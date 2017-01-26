@@ -1,20 +1,3 @@
----
----
-var dripSetup = {
-	init: function(successHandler) {
-		_dcq.push(['identify', {
-			success: function(payload) {
-				var dripUser = {
-					rawDripContact: payload,
-					isAnon: payload.anonymous
-				};
-				
-				successHandler(dripUser);
-			}
-		}]);
-	}
-};
-
 $(document).ready(function () {
 	var drip_user = function(dripUser) {
 	

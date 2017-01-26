@@ -26,6 +26,23 @@
 		    s.parentNode.insertBefore(dc, s);
 		  })();
 		</script>
+			
+		<script type="text/javascript">
+			var dripSetup = {
+				init: function(successHandler) {
+					_dcq.push(['identify', {
+						success: function(payload) {
+							var dripUser = {
+								rawDripContact: payload,
+								isAnon: payload.anonymous
+							};
+				
+							successHandler(dripUser);
+						}
+					}]);
+				}
+			};
+		</script>
 
 		<script src="{{ site.baseurl }}/js/drip_pro.js" type="text/javascript"></script>
 	
