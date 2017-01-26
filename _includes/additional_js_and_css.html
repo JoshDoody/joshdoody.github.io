@@ -28,35 +28,35 @@
 		</script>
 			
 		<script type="text/javascript">
-		// Logs a page to Drip (getDrip.com) by tagging and adding a Drip event
-		// 
-		// Based on code by Pat Maddox (thanks Pat!)
-		// Updated by Eric Davis (thanks Eric!)
-		// Then updated by Josh Doody (me)
-		//
-		function dripTagPage() {
-		  // Wrap it so we don't break any other JS on the page
-		  try {
-		    // Remove any WP title post-fixes
-		    var pageName = document.title.replace(' | Fearless Salary Negotiation','').replace(' | Get Your Next Raise','')
+			// Logs a page to Drip (getDrip.com) by tagging and adding a Drip event
+			// 
+			// Based on code by Pat Maddox (thanks Pat!)
+			// Updated by Eric Davis (thanks Eric!)
+			// Then updated by Josh Doody (me)
+			//
+			function dripTagPage() {
+			  // Wrap it so we don't break any other JS on the page
+			  try {
+			    // Remove branding
+			    var pageName = document.title.replace(' | Fearless Salary Negotiation','').replace(' | Get Your Next Raise','')
 
-		    // Tag e.g. "Read - The Title of This"
-		    _dcq.push(["identify", {
-		      tags: ["Read - " + pageName]
-		    }]);
+			    // Tag e.g. "Read - The Title of This"
+			    //_dcq.push(["identify", {
+			    //  tags: ["Read - " + pageName]
+				  //}]);
 
-		    // Add event like "Visited URL" - Not currently using
-		    // _dcq.push(["track", "Visited https://fearlesssalarynegotiation.com" + window.location.pathname, {title: pageName, path: window.location.pathname}])
-		  } catch (e) {
-		    // no-op
-		  }
-		  return true;
-		}
+			    // Add event for "Visited FearlessSalaryNegotiation.com" to get timestamp of visit
+					// Event also creates a tag for Read - pageName, hence the Tag above is commented out
+			    _dcq.push(["track", "Visited FearlessSalaryNegotiation.com", {page_title: pageName, path: window.location.pathname}])
+			  } catch (e) {
+			    // no-op
+			  }
+			  return true;
+			}
 
-		dripTagPage();
-		</script>
-			
-		<script type="text/javascript">
+			dripTagPage();
+
+			// function to be called when we want to know about the dripUser for DOM manipulation
 			var dripSetup = {
 				init: function(successHandler) {
 					_dcq.push(['identify', {
