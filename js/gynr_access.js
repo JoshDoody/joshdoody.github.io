@@ -3,20 +3,14 @@ $(document).ready(function () {
 		
 		if(dripUser.isAnon) {
 			console.log("GYNR_access: Anonymous");
-			$(".anonymous").each(function () {
-				$(this).show();
-			})
+			$(".anonymous").show();
 		} else {
 			if(dripUser.rawDripContact.tags.indexOf('Purchased - Get Your Next Raise') !== -1){
 				console.log("GYNR_access: Customer");
-				$(".gynr-customer").each(function () {
-					$(this).show();
-				})
+				$(".gynr-customer").show();
 			} else {
 				console.log("GYNR_access: Subscriber");
-				$(".subscriber").each(function () {
-					$(this).show();
-				})
+				$(".subscriber").show();
 			}
 		}
 	};

@@ -15,16 +15,12 @@ $(document).ready(function () {
 				var remaining = expiry - now;
 				console.log(remaining);
 				if(remaining > 0){
-					$('.gynr-full-price').each(function () {
-						$(this).hide();
-					})
+					$('.gynr-full-price').hide();
 					var clock = $('.clock').FlipClock(remaining, {
 			        clockFace: 'DailyCounter',
 			        countdown: true
 			    })
-					$('.gynr-sale-price').each(function () {
-						$(this).show();
-					})
+					$('.gynr-sale-price').show();
 				}
 			}
 		}
