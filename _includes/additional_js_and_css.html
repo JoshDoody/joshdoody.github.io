@@ -58,18 +58,22 @@
 
 			// function to be called when we want to know about the dripUser for DOM manipulation
 			var dripSetup = {
-				init: function(successHandler) {
-					_dcq.push(['identify', {
-						success: function(payload) {
-							var dripUser = {
-								rawDripContact: payload,
-								isAnon: payload.anonymous
-							};
-				
-							successHandler(dripUser);
-						}
-					}]);
-				}
+			  init: function(successHandler) {
+			    if (window.dripUser) {
+			        successHandler(window.dripUser);
+			return;
+			    }
+			    _dcq.push(['identify', {
+			      success: function(payload) {
+			        var dripUser = {
+			          rawDripContact: payload,
+			          isAnon: payload.anonymous
+			        };
+			        window.dripUser = dripUser;
+			        successHandler(dripUser);
+			      }
+			    }]);
+			  }
 			};
 		</script>
 

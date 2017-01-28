@@ -13,10 +13,16 @@ $(document).ready(function () {
 				$(".subscriber").show();
 			}
 		}
+		
+		// Example of personalization for future use
+		/*if(window.dripUser.rawDripContact.custom_fields.first_name){
+			$('span.first_name').html(window.dripUser.rawDripContact.custom_fields.first_name);
+			$('span.first_name').parent().show();
+		}*/
 	};
 	
 	dripSetup.init(drip_user);
-	
+		
 	$("#next-lesson").click(function() {
 		var lesson_number = $(this).data('lesson-number');
 		
