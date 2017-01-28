@@ -15,10 +15,10 @@ $(document).ready(function () {
 		}
 		
 		// Example of personalization for future use
-		/*if(window.dripUser.rawDripContact.custom_fields.first_name){
-			$('span.first_name').html(window.dripUser.rawDripContact.custom_fields.first_name);
-			$('span.first_name').parent().show();
-		}*/
+		// if(window.dripUser.rawDripContact.custom_fields.first_name){
+		//	$('span.first_name').html(window.dripUser.rawDripContact.custom_fields.first_name);
+		//	$('span.first_name').parent().show();
+		// }
 	};
 	
 	dripSetup.init(drip_user);
