@@ -10,22 +10,12 @@ og-image: GetYourNextRaise.png
 extra_css:
   - flipclock.css
 extra_js:
+  - gynr_access.js
   - flipclock.min.js
   - gynr_sale.js
 ---
 <div class="container container--normal">	
-	<div class="gynr-sale-price ad-box u-center hidden">
-		<h2>Save 20% when you buy now!</h2>
-		<div class="clock" style="display: inline-block; width: auto;"></div>
-		{% include gynr_buy_button.html %}
-		<a href="{{ site.baseurl }}/get-your-next-raise/start/"><strong>Click for a <em>free</em> preview of the first lesson</strong></a>
-	</div>	
-	<div class='gynr-full-price'>		
-		{% include gynr_buy_button.html %}
-		<p class='u-center'>
-			<a href="{{ site.baseurl }}/get-your-next-raise/start/"><strong>Click for a <em>free</em> preview of the first lesson</strong></a>
-		</p>
-	</div>
+	{% include gynr_header.html %}
 	
 	<p>Every Monday you start a new work week. You check your email, review your calendar, and plan for all your big meetings. Then you have a quiet moment and that same old thought creeps in:</p>
 	

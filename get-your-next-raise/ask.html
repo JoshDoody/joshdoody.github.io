@@ -15,18 +15,9 @@ extra_js:
   - gynr_sale.js
 ---
 <div class="container container--normal">			
-	<div class="subscriber anonymous">
-		<div class="gynr-sale-price ad-box u-center hidden">
-			<h2>Save 20% when you buy now!</h2>
-			<div class="clock" style="display: inline-block; width: auto;"></div>
-			{% include gynr_buy_button.html %}
-		</div>	
-		<div class='gynr-full-price'>		
-			{% include gynr_buy_button.html %}
-		</div>
-	</div>
+	{% include gynr_header.html %}
 	
-	<div class="anonymous subscriber gynr-customer" style="display: none;">
+	<div class="gynr-customer hidden">
 		<div class="video-container">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/faQRRWZYPBw" frameborder="0" allowfullscreen></iframe>
 		</div>
@@ -54,4 +45,8 @@ extra_js:
 
 		{% include get_your_next_raise/lesson_list.html %}
 	</div>
+</div>
+
+<div class="subscriber anonymous hidden">
+{% include testimonials/thai_wood.html %}
 </div>

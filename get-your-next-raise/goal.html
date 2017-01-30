@@ -17,21 +17,12 @@ extra_js:
   - gynr_sale.js
 ---
 <div class="container container--normal">
-	<div class="subscriber anonymous">
-		<div class="gynr-sale-price ad-box u-center hidden">
-			<h2>Save 20% when you buy now!</h2>
-			<div class="clock" style="display: inline-block; width: auto;"></div>
-			{% include gynr_buy_button.html %}
-		</div>	
-		<div class='gynr-full-price'>		
-			{% include gynr_buy_button.html %}
-		</div>
-	</div>
+	{% include gynr_header.html %}
 	
 	<!-- example of personalization for future use --> 
 	<!--p class="hidden">Hi, <span class="first_name"></span>!</p-->
 		
-	<div class="gynr-customer subscriber anonymous" style="display: none;">
+	<div class="gynr-customer hidden">
 		<div class="video-container">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/o_gr58KUWus" frameborder="0" allowfullscreen></iframe>
 		</div>
@@ -53,30 +44,11 @@ extra_js:
 			<li><a href="https://glassdoor.com" target="_blank">Glassdoor.com</a></li>
 			<li><a href="https://paysa.com" target="_blank">paysa.com</a></li>
 		</ul>
-		<div class="anonymous subscriber" style="display: none;">
-			<h2>Get help</h2>
-			<p>Course participants can email me any time to ask questions or get feedback as you go!</p>
-		</div>
-		<div class="gynr-customer" style="display: none;">
-			<h2>Get help</h2>
-			<p><a href="mailto:josh@joshdoody.com?subject=[Raise course: Lesson 3] Set your goal">Email me</a> to ask questions or get feedback as you go! You can also reply to any of the course emails in your inbox.</p>
-		</div>
 
-	<div class='sample-email subscriber anonymous' style="display: none;">
-		<h2 class='u-center'>Lessons</h2>
-		<ul class="lesson-list">
-			<li class='lesson-1'><i class="fa fa-unlock"></i><a href="{{ site.baseurl }}/get-your-next-raise/start">Lesson 1: Start now</a></li>
-			<li class='lesson-2'><i class="fa fa-unlock"></i><a href="{{ site.baseurl }}/get-your-next-raise/estimate">Lesson 2: Estimate your market value</a></li>
-			<li class='lesson-3'><i class="fa fa-unlock"></i><a href="{{ site.baseurl }}/get-your-next-raise/goal"><strong>Lesson 3: Set your goal</strong></a></li>
-			<li class='lesson-4'><i class="fa fa-lock"></i>Lesson 4: Build your case</li>
-			<li class='lesson-5'><i class="fa fa-lock"></i>Lesson 5: Put your case in writing</li>
-			<li class='lesson-6'><i class="fa fa-lock"></i>Lesson 6: Ask your manager for your raise</li>
-			<li class='lesson-7'><i class="fa fa-lock"></i>Lesson 7: Plan your next steps</li>
-		</ul>
-		<p class='u-center'><strong>Get access to all the lessons plus expert feedback and unlimited email support!</strong></p>
-		{% include gynr_buy_button.html %}
-	</div>
-	<div class='sample-email gynr-customer' style="display: none;">
+		<h2>Get help</h2>
+		<p><a href="mailto:josh@joshdoody.com?subject=[Raise course: Lesson 3] Set your goal">Email me</a> to ask questions or get feedback as you go! You can also reply to any of the course emails in your inbox.</p>
+
+	<div class='sample-email'>
 		<h2 class='u-center'>Course lessons</h2>
 		<ul>
 			<li class='lesson-1'>Lesson 1: Start now</li>
@@ -92,4 +64,6 @@ extra_js:
 	</div>
 </div>
 
+<div class="subscriber anonymous hidden">
 {% include testimonials/john_li.html %}
+</div>

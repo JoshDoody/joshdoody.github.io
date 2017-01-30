@@ -15,18 +15,9 @@ extra_js:
   - gynr_sale.js
 ---
 <div class="container container--normal">			
-	<div class="subscriber anonymous">
-		<div class="gynr-sale-price ad-box u-center hidden">
-			<h2>Save 20% when you buy now!</h2>
-			<div class="clock" style="display: inline-block; width: auto;"></div>
-			{% include gynr_buy_button.html %}
-		</div>	
-		<div class='gynr-full-price'>		
-			{% include gynr_buy_button.html %}
-		</div>
-	</div>
+	{% include gynr_header.html %}
 	
-	<div class="anonymous subscriber gynr-customer" style="display: none;">
+	<div class="gynr-customer hidden">
 		<div class="video-container">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/ld3QzXWC1rY" frameborder="0" allowfullscreen></iframe>
 		</div>
@@ -44,15 +35,14 @@ extra_js:
 			<li><a href="{{ site.baseurl }}/download/GetYourNextRaise_Worksheet.docx"><em>Get Your Next Raise</em> worksheet (download)</a></li>
 			<li><a href="{{ site.baseurl }}/salary-increase-letter-sample/">Read more about the Raise email template</a></li>
 		</ul>
-		<div class="anonymous subscriber" style="display: none;">
-			<h2>Get help</h2>
-			<p>Course participants can email me any time to ask questions or get feedback as you go!</p>
-		</div>
-		<div class="gynr-customer" style="display: none;">
-			<h2>Get help</h2>
-			<p><a href="mailto:josh@joshdoody.com?subject=[Raise course: Lesson 5] Put your case in writing">Email me</a> to ask questions or get feedback as you go! You can also reply to any of the course emails in your inbox.</p>
-		</div>
+
+		<h2>Get help</h2>
+		<p><a href="mailto:josh@joshdoody.com?subject=[Raise course: Lesson 5] Put your case in writing">Email me</a> to ask questions or get feedback as you go! You can also reply to any of the course emails in your inbox.</p>
 
 		{% include get_your_next_raise/lesson_list.html %}
 	</div>
+</div>
+
+<div class="subscriber anonymous hidden">
+{% include testimonials/thai_wood.html %}
 </div>

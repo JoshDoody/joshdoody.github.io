@@ -2275,10 +2275,6 @@ body {
 	z-index: 1;
 }
 
-.package__button {
-  max-width: 450px;
-}
-
 h2 {
   font-weight: bold;
 	font-size: 200%;
@@ -2704,4 +2700,12 @@ ul.lesson-list {
 }
 
 ul.lesson-list li {
+}
+
+.gynr-buy-button {
+	margin-bottom: 20px;
+}
+
+.disabled {
+	color: #d3d3d3;
 }
