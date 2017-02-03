@@ -2709,3 +2709,91 @@ ul.lesson-list li {
 .disabled {
 	color: #d3d3d3;
 }
+
+/* Pricing grid */
+
+.price-column {
+    box-sizing: border-box;
+}
+
+/* Create three columns of equal width */
+.price-column {
+    float: left;
+    width: 33.3%;
+    padding: 8px;
+}
+
+/* Style the list */
+.product {
+    list-style-type: none;
+    border: 1px solid #eee;
+    margin: 0;
+    padding: 0;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+		border-radius: 5px;
+		box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+}
+
+/* Add shadows on hover */
+.product:hover {
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+}
+
+/* Pricing header */
+.product .header {
+    background-color: #00A9FF;
+    color: white;
+    font-size: 25px;
+		font-weight: bold;
+}
+
+.product .header.popular {
+    background-color: #4CAF50;
+}
+
+/* List items */
+.product li {
+    border-bottom: 1px solid #eee;
+    padding: 5px;
+    text-align: center;
+}
+
+.product li s {
+	opacity: .5;
+}
+
+/* Grey list item */
+.product .grey {
+    background-color: #eee;
+}
+
+/* The "Sign Up" button */
+.price-grid .button {
+    background-color: #4CAF50;
+    border: none;
+    color: white !important;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+}
+
+li.price {
+	color: white;
+	font-weight: bold;
+	background: #555;
+}
+
+/* Change the width of the three columns to 100% 
+(to stack horizontally on small screens) */
+@media only screen and (max-width: 649px) {
+    .price-column {
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 650px) {
+  .price-grid .button {
+    font-size: 1.2em;
+  }
+}
