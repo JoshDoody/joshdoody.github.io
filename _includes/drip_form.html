@@ -22,5 +22,9 @@
 {% when 'extras' %}
 {% include /drip_forms/extras.html %}
 {% when 'salary-negotiation-email-templates' %}
-{% include /drip_forms/salary-negotiation-email-templates.html %}																		
+{% include /drip_forms/salary-negotiation-email-templates.html %}
+{% when 'interview-cheat-sheet' %}
+{% include /drip_forms/interview-cheat-sheet.html %}
+{% else %}
+{% include /drip_forms/free-raise-course.html %}												
 {% endcase %}
