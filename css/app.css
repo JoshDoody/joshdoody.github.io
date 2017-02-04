@@ -2816,4 +2816,11 @@ li.product-price {
 .left-image img {
 	float: left;
 	margin-right: 10px;
+	border: 1px solid #eee;
+}
+
+.right-image img {
+	float: right;
+	margin-left: 10px;
+	border: 1px solid #eee;
 }
