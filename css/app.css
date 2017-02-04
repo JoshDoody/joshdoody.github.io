@@ -2731,8 +2731,9 @@ ul.lesson-list li {
     padding: 0;
     -webkit-transition: 0.3s;
     transition: 0.3s;
+		border: 1px solid #888;
 		border-radius: 5px;
-		box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+		overflow: hidden;
 }
 
 /* Add shadows on hover */
@@ -2741,30 +2742,39 @@ ul.lesson-list li {
 }
 
 /* Pricing header */
-.product .header {
+.product .product-name {
     background-color: #00A9FF;
     color: white;
-    font-size: 25px;
+		font-size: 1.5em;
 		font-weight: bold;
 }
 
-.product .header.popular {
+.product .product-name.popular {
     background-color: #4CAF50;
+}
+
+.product .product-price {
+  font-size: 1.8em;
+	font-weight: bold;
 }
 
 /* List items */
 .product li {
     border-bottom: 1px solid #eee;
-    padding: 5px;
-    text-align: center;
+    padding: 15px 15px;
+    text-align: left;
 }
 
 .product li s {
 	opacity: .5;
 }
 
+li.product-name, li.product-price {
+	text-align: center;
+}
+
 /* Grey list item */
-.product .grey {
+.product .product-buy {
     background-color: #eee;
 }
 
@@ -2774,26 +2784,31 @@ ul.lesson-list li {
     border: none;
     color: white !important;
     padding: 10px 25px;
+    font-size: 1.2em;
     text-align: center;
     text-decoration: none;
 }
 
-li.price {
+li.product-price {
 	color: white;
+	font-size: 1.2em;
 	font-weight: bold;
 	background: #555;
 }
 
 /* Change the width of the three columns to 100% 
 (to stack horizontally on small screens) */
-@media only screen and (max-width: 649px) {
-    .price-column {
-        width: 100%;
-    }
+@media only screen and (max-width: 799px) {
+  .price-column {
+    width: 100%;
+  }
+	.product-name .spacing {
+		display: none;
+	}
 }
 
-@media only screen and (min-width: 650px) {
-  .price-grid .button {
-    font-size: 1.2em;
-  }
+@media only screen and (min-width: 800px) and (max-width: 1023px) {
+	.strike-price {
+		display: none;
+	}
 }
