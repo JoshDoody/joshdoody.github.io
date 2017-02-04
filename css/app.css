@@ -2812,3 +2812,8 @@ li.product-price {
 		display: none;
 	}
 }
+
+.left-image img {
+	float: left;
+	margin-right: 10px;
+}
