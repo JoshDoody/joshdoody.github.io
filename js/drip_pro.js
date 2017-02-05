@@ -264,40 +264,40 @@ It's advised to pass in your own overrides in your initializer vs. overriding th
       }
     }
 
-    DripPro.prototype.modify_forms = function() {
-      var t = this
-      jQuery('[data-drip-embedded-form] input[type=hidden]').remove()
-      jQuery('[data-drip-embedded-form]').each(function(){
-        var form = this
-        var utms = t.storage.get(t.settings.cookie_prefix + '_utm')
-        var affiliate_id = jQuery.cookie('appwp_ref')
-				
+		DripPro.prototype.modify_forms = function() {
+		  var t = this
+		  jQuery('[data-drip-embedded-form] .dpt').remove()
+		  jQuery('[data-drip-embedded-form]').each(function(){
+		    var form = this
+		    var utms = t.storage.get(t.settings.cookie_prefix + '_utm')
+		    var affiliate_id = jQuery.cookie('affwp_ref')
+		
 				// changed default of optin_url to last_optin_url -- other magic happens in Drip Automation Rules
-        jQuery(this).append(jQuery('<input type="hidden">').attr('name', 'fields[last_optin_url]').val(window.location.origin + window.location.pathname))
+		    jQuery(this).append(jQuery('<input type="hidden">').addClass('dpt').attr('name', 'fields[last_optin_url]').val(window.location.origin + window.location.pathname))
 
-        if (utms) {
-          utms = jQuery.deparam(utms)
-          for (var key in utms) {
-            t.debug('Adding hidden UTM field to form: '+key)
-            jQuery(this).append(jQuery('<input type="hidden">').attr('name', 'fields['+key+']').val(utms[key]))
-          }
-        }
+		    if (utms) {
+		      utms = jQuery.deparam(utms)
+		      for (var key in utms) {
+		        t.debug('Adding hidden UTM field to form: '+key)
+		        jQuery(this).append(jQuery('<input type="hidden">').addClass('dpt').attr('name', 'fields['+key+']').val(utms[key]))
+		      }
+		    }
 
-        jQuery.each(t.storage.index(), function(idx, key) {
-          if (key.indexOf(t.settings.cookie_prefix + 'cat_') === 0) {
-            stripped_key = key.replace(t.settings.cookie_prefix + 'cat_', '')
-            t.debug('Adding tracking fields to form: ' + stripped_key)
-            jQuery(form).append(jQuery('<input type="hidden">').attr('name', 'fields['+stripped_key+']').val(t.storage.get(key)))
-          }
-        })
+		    jQuery.each(t.storage.index(), function(idx, key) {
+		      if (key.indexOf(t.settings.cookie_prefix + 'cat_') === 0) {
+		        stripped_key = key.replace(t.settings.cookie_prefix + 'cat_', '')
+		        t.debug('Adding tracking fields to form: ' + stripped_key)
+		        jQuery(form).append(jQuery('<input type="hidden">').addClass('dpt').attr('name', 'fields['+stripped_key+']').val(t.storage.get(key)))
+		      }
+		    })
 
-        if (affiliate_id) {
-          jQuery(this).append(jQuery('<input type="hidden">').attr('name', 'fields[affiliate_id]').val(affiliate_id))
-        }
+		    if (affiliate_id) {
+		      jQuery(this).append(jQuery('<input type="hidden">').addClass('dpt').attr('name', 'fields[affiliate_id]').val(affiliate_id))
+		    }
 
 
-      })
-    }
+		  })
+		}
 
     /*
     If you're using an affiliate plugin, you can keep the affiliate ID of the viewer in sync with Drip subscriber data. Just be sure to switch out `appwp_ref` with the cookie name your affiliate manager writes.
