@@ -2609,24 +2609,11 @@ h3.ck_form_title {
 	padding-left: 30px;
 }
 
-@media all and (max-width: 403px) {	
-	.drip_form input[type="submit"], .drip_form input[type="text"], .drip_form input[type="email"] {
+@media all and (max-width: 799px) {
+	.drip_form input[type] {
 		width: 100%;
 		float: none;
 		margin-top: 5px;
-	}
-}
-
-@media all and (max-width: 599px) {
-	.drip_form input[type="submit"] {
-		width: 100%;
-		float: none;
-		margin-top: 5px;
-	}
-
-	.drip_form input[type="text"], .drip_form input[type="email"] {
-		width: 100%;
-		margin-right: 0px;
 	}
 }
 
