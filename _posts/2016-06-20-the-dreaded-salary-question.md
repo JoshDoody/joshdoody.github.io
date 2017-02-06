@@ -43,4 +43,4 @@ Here is my recommendation for a good answer to the full dreaded salary question:
 
 Now you’re prepared to ace the [pre­-interview]({{ site.baseurl }}/book/interview/pre-interview-phase/). 
 
-{% include /drip_forms/interview.html drip_offer_plinko="optional" %}
+{% include /drip_forms/interview-cheat-sheet.html drip_offer_plinko="optional" %}

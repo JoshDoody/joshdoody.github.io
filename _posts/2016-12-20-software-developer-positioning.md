@@ -17,4 +17,4 @@ og-image: software-developer-positioning_thumbnail.png
 
 Special thanks to [Eric Normand](https://twitter.com/ericnormand) of [PurelyFunctional.tv](https://purelyfunctional.tv) for contributing his excellent technical expertise.
 
-{% include /drip_forms/free-raise-course.html drip_offer_plinko="optional" %}
+{% include /drip_forms/interview-cheat-sheet.html drip_offer_plinko="optional" %}
