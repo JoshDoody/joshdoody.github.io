@@ -39,4 +39,4 @@ Your base salary is  more dependable. And your *initial* base salary affects you
 
 In some jobs commission comes into play, but I won’t address that directly. Commission is different, and the amount of commission available to a worker varies by industry and job. So I think it’s best to just treat commission like a second component of salary and negotiate them together.
 
-{% include drip_form.html form="negotiate" %}
+{% include /drip_forms/negotiate.html drip_offer_plinko="optional" %}

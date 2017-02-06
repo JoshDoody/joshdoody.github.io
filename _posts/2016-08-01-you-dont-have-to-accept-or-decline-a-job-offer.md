@@ -43,4 +43,4 @@ Let's loop back on the conversation at the beginning of the article to see how i
 > "Congrats! Are you accepting it?"\\
 > "I'm not quite to that point. I'm going to see if they'll increase the starting salary, and I want to see about getting another week of paid vacation."
 
-{% include drip_form.html form="salary-negotiation-email-templates" %}
+{% include /drip_forms/salary-negotiation-email-templates.html drip_offer_plinko="optional" %}

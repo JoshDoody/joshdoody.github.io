@@ -74,6 +74,16 @@
 			    }]);
 			  }
 			};
+			
+			// offer_plinko to decide whether to show the page's included offer or not
+			var drip_user = function(dripUser) {
+				if(!dripUser.isAnon) {
+					console.log("Subscriber");
+					$('[data-offer-plinko="optional"]').hide();
+				};
+			};
+	
+			dripSetup.init(drip_user);
 		</script>
 
 		<script src="{{ site.baseurl }}/js/drip_pro.js" type="text/javascript"></script>

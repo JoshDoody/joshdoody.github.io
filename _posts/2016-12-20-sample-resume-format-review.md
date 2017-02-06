@@ -17,4 +17,4 @@ og-image: sample-resume-format-review_thumbnail.png
 
 Special thanks to [Eric Normand](https://twitter.com/ericnormand) of [PurelyFunctional.tv](https://purelyfunctional.tv) for contributing his excellent technical expertise.
 
-{% include drip_form.html form="interview" %}
+{% include /drip_forms/interview.html drip_offer_plinko="optional" %}

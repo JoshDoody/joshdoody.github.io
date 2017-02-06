@@ -91,4 +91,4 @@ Just in case you don't have time to review all the suggestions I made above, her
 
 Then you can go back and review the situation to make a plan for your negotiation.
 
-{% include drip_form.html form="salary-negotiation-email-templates" %}
+{% include /drip_forms/salary-negotiation-email-templates.html drip_offer_plinko="optional" %}

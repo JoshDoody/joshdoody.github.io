@@ -1,20 +1,20 @@
 {% case page.chapter %}
 {% when 'salary-structures' %}
-{% include drip_form.html form="free-raise-course" %}
+{% include /drip_forms/free-raise-course.html drip_offer_plinko="optional" %}	
 {% when 'value' %}
-{% include drip_form.html form="free-raise-course" %}
+{% include /drip_forms/free-raise-course.html drip_offer_plinko="optional" %}	
 {% when 'interview' %}
-{% include drip_form.html form="interview-cheat-sheet" %}
+{% include /drip_forms/interview-cheat-sheet.html drip_offer_plinko="optional" %}
 {% when 'negotiate' %}
-{% include drip_form.html form="salary-negotiation-email-templates" %}
+{% include /drip_forms/salary-negotiation-email-templates.html drip_offer_plinko="optional" %}
 {% when 'leave' %}
-{% include drip_form.html form="salary-negotiation-email-templates" %}
+{% include /drip_forms/salary-negotiation-email-templates.html drip_offer_plinko="optional" %}
 {% when 'promotion' %}
-{% include drip_form.html form="free-raise-course" %}
+{% include /drip_forms/free-raise-course.html drip_offer_plinko="optional" %}	
 {% when 'raise' %}
-{% include drip_form.html form="free-raise-course" %}
+{% include /drip_forms/free-raise-course.html drip_offer_plinko="optional" %}	
 {% else %}
-{% include drip_form.html form="free-raise-course" %}
+{% include /drip_forms/free-raise-course.html drip_offer_plinko="optional" %}	
 {% endcase %}	
 	
 {% assign this_chapter = site.book_chapters | where:"chapter", page.chapter | first %}

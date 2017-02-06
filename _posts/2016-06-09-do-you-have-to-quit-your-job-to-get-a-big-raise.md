@@ -56,4 +56,4 @@ I’ll leave you with a few specific things to help you determine if you can get
 
 This should help you determine if you can get a big raise by staying put, or if you may need to start looking elsewhere.
 
-{% include drip_form.html form="free-raise-course" %}
+{% include /drip_forms/free-raise-course.html drip_offer_plinko="optional" %}

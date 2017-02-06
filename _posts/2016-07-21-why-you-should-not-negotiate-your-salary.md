@@ -107,4 +107,4 @@ Aaaaand I came up totally empty here. I promised you 10 reasons you should NOT n
 
 Sorry about that. 
 
-{% include drip_form.html form="negotiate" %}
+{% include /drip_forms/negotiate.html drip_offer_plinko="optional" %}

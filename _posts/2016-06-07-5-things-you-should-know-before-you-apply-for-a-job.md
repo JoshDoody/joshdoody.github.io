@@ -54,4 +54,4 @@ Most people will hold relatively few jobs over their lifetime. And changing jobs
 
 This [salary negotiation script generator and counteroffer calculator]({{ site.baseurl }}/salary-negotiation-script) is a good place to start for an overview of my strategy.
 
-{% include drip_form.html form="interview" %}
+{% include /drip_forms/interview.html drip_offer_plinko="optional" %}

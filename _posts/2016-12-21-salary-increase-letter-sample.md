@@ -52,7 +52,7 @@ I recommend requesting your salary increase in person *before* you send this let
 
 After we go through each section of this salary increase letter, I'll walk you through the approval process that may happen behind the scenes so you have the full context for this letter.
 
-{% include drip_form.html form="free-raise-course" %}
+{% include /drip_forms/free-raise-course.html drip_offer_plinko="optional" %}
 
 ## A section-by-section review of this salary increase letter sample
 
@@ -124,4 +124,4 @@ The reason this salary increase letter is so important is that your manager will
 
 So this letter gives you the opportunity to make your case *in your own words* to whoever needs to approve your request. And that gives you the greatest chance getting your salary increase.
 
-{% include drip_form.html form="free-raise-course" %}
+{% include /drip_forms/free-raise-course.html drip_offer_plinko="optional" %}

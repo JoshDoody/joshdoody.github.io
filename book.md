@@ -52,4 +52,4 @@ Please share it. The more you share, the more people will see it. That means mor
 
 Use the little buttons below to share with someone who might benefit from it!
 
-{% include drip_form.html form="raise-course" %}
+{% include /drip_forms/free-raise-course.html drip_offer_plinko="optional" %}	

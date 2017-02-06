@@ -111,4 +111,4 @@ So [keep track]({{ site.baseurl }}/book/raise/raise-build-your-case/) of the way
 
 **Do that consistently, and you'll make a lot more money over your career**.
 
-{% include drip_form.html form="free-raise-course" %}
+{% include /drip_forms/free-raise-course.html drip_offer_plinko="optional" %}
