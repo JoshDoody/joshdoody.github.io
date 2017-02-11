@@ -7,9 +7,15 @@ branded_title: false
 metatags: noindex
 sitemap: false
 last_modified_at: 2016-12-23
+extra_css:
+  - flipclock.css
+extra_js:
+  - flipclock.min.js
+  - fsn_sale.js
 ---
-
 <div class="container container--normal">
+	{% include fsn_header.html %}
+	
   <p><strong>Salary negotiation can be intimidating.</strong> There’s a lot on the line and every situation is unique. Plus, there are so many questions that it can feel overwhelming.</p>
   <ul class="question-list">
 		<li class="question-list__item">Should you negotiate your salary?</li>
@@ -86,5 +92,5 @@ last_modified_at: 2016-12-23
 <div class="container container--normal">
 	<h2>PS The sooner you start negotiating your salary like a pro, the sooner you'll get paid what you're worth</h2>
 	<p><em>Fearless Salary Negotiation</em> will teach you skills you can use over and over throughout your career, earning more money every time, so this is one of the best investments you’ll ever make.</p>
-	<p>Ready to get started? <a href="#purchase">Click here to choose the bundle that’s best for you.</a></p>
+	<p>Ready to get started? <a href="#purchase">Click here to <span class="fsn-full-price">choose the bundle that’s best for you.</span><span class="fsn-sale-price hidden">save 25% for a limited time!</span></a></p>
 </div>
