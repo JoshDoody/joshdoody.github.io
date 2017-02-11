@@ -10,6 +10,10 @@ Asking for a salary increase can be tricky, even if you have a strong case to ba
 
 Use this template to build your case for a salary increase letter or email. Below the example is a detailed explanation of each section and how to make sure your salary increase request has all the components you need to ask for a raise.
 
+<div class='ad-box'>
+<p><strong>Looking for an email template to negotiate a job offer?</strong> Here you go! <a href="{{ site.baseurl }}/salary-negotiation-email-sample/">Salary negotiation email sample</a></p>
+</div>
+
 <div class='sample-email'>
 <p>
 	<strong>[1. Address] To: [Your manager]</strong><br>
