@@ -7,6 +7,7 @@ share_title: Fearless Salary Negotiation in the media
 ---
 ## Articles
 
+* [9 Things to Never Say in a Salary Negotiation](https://www.glassdoor.com/blog/9-things-to-never-say-in-a-salary-negotiation/) – glassdoor
 * [How to negotiate a raise](http://www.forbes.com/sites/tomanderson/2016/07/06/how-to-negotiate-a-raise/#6dbd01246fa0) – Forbes.com
 * [11 ways to ruin a job interview according to three experts](http://www.independent.co.uk/news/business/news/11-ways-to-ruin-a-job-interview-according-to-three-experts-a6721271.html) – Independent.co.uk
 * [How to (successfully) ask for a raise](https://generalassemb.ly/blog/how-to-successfully-ask-for-a-raise/) – General Assembly Blog
