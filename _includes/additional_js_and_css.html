@@ -75,11 +75,12 @@
 			  }
 			};
 			
-			// offer_plinko to decide whether to show the page's included offer or not
+			// show drip modals and optional embedded forms to anonymous visitors
 			var drip_user = function(dripUser) {
-				if(!dripUser.isAnon) {
-					console.log("Subscriber");
-					$('[data-offer-plinko="optional"]').hide();
+				if(dripUser.isAnon) {
+					console.log("Anonymous");
+					$('[data-offer-plinko="optional"]').show();
+					$('head').append('<style type="text/css">.drip-lightbox-wrapper { display: block; }</style>');
 				};
 			};
 	

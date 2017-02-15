@@ -2811,3 +2811,13 @@ li.product-price {
 	margin-left: 10px;
 	border: 1px solid #eee;
 }
+
+/* Hide modals and forms so they can be optionally shown to anonymous visitors */
+
+.drip-lightbox-wrapper { 
+	display: none; 
+}
+
+div[data-offer-plinko="optional"] { 
+	display: none; 
+}
