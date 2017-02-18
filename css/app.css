@@ -531,7 +531,7 @@ p, ul, ol {
   display: table;
 }
 
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 1023px) {
   .container {
     padding: 0 20px;
   }
