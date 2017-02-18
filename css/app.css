@@ -2515,7 +2515,7 @@ h3.ck_form_title {
 	-webkit-box-shadow: none;
 	-moz-box-shadow: none;
 	box-shadow: none;
-	margin: 20px 0px;
+	margin-bottom: 20px;
 	text-align: center;
 	border-radius: 10px;
 	border: 1px solid #888;
