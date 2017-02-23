@@ -64,9 +64,9 @@ So you can't win if you guess at their salaries.
 
 If you underestimate, you're leaving money on the table. If the real answer is that they would pay someone like you up to $75,000 dollars, and you guess they would pay only $65,000, you very literally may have just cost yourself $10,000. 
 
-The one thing that might save you money is if you guessed so badly that you under-shot the minimum they can pay you to do the job. For example, you guessed $65,000, but the minium they pay for that job is $70,000. Then they would pay you $70,000 even though you "only" asked for $65,000—a huge win! Except they're paying you the absolute minimum they possibly can, and you could've gotten a lot more.
+The one thing that might save you money is if you guessed so badly that you under-shot the minimum they can pay you to do the job. For example, you guessed $65,000, but the minimum they pay for that job is $70,000. Then they would pay you $70,000 even though you "only" asked for $65,000—a huge win! Except they're paying you the absolute minimum they possibly can, and you could've gotten a lot more.
 
-If you *over*estimate and guess $85,000, you may set off red flags that cause them to rethink the interview process altogether. This is pretty rare, but you could disqualify yourself by being "too expensive" for htem. If your desired salary is well above their budgeted range, they may just move on to other similar candidates.
+If you *over*estimate and guess $85,000, you may set off red flags that cause them to rethink the interview process altogether. This is pretty rare, but you could disqualify yourself by being "too expensive" for them. If your desired salary is well above their budgeted range, they may just move on to other similar candidates.
 
 This sounds pretty bad, right?
 
@@ -169,7 +169,7 @@ Here is my recommendation for a good answer to the full dreaded salary question:
 
 > "I’m not comfortable sharing my current salary. I would prefer to focus on the value I can add to this company rather than what I’m paid at my current job. I don’t have a specific number in mind for a desired salary, and you know better than I do what value my skillset and experience could bring to your company. I want this move to be a big step forward for me in terms of both responsibility and compensation."
 
-<p class='u-center'><a href="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" target="_blank"><img src="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" alt="The Dreaded Salary Quesiton" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
+<p class='u-center'><a href="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" target="_blank"><img src="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" alt="The Dreaded Salary Question" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
 
 So let's say that you're playing a game, and your goal is to get past The Dreaded Salary Question without sharing your salary requirements. This is Level 1, and the script I just gave you will usually win the game.
 
@@ -273,7 +273,7 @@ There aren't many options left, but this one is very effective. Here we go:
 
 This is a heavy-handed answer, but it's necessary because of the situation. You're basically saying, "I have ethical qualms with giving you the information you're demanding." This has the advantage of putting the pressure back on the recruiter, who now has a clear Catch-22 if they continue to press: They're asking you do something you see as unethical to move forward, but they probably don't want to hire someone unethical.
 
-If they *still* press after thi answer, I'm all out of ideas because I've never seen anyone fail to complete the game with this script.
+If they *still* press after this answer, I'm all out of ideas because I've never seen anyone fail to complete the game with this script.
 
 ## Summarizing your options
 
