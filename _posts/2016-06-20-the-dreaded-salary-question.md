@@ -277,7 +277,7 @@ I already covered why I think this is silly, so let's just cut to the chase: **H
 
 ## Here's your trump card
 
-This is Level 3. It's the last level in this game. You've told them your uncomfortable sharing your salary requirements, and they persisted. You've told them you're happy to confirm if the range they've budgeted is in the ballpark of what you'll consider, and they persisted. 
+This is Level 3. It's the last level in this game. You've told them you're uncomfortable sharing your salary requirements, and they persisted. You've told them you're happy to confirm if the range they've budgeted is in the ballpark of what you'll consider, and they persisted. 
 
 There aren't many options left, but this one is very effective. Here we go:
 
