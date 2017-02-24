@@ -88,7 +88,7 @@ Your job in the interview process is to tell a story about how their company or 
 
 The better you are at telling this story, the more they'll want to hire you. The more they want to hire you, the more they'll be willing to pay, and they could literally change the budgeted salary specifically to give them a better shot at bringing you on board.
 
-Let's go back to our example earlier. Let's say they're hiring you for a role whose budget is $75,000. They ask you to guess what that budget is, and you decline to guess because you ready this article 😉
+Let's go back to our example earlier. Let's say they're hiring you for a role whose budget is $75,000. They ask you to guess what that budget is, and you decline to guess because you read this article 😉
 
 So you move on to the next stage of the interview and do well. Then you talk to another person and you do well. Then you talk to the hiring manager and you do *really* well.
 
