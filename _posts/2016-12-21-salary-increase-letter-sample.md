@@ -21,7 +21,7 @@ Use this template to build your case for a salary increase letter or email. Belo
 </p>
 <hr>
 <p><strong>[3. Greeting]</strong> Hi <strong>[Your manager's name]</strong></p>
-<p><strong>[4. Introduction and request]</strong> Thanks for your time the other day. As we discussed, it has been <strong>[amount of time]</strong> since <strong>["my last significant salary adjustment" OR “since I was hired”]</strong>, and I would like to revisit my salary now that I’m contributing much more to the company. I’ve been researching salaries for </strong>[job title]</strong> in <strong>[industry]</strong> industry, and it looks like the mid-point is around <strong>[mid-point from your research]</strong>. So I would like to request a raise to </strong>[target salary]</strong>.</p> 
+<p><strong>[4. Introduction and request]</strong> Thanks for your time the other day. As we discussed, it has been <strong>[amount of time]</strong> since <strong>["my last significant salary adjustment" OR “since I was hired”]</strong>, and I would like to revisit my salary now that I’m contributing much more to the company. I’ve been researching salaries for <strong>[job title]</strong> in <strong>[industry]</strong> industry, and it looks like the mid-point is around <strong>[mid-point from your research]</strong>. So I would like to request a raise to <strong>[target salary]</strong>.</p> 
 
 <p><strong>[5. Accomplishments Intro]</strong> I’ve been working very hard to find ways to contribute value to our company. Here are some of my accomplishments over the past several months:</p>
 

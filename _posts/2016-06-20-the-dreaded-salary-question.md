@@ -72,6 +72,10 @@ This sounds pretty bad, right?
 
 But wait! It gets *even worse*!
 
+<div class='ad-box' data-offer-plinko="optional">
+	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to The Dreaded Salary Question and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get The Interview Cheat Sheet for FREE</a></p>
+</div>
+
 ## The "real" amount they're willing to pay could increase throughout your interview
 
 So they've asked you to guess what they're willing to pay someone with your skillset and experience to do the job you applied for. And you'll almost certainly guess wrong and cost yourself money or even an opportunity to continue interviewing.
@@ -171,6 +175,10 @@ Here is my recommendation for a good answer to the full dreaded salary question:
 
 <p class='u-center'><a href="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" target="_blank"><img src="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" alt="The Dreaded Salary Question" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
 
+<div class='ad-box' data-offer-plinko="optional">
+	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to The Dreaded Salary Question and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get The Interview Cheat Sheet for FREE</a></p>
+</div>
+
 So let's say that you're playing a game, and your goal is to get past The Dreaded Salary Question without sharing your salary requirements. This is Level 1, and the script I just gave you will usually win the game.
 
 ## What if that's not enough?
@@ -238,6 +246,10 @@ If they discontinue the interview process because you won't share two of the thr
 That's bad news for you even if you get the job. Do you really want to work somewhere that is so myopic that they ignore perfectly qualified candidates simply because the candidate won't make the negotiation easier?
 
 I can't answer that question for you, but I can tell you my answer: "Nope."
+
+<div class='ad-box' data-offer-plinko="optional">
+	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to The Dreaded Salary Question and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get The Interview Cheat Sheet for FREE</a></p>
+</div>
 
 ## What if they keep pushing?
 
