@@ -13,9 +13,9 @@ I love finding new audiences to talk with through interviews, guest posts, and t
 
 For booking and interview requests, send me a message on  [LinkedIn](https://www.linkedin.com/in/joshdoody)!
 
-## Articles
+## Articles and Interviews
 
-* [9 Things to Never Say in a Salary Negotiation](https://www.glassdoor.com/blog/9-things-to-never-say-in-a-salary-negotiation/){:rel="nofollow"} – glassdoor
+* [9 Things to Never Say in a Salary Negotiation](https://www.glassdoor.com/blog/9-things-to-never-say-in-a-salary-negotiation/){:rel="nofollow"} – Glassdoor (also [Business Insider](http://www.businessinsider.com/9-things-you-should-never-say-during-a-salary-negotiation-2017-2){:rel="nofollow"}, [Fast Company](https://www.fastcompany.com/3068323/career-evolution/nine-words-and-phrases-to-avoid-when-youre-negotiating-a-salary){:rel="nofollow"})
 * [How to negotiate a raise](http://www.forbes.com/sites/tomanderson/2016/07/06/how-to-negotiate-a-raise/#6dbd01246fa0){:rel="nofollow"} – Forbes.com
 * [11 ways to ruin a job interview according to three experts](http://www.independent.co.uk/news/business/news/11-ways-to-ruin-a-job-interview-according-to-three-experts-a6721271.html){:rel="nofollow"} – Independent.co.uk
 * [How to (successfully) ask for a raise](https://generalassemb.ly/blog/how-to-successfully-ask-for-a-raise/){:rel="nofollow"} – General Assembly Blog
