@@ -47,6 +47,7 @@ For booking and interview requests, send me a message on  [LinkedIn](https://www
 * [Josh Doody, Author of Fearless Salary Negotiation](https://soundcloud.com/dandanglobal/dailydandan33){:rel="nofollow"} – Daily Dandan
 * [Josh Doody on Salary Negotiation for Software Engineers](http://www.se-radio.net/2016/11/se-radio-episode-275-josh-doody-on-salary-negotiation-for-software-engineers/){:rel="nofollow"} – Software Engineering Radio
 * [Josh Doody Talks About How to Get Your First Development Job](https://www.angularonrails.com/josh-doody-talks-get-first-development-job/){:rel="nofollow"} – Angular on Rails
+* [Fearless Salary Negotiation Tips With Josh Doody](https://www.listenmoneymatters.com/salary-negotiation-tips/){:rel="nofollow"} – Listen Money Matters
 
 ## Talks
 

@@ -10,7 +10,7 @@ What should you say when asked for your current salary or expected salary in a j
 
 This will usually come up in the "pre-interview" or "pre-screen", which is right at the beginning of the interview process. That's why it's such a sneaky question! It's a salary negotiation tactic disguised as a gatekeeper-type interview question.
 
-So when you hear the salary expectations question, you'll be thinking "What do I need to say to get to my next interview? They asked for my current and expected salary, so I'll tell them that to move on."
+So when you hear the salary expectations question, you'll be thinking "What do I need to say to get to my next interview? They asked for my current salary and expected salary, so I'll tell them that to move on."
 
 Here's what that question usually looks like:
 
