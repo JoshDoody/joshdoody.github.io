@@ -62,6 +62,11 @@
           },
           post_drip_response: function(payload) {
             this.settings.track()
+						if(this.is_anon) {
+							console.log("Anonymous");
+							$('[data-offer-plinko="optional"]').show();
+							$('head').append('<style type="text/css">.drip-lightbox-wrapper { display: block; }</style>');
+						};
             // this.settings.score()
             //
             // $.each(this.custom_fields(), function(key, value) {
@@ -127,12 +132,12 @@
             }
 
             traits = $.extend(traits, this.custom_fields())
-            //analytics.identify(traits.email, traits)
 
 						var pageName = document.title.replace(' | Fearless Salary Negotiation','').replace(' | Get Your Next Raise','')
 
             if (pageName.length) {
               this.add_tag('Read - ' + pageName)
+							console.log("Tags: " + this.tags())
             }
           },
           survey_widget: function(survey, drip) {
