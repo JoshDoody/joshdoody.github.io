@@ -197,7 +197,7 @@ It's advised to pass in your own overrides in your initializer vs. overriding th
       jQuery('[data-drip-embedded-form] .dpt').remove()
       jQuery('[data-drip-embedded-form]').each(function(){
         var form = this
-        jQuery(this).append(jQuery('<input type="hidden">').addClass('dpt').attr('name', 'fields[optin_url]').val(window.location.origin + window.location.pathname))
+        jQuery(this).append(jQuery('<input type="hidden">').addClass('dpt').attr('name', 'fields[last_optin_url]').val(window.location.origin + window.location.pathname))
         if (t.is_anon) {
           for (var key in t.custom_fields()) {
             jQuery(this).append(jQuery('<input type="hidden">').addClass('dpt').attr('name', 'fields['+key+']').val(t.custom_fields()[key]))
