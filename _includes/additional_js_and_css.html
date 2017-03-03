@@ -71,23 +71,10 @@
           score: function(drip) {
 
           },
+          increment_score: function(category, article_id) {
+					
+					},
           track: function() {
-            var traits = { anon: true }
-            if (!this.is_anon) {
-              traits = {
-                anon: false,
-                email: this.drip_contact.email,
-                firstName: this.custom_fields()['first_name'],
-                lastName: this.custom_fields()['MS_LNAME']
-              }
-              $.each(this.tags(), function(idx, key) {
-                traits[key] = true
-              })
-            }
-
-            traits = $.extend(traits, this.custom_fields())
-            // analytics.identify(traits.email, traits)
-
 						var pageName = document.title.replace(' | Fearless Salary Negotiation','').replace(' | Get Your Next Raise','')
 
             if (pageName.length) {
