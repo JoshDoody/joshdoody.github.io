@@ -8,6 +8,7 @@
 		<script src="{{ site.baseurl }}/js/jquery.cookie.js" type="text/javascript"></script>
 		<!--script src="{{ site.baseurl }}/js/jquery.modal.js" type="text/javascript"></script-->
 		<script src="{{ site.baseurl }}/js/app.js"  type="text/javascript"></script>
+		<script src="{{ site.baseurl }}/js/drip_pro.js" type="text/javascript"></script>
 		<!--script src="{{ site.baseurl }}/js/destination.js" type="text/javascript"></script-->
 		<!-- Begin production-only code -->
 		{% if jekyll.environment == jekyll.environment %}
@@ -27,34 +28,83 @@
 		</script>
 			
 		<script type="text/javascript">
-			// Logs a page to Drip (getDrip.com) by tagging and adding a Drip event
-			// 
-			// Based on code by Pat Maddox (thanks Pat!)
-			// Updated by Eric Davis (thanks Eric!)
-			// Then updated by Josh Doody (me)
-			//
-			function dripTagPage() {
-			  // Wrap it so we don't break any other JS on the page
-			  try {
-			    // Remove branding
-			    var pageName = document.title.replace(' | Fearless Salary Negotiation','').replace(' | Get Your Next Raise','')
-
-			    // Tag e.g. "Read - The Title of This"
-			    //_dcq.push(["identify", {
-			    //  tags: ["Read - " + pageName]
-				  //}]);
-
-			    // Add event for "Visited FearlessSalaryNegotiation.com" to get timestamp of visit
-					// Event also creates a tag for Read - pageName, hence the Tag above is commented out
-			    _dcq.push(["track", "Visited FearlessSalaryNegotiation.com", {page_title: pageName, path: window.location.pathname}])
-			  } catch (e) {
-			    // no-op
-			  }
-			  return true;
+			window._drip_pro = new DripPro
+			
+			window.drip_plinko = function(drip, page) {
+				var response = {}
+				
+				console.log(drip)
+				
+				return response
 			}
+			
+			window.survey_plinko = function(drip) {
+				
+			}
+			
+			window.drip_replacements = {
+				
+			}
+			
+      jQuery(function(){
+        window._drip_pro.init({
+          debug: true,
+          template_path: '/ad-examples/',
+          survey_trigger: function() {
+            return true // If a question is available, should the survey widget be triggered?
+          },
+          can_display: function(intent, options) {
+            return true // Given the "intent" (like modal), should we show it on this page? Useful for checking to see if you're on the checkout page, etc. and forcing DPT offers to not show.
+          },
+          pre_init: function() {
+            this.settings.track = this.settings.track.bind(this)
+          },
+          post_drip_response: function(payload) {
+            this.settings.track()
+						if(this.is_anon) {
+							console.log("Anonymous");
+							$('[data-offer-plinko="optional"]').show();
+							$('head').append('<style type="text/css">.drip-lightbox-wrapper { display: block; }</style>');
+						};
 
-			dripTagPage();
+          },
+          score: function(drip) {
 
+          },
+          track: function() {
+            var traits = { anon: true }
+            if (!this.is_anon) {
+              traits = {
+                anon: false,
+                email: this.drip_contact.email,
+                firstName: this.custom_fields()['first_name'],
+                lastName: this.custom_fields()['MS_LNAME']
+              }
+              $.each(this.tags(), function(idx, key) {
+                traits[key] = true
+              })
+            }
+
+            traits = $.extend(traits, this.custom_fields())
+            // analytics.identify(traits.email, traits)
+
+						var pageName = document.title.replace(' | Fearless Salary Negotiation','').replace(' | Get Your Next Raise','')
+
+            if (pageName.length) {
+              this.add_tag('Read - ' + pageName)
+            }
+          },
+          survey_widget: function(survey, drip) {
+
+          },
+          renderers: {
+
+          }
+        })
+      })
+		</script>
+			
+		<script type="text/javascript">
 			// function to be called when we want to know about the dripUser for DOM manipulation
 			var dripSetup = {
 			  init: function(successHandler) {
@@ -74,28 +124,8 @@
 			    }]);
 			  }
 			};
-			
-			// show drip modals and optional embedded forms to anonymous visitors
-			var drip_user = function(dripUser) {
-				if(dripUser.isAnon) {
-					console.log("Anonymous");
-					$('[data-offer-plinko="optional"]').show();
-					$('head').append('<style type="text/css">.drip-lightbox-wrapper { display: block; }</style>');
-				};
-			};
-	
-			dripSetup.init(drip_user);
 		</script>
-
-		<script src="{{ site.baseurl }}/js/drip_pro.js" type="text/javascript"></script>
 	
-		<script type="text/javascript">
-		$(function(){
-		   (new DripPro).init({
-				 can_display: function() { return false }
-			 })
-		}) 
-		</script>
 		{% endif %}
 		<!-- End production-only code -->
 		<script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
