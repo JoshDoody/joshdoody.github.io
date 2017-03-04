@@ -66,7 +66,7 @@
 							console.log("Anonymous");
 							$('[data-offer-plinko="optional"]').show();
 							$('head').append('<style type="text/css">.drip-lightbox-wrapper { display: block; }</style>');
-						};
+						}
             // this.settings.score()
             //
             // $.each(this.custom_fields(), function(key, value) {
@@ -170,6 +170,21 @@
 			    }]);
 			  }
 			};
+			
+			// Wait until the DOM is ready and append the buyer's email (from Drip) to buy buttons
+			$(function() {
+				var drip_user = function(dripUser) {
+		
+					if(!dripUser.isAnon) {
+						$("a.sendowl-button").attr('href', function(i, h) {
+								var drip_email = encodeURIComponent(dripUser.rawDripContact.email)
+						    return h + (h.indexOf('?') != -1 ? "&buyer_email="+drip_email : "?buyer_email="+drip_email);
+						});
+					}
+				};
+	
+				dripSetup.init(drip_user);
+			});
 		</script>
 	
 		{% endif %}

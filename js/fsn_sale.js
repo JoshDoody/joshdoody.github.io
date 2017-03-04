@@ -9,7 +9,7 @@ $(document).ready(function () {
 				console.log("FSN_sale: Customer");
 				// Do nothing - they already bought
 			} else if(dripUser.rawDripContact.custom_fields && dripUser.rawDripContact.custom_fields.fsn_offer_expires){
-				console.log("GYNR_sale: Subscriber");
+				console.log("FSN_sale: Subscriber");
 				var now = Math.floor(Date.now() / 1000);
 				var expiry = dripUser.rawDripContact.custom_fields.fsn_offer_expires;
 				var remaining = expiry - now;
