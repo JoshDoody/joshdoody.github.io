@@ -2667,19 +2667,19 @@ table th {
 	width: auto;
 }
 
-@media all and (max-width: 599px) {
+/*@media all and (max-width: 599px) {
 	.clock{
 	    zoom: 0.5;
 	    -moz-transform: scale(0.5)
 	}
 }
 
-@media all and (max-width: 403px) {	
+@media all and (max-width: 403px) {
 	.clock{
 	    zoom: 0.4;
 	    -moz-transform: scale(0.4)
 	}
-}
+}*/
 
 /* gynr styles */
 ul.lesson-list {
