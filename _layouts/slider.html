@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    <div class="page-content">
+      <div class="wrapper">
+				{% include book_blurb_medium.html %}
+	
+				<header class="article-header header--centered">
+
+			    <div class="container container--normal">
+
+			      <h1 class="header__title">{% if page.headline %}{{ page.headline }}{% elsif page.title %}{{ page.title }}{% else %} Fearless Salary Negotiation {% endif %}</h1>
+			      {% if page.tagline %}
+						<h2 class="header__tagline">{{ page.tagline }}</h2>
+						{% else %}
+						<br><br>
+						{% endif %}
+
+			    </div>
+
+			  </header>
+				
+				<main role="main">
+				  {{ content }}
+				</main>
+      </div>
+    </div>
+
+    {% include footer.html %}
+		
+		{% include additional_js_and_css.html %}
+		
+		<div class="notification-bar slider-cta-tics expanded" data-name="CWYW">
+		<div class="notification-bar-wrapper offer">
+		<a href="/interview-cheat-sheet/">
+		<div class="slider-cta">
+		<div class="slider-cta-btn">Get it</div>
+		</div>
+		<img src="/images/InterviewCheatSheet_thumbnail.png" class="slider-icon">
+		<div class="slider-header">Interviews coming up? <strong>Be totally prepared.</strong></div>
+		</a>
+		</div>
+		</div>
+  </body>
+</html>

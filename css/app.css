@@ -2821,3 +2821,267 @@ li.product-price {
 div[data-offer-plinko="optional"] { 
 	display: none; 
 }
+
+/* Slide-in adds for bottom of screen */
+
+.notification-bar a {
+    display: block;
+    height: 100%;
+		text-decoration: none;
+}
+
+.slider-icon {
+    width: 77px;
+    margin-top: -50px;
+		margin-left: 20px;
+    float: left;
+}
+
+.slider-header {
+    font-family: "museo-sans-rounded", sans-serif;
+    font-weight: 100;
+    font-size: 25px;
+    line-height: 36px;
+    color: #fff;
+    padding-top: 33px;
+    padding-left: 130px;
+    padding-right: 170px;
+}
+
+.slider-header span {
+    font-weight: 700;
+}
+
+.slider-cta {
+    float: right;
+    width: 150px;
+}
+
+.slider-cta-btn {
+    margin-top: 35px;
+    background: #924314;
+    color: #fff;
+    font-family: "museo-sans-rounded", sans-serif;
+    font-weight: 700;
+    border-radius: 5px;
+    padding: 5px 15px;
+    text-align: center;
+}
+
+.slider-cta-tics {
+    background: #F37021!important;
+}
+
+.slider-cta-proposals {
+    background: #0488bb!important;
+}
+
+.slider-cta-proposals .slider-cta-btn {
+    background: #084e78;
+}
+
+.slider-cta-proposals .slider-header {
+    padding-left: 150px;
+}
+
+.slider-cta-profitable {
+    background: #568b37!important;
+}
+
+.slider-cta-profitable .slider-cta-btn {
+    background: #306511;
+}
+
+.slider-cta-profitable .slider-header {
+    padding-left: 140px;
+}
+
+@media screen and (max-width: 33.9em) {
+    .notification-bar .notification-bar-wrapper {
+        width: 100%;
+    }
+    .slider-icon,
+    .slider-cta-btn {
+        display: none;
+    }
+    .slider-header {
+        padding: 12px;
+        text-align: center;
+        font-size: 21px;
+        line-height: 24px;
+    }
+}
+
+.notification-bar {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-transition-property: top, bottom;
+    -webkit-transition-duration: 0.5s;
+    background: #fff;
+    height: 100px;
+    position: fixed;
+    width: 100%;
+    bottom: -150px;
+    left: 0;
+    z-index: 3000;
+    border-top: 1px solid #924314;
+    box-shadow: 0 0 25px #cecece;
+}
+
+.notification-bar .notification-bar-wrapper {
+    width: 950px;
+    margin: 0 auto;
+    display: table;
+    height: 100%;
+    position: relative;
+}
+
+.notification-bar .notification-bar-wrapper .prompt, .notification-bar .notification-bar-wrapper .offer {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.notification-bar .notification-bar-wrapper .prompt {
+    width: 60%;
+}
+
+.notification-bar .notification-bar-wrapper .offer {
+    width: 40%;
+}
+
+.notification-bar a {
+    text-decoration: none;
+}
+
+.notification-bar .prompt {
+    font-size: 90%;
+    line-height: 150%;
+}
+
+.notification-bar .quote {
+    font-size: 115%;
+}
+
+.notification-bar .quote em {
+    font-size: 80%;
+}
+
+.notification-bar .optin-promo-headline {
+    font-family: "museo-sans-rounded", sans-serif;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 110%;
+    margin-bottom: 2px;
+}
+
+.notification-bar .optin-promo-text {
+    font-size: 100%;
+}
+
+.notification-bar input[type=email] {
+    margin-left: 30px;
+    height: 30px;
+    border: 1px solid #ddd;
+    padding: 0 6px;
+    position: relative;
+    top: -1px;
+}
+
+.notification-bar input[type=submit] {
+    background: #fff;
+    padding: 3px 10px;
+    margin-left: 0;
+    outline: none;
+}
+
+@-webkit-keyframes bounceInUp {
+    from, 60%, 75%, 90%, to {
+        -webkit-animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
+        animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
+    }
+
+    from {
+        bottom: -150px;
+        opacity: 0;
+        -webkit-transform: translate3d(0, 3000px, 0);
+        transform: translate3d(0, 3000px, 0);
+    }
+
+    60% {
+        bottom: 0;
+        opacity: 1;
+        -webkit-transform: translate3d(0, -20px, 0);
+        transform: translate3d(0, -20px, 0);
+    }
+
+    75% {
+        -webkit-transform: translate3d(0, 10px, 0);
+        transform: translate3d(0, 10px, 0);
+    }
+
+    90% {
+        -webkit-transform: translate3d(0, -5px, 0);
+        transform: translate3d(0, -5px, 0);
+    }
+
+    to {
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+@keyframes bounceInUp {
+    from, 60%, 75%, 90%, to {
+        -webkit-animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
+        animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
+    }
+
+    from {
+        opacity: 0;
+        -webkit-transform: translate3d(0, 3000px, 0);
+        transform: translate3d(0, 3000px, 0);
+    }
+
+    60% {
+        opacity: 1;
+        -webkit-transform: translate3d(0, -20px, 0);
+        transform: translate3d(0, -20px, 0);
+    }
+
+    75% {
+        -webkit-transform: translate3d(0, 10px, 0);
+        transform: translate3d(0, 10px, 0);
+    }
+
+    90% {
+        -webkit-transform: translate3d(0, -5px, 0);
+        transform: translate3d(0, -5px, 0);
+    }
+
+    to {
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+.expanded {
+    -webkit-animation-name: bounceInUp;
+    animation-name: bounceInUp;
+    bottom: 0 !important;
+}
+
+@media (max-width: 940px) {
+    .notification-bar {
+        height: 78px;
+    }
+}
+
+@media only screen and (min-width : 320px) and (max-width : 568px) {
+    .notification-bar {
+        height: 68px;
+				max-width: 100%!important;
+				overflow: hidden;
+    }
+}
