@@ -2872,18 +2872,6 @@ div[data-offer-plinko="optional"] {
     background: #F37021!important;
 }
 
-.slider-cta-proposals {
-    background: #0488bb!important;
-}
-
-.slider-cta-proposals .slider-cta-btn {
-    background: #084e78;
-}
-
-.slider-cta-proposals .slider-header {
-    padding-left: 150px;
-}
-
 .slider-cta-profitable {
     background: #568b37!important;
 }
@@ -3081,7 +3069,5 @@ div[data-offer-plinko="optional"] {
 @media only screen and (min-width : 320px) and (max-width : 568px) {
     .notification-bar {
         height: 68px;
-				max-width: 100%!important;
-				overflow: hidden;
     }
 }
