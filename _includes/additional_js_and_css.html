@@ -32,6 +32,26 @@
 			
 			window.drip_plinko = function(drip, page) {
 				var response = {}
+				var context = '{{ page.context }}'
+				
+				if (drip.is_anon) {
+					if (context == 'raise') {
+						response = {
+							offer: 'salary-mistakes-course',
+							footer: drip.file('salary-mistakes-course-footer')
+						}
+					} else if (context == 'negotiate') {
+						response = {
+							offer: 'salary-negotiation-templates',
+							footer: drip.file('salary-negotiation-templates-footer')
+						}	
+					} else if (context == 'interview') {
+						response = {
+							offer: 'tics',
+							footer: drip.file('tics-footer')
+						}
+					}
+				}
 								
 				return response
 			}
@@ -47,7 +67,7 @@
       jQuery(function(){
         window._drip_pro.init({
           debug: false,
-          template_path: '/ad-examples/',
+          template_path: '/ads/',
           survey_trigger: function() {
             return true // If a question is available, should the survey widget be triggered?
           },
@@ -144,7 +164,34 @@
 
           },
           renderers: {
-
+					  footer: function(intent, content, options) {
+					      var os = jQuery.extend({
+					          threshold: 40
+					      }, options)
+					      if (this.dom_slider)
+					          this.dom_slider.remove()
+					      var dom = jQuery(content)
+					      this.dom_slider = dom
+					      jQuery('body').append(dom)
+					      var has_scrolled = false
+					      jQuery(window).scroll(function() {
+					          var scroll_speed = 800;
+					          var wintop = jQuery(window).scrollTop(),
+					              docheight = jQuery(document).height(),
+					              winheight = jQuery(window).height()
+					          scrolled = ((wintop / (docheight - winheight)) * 100)
+					          if ((docheight - wintop) < 900) {
+					              dom.removeClass('expanded')
+					          } else if (scrolled > os.threshold) {
+					              if (!has_scrolled) {
+					                  this.debug('Displaying slider')
+					                  has_scrolled = true
+					                  $(document).trigger('dpt:slide', [new this.fn_helper(this), this])
+					              }
+					              dom.addClass('expanded')
+					          }
+					      }.bind(this))
+					  }
           }
         })
       })
