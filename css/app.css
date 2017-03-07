@@ -2840,7 +2840,7 @@ div[data-offer-plinko="optional"] {
 .slider-header {
     font-family: "museo-sans-rounded", sans-serif;
     font-weight: 100;
-    font-size: 25px;
+    font-size: 22px;
     line-height: 36px;
     color: #fff;
     padding-top: 33px;
@@ -2872,16 +2872,21 @@ div[data-offer-plinko="optional"] {
     background: #F37021!important;
 }
 
-.slider-cta-profitable {
+.slider-cta-salary-negotiation-templates {
+    background: #00A9FF!important;
+}
+
+.slider-cta-salary-negotiation-templates .slider-cta-btn {
+    background: #006599;
+}
+
+
+.slider-cta-salary-mistakes-course {
     background: #568b37!important;
 }
 
-.slider-cta-profitable .slider-cta-btn {
+.slider-cta-salary-mistakes-course .slider-cta-btn {
     background: #306511;
-}
-
-.slider-cta-profitable .slider-header {
-    padding-left: 140px;
 }
 
 .notification-bar {
