@@ -3,6 +3,7 @@ layout: book_excerpt
 title: Ask for a raise in person and follow up with an email
 tagline: Ask for a raise in your regular 1-on-1 or schedule a dedicated meeting
 excerpt: How to ask for a raise and then follow up with a salary increase email request that can be circulated throughout the approval process.
+context: raise
 last_modified_at: 2016-12-27
 book_section: 12
 chapter: raise

@@ -4,6 +4,7 @@ title: Salary increase letter to ask for a raise - free email template
 headline: Sample salary increase letter
 tagline: Use this email template to ask for a raise
 excerpt: Ask for a salary increase with this detailed template you can use to write the perfect case
+context: raise
 last_modified_at: 2016-12-23
 ---
 Asking for a salary increase can be tricky, even if you have a strong case to back you up. But it's a lot easier when you write your case in a letter or email before you ask.

@@ -3,6 +3,7 @@ layout: book_excerpt
 title: What to do when you don't get a raise
 tagline: Work with your manager to make a plan
 excerpt: Even if you put in the work, there's no guarantee you'll be get a raise. Here's how to plan your next move after bad news.
+context: raise
 last_modified_at: 2016-06-24
 book_section: 12
 chapter: raise

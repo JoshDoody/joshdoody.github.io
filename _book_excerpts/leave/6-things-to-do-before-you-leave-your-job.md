@@ -4,6 +4,7 @@ title: 6 things to do before you leave your job
 tagline: A checklist to leave your job on good terms
 excerpt: Here's how to use your last two weeks to make a strong impression on your colleagues and expand your professional network.
 has_basic_bundle_pitch: true
+context: raise
 last_modified_at: 2016-06-29
 book_section: 9
 chapter: leave
