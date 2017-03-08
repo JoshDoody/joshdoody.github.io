@@ -2832,7 +2832,7 @@ div[data-offer-plinko="optional"] {
 
 .slider-icon {
     width: 77px;
-    margin-top: -50px;
+    margin-top: -40px;
 		margin-left: 20px;
     float: left;
 }
@@ -2905,6 +2905,14 @@ div[data-offer-plinko="optional"] {
     z-index: 3000;
     border-top: 1px solid #924314;
     box-shadow: 0 0 25px #cecece;
+}
+
+.notification-bar.slider-cta-salary-negotiation-templates {
+  border-top: 1px solid #006599;
+}
+
+.notification-bar.slider-cta-salary-mistakes-course {
+  border-top: 1px solid #306511;
 }
 
 .notification-bar .notification-bar-wrapper {
@@ -3064,6 +3072,9 @@ div[data-offer-plinko="optional"] {
   .slider-cta-btn {
       display: none;
   }
+	.slider-icon {
+	    margin-top: -50px;
+	}
 }
 
 @media (max-width: 768px) {
