@@ -10,8 +10,6 @@
 		<script src="{{ site.baseurl }}/js/app.js"  type="text/javascript"></script>
 		<script src="{{ site.baseurl }}/js/drip_pro.js" type="text/javascript"></script>
 		<!--script src="{{ site.baseurl }}/js/destination.js" type="text/javascript"></script-->
-		<!-- Begin production-only code -->
-		{% if jekyll.environment == jekyll.environment %}
 		<!-- Drip -->
 		<script type="text/javascript">
 		  var _dcq = _dcq || [];
@@ -187,7 +185,6 @@
 					                  this.debug('Displaying slider')
 					                  has_scrolled = true
 					                  $(document).trigger('dpt:slide', [new this.fn_helper(this), this])
-														{% if jekyll.environment == 'production' %}
 														switch (options.offer) {
 														  case 'salary-mistakes-course':
 																ga('send', {
@@ -214,7 +211,6 @@
 																});
 																break
 														}
-														{% endif %}
 					              }
 					              dom.addClass('expanded')
 					          }
@@ -262,8 +258,6 @@
 			});
 		</script>
 	
-		{% endif %}
-		<!-- End production-only code -->
 		<script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 		{% for js_name in page.extra_js %}
 		<script src="{{ site.baseurl }}/js/{{ js_name }}" type="text/javascript"></script>
