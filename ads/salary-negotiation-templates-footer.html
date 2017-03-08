@@ -1,6 +1,6 @@
 <div class="notification-bar slider-cta-salary-negotiation-templates">
 	<div class="notification-bar-wrapper offer">
-		<a href="/job-offer-letter-response-templates/">
+		<a id="slider-cta" href="/job-offer-letter-response-templates/">
 			<div class="slider-cta">
 				<div class="slider-cta-btn">Get them now</div>
 			</div>
@@ -9,3 +9,40 @@
 		</a>
 	</div>
 </div>
+{% if jekyll.environment == 'production' %}
+<script type="text/javascript">
+	var cta_link = document.getElementById('slider-cta');
+
+	var ctaButtonHandler = function(event) {
+
+	  // Prevents the browser from clicking the link
+	  // and thus unloading the current page.
+	  event.preventDefault();
+
+	  // Creates a timeout to call `clickLink` after 250ms.
+	  setTimeout(clickLink, 250);
+
+	  // Keeps track of whether or not the link has been clicked.
+	  // This prevents the link from being clicked twice in cases
+	  // where `hitCallback` fires normally.
+	  var linkClicked = false;
+
+	  function clickLink() {
+	    if (!linkClicked) {
+	      linkClicked = true;
+			  cta_link.removeEventListener('click', ctaButtonHandler);
+		    cta_link.click();
+	    }
+	  }
+
+	  // Sends the event to Google Analytics and
+	  // re-clicks the link once the hit is done.
+	  ga('send', 'event', 'Slider', 'click', 'Salary Negotiation Templates', {
+	    hitCallback: clickLink
+	  });
+	};
+
+	// Adds a listener for the "click" event.
+	cta_link.addEventListener('click', ctaButtonHandler);
+</script>
+{% endif %}

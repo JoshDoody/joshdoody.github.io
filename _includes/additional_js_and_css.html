@@ -38,17 +38,17 @@
 					if (context == 'raise') {
 						response = {
 							offer: 'salary-mistakes-course',
-							footer: drip.file('salary-mistakes-course-footer')
+							footer: [drip.file('salary-mistakes-course-footer'), 'footer', { context: 'raise' }]
 						}
 					} else if (context == 'negotiate') {
 						response = {
 							offer: 'salary-negotiation-templates',
-							footer: drip.file('salary-negotiation-templates-footer')
+							footer: [drip.file('salary-negotiation-templates-footer'), 'footer', { context: 'negotiate' }]
 						}	
 					} else if (context == 'interview') {
 						response = {
 							offer: 'tics',
-							footer: drip.file('tics-footer')
+							footer: [drip.file('tics-footer'), 'footer', { context: 'interview' }]
 						}
 					}
 				}
@@ -187,6 +187,34 @@
 					                  this.debug('Displaying slider')
 					                  has_scrolled = true
 					                  $(document).trigger('dpt:slide', [new this.fn_helper(this), this])
+														{% if jekyll.environment == 'production' %}
+														switch (options.context) {
+														  case 'raise':
+																ga('send', {
+																	hitType: 'event',
+																	eventCategory: 'Slider',
+																	eventAction: 'show',
+																	eventLabel: 'Salary Mistakes Course'
+																});
+																break
+														  case 'negotiate':
+																ga('send', {
+																	hitType: 'event',
+																	eventCategory: 'Slider',
+																	eventAction: 'show',
+																	eventLabel: 'Salary Negotiation Templates'
+																});
+																break
+														  case 'interview':
+																ga('send', {
+																	hitType: 'event',
+																	eventCategory: 'Slider',
+																	eventAction: 'show',
+																	eventLabel: 'Interview Cheat Sheet'
+																});
+																break
+														}
+														{% endif %}
 					              }
 					              dom.addClass('expanded')
 					          }
