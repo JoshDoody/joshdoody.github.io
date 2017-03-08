@@ -38,17 +38,17 @@
 					if (context == 'raise') {
 						response = {
 							offer: 'salary-mistakes-course',
-							footer: [drip.file('salary-mistakes-course-footer'), 'footer', { context: 'raise' }]
+							footer: [drip.file('salary-mistakes-course-footer'), 'footer', { offer: 'salary-mistakes-course' }]
 						}
 					} else if (context == 'negotiate') {
 						response = {
 							offer: 'salary-negotiation-templates',
-							footer: [drip.file('salary-negotiation-templates-footer'), 'footer', { context: 'negotiate' }]
+							footer: [drip.file('salary-negotiation-templates-footer'), 'footer', { offer: 'salary-negotiation-templates' }]
 						}	
 					} else if (context == 'interview') {
 						response = {
 							offer: 'tics',
-							footer: [drip.file('tics-footer'), 'footer', { context: 'interview' }]
+							footer: [drip.file('tics-footer'), 'footer', { offer: 'tics' }]
 						}
 					}
 				}
@@ -188,8 +188,8 @@
 					                  has_scrolled = true
 					                  $(document).trigger('dpt:slide', [new this.fn_helper(this), this])
 														{% if jekyll.environment == 'production' %}
-														switch (options.context) {
-														  case 'raise':
+														switch (options.offer) {
+														  case 'salary-mistakes-course':
 																ga('send', {
 																	hitType: 'event',
 																	eventCategory: 'Slider',
@@ -197,7 +197,7 @@
 																	eventLabel: 'Salary Mistakes Course'
 																});
 																break
-														  case 'negotiate':
+														  case 'salary-negotiation-templates':
 																ga('send', {
 																	hitType: 'event',
 																	eventCategory: 'Slider',
@@ -205,7 +205,7 @@
 																	eventLabel: 'Salary Negotiation Templates'
 																});
 																break
-														  case 'interview':
+														  case 'tics':
 																ga('send', {
 																	hitType: 'event',
 																	eventCategory: 'Slider',
