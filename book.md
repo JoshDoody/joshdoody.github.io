@@ -3,6 +3,7 @@ layout: post
 title: The complete salary negotiation guide
 tagline: Read Fearless Salary Negotiation for free
 excerpt: Read Fearless Salary Negotiation online for free and quickly learn everything you need to know about salary negotiation in one place.
+context: interview
 last_modified_at: 2016-07-05
 share_title: Read Fearless Salary Negotiation for free
 ---

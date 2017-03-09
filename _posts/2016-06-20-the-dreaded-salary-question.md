@@ -4,6 +4,7 @@ title: “What’s your current salary?” is a trap interview question—How to
 tagline: A word-for-word answer to avoid making one of the biggest interview mistakes
 excerpt: The exact words to avoid sharing your current salary or expected salary when asked for your salary expectations in an interview.
 og-image: DreadedSalaryQuestion.png
+context: interview
 last_modified_at: 2017-02-23
 ---
 What should you say when asked for your current salary or expected salary in a job interview?

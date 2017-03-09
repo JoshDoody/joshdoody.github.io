@@ -3,6 +3,7 @@ layout: book_excerpt
 title: How to prepare for a job interview
 tagline: Things to do before interviewing with a new company
 excerpt: Preparing for job interviews is extremely important. Here are some things you can do to prepare for your next job interview.
+context: interview
 last_modified_at: 2016-06-25
 book_section: 7
 chapter: interview

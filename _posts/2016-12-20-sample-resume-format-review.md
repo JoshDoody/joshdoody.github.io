@@ -4,6 +4,7 @@ title: Sample résumé format review
 headline: Résumé format review for an experienced Software Developer
 tagline: Stand out from other candidates with a strong résumé
 excerpt: Stand out from other candidates by streamlining your résumé and highlighting your key qualifications
+context: interview
 last_modified_at: 2016-12-20
 og-image: sample-resume-format-review_thumbnail.png
 ---

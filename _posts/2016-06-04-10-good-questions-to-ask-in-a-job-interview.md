@@ -4,6 +4,7 @@ title: 10 job interview questions <em>you</em> can ask
 share_title: 10 good questions you can ask in a job interview
 tagline: Stand out as a candidate and learn more about the job opportunity
 excerpt: 10 good job interview questions you can ask to stand out and learn more about the opportunity.
+context: interview
 last_modified_at: 2016-10-05
 og-image: JobInterviewQuestionsYouCanAsk.jpg
 ---
