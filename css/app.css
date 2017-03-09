@@ -2880,13 +2880,24 @@ div[data-offer-plinko="optional"] {
     background: #006599;
 }
 
-
 .slider-cta-salary-mistakes-course {
     background: #568b37!important;
 }
 
 .slider-cta-salary-mistakes-course .slider-cta-btn {
     background: #306511;
+}
+
+.slider-cta-fsn {
+    background: #888888!important;
+}
+
+.slider-cta-fsn .slider-cta-btn {
+    background: #F37021;
+}
+
+.slider-cta-fsn .slider-icon {
+    margin-top: -50px;
 }
 
 .notification-bar {
@@ -2905,6 +2916,7 @@ div[data-offer-plinko="optional"] {
     z-index: 3000;
     border-top: 1px solid #924314;
     box-shadow: 0 0 25px #cecece;
+		opacity: .9;
 }
 
 .notification-bar.slider-cta-salary-negotiation-templates {
@@ -2913,6 +2925,10 @@ div[data-offer-plinko="optional"] {
 
 .notification-bar.slider-cta-salary-mistakes-course {
   border-top: 1px solid #306511;
+}
+
+.notification-bar.slider-cta-fsn {
+  border-top: 1px solid #555555;
 }
 
 .notification-bar .notification-bar-wrapper {
@@ -3068,6 +3084,7 @@ div[data-offer-plinko="optional"] {
 	    padding-right: 33px;
 			padding-bottom: 33px;
 			text-align: center;
+			text-decoration: underline;
 	}
   .slider-cta-btn {
       display: none;
@@ -3075,11 +3092,15 @@ div[data-offer-plinko="optional"] {
 	.slider-icon {
 	    margin-top: -50px;
 	}
+	
+	.slider-cta-fsn .slider-icon {
+	    margin-top: -55px;
+	}
 }
 
 @media (max-width: 768px) {
   .notification-bar {
-      height: 68px;
+      height: auto;
   }
   .slider-icon {
       display: none;

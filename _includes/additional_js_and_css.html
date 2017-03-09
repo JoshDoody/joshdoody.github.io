@@ -49,6 +49,11 @@
 							footer: [drip.file('tics-footer'), 'footer', { offer: 'tics' }]
 						}
 					}
+				} else if (!drip.has_tag('Purchased - FSN - Bundle')) {
+					response = {
+						offer: 'fsn',
+						footer: [drip.file('fsn-footer'), 'footer', { offer: 'fsn' }]
+					}
 				}
 								
 				return response
@@ -208,6 +213,14 @@
 																	eventCategory: 'Slider',
 																	eventAction: 'Show ad',
 																	eventLabel: 'Interview Cheat Sheet'
+																});
+																break
+														  case 'fsn':
+																ga('send', {
+																	hitType: 'event',
+																	eventCategory: 'Slider',
+																	eventAction: 'Show ad',
+																	eventLabel: 'Fearless Salary Negotiation'
 																});
 																break
 														}
