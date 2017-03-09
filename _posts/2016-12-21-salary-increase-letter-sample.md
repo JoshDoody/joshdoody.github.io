@@ -2,12 +2,83 @@
 layout: post
 title: Salary increase letter to ask for a raise - free email template
 headline: Sample salary increase letter
-tagline: Use this email template to ask for a raise
-excerpt: Ask for a salary increase with this detailed template you can use to write the perfect case
+tagline: Use these email templates to ask for a raise
+excerpt: Ask for a salary increase with these detailed templates you can use to schedule a meeting and write the perfect case.
 context: raise
-last_modified_at: 2016-12-23
+last_modified_at: 2017-03-09
 ---
-Asking for a salary increase can be tricky, even if you have a strong case to back you up. But it's a lot easier when you write your case in a letter or email before you ask.
+Asking for a salary increase can be tricky, even if you have a strong case to back you up. The process can seem mysterious and even a little risky.
+
+But it's a lot easier to ask for a raise when you feel ready and have the tools to ask for the right thing in the right way.
+
+## Ask for a time to discuss your salary
+
+Salary negotiation—whether when you're changing jobs or working to increase your salary at your current job—is a collaboration. You're not so much asking your manager to give you a raise as you are asking your manager to work with you to get a raise.
+
+The first step to collaborating with your manager to get a raise is to schedule a time to talk about it. This can be awkward, but it doesn't have to be.
+
+Here are a few email templates you can use to initiate the conversation to ask for a salary increase.
+
+### If you have a regular 1-on-1 with your manager
+
+If you have a regular 1-on-1 with your manager (as infrequently as once a month), that's the perfect time to talk about increasing our salary. All you need to do is give your manager a heads-up so they have time to prepare for the discussion and maybe do a little research to see what might be possible.
+
+Here's an email template you can use to give your manager a heads-up that you would like to talk about your compensation in your next 1-on-1:
+
+<div class='sample-email'>
+<p>
+	<strong>To: [Your manager]</strong><br>
+	<strong>Subject: A topic for our next 1-on-1</strong>
+</p>
+<hr>
+<p>Hi [Manager name]</p>
+<p>Do you mind if we use a few minutes of our next 1-on-1 to talk about my compensation? It won't take long, and I just wanted to see if we can set aside a few minutes for that topic.</p>
+<p>Talk to you soon!</p>
+
+<p>[Your name]</p>
+</div>
+
+### If you  do NOT have a regular 1-on-1 with your manager
+
+This letter is similar, but you'll also need to ask if you can schedule a meeting.
+
+Here's an email template you can use to give your manager a heads-up that you would like to schedule a meeting to talk about your compensation:
+
+<div class='sample-email'>
+<p>
+	<strong>To: [Your manager]</strong><br>
+	<strong>Subject: Are you available to meet next week?</strong>
+</p>
+<hr>
+<p>Hi [Manager name]</p>
+<p>Are you available for a short meeting next week to talk about my compensation? It won't take long, and I just wanted to see if we can set aside a few minutes some time soon.</p>
+<p>Here are some days and times that seem good for both of us:</p>
+<ul>
+	<li><strong>[Weekday], [Date] at [Time]</strong></li>
+	<li><strong>[Example]</strong> Tuesday, January 5 at 10:30 AM</li>
+	<li><strong>[Example]</strong> Wednesday, January 6 at 2:15 PM</li>
+</ul>
+<p><strong>Do any of those times work for you?</strong> If not, feel free to suggest some times that do work for you and I'll find one that works!</p>
+<p>Thanks for your time!</p>
+
+<p>[Your name]</p>
+</div>
+
+### If you use internal chat like Slack or Google Chat
+
+You may not even need to send a letter to your manager to schedule a time. You can just reach out in Slack (via DM) or Google Chat.
+
+Here's what you might say if you have regular 1-on-1s:
+
+> Do you mind if we use a few minutes of our next 1-on-1 to talk about my compensation? It won't take long, and I just wanted to see if we can set aside a few minutes for that topic.
+
+And here's what you might say if you don't have regular 1-on-1s:
+
+> Are you available for a short meeting next week to talk about my compensation? It won't take long, and I just wanted to see if we can set aside a few minutes some time soon.
+
+## A salary increase email template to help you build your case
+
+Once you've scheduled a time with your manager, it will help to be as organized and prepared as possible. Remember, you're collaborating with your manager to get a raise, so you want to make it as easy as possible for them.
 
 Use this template to build your case for a salary increase letter or email. Below the example is a detailed explanation of each section and how to make sure your salary increase request has all the components you need to ask for a raise.
 
