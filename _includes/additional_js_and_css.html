@@ -49,7 +49,7 @@
 							footer: [drip.file('tics-footer'), 'footer', { offer: 'tics' }]
 						}
 					}
-				} else if (!drip.has_tag('Purchased - FSN - Bundle')) {
+				} else if (!drip.has_tag('Purchased - FSN - Bundle') && !(context == 'sales-page')) {
 					response = {
 						offer: 'fsn',
 						footer: [drip.file('fsn-footer'), 'footer', { offer: 'fsn' }]
