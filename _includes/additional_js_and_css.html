@@ -36,23 +36,23 @@
 					if (context == 'raise') {
 						response = {
 							offer: 'salary-mistakes-course',
-							footer: [drip.file('salary-mistakes-course-footer'), 'footer', { offer: 'salary-mistakes-course' }]
+							footer: [drip.file('salary-mistakes-course-footer'), 'footer', { offer: 'salary-mistakes-course', event_label: 'Salary Mistakes Course' }]
 						}
 					} else if (context == 'negotiate') {
 						response = {
 							offer: 'salary-negotiation-templates',
-							footer: [drip.file('salary-negotiation-templates-footer'), 'footer', { offer: 'salary-negotiation-templates' }]
+							footer: [drip.file('salary-negotiation-templates-footer'), 'footer', { offer: 'salary-negotiation-templates', event_label: 'Salary Negotiation Templates' }]
 						}	
 					} else if (context == 'interview') {
 						response = {
 							offer: 'tics',
-							footer: [drip.file('tics-footer'), 'footer', { offer: 'tics' }]
+							footer: [drip.file('tics-footer'), 'footer', { offer: 'tics', event_label: 'Interview Cheat Sheet' }]
 						}
 					}
 				} else if (!drip.has_tag('Purchased - FSN - Bundle') && !(context == 'sales-page')) {
 					response = {
 						offer: 'fsn',
-						footer: [drip.file('fsn-footer'), 'footer', { offer: 'fsn' }]
+						footer: [drip.file('fsn-footer'), 'footer', { offer: 'fsn', event_label: 'Fearless Salary Negotiation' }]
 					}
 				}
 								
@@ -190,40 +190,12 @@
 					                  this.debug('Displaying slider')
 					                  has_scrolled = true
 					                  $(document).trigger('dpt:slide', [new this.fn_helper(this), this])
-														switch (options.offer) {
-														  case 'salary-mistakes-course':
-																ga('send', {
-																	hitType: 'event',
-																	eventCategory: 'Slider',
-																	eventAction: 'Show ad',
-																	eventLabel: 'Salary Mistakes Course'
-																});
-																break
-														  case 'salary-negotiation-templates':
-																ga('send', {
-																	hitType: 'event',
-																	eventCategory: 'Slider',
-																	eventAction: 'Show ad',
-																	eventLabel: 'Salary Negotiation Templates'
-																});
-																break
-														  case 'tics':
-																ga('send', {
-																	hitType: 'event',
-																	eventCategory: 'Slider',
-																	eventAction: 'Show ad',
-																	eventLabel: 'Interview Cheat Sheet'
-																});
-																break
-														  case 'fsn':
-																ga('send', {
-																	hitType: 'event',
-																	eventCategory: 'Slider',
-																	eventAction: 'Show ad',
-																	eventLabel: 'Fearless Salary Negotiation'
-																});
-																break
-														}
+														ga('send', {
+															hitType: 'event',
+															eventCategory: 'Slider',
+															eventAction: 'Show ad',
+															eventLabel: options.event_label
+														});
 					              }
 					              dom.addClass('expanded')
 					          }
