@@ -3,6 +3,7 @@ layout: post
 title: How watching Shark Tank will improve your negotiation skills
 tagline: Learn how to think like a Shark
 excerpt: A four-phase approach to improve your negotiation skills by watching Shark Tank.
+context: negotiate
 og-image: SharkTankCast_TitleBottom.png
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: “How long until I hear back after a job interview?”
 tagline: It depends! Here are some email templates to help you find out.
 excerpt: How long you should wait to hear back, and how often you should follow up after a job interview.
+context: negotiate
 ---
 You just finished an interview and you think it went pretty well. Or maybe it didn't? You want to play it cool and wait to hear back, but you know the recruiter is probably busy with other candidates and you don't want to fall through the cracks.
 

@@ -3,6 +3,7 @@ layout: book_excerpt
 title: Preparing for your final salary negotiation discussion
 tagline: Prepare you script ahead of time so you don't make a mistake
 excerpt: After you counter offer, you'll usually have one more discussion to finalize your compensation. Here is how to prepare for your final salary negotiation discussion.
+context: negotiate
 last_modified_at: 2016-06-25
 book_section: 8
 chapter: negotiate

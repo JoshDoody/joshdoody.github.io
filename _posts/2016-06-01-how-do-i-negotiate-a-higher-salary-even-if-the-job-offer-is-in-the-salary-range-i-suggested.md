@@ -3,6 +3,7 @@ layout: post
 title: “How do I negotiate a higher salary even if the job offer is in the salary range I suggested?”
 tagline: How to negotiate salary even after the company meets your stated salary range
 excerpt: One of the most common starting salary neogotiation mistakes is disclosing your current or desired salary during the interview process. Here's how to negotiate salary even after suggesting a salary range.
+context: negotiate
 ---
 
 First things first: **I strongly recommend that you don't disclose your current or desired salary during your job interviews** because you could end up boxed into the range you suggest and cost yourself a lot of money.

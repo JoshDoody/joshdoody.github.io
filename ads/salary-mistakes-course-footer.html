@@ -9,7 +9,7 @@
 		</a>
 	</div>
 </div>
-{% if jekyll.environment == 'production' %}
+
 <script type="text/javascript">
 	var cta_link = document.getElementById('slider-cta');
 
@@ -37,7 +37,7 @@
 
 	  // Sends the event to Google Analytics and
 	  // re-clicks the link once the hit is done.
-	  ga('send', 'event', 'Slider', 'click', 'Salary Mistakes Course', {
+	  ga('send', 'event', 'Slider', 'Click ad', 'Salary Mistakes Course', {
 	    hitCallback: clickLink
 	  });
 	};
@@ -45,4 +45,3 @@
 	// Adds a listener for the "click" event.
 	cta_link.addEventListener('click', ctaButtonHandler);
 </script>
-{% endif %}

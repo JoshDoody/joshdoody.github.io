@@ -4,6 +4,7 @@ title: Five salary negotiation tactics everyone can use to negotiate starting sa
 headline: Earn more money with these five salary negotiation tactics
 tagline: Salary negotiation tactics to maximize your starting salary at a new job
 excerpt: Five salary negotiation tactics that everyone can use to negotiate starting salary
+context: negotiate
 last_modified_at: 2016-10-24
 ---
 Salary negotiation doesn't have to be intimidating. [Fearless Salary Negotiation]({{ site.baseurl }}) is a deep dive into the strategy and tactics of successful salary negotiation, but what if you don't have time for a deep dive? 

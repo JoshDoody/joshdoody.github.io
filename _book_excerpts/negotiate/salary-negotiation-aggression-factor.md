@@ -3,6 +3,7 @@ layout: book_excerpt
 title: You aggression factor
 tagline: How aggressive should you be when you negotiate starting salary?
 excerpt: A simple way to determine how aggressive you should be when negotiating starting salary.
+context: negotiate
 last_modified_at: 2016-06-25
 book_section: 8
 chapter: negotiate

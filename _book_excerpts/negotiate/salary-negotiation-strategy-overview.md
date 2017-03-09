@@ -3,6 +3,7 @@ layout: book_excerpt
 title: Why negotiate starting salary?
 tagline: You should negotiate staring salary. Here's why.
 excerpt: You should negotiate your starting salary to maximize your pay when starting a new job. Here's why.
+context: negotiate
 last_modified_at: 2016-06-25
 canonical_url: 'https://fearlesssalarynegotiation.com/why-negotiate-starting-salary/'
 book_section: 8
