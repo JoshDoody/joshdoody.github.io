@@ -7,17 +7,25 @@ excerpt: Ask for a salary increase with these detailed templates you can use to 
 context: raise
 last_modified_at: 2017-03-09
 ---
-Asking for a salary increase can be tricky, even if you have a strong case to back you up. The process can seem mysterious and even a little risky.
+Asking for a salary increase can be tricky, even if you have a strong case to back you up. The process can seem mysterious and even a little risky. 
 
-But it's a lot easier to ask for a raise when you feel ready and have the tools to ask for the right thing in the right way.
+Some companies address employee compensation in small salary increments—a percent or two every now and then—rather than big jumps. Some companies will grant big raises for exceptional employees.
 
-## Ask for a time to discuss your salary
+Sometimes your manager has full discretion over a compensation budget. And sometimes your manager doesn't even have a budget and relies on HR to handle all of the salary increases.
+
+**How do you navigate the vague, non-standard process to ask for a raise at work?**
+
+It's a lot easier to ask for a raise when you feel ready and have the tools to ask for the right thing in the right way. For reasons we'll discuss later, email is your best tool for requesting a salary increase. 
+
+So let's walk through a few email scripts you can use to ask for your next raise.
+
+## Ask for a time to discuss your salary increase
 
 Salary negotiation—whether when you're changing jobs or working to increase your salary at your current job—is a collaboration. You're not so much asking your manager to give you a raise as you are asking your manager to work with you to get a raise.
 
 The first step to collaborating with your manager to get a raise is to schedule a time to talk about it. This can be awkward, but it doesn't have to be.
 
-Here are a few email templates you can use to initiate the conversation to ask for a salary increase.
+Here are a two email templates you can use to initiate the conversation to ask for a salary increase.
 
 ### If you have a regular 1-on-1 with your manager
 
@@ -76,11 +84,23 @@ And here's what you might say if you don't have regular 1-on-1s:
 
 > Are you available for a short meeting next week to talk about my compensation? It won't take long, and I just wanted to see if we can set aside a few minutes some time soon.
 
+### When should you use these scripts to schedule a meeting to ask for a salary increase?
+
+Once you've sent your request to schedule a time to talk about a salary increase, the door is open. But there's still work to do so you can present a compelling case that makes it easy for your manager to work with you to get your raise.
+
+Before you use those scripts to schedule a time to ask for a raise, I recommend building your case for a raise and putting it in writing. Not only will this help with your collaboration effort, but it will help you to objectively evaluate if you're even ready to ask for a raise.
+
+The process of putting your case in writing will either help you to clearly see how strong your case is, or to identify gaps that you should address before you schedule that meeting to make a formal request.
+
+<div class='ad-box'>
+<p><strong>Learn how to find the right time to ask for a raise:</strong> <a href="{{ site.baseurl }}/do-you-have-to-quit-your-job-to-get-a-big-raise/">Do yo have to quit your job to get a big raise?</a></p>
+</div>
+
 ## A salary increase email template to help you build your case
 
-Once you've scheduled a time with your manager, it will help to be as organized and prepared as possible. Remember, you're collaborating with your manager to get a raise, so you want to make it as easy as possible for them.
+Once you've scheduled a time with your manager, it will help to be as organized and prepared as possible. Remember, you're collaborating with your manager to get a raise, so you want to make it as easy as possible for them to help you achieve your goal.
 
-Use this template to build your case for a salary increase letter or email. Below the example is a detailed explanation of each section and how to make sure your salary increase request has all the components you need to ask for a raise.
+Here is an email template you can use to build your case for a salary increase. Below the example is a detailed explanation of each section and how to make sure your salary increase request has all the components you need to ask for a raise.
 
 <div class='ad-box'>
 <p><strong>Looking for an email template to negotiate a job offer?</strong> Here you go! <a href="{{ site.baseurl }}/salary-negotiation-email-sample/">Salary negotiation email sample</a></p>
@@ -199,5 +219,65 @@ Once you've requested your salary increase from your manager and then followed u
 The reason this salary increase letter is so important is that your manager will likely forward it to the approvers so they have all the information they need to make their decision. If you request your salary increase *without* sending this letter, then your manager will have to summarize your case for you, and they're just not going to do as good a job as you can.
 
 So this letter gives you the opportunity to make your case *in your own words* to whoever needs to approve your request. And that gives you the greatest chance getting your salary increase.
+
+### Follow-up on your request with this email template
+
+Getting a raise is a top priority for you, but it probably isn't your manager's top priority. Even if you schedule a good time to talk with your manager and bring a strong case for your salary increase request, you may not hear back for a while. 
+
+So you may need to follow up a few times to make sure your request doesn't fall through the cracks. Here's a short email template you can use to follow up after you ask for a raise. 
+
+One more thing: The subject of this email is "Re: [Your name] salary adjustment discussion—follow-up" because you should reply to the thread where you sent your written request if possible. That will make it easy for your manager to find your request when it's time to pass it along to HR for consideration.
+
+<div class='sample-email'>
+<p>
+	<strong>To: [Your manager]</strong><br>
+	<strong>Subject: Re: [Your name] salary adjustment discussion—follow-up</strong>
+</p>
+<hr>
+<p>Hi [Manager name]</p>
+<p>Thanks again for taking the time to talk about my compensation. I just wanted to follow up to see if there's anything else I can provide to help the process along.</p>
+<p><strong>Do you need anything else from me?</strong></p>
+<p>If not, what are our next steps?</p>
+<p>Thanks again for your time!</p>
+<p>[Your name]</p>
+</div>
+
+I recommend waiting a week or two before sending this email. If you don't hear anything definitive after *another* week or two, send it again. And make sure you continue to follow up on your conversation in your 1-on-1s as well.
+
+You may need to follow up several times before your manager formally requests your raise and the approval process begins.
+
+### What if your salary increase request is put on hold for now?
+
+One last thing: *Asking* for a raise—even with a strong case—doesn't guarantee you'll get the raise you asked for. Sometimes you'll get a clear "yes" or "no", but sometimes your manager will say "It's just not a good time" or "I don't think you're quite ready yet. Let's revisit this later."
+
+In this case, it's important to establish a clear plan so you know exactly what you need to do to improve your case and revisit your request at a better time.
+
+Here's an email template you can use to ask your manager for a specific plan to get your next raise:
+
+<div class='sample-email'>
+<p>
+	<strong>To: [Your manager]</strong><br>
+	<strong>Subject: Re: [Your name] salary adjustment discussion—follow-up</strong>
+</p>
+<hr>
+<p>Hi [Manager name]</p>
+<p>Thanks again for taking the time to talk about my compensation. I understand that the timing isn't quite right, and I want to be ready when it's time to revisit our discussion.</p>
+<p><strong>Can you please help me understand the following two things?</strong></p>
+<ol>
+	<li>What are the specific goals I need to accomplish to earn this raise?</li>
+	<li>When should we revisit this discussion?</li>
+</ol>
+<p>I would love to work with you to put together a clear action plan and timeline so we can continue this discussion and monitor my progress as I work toward my goal.</p>
+<p>Thanks for working with me on this!</p>
+<p>[Your name]</p>
+</div>
+
+You can send this as an email, or you could paraphrase this email verbally in your next 1-on-1. Your goal in this situation is to establish your specific goals and a specific timeline so you can measure progress and revisit the conversation later on.
+
+Specificity is the key to avoiding postponing the conversation indefinitely.
+
+<div class='ad-box'>
+<p><strong>Learn more about how to plan your next move after you ask for your raise:</strong> <a href="{{ site.baseurl }}/book/raise/raise-build-your-case/#accolades">Defining your accolades</a></p>
+</div>
 
 {% include /drip_forms/free-raise-course.html drip_offer_plinko="optional" %}
