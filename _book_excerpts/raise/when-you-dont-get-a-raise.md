@@ -15,6 +15,10 @@ If you didn’t get what you [asked for]({{ site.bsaeurl }}/book/raise/ask-for-a
 
 Your manager may be able to work with you to put a plan and timeline in place so that you know exactly what you can do to earn your raise. This is also a good outcome as it provides clarity and gives you a clear path to follow.
 
+<div class='ad-box'>
+<p><strong>Get the email template to ask your manager for a plan:</strong> <a href="{{ site.baseurl }}/salary-increase-letter-sample#request-a-plan">Email template to request a plan for a raise</a></p>
+</div>
+
 ## You may need to consider other options
 
 Sometimes you won’t get what you asked for, and your manager won’t be able to offer a plan to achieve your goals. That’s disappointing, but it’s also an informative outcome: You now know that the salary you feel you deserve isn’t attainable at your current company or in your current job. 

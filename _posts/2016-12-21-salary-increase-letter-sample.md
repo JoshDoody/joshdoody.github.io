@@ -274,12 +274,9 @@ Here's an email template you can use to ask your manager for a specific plan to 
 </p>
 <hr>
 <p>Hi [Manager name]</p>
-<p>Thanks again for taking the time to talk about my compensation. I understand that the timing isn't quite right, and I want to be ready when it's time to revisit our discussion.</p>
-<p><strong>Can you please help me understand the following two things?</strong></p>
-<ol>
-	<li>What are the specific goals I need to accomplish to earn this raise?</li>
-	<li>When should we revisit this discussion?</li>
-</ol>
+<p>Thanks again for taking the time to talk about my compensation.</p>
+<p>I’m disappointed that we couldn’t adjust my salary to [your target salary], but I understand that the timing isn't quite right, and I want to be ready when it's time to revisit our discussion.</p>
+<p><strong>Can we please talk about what I need to do, specifically, to earn that raise? And can we talk about a timetable for when it might be feasible?</strong></p>
 <p>I would love to work with you to put together a clear action plan and timeline so we can continue this discussion and monitor my progress as I work toward my goal.</p>
 <p>Thanks for working with me on this!</p>
 <p>[Your name]</p>
@@ -290,7 +287,7 @@ You can send this as an email, or you could paraphrase this email verbally in yo
 Specificity is the key to avoiding postponing the conversation indefinitely.
 
 <div class='ad-box'>
-<p><strong>Learn more about how to plan your next move after you ask for your raise:</strong> <a href="{{ site.baseurl }}/book/raise/raise-build-your-case/#accolades">Defining your accolades</a></p>
+<p><strong>Learn more about how to plan your next move if you don't get a raise:</strong> <a href="{{ site.baseurl }}/book/raise/when-you-dont-get-a-raise/">What to do when you don't get a raise</a></p>
 </div>
 
 {% include /drip_forms/free-raise-course.html drip_offer_plinko="optional" %}

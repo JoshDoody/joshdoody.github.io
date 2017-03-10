@@ -37,6 +37,10 @@ A well-timed request for an off-cycle raise or promotion can often give you the 
 
 Off-cycle raises and promotions carry the added benefit that they usually don’t affect your on-cycle raise potential. So, you’ll usually still be eligible for whatever merit increase you would have already been eligible for during the regular merit increase period.
 
+<div class='ad-box'>
+<p><strong>Learn more about how to ask for a raise in an email:</strong> <a href="{{ site.baseurl }}/salary-increase-letter-sample/">Salary increase letter to ask for a raise</a></p>
+</div>
+
 ## Sometimes there’s just nothing you can do
 
 Still, there are some companies where everything is pre-determined, including raises and promotions. At these companies, it can be extremely difficult to get a big raise.
