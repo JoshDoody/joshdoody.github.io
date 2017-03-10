@@ -6,6 +6,8 @@ tagline: Schedule a meeting, ask for a raise, and follow up with these email tem
 excerpt: Ask for a salary increase with these detailed templates you can use to schedule a meeting, write the perfect case, and follow up on your request.
 context: raise
 last_modified_at: 2017-03-09
+extra_js:
+  - template_requested.js
 ---
 Asking for a salary increase can be tricky, even if you have a strong case to back you up. The process can seem mysterious and even a little risky. 
 
@@ -15,11 +17,12 @@ The email templates in this article are word-for-word scripts so you know exactl
 
 **Looking for a specific template?**
 
- * [Ask to discuss compensation in your next 1-on-1](#regular-meeting)
- * [Schedule a one-off meeting to talk about pay](#dedicated-meeting)
- * [Salary increase letter to ask for a raise](#request-template)
- * [Follow up on your raise request](#follow-up)
- * [Ask for a specific action plan to get a raise](#request-a-plan)
+ * [Ask to discuss compensation in your next 1-on-1](#regular-meeting){:data-template="Raise request—1-on-1"}
+ * [Schedule a one-off meeting to talk about pay](#dedicated-meeting){:data-template="Raise request—dedicated meeting"}
+ * [Salary increase letter to ask for a raise](#request-template){:data-template="Raise template"}
+ * [Follow up on your raise request](#follow-up){:data-template="Raise request follow-up"}
+ * [Ask for a specific action plan to get a raise](#request-a-plan){:data-template="Raise plan request"}
+ * [Negotiate a new job offer]({{ base.url }}/salary-negotiation-email-sample/){:data-template="Salary negotiation email sample"}
 
 Some companies address employee compensation in small salary increments—a percent or two every now and then—rather than big jumps. Some companies will grant big raises for exceptional employees.
 
