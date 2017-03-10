@@ -50,7 +50,7 @@ Alison can reasonably request a raise to about $80,000 because that is her appro
 Now that you’ve estimated your market value and have adjusted that estimate to account for your value at your specific company, you have your goal. Now it’s time to move forward and make your best possible case to justify your goal.
 
 <div class='ad-box'>
-<p><strong>Learn more about how to ask for a raise in an email:</strong> <a href="{{ site.baseurl }}/salary-increase-letter-sample/">Salary increase letter to ask for a raise</a></p>
+<p><strong>Learn more about how to ask for a raise in an email:</strong> <a href="{{ site.baseurl }}/salary-increase-letter-sample/">How to ask for a raise with a salary increase letter</a></p>
 </div>
 
 Real talk: You may already be ready to ask for a raise. Your best ammo is the [market mid-point data]({{ site.baseurl }}/book/value/your-market-value-in-your-industry/), augmented with a general sense of how you stack up against an "average" employee doing your job. So you could stop reading right now, call your manager up and say, “The mid-point for my job in our industry is $80,000 and I’m only making $65,000. Can we adjust my salary to align with the market?” Sometimes, that’s all it takes. Some companies’ HR departments are very attuned to the market, and expect they’ll need to adjust salaries to align with the market over time. Your request could be just the push they need to look at your particular situation and make an adjustment.
