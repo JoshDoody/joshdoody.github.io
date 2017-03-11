@@ -161,7 +161,7 @@ I recommend asking for a raise in person *before* you send this salary increase 
 
 After we go through each section of this template, I'll walk you through the approval process that may happen behind the scenes so you have the full context.
 
-{% include /drip_forms/free-raise-course.html drip_offer_plinko="optional" %}
+{% include /drip_forms/salary-increase-email-templates.html drip_offer_plinko="optional" %}
 
 ## A section-by-section review of this salary increase letter sample
 
@@ -290,4 +290,4 @@ Specificity is the key to avoiding raise limbo.
 <p><strong>Learn more about how to plan your next move if you don't get a raise:</strong> <a href="{{ site.baseurl }}/book/raise/when-you-dont-get-a-raise/">What to do when you don't get a raise</a></p>
 </div>
 
-{% include /drip_forms/free-raise-course.html drip_offer_plinko="optional" %}
+{% include /drip_forms/salary-increase-email-templates.html drip_offer_plinko="optional" %}

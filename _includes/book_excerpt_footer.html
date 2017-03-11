@@ -1,8 +1,8 @@
 {% case page.chapter %}
 {% when 'salary-structures' %}
-{% include /drip_forms/free-raise-course.html drip_offer_plinko="optional" %}	
+{% include /drip_forms/salary-increase-email-templates.html drip_offer_plinko="optional" %}	
 {% when 'value' %}
-{% include /drip_forms/free-raise-course.html drip_offer_plinko="optional" %}	
+{% include /drip_forms/salary-increase-email-templates.html drip_offer_plinko="optional" %}	
 {% when 'interview' %}
 {% include /drip_forms/interview-cheat-sheet.html drip_offer_plinko="optional" %}
 {% when 'negotiate' %}
@@ -10,11 +10,11 @@
 {% when 'leave' %}
 {% include /drip_forms/salary-negotiation-email-templates.html drip_offer_plinko="optional" %}
 {% when 'promotion' %}
-{% include /drip_forms/free-raise-course.html drip_offer_plinko="optional" %}	
+{% include /drip_forms/salary-increase-email-templates.html drip_offer_plinko="optional" %}	
 {% when 'raise' %}
-{% include /drip_forms/free-raise-course.html drip_offer_plinko="optional" %}	
+{% include /drip_forms/salary-increase-email-templates.html drip_offer_plinko="optional" %}	
 {% else %}
-{% include /drip_forms/free-raise-course.html drip_offer_plinko="optional" %}	
+{% include /drip_forms/interview-cheat-sheet.html drip_offer_plinko="optional" %}	
 {% endcase %}	
 	
 {% assign this_chapter = site.book_chapters | where:"chapter", page.chapter | first %}
