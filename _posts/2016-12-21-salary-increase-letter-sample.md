@@ -261,7 +261,7 @@ You may need to follow up several times to get the ball rolling.
 
 ### <a name="request-a-plan">What if your salary increase request is put on hold for now?
 
-One last thing: *Asking* for a raise—even with a strong case—doesn't guarantee you'll get the raise you asked for. Sometimes you'll get a clear "yes" or "no", but sometimes your manager will say "It's just not a good time" or "I don't think you're quite ready yet. Let's revisit this later."
+One last thing: *Asking* for a raise—even with a strong case—doesn't guarantee you'll get the raise you asked for. Sometimes you'll get a clear "yes" or "no", but sometimes your manager will say "It's just not a good time right now" or "I don't think you're quite ready yet. Let's revisit this later."
 
 In this case, it's important to establish a clear plan so you know exactly what you need to do to improve your case and revisit your request at a better time.
 

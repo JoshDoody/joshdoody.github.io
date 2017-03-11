@@ -2900,6 +2900,14 @@ div[data-offer-plinko="optional"] {
     margin-top: -50px;
 }
 
+.slider-cta-salary-increase-templates {
+    background: #50b432!important;
+}
+
+.slider-cta-salary-increase-templates .slider-cta-btn {
+    background: #357821;
+}
+
 .notification-bar {
     -webkit-animation-duration: 1s;
     animation-duration: 1s;
@@ -2929,6 +2937,10 @@ div[data-offer-plinko="optional"] {
 
 .notification-bar.slider-cta-fsn {
   border-top: 1px solid #555555;
+}
+
+.notification-bar.slider-cta-salary-increase-templates {
+  border-top: 1px solid #357821;
 }
 
 .notification-bar .notification-bar-wrapper {
