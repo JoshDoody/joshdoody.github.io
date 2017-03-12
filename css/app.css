@@ -2783,6 +2783,10 @@ li.product-price {
 	background: #555;
 }
 
+li.product-price a.price {
+	color: white!important;
+}
+
 /* Change the width of the three columns to 100% 
 (to stack horizontally on small screens) */
 @media only screen and (max-width: 799px) {
