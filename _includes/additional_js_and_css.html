@@ -190,14 +190,14 @@
 					                  this.debug('Displaying slider')
 					                  has_scrolled = true
 					                  $(document).trigger('dpt:slide', [new this.fn_helper(this), this])
+														ga('send', {
+															hitType: 'event',
+															eventCategory: 'Slider',
+															eventAction: 'Show ad',
+															eventLabel: options.event_label
+														});
 					              }
 					              dom.addClass('expanded')
-												ga('send', {
-													hitType: 'event',
-													eventCategory: 'Slider',
-													eventAction: 'Show ad',
-													eventLabel: options.event_label
-												});
 					          }
 					      }.bind(this))
 								
