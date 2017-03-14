@@ -2167,46 +2167,8 @@ body {
 	}
 }
 
-/* gynr banner */
-.gynr-banner {
-  width: 100%;
-  min-height: 2em;
-	padding: 10px 10px 5px 10px;
-  background: -webkit-linear-gradient( left , #00A9FF, #0077b3);
-  background: linear-gradient(to right, #00A9FF, #0077b3);
-	/* box-shadow: 0px 5px 5px #888888; */
-	overflow: hidden;
-	display: block;
-}
-
-.gynr__title {
-  font-family: 'Helvetica', sans-serif;
-  font-weight: bold;
-  /*font-style: italic;*/
-  font-size: 1.5em;
-  color: white;
-  margin: 0;
-  text-decoration: none;
-}
-
-.gynr-banner img {
-	height: 1em;
-}
-
-.gynr__title a {
-  color: white;
-  text-decoration: none;
-  -webkit-transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-  -moz-transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-  transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-}
-
-.gynr__title a:hover {
-  color: white;
-}
-
 /* FSN banner */
-.fsn-banner {
+.nav-banner {
   width: 100%;
   height: 50px;
 	padding: 15px 10px 5px 10px;
@@ -2221,7 +2183,7 @@ body {
 	z-index: 1;
 }
 
-.fsn__title {
+.nav__title {
   font-family: 'Helvetica', sans-serif;
   font-weight: bold;
   font-size: 1.5em;
@@ -2229,12 +2191,12 @@ body {
   text-decoration: none;
 }
 
-.fsn-banner img {
+.nav-banner img {
 	height: 1em;
 	margin-bottom: -1px;
 }
 
-.fsn__title a {
+.nav__title a {
   color: white;
   text-decoration: none;
   -webkit-transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
@@ -2242,18 +2204,18 @@ body {
   transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
-.fsn__title a:hover {
+.nav__title a:hover {
   color: white;
 }
 
-.buy-fsn-cta {
+.nav-buy-cta {
     float: right;
     width: 150px;
 		display: inline;
 		margin-top: 4px;
 }
 
-.fsn-banner .buy-fsn-cta-btn {
+.nav-banner .nav-buy-cta-btn {
     background: #F37021;
     color: #fff;
 		text-decoration: none;
@@ -2265,16 +2227,16 @@ body {
 }
 
 @media only screen and (max-width: 1023px) {
-	.buy-fsn-cta {
+	.nav-buy-cta {
 		margin-right: -30px;
 	}
-	.fsn__title {
+	.nav__title {
 		margin-left: -10px;
 	}
 }
 
 @media only screen and (min-width: 1024px) {
-	.fsn__title {
+	.nav__title {
 		margin-left: 20px;
 	}
 }
@@ -2282,6 +2244,17 @@ body {
 /* Page content after banner */
 .after-banner {
 	margin-top: 50px;
+}
+
+a.below-nav { 
+  padding-top: 50px;
+}
+
+.below-nav::before {
+  content:"";
+  display:block;
+  height:50px; /* fixed header height*/
+  margin:-50px 0 0; /* negative fixed header height */
 }
 
 /* To hide things on small devices */
