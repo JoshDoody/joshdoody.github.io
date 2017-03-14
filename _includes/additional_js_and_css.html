@@ -286,6 +286,7 @@
 								var drip_email = encodeURIComponent(dripUser.rawDripContact.email)
 						    return h + (h.indexOf('?') != -1 ? "&buyer_email="+drip_email : "?buyer_email="+drip_email);
 						});
+						$("a.buy-fsn-cta-btn").attr('href', '{{ site.baseurl }}/get-started');
 					}
 				};
 	
