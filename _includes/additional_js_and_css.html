@@ -194,7 +194,8 @@
 															hitType: 'event',
 															eventCategory: 'Slider',
 															eventAction: 'Show ad',
-															eventLabel: options.event_label
+															eventLabel: options.event_label,
+															nonInteraction: 1
 														});
 					              }
 					              dom.addClass('expanded')
@@ -229,9 +230,13 @@
 
 								  // Sends the event to Google Analytics and
 								  // re-clicks the link once the hit is done.
-								  ga('send', 'event', 'Slider', 'Click ad', event_label, {
-								    hitCallback: clickLink
-								  });
+									ga('send', {
+										hitType: 'event',
+										eventCategory: 'Slider',
+										eventAction: 'Click ad',
+										eventLabel: event_label,
+										nonInteraction: 1
+									});
 								};
 								
 								// Adds a listener for the "click" event.
@@ -247,7 +252,13 @@
 										 $('#slider-ad').slideUp('fast', function() {
 											 $('#slider-ad').remove();
 										 });
-										 ga('send', 'event', 'Slider', 'Close ad', dismiss_event_label);
+	 									 ga('send', {
+	 									 	hitType: 'event',
+	 									 	eventCategory: 'Slider',
+	 									 	eventAction: 'Close ad',
+	 									 	eventLabel: dismiss_event_label,
+	 									 	nonInteraction: 1
+	 									 });
 									});
 								});
 					  }
