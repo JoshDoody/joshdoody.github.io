@@ -2205,6 +2205,75 @@ body {
   color: white;
 }
 
+/* FSN banner */
+.fsn-banner {
+  width: 100%;
+  min-height: 2em;
+	padding: 10px 10px 5px 10px;
+  background: -webkit-linear-gradient( left , #00A9FF, #0077b3);
+  background: linear-gradient(to right, #00A9FF, #0077b3);
+	/* box-shadow: 0px 5px 5px #888888; */
+	overflow: hidden;
+	display: block;
+}
+
+.fsn__title {
+  font-family: 'Helvetica', sans-serif;
+  font-weight: bold;
+  font-size: 1.5em;
+  color: white;
+  text-decoration: none;
+}
+
+.fsn-banner img {
+	height: 1em;
+}
+
+.fsn__title a {
+  color: white;
+  text-decoration: none;
+  -webkit-transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  -moz-transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.fsn__title a:hover {
+  color: white;
+}
+
+.buy-fsn-cta {
+    float: right;
+    width: 150px;
+		display: inline;
+		margin-top: 4px;
+}
+
+.fsn-banner .buy-fsn-cta-btn {
+    background: #F37021;
+    color: #fff;
+		text-decoration: none;
+    font-weight: 700;
+    border-radius: 5px;
+    padding: 5px 15px;
+    text-align: center;
+		display: inline;
+}
+
+@media only screen and (max-width: 1023px) {
+	.buy-fsn-cta {
+		margin-right: -20px;
+	}
+	.fsn__title {
+		margin-left: -10px;
+	}
+}
+
+@media only screen and (min-width: 1024px) {
+	.fsn__title {
+		margin-left: 20px;
+	}
+}
+
 /* To hide things on small devices */
 @media only screen and (max-width: 1023px) {
 	.hidden-md {
