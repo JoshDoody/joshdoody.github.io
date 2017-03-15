@@ -1,21 +1,31 @@
 ---
 layout: post
-title: “What’s your current salary?” is a trap interview question—How to answer it
+title: How to answer "What's your current salary?"—a trap interview question
 tagline: Word-for-word answers to avoid making one of the biggest interview mistakes
-excerpt: The exact words to avoid sharing your current salary or expected salary when asked for your salary expectations in an interview.
+excerpt: How to avoid sharing your current salary or expected salary when asked for your salary requirements in an interview with word-for-word scripts
 og-image: DreadedSalaryQuestion.png
 context: interview
 last_modified_at: 2017-03-15
 ---
-What should you say when asked for your current salary or expected salary in a job interview?
+You've been job hunting for a while, and you finally hear back about a job you really want. The recruiter reaches out and asks if you're free to chat for a few minutes so they can ask you a few questions. "Sure!"
+
+Everything seems pretty straightforward—you talk about your background, how you found this job listing, stuff like that. Then the recruiter asks you a question that stops you in your tracks:
+
+> “So where are you right now in terms of salary, and what are you looking for if you make this move?”
+
+Wait a minute. They want to know your salary expectations before you even start your job interviews?
+
+You intuitively know that sharing your current salary or desired salary probably isn't in your best interest. But you're also really excited about this opportunity and you don't want to miss out. Plus, you're not sure how to not answer this question.
+
+What should you say when asked for your current salary or expected salary in a job interview? 
+
+**What if they *insist?***
+
+What if they tell you the interview process simply can't continue unless you share this info?
 
 This will usually come up in the "pre-interview" or "pre-screen", which is right at the beginning of the interview process. That's why it's such a sneaky question! It's a salary negotiation tactic disguised as a gatekeeper-type interview question.
 
-So when you hear the salary expectations question, you'll be thinking "What do I need to say to get to my next interview? They asked for my current salary and expected salary, so I'll tell them that to move on."
-
-Here's what that question usually looks like:
-
-> *“So where are you right now in terms of salary, and what are you looking for if you make this move?"*
+So when you hear the salary requirements question, you'll be thinking "What do I need to say to get to my next interview? They asked for my current salary and expected salary, so I'll tell them that to move on."
 
 ## How to respond to the dreaded salary question 
 
@@ -308,7 +318,7 @@ Sometimes, the online application won't actually verify that you entered an answ
 
 This feels weird, but sometimes it's the only way. Try entering "0" or "1" or "999999999" and submitting the form. 
 
-For both of these methods, the recruiter or hiring manager may follow up to ask for your current salary or expected salary, and you can just fall back on th scripts we covered earlier.
+Again, the recruiter or hiring manager may follow up to ask for your current salary or expected salary, and you can just fall back on the scripts we covered earlier.
 
 ## What if they ask for W-2s or pay stubs from your previous jobs?
 
@@ -316,19 +326,19 @@ Don't share them. It's none of their business.
 
 It's one thing to ask for proof of employment like a reference, but asking for your personal tax information is out of bounds. 
 
-Every time I've seen this, it's usually a rogue recruiter who has created their own policy to ask for this sort of documentation. Meaning that the company itself doesn't make it a habit of asking for this information, but that some recruiters take the idea of getting salary information further than others.
+Every time I've seen this, it's usually a rogue recruiter who has created their own policy to ask for this sort of documentation to give them a better shot at getting your current salary or desired salary. The company itself may not make it a habit of asking for this information, but some recruiters take the idea of getting salary information further than others.
 
-Regardless, you shouldn't share this information because it has nothing to do with you qualified you are for the job they're trying to fill, and your previous salary has no bearing on how valuable you will be in this role for their company.
+Regardless, you shouldn't share this information because it has nothing to do with how qualified you are for the job they're trying to fill, and your previous salary has no bearing on how valuable you will be in this role for their company.
 
 ## What if they stop the interview process because you won't share your current salary or expected salary?
 
-It's *extremely* unlikely that they will halt the interview process if you refuse to share this information. The reason they're talking to you at all is that they need to fill a role at their company. And they still need to fill that role even if you won't make the salary negotiation easy for them by sharing your salary expectations.
+It's *extremely* unlikely that they will halt the interview process if you refuse to share this information. The reason they're talking to you at all is that they need to fill a role at their company, and they need to fill that role even if you won't make the salary negotiation easy for them by sharing your salary expectations.
 
 But let's say they *do* stop talking to you because you won't share your current salary or expected salary. What then?
 
-Chances are, you're dodging a bullet. Let's take a step back and look at the situation: They need to fill a role with the right candidate. You've applied for the job, indicating that *you* could be the right candidate. But instead of exploring that further, they stop talking to you because you won't share personal information about your salary history, or take a guess at what they're willing to pay you to do the job.
+You're probably dodging a bullet. Let's take a step back and look at the situation: They need to fill a role with the right candidate. You've applied for the job, indicating that *you* could be the right candidate. But instead of exploring that further, they stop talking to you because you won't share personal information about your salary history, or take a guess at what they're willing to pay you to do the job.
 
-Do you really want to work for that company? If they're that petty *before* they hire someone, how petty will they be once you're their employee? Chances are, things will only get more difficult after they hire you.
+**Do you really want to work for that company?** If they're that petty *before* they hire someone, how petty will they be once you're their employee? Chances are, things will only get more difficult after they hire you.
 
 ## Common pushback from recruiters
 
@@ -342,17 +352,17 @@ So let's take a minute to talk about their primary objection and why you should 
 
 This is the most common objection I hear from recruiters who disagree with my Dreaded Salary Question advice. Their concern is that they'll invest lots of time—their time, hiring managers' time, HR's time—interviewing a candidate whose salary requirements exceed their hiring budget.
 
-Here's a typical comment on my [Glassdoor.com](https://www.glassdoor.com){:target = "blank"} article [9 Things to Never Say in a Salary Negotiation](https://www.glassdoor.com/blog/9-things-to-never-say-in-a-salary-negotiation/){:target = "blank"}:
+Here's a typical comment on interview I did for [Glassdoor.com](https://www.glassdoor.com){:target = "blank"} about [9 Things to Never Say in a Salary Negotiation](https://www.glassdoor.com/blog/9-things-to-never-say-in-a-salary-negotiation/){:target = "blank"}:
 
 <p class='u-center'><a href="{{ site.baseurl }}/images/DSQ_RecruiterWasteOfTime_4.png" target="_blank"><img src="{{ site.baseurl }}/images/DSQ_RecruiterWasteOfTime_4.png" alt="I don't deal with candidates who don't disclose salaries. It's a waste of my time." style="display: block; max-width: 100%; margin: 0 auto; border: 1px solid #555;"/></a></p>
 
 I understand how this could be a problem for them.
 
-Recruiters spend most of their time scheduling and conducting interviews. So if they continuously interview candidates, make them offers, then have their deals fall apart because they can't agree on salary, they could invest a lot of time interviewing candidates without filling jobs.
+Recruiters spend most of their time finding candidates, and scheduling interviews. So if they continuously interview candidates, make them offers, then have their deals fall apart because they can't agree on salary requirements, they could invest a lot of time interviewing candidates without filling jobs.
 
-On the other hand, you're probably interviewing for just one or two jobs. It might be a little inconvenient if you sit through four or five interviews and get an offer that doesn't meet your [minimum acceptable salary]( {{site.baseurl }}/minimum-acceptable-salary/), but that's a pretty small investment to find a good job.
+But your experience is different—you're probably interviewing for just one or two jobs. It might be a little inconvenient if you sit through four or five interviews and get an offer that doesn't meet your [minimum acceptable salary]( {{site.baseurl }}/minimum-acceptable-salary/), but that's a pretty small investment to find a good job. And since you only change jobs every couple of years or so, this is an investment you'll make only occasionally.
 
-So this is *their* problem, not *yours*, and they can solve it easily enough by telling you the salary range available for the job. That's why this is my recommendation if a recruiter tells you they don't want to waste your time interviewing if your salary requirements aren't aligned with their budget:
+So this is *their* problem, not *yours*, and they can solve it easily enough. Here's my recommendation if a recruiter tells you they don't want to waste your time on interviews if your expected salary doesn't fit their hiring budget:
 
 > "It sounds like you're trying to qualify me for a salary range. If you want to tell me what that range is, I'm happy to tell you if it's in the ballpark."
 
@@ -372,7 +382,7 @@ Here's The Dreaded Salary Question again:
 
 > "I’m not comfortable sharing my current salary. I would prefer to focus on the value I can add to this company rather than what I’m paid at my current job. I don’t have a specific number in mind for a desired salary, and you know better than I do what value my skillset and experience could bring to your company. I want this move to be a big step forward for me in terms of both responsibility and compensation."
 
-If they keep pushing with that longer answer, you can shorten it up and try again:
+If they keep pushing after that longer answer, you can shorten it up and try again:
 
 > "I'm just not comfortable discussing my current or expected salary. I prefer to focus on the value I can add in this position, and I look forward to hearing what you think is appropriate."
 
@@ -388,7 +398,7 @@ And if *that* doesn't work, you can reach for the trump card—the Level 3 answe
 
 > "I'm not comfortable sharing my current employer's proprietary compensation information, and I know they wouldn't appreciate it if I did. I still work for them, and I'm just not comfortable sharing their proprietary information about how they pay people like me. I really don't have a specific number in mind for an expected salary, and I look forward to hearing what you suggest."
 
-So next time you're asked for your salary expectations in a job interview, use these word-for-word scripts to avoid disclosing that information and get back to the interview process. This strategy will leave the salary expectations question open longer, allowing you to impress them more so you have more leverage during your salary negotiation.
+That should enable you to move on to the actual job interviews.
 
 ### How to handle paper and online job applications
 
@@ -406,6 +416,6 @@ They're either trying to save time, or they're trying to gather information to g
 
 > "It sounds like you're trying to qualify me for a salary range. If you want to tell me what that range is, I'm happy to tell you if it's in the ballpark."
 
-Keep these scripts handy—especially for phone interviews—and you'll avoid making the most common, extremely costly, salary negotiation mistake.
+Next time you're asked for your current salary or desired in a job interview, use these word-for-word scripts to avoid disclosing that information and get back to the interview process. This strategy will leave the salary expectations question open longer, allowing you to impress them more so you have more leverage during your salary negotiation.
 
 {% include /drip_forms/interview-cheat-sheet.html drip_offer_plinko="optional" %}
