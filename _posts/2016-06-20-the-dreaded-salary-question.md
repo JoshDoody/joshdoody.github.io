@@ -23,7 +23,7 @@ What should you say when asked for your current salary or expected salary in a j
 
 What if they tell you the interview process simply can't continue unless you share this info?
 
-This will usually come up in the "pre-interview" or "pre-screen", which is right at the beginning of the interview process. That's why it's such a sneaky question! It's a salary negotiation tactic disguised as a gatekeeper-type interview question.
+This will usually come up in the "[pre-interview]({{ site.baseurl }}/book/interview/pre-interview-phase/)" or "pre-screen", which is right at the beginning of the interview process. That's why it's such a sneaky question! It's a salary negotiation tactic disguised as a gatekeeper-type interview question.
 
 So when you hear the salary requirements question, you'll be thinking "What do I need to say to get to my next interview? They asked for my current salary and expected salary, so I'll tell them that to move on."
 
@@ -79,12 +79,14 @@ The one thing that might save you is when you guess so badly that you under-shoo
 
 If you *over*estimate and tell them your salary expectation is $85,000, you may set off red flags that cause them to rethink the interview process altogether. This is pretty rare, but you could disqualify yourself by being "too expensive" for them. If your expected salary is well above their budgeted pay range, they may just move on to other similar candidates with lower salary expectations.
 
+The bottom line is you probably aren’t going to guess what their [salary structure]({{ site.baseurl }}/book/salary-structures/what-is-a-salary-structure/) looks like, and if you try to guess you’ll cost yourself a lot of money.
+
 This sounds pretty bad, right?
 
 But wait! It gets *even worse*!
 
 <div class='ad-box' data-offer-plinko="optional">
-	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to current and desired salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get The Interview Cheat Sheet for FREE</a></p>
+	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to current and desired salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get the free Interview Cheat Sheet</a></p>
 </div>
 
 ## The "real" salary they're willing to pay could increase throughout your interview
@@ -144,9 +146,11 @@ To recap:
 - They had a salary range in mind.
 - You convinced them that *you* are the candidate they need.
 - They redefined the role to give them more room to pay you.
-- They made a strong offer with room to negotiate.
+- They made a strong offer with room to [counter offer]({{ site.baseurl }}/salary-negotiation-script) and negotiate.
 
 If you had told them your expected salary, you may not have even gotten this far. True, maybe your guess would've been good. But what if you guessed lower? You would've cost yourself money. What if you guess higher? They may not have continued interviewing you if you were "too expensive", and you never would have had the opportunity to show them that you're the ideal candidate for the position they're trying to fill.
+
+And all of this is just to get a strong *initial* job offer. You can *continue* telling your story when you counter offer (see this [salary negotiation email sample]({{ site.baseurl }}/salary-negotiation-email-sample/) for an example of how you continue telling your story even as you counter offer), and that may drive their budget even higher. 
 
 Now that we've talked about why sharing your current salary or expected salary is such a bad idea, let's loop back to the question at the beginning of this article:
 
@@ -168,7 +172,7 @@ For the "current salary" part of the question, I recommend answering something l
  
 It’s true that they may do some digging and put together a good educated guess as to what you’re making anyway, but maybe they won’t. If they don’t know what you're currently making, that makes it more difficult for them to base an offer on your current salary, and that’s probably going to mean a higher initial offer for you. 
 
-It also means that their eventual offer will need to reflect both your market value and the value you’ll add to the company without being biased by your current salary.
+It also means that their eventual offer will need to reflect both your [market value]({{ site.baseurl }}/book/value/market-value-overview/) and the value you’ll add to the company without being biased by your current salary.
 
 ### "What's your expected salary?"
  
@@ -187,7 +191,7 @@ Here is my recommendation for a good answer to the salary expectations:
 <p class='u-center'><a href="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" target="_blank"><img src="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" alt="The current and expected salary question" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
 
 <div class='ad-box' data-offer-plinko="optional">
-	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to current and expected salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get The Interview Cheat Sheet for FREE</a></p>
+	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to current and expected salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get the free Interview Cheat Sheet</a></p>
 </div>
 
 So let's say that you're playing a game, and your goal is to get past the salary expectations without sharing your salary requirements. This is Level 1, and the script I just gave you will usually win the game.
@@ -259,7 +263,7 @@ That's bad news for you even if you get the job. Do you really want to work some
 I can't answer that question for you, but I can tell you my answer: "Nope."
 
 <div class='ad-box' data-offer-plinko="optional">
-	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to the current and expected salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get The Interview Cheat Sheet for FREE</a></p>
+	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to the current and expected salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get the free Interview Cheat Sheet</a></p>
 </div>
 
 ## What if they keep pushing?
