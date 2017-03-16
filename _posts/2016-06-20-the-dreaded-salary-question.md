@@ -1,11 +1,11 @@
 ---
 layout: post
-title: How to answer "What's your current salary?"—a trap interview question
-tagline: Word-for-word answers to avoid making one of the biggest interview mistakes
+title: How to answer the "What's your current salary?" job interview question
+tagline: Word-for-word scripts to avoid making one of the biggest interview mistakes
 excerpt: How to avoid sharing your current salary or expected salary when asked for your salary requirements in an interview with word-for-word scripts
 og-image: DreadedSalaryQuestion.png
 context: interview
-last_modified_at: 2017-03-15
+last_modified_at: 2017-03-16
 ---
 You've been job hunting for a while, and you finally hear back about a job you really want. The recruiter reaches out and asks if you're free to chat for a few minutes so they can ask you a few questions. "Sure!"
 
@@ -27,7 +27,7 @@ This will usually come up in the "pre-interview" or "pre-screen", which is right
 
 So when you hear the salary requirements question, you'll be thinking "What do I need to say to get to my next interview? They asked for my current salary and expected salary, so I'll tell them that to move on."
 
-## How to respond to the dreaded salary question 
+## How to respond when they ask for your salary requirements
 
 It's easier to understand this question if we answer another one first: What is the recruiter or hiring manager *really* asking for here?
 
@@ -84,7 +84,7 @@ This sounds pretty bad, right?
 But wait! It gets *even worse*!
 
 <div class='ad-box' data-offer-plinko="optional">
-	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to The Dreaded Salary Question and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get The Interview Cheat Sheet for FREE</a></p>
+	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to current and desired salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get The Interview Cheat Sheet for FREE</a></p>
 </div>
 
 ## The "real" salary they're willing to pay could increase throughout your interview
@@ -184,10 +184,10 @@ Here is my recommendation for a good answer to the salary expectations:
 
 > "I’m not comfortable sharing my current salary. I would prefer to focus on the value I can add to this company rather than what I’m paid at my current job. I don’t have a specific number in mind for a desired salary, and you know better than I do what value my skillset and experience could bring to your company. I want this move to be a big step forward for me in terms of both responsibility and compensation."
 
-<p class='u-center'><a href="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" target="_blank"><img src="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" alt="The Dreaded Salary Question" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
+<p class='u-center'><a href="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" target="_blank"><img src="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" alt="The current and expected salary question" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
 
 <div class='ad-box' data-offer-plinko="optional">
-	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to The Dreaded Salary Question and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get The Interview Cheat Sheet for FREE</a></p>
+	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to current and expected salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get The Interview Cheat Sheet for FREE</a></p>
 </div>
 
 So let's say that you're playing a game, and your goal is to get past the salary expectations without sharing your salary requirements. This is Level 1, and the script I just gave you will usually win the game.
@@ -259,7 +259,7 @@ That's bad news for you even if you get the job. Do you really want to work some
 I can't answer that question for you, but I can tell you my answer: "Nope."
 
 <div class='ad-box' data-offer-plinko="optional">
-	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to The Dreaded Salary Question and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get The Interview Cheat Sheet for FREE</a></p>
+	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to the current and expected salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get The Interview Cheat Sheet for FREE</a></p>
 </div>
 
 ## What if they keep pushing?
@@ -300,7 +300,7 @@ If they *still* press after this answer, I'm all out of ideas because I've never
 
 ## What about salary expectations questions on job applications?
 
-It's more and more common to see salary questions on job applications—both paper and online. So let's talk about how to use this strategy when confronted with The Dreaded Salary Question on an application.
+It's more and more common to see salary questions on job applications—both paper and online. So let's talk about how to use this strategy when confronted with the salary expectations questions on an application.
 
 ### Salary questions on paper job applications
 
@@ -342,7 +342,7 @@ You're probably dodging a bullet. Let's take a step back and look at the situati
 
 ## Common pushback from recruiters
 
-I've been talking about The Dreaded Salary Question for years now. My coaching clients have used this advice to get much better job offers and negotiate better compensation than they ever had before. These tactics *work*.
+I've been talking about the salary expectations question for years now. My coaching clients have used this advice to get much better job offers and negotiate better compensation than they ever had before. These tactics *work*.
 
 But I still get some pushback, and it's almost always from recruiters. My advice is *very* unpopular with recruiters.
 
@@ -350,7 +350,7 @@ So let's take a minute to talk about their primary objection and why you should 
 
 ### "We don't want to waste each other's time"
 
-This is the most common objection I hear from recruiters who disagree with my Dreaded Salary Question advice. Their concern is that they'll invest lots of time—their time, hiring managers' time, HR's time—interviewing a candidate whose salary requirements exceed their hiring budget.
+This is the most common objection I hear from recruiters who disagree with my advice on how to respond when asked for your current salary or expected salary. Their concern is that they'll invest lots of time—their time, hiring managers' time, HR's time—interviewing a candidate whose salary requirements exceed their hiring budget.
 
 Here's a typical comment on interview I did for [Glassdoor.com](https://www.glassdoor.com){:target = "blank"} about [9 Things to Never Say in a Salary Negotiation](https://www.glassdoor.com/blog/9-things-to-never-say-in-a-salary-negotiation/){:target = "blank"}:
 
@@ -374,7 +374,7 @@ If they're serious about respecting everyone's time, then they'll tell you the r
 
 We've covered a lot of ground here, so let me give you a short-and-sweet summary of the scripts you can use to avoid sharing your current salary and expected salary when asked for your salary expectations in a job interview.
 
-Here's The Dreaded Salary Question again:
+Here's salary expectations question again:
 
 > *“So where are you right now in terms of salary, and what are you looking for if you make this move?"*
 
