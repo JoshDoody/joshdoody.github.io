@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to answer the "What's your current salary?" job interview question
-tagline: Word-for-word scripts to avoid making one of the biggest interview mistakes
+tagline: Word-for-word scripts to avoid making one of the most expensive interview mistakes
 excerpt: How to avoid sharing your current salary or expected salary when asked for your salary requirements in an interview with word-for-word scripts
 og-image: DreadedSalaryQuestion.png
 context: interview
