@@ -3,7 +3,7 @@ layout: post
 title: How to ask for a raise - salary increase letter and email templates
 headline: Word-for-word scripts to ask your employer for a raise
 tagline: Schedule a meeting, ask for a raise, and follow up with these email templates
-excerpt: Salary increase letter and email templates to ask for a raise. Schedule a meeting, send your request, and follow up—with these word-for-word scripts.
+excerpt: Salary increase letter and email templates to ask for a raise. Schedule a meeting, send your request, and follow up with these word-for-word scripts.
 context: raise
 last_modified_at: 2017-03-14
 extra_js:
