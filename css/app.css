@@ -2993,6 +2993,7 @@ a.close-slider {
     border-top: 1px solid #924314;
     box-shadow: 0 0 25px #cecece;
 		opacity: .9;
+		overflow: visible !important;
 }
 
 .notification-bar.slider-cta-salary-negotiation-templates {
