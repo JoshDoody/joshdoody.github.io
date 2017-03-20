@@ -36,23 +36,23 @@
 					if (context == 'raise') {
 						response = {
 							offer: 'salary-increase-templates',
-							footer: [drip.file('salary-increase-templates-footer'), 'footer', { offer: 'salary-increase-templates' }]
+							footer: drip.file('salary-increase-templates-footer')
 						}
 					} else if (context == 'negotiate') {
 						response = {
 							offer: 'salary-negotiation-templates',
-							footer: [drip.file('salary-negotiation-templates-footer'), 'footer', { offer: 'salary-negotiation-templates' }]
+							footer: drip.file('salary-negotiation-templates-footer')
 						}	
 					} else if (context == 'interview') {
 						response = {
 							offer: 'tics',
-							footer: [drip.file('tics-footer'), 'footer', { offer: 'tics' }]
+							footer: drip.file('tics-footer')
 						}
 					}
 				} else if (!drip.has_tag('Purchased - FSN - Bundle') && !(context == 'sales-page')) {
 					response = {
 						offer: 'fsn',
-						footer: [drip.file('fsn-footer'), 'footer', { offer: 'fsn' }]
+						footer: drip.file('fsn-footer')
 					}
 				}
 								
@@ -171,16 +171,19 @@
 					      var os = jQuery.extend({
 					          threshold: 25
 					      }, options)
-								var xyz = this
+
 					      if (this.dom_slider)
 					          this.dom_slider.remove()
+								
+								var dptScope = this
 					      var dom = jQuery(content)
-					      this.dom_slider = dom
-								var event_label = dom.find('#slider-cta').data("event-label")
-                //if (this.storage.get(event_label+'_dismissed')) return
-								console.log('Showing tics_dismissed value')
-								console.log(xyz.storage.index())
-                if (xyz.storage.get('tics_dismissed')) return
+								var ga_event_label = dom.find('#slider-cta').data("event-label")
+								var cta_label = dom.find('#slider-cta').data("cta-label")
+								this.dom_slider = dom
+								
+								// If this particular slider has already been dismissed, do nothing
+                if (dptScope.storage.get(cta_label+'_dismissed')) return
+									
 					      jQuery('body').append(dom)
 					      var has_scrolled = false
 					      jQuery(window).scroll(function() {
@@ -196,13 +199,13 @@
 				                  this.debug('Displaying slider')
 				                  has_scrolled = true
 				                  $(document).trigger('dpt:slide', [new this.fn_helper(this), this])
-													// ga('send', {
-													// 	hitType: 'event',
-													// 	eventCategory: 'Slider',
-													// 	eventAction: 'Show ad',
-													// 	eventLabel: event_label,
-													// 	nonInteraction: 1
-													// });
+													ga('send', {
+														hitType: 'event',
+														eventCategory: 'Slider',
+														eventAction: 'Show ad',
+														eventLabel: ga_event_label,
+														nonInteraction: 1
+													});
 					              }
 					              dom.addClass('expanded')
 					          }
@@ -251,27 +254,24 @@
 								$(function() {
 								// dismiss when clicked
 									var cta_dismissal_link = $('#slider-dismiss-cta');
-									var dismiss_event_label = $('#slider-cta').data("event-label");
+									var ga_dismiss_event_label = $('#slider-cta').data("event-label");
+									var dismiss_cta_label = $('#slider-cta').data("cta-label");
 
 									cta_dismissal_link.click(function(event){
 										 event.preventDefault();
 										 $('#slider-ad').slideUp('fast', function() {
 											 $('#slider-ad').remove();
 										 });
-	 									 // ga('send', {
-	 									 // 	hitType: 'event',
-	 									 // 	eventCategory: 'Slider',
-	 									 // 	eventAction: 'Close ad',
-	 									 // 	eventLabel: dismiss_event_label,
-	 									 // 	nonInteraction: 1
-	 									 // });
-										 // xyz.storage.set(dismiss_event_label+'_dismissed', '1', { expires: 1 });
-										 // console.log(dismiss_event_label+'_dismissed');
-										 // console.log(xyz.storage.get(dismiss_event_label+'_dismissed'));
-										 xyz.storage.set('tics_dismissed', '1');
-										 console.log(xyz.storage.index());
-										 console.log('tics_dismissed');
-										 console.log(xyz.storage.get('tics_dismissed'));
+	 									 ga('send', {
+	 									 	hitType: 'event',
+	 									 	eventCategory: 'Slider',
+	 									 	eventAction: 'Close ad',
+	 									 	eventLabel: ga_dismiss_event_label,
+	 									 	nonInteraction: 1
+	 									 });
+										 
+										 // localStorage to 'cookie' them so they don't see the ad again for 5 days
+										 dptScope.storage.set(dismiss_cta_label+'_dismissed', '1', 5*86400000 );
 									});
 								});
 					  }
