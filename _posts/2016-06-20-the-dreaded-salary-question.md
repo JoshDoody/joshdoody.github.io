@@ -19,6 +19,8 @@ You intuitively know that sharing your current salary or desired salary probably
 
 What should you say when asked for your current salary or expected salary in a job interview? 
 
+It could be as simple as sneaking a peek at your [Interview Cheat Sheet]({{ site.baseurl }}/interview-cheat-sheet/), where you'll have a basic answer to this question ready to go. But they don't always make it easy, so here's how to answer the salary expectations questions in a job interview.
+
 **What if they *insist?***
 
 What if they tell you the interview process simply can't continue unless you share this info?
