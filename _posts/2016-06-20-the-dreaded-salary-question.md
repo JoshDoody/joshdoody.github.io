@@ -376,6 +376,10 @@ As I mentioned earlier, this answer doesn't box you in to accepting a job offer 
 
 If they're serious about respecting everyone's time, then they'll tell you the range so you can confirm it's in the ballpark. And if they won't share a range, then it's clear they're simply trying to gain information to benefit them during your salary negotiation later on.
 
+<div class='ad-box'>
+	<p>For a different perspective on these interview questions, Penelope Trunk's succinct and direct responses are fantastic: <a href="http://blog.penelopetrunk.com/2008/02/19/the-answer-to-the-toughest-interview-question/" target="_blank">The answer to the toughest interview question</a></p>
+</div>
+
 ## Summarizing your options for answering the salary expectations question
 
 We've covered a lot of ground here, so let me give you a short-and-sweet summary of the scripts you can use to avoid sharing your current salary and expected salary when asked for your salary expectations in a job interview.
