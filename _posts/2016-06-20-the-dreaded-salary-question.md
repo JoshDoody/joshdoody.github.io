@@ -5,7 +5,7 @@ tagline: Word-for-word scripts to avoid making one of the most expensive intervi
 excerpt: How to avoid sharing your current salary or expected salary when asked for your salary requirements in an interview with word-for-word scripts
 og-image: DreadedSalaryQuestion.png
 context: interview
-last_modified_at: 2017-03-26
+last_modified_at: 2017-03-27
 ---
 You've been job hunting for a while, and you finally hear back about a job you really want. The recruiter reaches out and asks if you're free to chat for a few minutes so they can ask you a few questions. "Sure!"
 
@@ -17,13 +17,9 @@ Everything seems pretty straightforward—you talk about your background, how yo
 
 **You intuitively know that sharing your current salary or desired salary probably isn't in your best interest.** But you're also really excited about this opportunity and you don't want to miss out. Plus, you're not sure how to not answer this question.
 
-What should you say when asked for your current salary or expected salary in a job interview? 
-
-It could be as simple as sneaking a peek at your [Interview Cheat Sheet]({{ site.baseurl }}/interview-cheat-sheet/), where you'll have a basic answer to this question ready to go. But they don't always make it easy, so here's how to answer the salary expectations questions in a job interview.
-
 **What if they *insist?***
 
-What if they tell you the interview process simply can't continue unless you share this info?
+What if they tell you the interview process simply can't continue unless you share your current salary or expected salary?
 
 This will usually come up in the "[pre-interview]({{ site.baseurl }}/book/interview/pre-interview-phase/)" or "pre-screen", which is right at the beginning of the interview process. That's why it's such a sneaky question! It's a salary negotiation tactic disguised as a gatekeeper-type interview question.
 
