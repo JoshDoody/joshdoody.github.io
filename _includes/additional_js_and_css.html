@@ -169,7 +169,8 @@
           renderers: {
 					  footer: function(intent, content, options) {
 					      var os = jQuery.extend({
-					          threshold: 25
+									percent_scrolled_threshold: 25,
+									windows_scrolled_threshold: 3
 					      }, options)
 
 					      if (this.dom_slider)
@@ -191,10 +192,10 @@
 					          var wintop = jQuery(window).scrollTop(),
 					              docheight = jQuery(document).height(),
 					              winheight = jQuery(window).height()
-					          scrolled = ((wintop / (docheight - winheight)) * 100)
+					          percent_scrolled = ((wintop / (docheight - winheight)) * 100)
 					          if ((docheight - wintop) < 900) {
 					              dom.removeClass('expanded')
-					          } else if (scrolled > os.threshold) {
+					          } else if ((percent_scrolled > os.percent_scrolled_threshold) || (wintop > (winheight * os.windows_scrolled_threshold))) {
 					              if (!has_scrolled) {
 				                  this.debug('Displaying slider')
 				                  has_scrolled = true
