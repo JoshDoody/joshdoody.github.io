@@ -51,6 +51,7 @@ For booking and interview requests, send me a message on  [LinkedIn](https://www
 * [Fearless Salary Negotiation Tips With Josh Doody](https://www.listenmoneymatters.com/salary-negotiation-tips/){:rel="nofollow"} – Listen Money Matters
 * [Josh Doody - Fearless Salary Negotiation](http://developeronfire.com/podcast/episode-217-josh-doody-fearless){:rel="nofollow"} – Developer on Fire
 * [Stripe Observability with Cory Watson](https://softwareengineeringdaily.com/2017/03/15/stripe-observability-with-cory-watson/){:rel="nofollow"} - Software Engineering Daily ("4 Salary Negotiation Tips" starting at the 1:02:50 mark)
+* [Salary Negotiations with Josh Doody](http://completedeveloperpodcast.com/episode-85/){:rel="nofollow"} – Complete Developer Podcast
 
 ## Talks
 
