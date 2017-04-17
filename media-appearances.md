@@ -22,7 +22,7 @@ For booking and interview requests, send me a message on  [LinkedIn](https://www
 * [Interview with Engr. Josh Doody - Career Coach and author of Fearless Salary Negotiation](https://www.eeweb.com/spotlight/interview-with-engr-josh-doody){:rel="nofollow"} – EEWeb
 * [How to Negotiate Your Salary via Email](https://business.tutsplus.com/tutorials/how-to-negotiate-your-salary-via-email--cms-27031){:rel="nofollow"} – tuts+
 * [How to leap past 90% of applicants](https://purelyfunctional.tv/functional-programming-career-guide/resume-interview-salary/){:rel="nofollow"} – purelyfunctional.tv
-* [Salary Negotiation Scripts For Any Job](https://www.glassdoor.com/blog/salary-negotiation-scripts-for-any-job/){:rel="nofollow"} – Glassdoor
+* [Salary Negotiation Scripts For Any Job](https://www.glassdoor.com/blog/salary-negotiation-scripts-for-any-job/){:rel="nofollow"} – Glassdoor (also [Fast Company](https://www.fastcompany.com/40406763/exactly-what-to-say-in-these-four-common-salary-conversations{:rel="nofollow"}))
 * [13 Must-Have Words to Include In Your Resume](https://www.glassdoor.com/blog/words-to-include-in-resume/){:rel="nofollow"} – Glassdoor
 
 ## Podcasts
