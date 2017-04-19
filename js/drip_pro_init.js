@@ -18,6 +18,7 @@ window.drip_plinko = function(drip, page) {
 		} else if (context == 'interview') {
 			response = {
 				offer: 'tics',
+				modal: drip.file('ouibounce-modal-example'),
 				footer: drip.file('tics-footer')
 			}
 		}
@@ -139,6 +140,34 @@ jQuery(function(){
 
     },
     renderers: {
+		  modal: function(intent, content, options) {
+				console.log("MODAL TRIGGERED")
+				var dom = jQuery(content)
+		    jQuery('body').append(dom)
+				
+				var modal_already_fired = ouibounce(document.getElementById('ouibounce-modal')).isDisabled();
+
+	      // if you want to use the 'fire' or 'disable' fn,
+	      // you need to save OuiBounce to an object
+	      var _ouibounce = ouibounce(document.getElementById('ouibounce-modal'), {
+	        // aggressive: true,
+	        timer: 0,
+	        callback: function() { console.log('ouibounce fired!'); }
+	      });
+
+	      $('body').on('click', function() {
+	        $('#ouibounce-modal').hide();
+	      });
+
+	      $('#ouibounce-modal .modal-footer').on('click', function() {
+	        $('#ouibounce-modal').hide();
+	      });
+
+	      $('#ouibounce-modal .modal').on('click', function(e) {
+	        e.stopPropagation();
+	      });
+			},			
+			
 		  footer: function(intent, content, options) {
 		      var os = jQuery.extend({
 						percent_scrolled_threshold: 25,
@@ -150,12 +179,21 @@ jQuery(function(){
 					
 					var dptScope = this
 		      var dom = jQuery(content)
+					
+					// Make sure the Ouibounce modal isn't waiting to be fired
+					// Modal should only ever fire once for a user - includes ALL modals
+					var modal_dom_element = document.getElementById('ouibounce-modal');
+					if (modal_dom_element != null) {
+						var modal = ouibounce(document.getElementById('ouibounce-modal'));
+						var modal_waiting_to_be_fired = !modal.isDisabled();
+					}
+					
 					var ga_event_label = dom.find('#slider-cta').data("event-label")
 					var cta_label = dom.find('#slider-cta').data("cta-label")
 					this.dom_slider = dom
 					
 					// If this particular slider has already been dismissed, do nothing
-          if (dptScope.storage.get(cta_label+'_dismissed')) return
+          if (dptScope.storage.get(cta_label+'_dismissed') || modal_waiting_to_be_fired) return
 						
 		      jQuery('body').append(dom)
 		      var has_scrolled = false
