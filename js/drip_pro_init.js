@@ -141,11 +141,8 @@ jQuery(function(){
     },
     renderers: {
 		  modal: function(intent, content, options) {
-				console.log("MODAL TRIGGERED")
 				var dom = jQuery(content)
 		    jQuery('body').append(dom)
-				
-				var modal_already_fired = ouibounce(document.getElementById('ouibounce-modal')).isDisabled();
 
 	      // if you want to use the 'fire' or 'disable' fn,
 	      // you need to save OuiBounce to an object
