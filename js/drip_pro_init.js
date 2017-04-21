@@ -18,6 +18,11 @@ window.drip_plinko = function(drip, page) {
 		} else if (context == 'interview') {
 			response = {
 				offer: 'tics',
+				footer: drip.file('tics-footer')
+			}
+		} else if (context == 'test-modal') {
+			response = {
+				offer: 'tics',
 				modal: drip.file('ouibounce-modal-example'),
 				footer: drip.file('tics-footer')
 			}
