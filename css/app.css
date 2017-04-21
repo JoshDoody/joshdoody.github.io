@@ -1894,7 +1894,7 @@ body {
 /* Bootstrap tooltip stuff */
 .tooltip {
   position: absolute;
-  z-index: 1070;
+  z-index: 7;
   display: block;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 12px;
@@ -2965,7 +2965,7 @@ div[data-offer-plinko="optional"] {
 }
 
 a.close-slider {
-		z-index: 4000;
+		z-index: 20;
     position: absolute;
     top: -15px;
     right: 12.5px;
@@ -2989,7 +2989,7 @@ a.close-slider {
     width: 100%;
     bottom: -150px;
     left: 0;
-    z-index: 3000;
+    z-index: 15;
     border-top: 1px solid #924314;
     box-shadow: 0 0 25px #cecece;
 		opacity: .9;
@@ -3210,4 +3210,96 @@ a.close-slider {
       line-height: 24px;
   }
 
+}
+
+/* modal styling */
+#ouibounce-modal {
+	display: none;
+}
+
+#ouibounce-modal .underlay {
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 20;
+	background-color: #000;
+	opacity: .2;
+}
+
+#ouibounce-modal .modal {
+	width: 600px;
+	height: 450px;
+	background-color: #f0f1f2;
+	z-index: 25;
+	position: fixed;
+	margin: auto;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	border-radius: 4px;
+	-webkit-animation: popin 0.3s;
+	animation: popin 0.3s;
+	box-shadow: 0px 0px 5px #888;
+}
+
+#ouibounce-modal .modal-title {
+	background-color: #666;
+	border-bottom: 1px solid #AAA;
+	color: #fff;
+	padding: 10px;
+	margin: 0;
+	border-radius: 4px 4px 0 0;
+	text-align: center;
+}
+
+#ouibounce-modal h2 {
+	color: #fff;
+	font-size: 1.7em;
+	margin: 0.2em;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#ouibounce-modal .modal-body {
+	padding: 20px 35px;
+	font-size: 0.9em;
+}
+
+#ouibounce-modal p {
+	color: #344a5f;
+	line-height: 1.3em;
+}
+
+#ouibounce-modal .modal-body .more-info {
+	text-transform: capitalize;
+	cursor: pointer;
+	display: inline;
+	border-bottom: 1px solid #344a5f;
+}
+
+#ouibounce-modal .modal-dismiss {
+	margin-top: 15px;
+	font-size: 1em !important;
+}
+
+#ouibounce-modal .cta {
+	text-align: center;
+}
+
+#ouibounce-modal .cta-btn {
+  max-width: 350px;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+	font-size: 2em;
+  background: #F37021;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 5px 15px;
+  text-align: center;
 }
