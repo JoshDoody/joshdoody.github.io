@@ -3268,7 +3268,7 @@ a.close-slider {
 	font-size: 0.9em;
 }
 
-#ouibounce-modal p {
+#ouibounce-modal p, #ouibounce-modal ul, #ouibounce-modal ol {
 	color: #344a5f;
 	line-height: 1.3em;
 }
