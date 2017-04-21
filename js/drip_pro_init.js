@@ -23,7 +23,7 @@ window.drip_plinko = function(drip, page) {
 		} else if (context == 'test-modal') {
 			response = {
 				offer: 'tics',
-				modal: drip.file('ouibounce-modal-example'),
+				modal: drip.file('tics-modal'),
 				footer: drip.file('tics-footer')
 			}
 		}
@@ -148,26 +148,89 @@ jQuery(function(){
 		  modal: function(intent, content, options) {
 				var dom = jQuery(content)
 		    jQuery('body').append(dom)
+				
+				var ga_event_label = dom.find('#modal-cta').data("event-label")
 
 	      // if you want to use the 'fire' or 'disable' fn,
 	      // you need to save OuiBounce to an object
 	      var _ouibounce = ouibounce(document.getElementById('ouibounce-modal'), {
 	        // aggressive: true,
 	        timer: 0,
-	        callback: function() { console.log('ouibounce fired!'); }
+	        callback: function() { 
+						ga('send', {
+							hitType: 'event',
+							eventCategory: 'Modal',
+							eventAction: 'Show ad',
+							eventLabel: ga_event_label,
+							nonInteraction: 1
+						});
+					}
 	      });
 
 	      $('body').on('click', function() {
 	        $('#ouibounce-modal').hide();
+				  ga('send', {
+				  	hitType: 'event',
+				  	eventCategory: 'Modal',
+				  	eventAction: 'Close ad',
+				  	eventLabel: ga_event_label,
+				  	nonInteraction: 1
+				  });
 	      });
 
-	      $('#ouibounce-modal .modal-footer').on('click', function() {
+	      $('#ouibounce-modal .modal-dismiss').on('click', function() {
 	        $('#ouibounce-modal').hide();
+				  ga('send', {
+				  	hitType: 'event',
+				  	eventCategory: 'Modal',
+				  	eventAction: 'Close ad',
+				  	eventLabel: ga_event_label,
+				  	nonInteraction: 1
+				  });
 	      });
 
 	      $('#ouibounce-modal .modal').on('click', function(e) {
 	        e.stopPropagation();
 	      });
+				
+				// Set up a handler for the Click event on the modal ad
+				var modal_cta_link = document.getElementById('modal-cta');
+				var modal_click_event_label = modal_cta_link.dataset.eventLabel;
+
+				var ModalCTAClickHandler = function(event) {
+				  // Prevents the browser from clicking the link
+				  // and thus unloading the current page.
+				  event.preventDefault();
+
+				  // Creates a timeout to call `clickModalCTA` after 250ms.
+				  setTimeout(clickModalCTA, 250);
+
+				  // Keeps track of whether or not the link has been clicked.
+				  // This prevents the link from being clicked twice in cases
+				  // where `hitCallback` fires normally.
+				  var ModalCTAClicked = false;
+
+				  function clickModalCTA() {
+				    if (!ModalCTAClicked) {
+				      ModalCTAClicked = true;
+						  modal_cta_link.removeEventListener('click', ModalCTAClickHandler);
+					    modal_cta_link.click();
+				    }
+				  }
+
+				  // Sends the event to Google Analytics and
+				  // re-clicks the link once the hit is done.
+					ga('send', {
+						hitType: 'event',
+						eventCategory: 'Modal',
+						eventAction: 'Click ad',
+						eventLabel: ga_event_label,
+						nonInteraction: 1
+					});
+				};
+				
+				// Adds a listener for the "click" event.
+				modal_cta_link.addEventListener('click', ModalCTAClickHandler);
 			},			
 			
 		  footer: function(intent, content, options) {
@@ -184,18 +247,18 @@ jQuery(function(){
 					
 					// Make sure the Ouibounce modal isn't waiting to be fired
 					// Modal should only ever fire once for a user - includes ALL modals
-					var modal_dom_element = document.getElementById('ouibounce-modal');
-					if (modal_dom_element != null) {
-						var modal = ouibounce(document.getElementById('ouibounce-modal'));
-						var modal_waiting_to_be_fired = !modal.isDisabled();
-					}
+					// var modal_dom_element = document.getElementById('ouibounce-modal');
+					// if (modal_dom_element != null) {
+					// 	var modal = ouibounce(document.getElementById('ouibounce-modal'));
+					// 	var modal_waiting_to_be_fired = !modal.isDisabled();
+					// }
 					
 					var ga_event_label = dom.find('#slider-cta').data("event-label")
 					var cta_label = dom.find('#slider-cta').data("cta-label")
 					this.dom_slider = dom
 					
 					// If this particular slider has already been dismissed, do nothing
-          if (dptScope.storage.get(cta_label+'_dismissed') || modal_waiting_to_be_fired) return
+          if (dptScope.storage.get(cta_label+'_dismissed')) return
 						
 		      jQuery('body').append(dom)
 		      var has_scrolled = false
