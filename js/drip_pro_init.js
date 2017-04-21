@@ -157,13 +157,13 @@ jQuery(function(){
 	        // aggressive: true,
 	        timer: 0,
 	        callback: function() { 
-						ga('send', {
-							hitType: 'event',
-							eventCategory: 'Modal',
-							eventAction: 'Show ad',
-							eventLabel: ga_event_label,
-							nonInteraction: 1
-						});
+						// ga('send', {
+						// 	hitType: 'event',
+						// 	eventCategory: 'Modal',
+						// 	eventAction: 'Show ad',
+						// 	eventLabel: ga_event_label,
+						// 	nonInteraction: 1
+						// });
 					}
 	      });
 
