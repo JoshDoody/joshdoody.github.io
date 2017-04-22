@@ -154,7 +154,7 @@ jQuery(function(){
 	        // aggressive: true,
 	        timer: 0,
 	        callback: function() { 
-						if(window.ga && ga.create) {
+						if(window.ga && ga.loaded) {
 							ga('send', {
 								hitType: 'event',
 								eventCategory: 'Modal',
