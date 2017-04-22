@@ -8,11 +8,13 @@ window.drip_plinko = function(drip, page) {
 		if (context == 'raise') {
 			response = {
 				offer: 'salary-increase-templates',
+				modal: drip.file('salary-increase-templates-modal'),
 				footer: drip.file('salary-increase-templates-footer')
 			}
 		} else if (context == 'negotiate') {
 			response = {
 				offer: 'salary-negotiation-templates',
+				modal: drip.file('salary-negotiation-templates-modal'),
 				footer: drip.file('salary-negotiation-templates-footer')
 			}	
 		} else if (context == 'interview') {
@@ -21,13 +23,7 @@ window.drip_plinko = function(drip, page) {
 				modal: drip.file('tics-modal'),
 				footer: drip.file('tics-footer')
 			}
-		} else if (context == 'test-modal') {
-			response = {
-				offer: 'tics',
-				modal: drip.file('tics-modal'),
-				footer: drip.file('tics-footer')
-			}
-		}
+		} 
 	} else if (!drip.has_tag('Purchased - FSN - Bundle') && !(context == 'sales-page')) {
 		response = {
 			offer: 'fsn',
@@ -154,7 +150,7 @@ jQuery(function(){
 
 	      // if you want to use the 'fire' or 'disable' fn,
 	      // you need to save OuiBounce to an object
-	      var _ouibounce = ouibounce(document.getElementById('ouibounce-modal'), {
+	      var _ouibounce = ouibounce(document.getElementById('modal-ad'), {
 	        // aggressive: true,
 	        timer: 0,
 	        callback: function() { 
@@ -171,7 +167,7 @@ jQuery(function(){
 	      });
 
 	      $('body').on('click', function() {
-	        $('#ouibounce-modal').hide();
+	        $('#modal-ad').hide();
 				  ga('send', {
 				  	hitType: 'event',
 				  	eventCategory: 'Modal',
@@ -181,8 +177,9 @@ jQuery(function(){
 				  });
 	      });
 
-	      $('#ouibounce-modal .modal-dismiss').on('click', function() {
-	        $('#ouibounce-modal').hide();
+	      $('#modal-ad .modal-dismiss').on('click', function(e) {
+					e.preventDefault();
+	        $('#modal-ad').hide();
 				  ga('send', {
 				  	hitType: 'event',
 				  	eventCategory: 'Modal',
@@ -192,7 +189,7 @@ jQuery(function(){
 				  });
 	      });
 
-	      $('#ouibounce-modal .modal').on('click', function(e) {
+	      $('#modal-ad .modal').on('click', function(e) {
 	        e.stopPropagation();
 	      });
 				
@@ -250,9 +247,9 @@ jQuery(function(){
 					
 					// Make sure the Ouibounce modal isn't waiting to be fired
 					// Modal should only ever fire once for a user - includes ALL modals
-					// var modal_dom_element = document.getElementById('ouibounce-modal');
+					// var modal_dom_element = document.getElementById('modal-ad');
 					// if (modal_dom_element != null) {
-					// 	var modal = ouibounce(document.getElementById('ouibounce-modal'));
+					// 	var modal = ouibounce(document.getElementById('modal-ad'));
 					// 	var modal_waiting_to_be_fired = !modal.isDisabled();
 					// }
 					
