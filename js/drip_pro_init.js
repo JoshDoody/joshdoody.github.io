@@ -18,6 +18,7 @@ window.drip_plinko = function(drip, page) {
 		} else if (context == 'interview') {
 			response = {
 				offer: 'tics',
+				modal: drip.file('tics-modal'),
 				footer: drip.file('tics-footer')
 			}
 		} else if (context == 'test-modal') {
@@ -157,19 +158,20 @@ jQuery(function(){
 	        // aggressive: true,
 	        timer: 0,
 	        callback: function() { 
-						ga('send', {
-							hitType: 'event',
-							eventCategory: 'Modal',
-							eventAction: 'Show ad',
-							eventLabel: ga_event_label,
-							nonInteraction: 1
-						});
+						if(window.ga && ga.create) {
+							ga('send', {
+								hitType: 'event',
+								eventCategory: 'Modal',
+								eventAction: 'Show ad',
+								eventLabel: ga_event_label,
+								nonInteraction: 1
+							});
+						}
 					}
 	      });
 
 	      $('body').on('click', function() {
 	        $('#ouibounce-modal').hide();
-					_ouibounce.disable();
 				  ga('send', {
 				  	hitType: 'event',
 				  	eventCategory: 'Modal',
@@ -181,7 +183,6 @@ jQuery(function(){
 
 	      $('#ouibounce-modal .modal-dismiss').on('click', function() {
 	        $('#ouibounce-modal').hide();
-					_ouibounce.disable();
 				  ga('send', {
 				  	hitType: 'event',
 				  	eventCategory: 'Modal',
