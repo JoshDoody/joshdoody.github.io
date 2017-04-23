@@ -147,13 +147,16 @@ jQuery(function(){
 		    jQuery('body').append(dom)
 				
 				var ga_event_label = dom.find('#modal-cta').data("event-label")
-
+				var modal_fired = false
+				var modal_dismissed = false
+				
 	      // if you want to use the 'fire' or 'disable' fn,
 	      // you need to save OuiBounce to an object
 	      var _ouibounce = ouibounce(document.getElementById('modal-ad'), {
 	        // aggressive: true,
 	        timer: 0,
 	        callback: function() { 
+						modal_fired = true
 						if(window.ga && ga.loaded) {
 							ga('send', {
 								hitType: 'event',
@@ -165,28 +168,30 @@ jQuery(function(){
 						}
 					}
 	      });
+				
+				var modal_disabled = _ouibounce.isDisabled();
+				
+			  function closeModal(ga_event_label) {
+	        $('#modal-ad').hide();				
+					if(!modal_disabled && modal_fired && !modal_dismissed) {
+						modal_dismissed = true
+					  ga('send', {
+					  	hitType: 'event',
+					  	eventCategory: 'Modal',
+					  	eventAction: 'Close ad',
+					  	eventLabel: ga_event_label,
+					  	nonInteraction: 1
+					  });
+					}
+			  }
 
 	      $('body').on('click', function() {
-	        $('#modal-ad').hide();
-				  ga('send', {
-				  	hitType: 'event',
-				  	eventCategory: 'Modal',
-				  	eventAction: 'Close ad',
-				  	eventLabel: ga_event_label,
-				  	nonInteraction: 1
-				  });
+	        closeModal(ga_event_label);
 	      });
 
 	      $('#modal-ad .modal-dismiss').on('click', function(e) {
 					e.preventDefault();
-	        $('#modal-ad').hide();
-				  ga('send', {
-				  	hitType: 'event',
-				  	eventCategory: 'Modal',
-				  	eventAction: 'Close ad',
-				  	eventLabel: ga_event_label,
-				  	nonInteraction: 1
-				  });
+	        closeModal(ga_event_label);
 	      });
 
 	      $('#modal-ad .modal').on('click', function(e) {
