@@ -2758,7 +2758,7 @@ ul.lesson-list li {
 /* Create three columns of equal width */
 .price-column {
     float: left;
-    width: 33.3%;
+    width: 50%;
     padding: 8px;
 }
 
