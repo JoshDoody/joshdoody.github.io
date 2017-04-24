@@ -3213,6 +3213,16 @@ a.close-slider {
 }
 
 /* modal styling */
+
+@-webkit-keyframes popin {
+	0% { opacity: 0; -webkit-transform: scale(0.5); }
+	100% { opacity: 1; -webkit-transform: scale(1); }
+}
+@keyframes popin {
+	0% { opacity: 0; transform: scale(0.5); }
+	100% { opacity: 1; transform: scale(1); }
+}
+
 #modal-ad {
 	display: none;
 }
@@ -3226,6 +3236,8 @@ a.close-slider {
 	z-index: 20;
 	background-color: #000;
 	opacity: .2;
+	-webkit-animation: fadein 0.5s;
+	animation: fadein 0.5s;
 }
 
 #modal-ad .modal {
@@ -3240,9 +3252,9 @@ a.close-slider {
 	bottom: 0;
 	left: 0;
 	border-radius: 4px;
+	box-shadow: 0px 0px 5px #888;
 	-webkit-animation: popin 0.3s;
 	animation: popin 0.3s;
-	box-shadow: 0px 0px 5px #888;
 }
 
 #modal-ad .modal-title {
