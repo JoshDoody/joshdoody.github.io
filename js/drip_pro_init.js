@@ -155,6 +155,8 @@ jQuery(function(){
 	      var _ouibounce = ouibounce(document.getElementById('modal-ad'), {
 	        // aggressive: true,
 	        timer: 0,
+					cookieExpire: 7,
+					sitewide: true,
 	        callback: function() { 
 						modal_fired = true
 						if(window.ga && ga.loaded) {
