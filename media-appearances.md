@@ -24,6 +24,7 @@ For booking and interview requests, send me a message on  [LinkedIn](https://www
 * [How to leap past 90% of applicants](https://purelyfunctional.tv/functional-programming-career-guide/resume-interview-salary/){:rel="nofollow"} – purelyfunctional.tv
 * [Salary Negotiation Scripts For Any Job](https://www.glassdoor.com/blog/salary-negotiation-scripts-for-any-job/){:rel="nofollow"} – Glassdoor (also [Fast Company](https://www.fastcompany.com/40406763/exactly-what-to-say-in-these-four-common-salary-conversations{:rel="nofollow"}))
 * [13 Must-Have Words to Include In Your Resume](https://www.glassdoor.com/blog/words-to-include-in-resume/){:rel="nofollow"} – Glassdoor (also [Business Insider](http://www.businessinsider.com/13-words-you-should-include-on-your-resume-according-to-a-panel-of-experts-2017-4){:rel="nofollow"})
+* [9 Reasons Why You Didn’t Get a Raise](https://www.glassdoor.com/blog/reasons-you-didnt-get-a-raise/){:rel="nofollow"} – Glassdoor 
 
 ## Podcasts
 
