@@ -84,7 +84,7 @@ Right! If you like the offer, there's no reason to negotiate. Just accept the of
 
 Well, unless you underestimate your value. It's possible you're happy with the offer just because you don't have enough information yet. But what if you start working and find out someone else with a similar background to yours is making a lot more money? That could be pretty frustrating and you might not be as happy anymore.
 
-Now we're right back to negotiating to learn you're worth! Drat!
+Now we're right back to negotiating to learn your worth! Drat!
 
 ## 9. You'll get your foot in the door and THEN ask for a raise
 
