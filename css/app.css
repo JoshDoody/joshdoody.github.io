@@ -652,31 +652,34 @@ p, ul, ol {
 /**
  * Quotes
  */
-blockquote {
-  border-left: 2px solid #00A9FF;
-  padding-left: 20px;
-  margin-left: 0;
-}
+/*blockquote {
 
-.quote {
+  padding-left: 20px;
+	padding-right: 20px;
+  margin-left: 0;
+}*/
+
+.testimonial {
+  border-left: 2px solid #00A9FF;
+  border-right: 2px solid #00A9FF;
   quotes: "“" "”" "‘" "’";
   text-align: center;
-  padding: 2em 0 2em 0;
-  margin: 2em 0;
+  padding: 2em 1em 2em 1em;
+	margin-bottom: 20px;
   background: url(../../images/topo-map-bg-1.png);
   background-size: 1000px 1000px;
+	border-radius: 5px;
   box-shadow: 0 0 0 1px rgba(151, 151, 151, 0.2);
 }
 
 @media only screen and (min-width: 650px) {
-  .quote {
-    padding: 3em 0 2.5em 0;
-    margin: 4em 0;
+  .testimonial {
+    padding: 3em 1em 2.5em 1em;
   }
 }
 
 .quote__text {
-  font-size: 1.7em;
+  font-size: 1.3em;
   font-weight: 300;
   font-style: italic;
   color: #777;
@@ -686,7 +689,7 @@ blockquote {
 
 @media only screen and (min-width: 650px) {
   .quote__text {
-    font-size: 2.5em;
+    font-size: 2em;
   }
 }
 
@@ -704,7 +707,7 @@ blockquote {
   display: block;
   text-align: right;
   font-size: 1.0em;
-  margin-top: .5em;
+  margin-top: 1em;
 }
 
 .quote__byline:before {
@@ -2751,15 +2754,20 @@ ul.lesson-list li {
 
 /* Pricing grid */
 
+/* Create two columns of equal width */
 .price-column {
     box-sizing: border-box;
-}
-
-/* Create three columns of equal width */
-.price-column {
-    float: left;
+		float: left;
     width: 50%;
     padding: 8px;
+}
+
+.price-column:first-of-type {
+	padding-left: 0;
+}
+
+.price-column:last-of-type {
+	padding-right: 0;
 }
 
 /* Style the list */
@@ -2818,6 +2826,10 @@ li.product-name, li.product-price {
 }
 
 /* The "Sign Up" button */
+.price-grid {
+	margin-bottom: 10px;
+}
+
 .price-grid .button {
     background-color: #4CAF50;
     border: none;
