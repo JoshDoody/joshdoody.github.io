@@ -2827,6 +2827,7 @@ li.product-name, li.product-price {
 
 /* The "Sign Up" button */
 .price-grid {
+	overflow: hidden;
 	margin-bottom: 10px;
 }
 
@@ -2856,6 +2857,8 @@ li.product-price a.price {
 @media only screen and (max-width: 799px) {
   .price-column {
     width: 100%;
+		padding-left: 0px;
+		padding-right: 0px;
   }
 	.product-name .spacing {
 		display: none;
