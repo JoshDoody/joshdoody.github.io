@@ -811,8 +811,8 @@ h4,
 h5,
 .section-heading {
   color: #555;
-  position: relative;
-  font-family: 'Helvetica';
+/*  position: relative;
+*/  font-family: 'Helvetica';
   /*font-style: italic;*/
 }
 
