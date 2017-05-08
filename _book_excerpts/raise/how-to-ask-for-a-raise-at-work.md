@@ -44,4 +44,4 @@ Here’s a high-level view of our process for requesting a raise:
 3. [Prepare your case]({{ site.baseurl }}/book/raise/ask-for-a-raise-email-sample/)
 4. [Present your case]({{ site.baseurl }}/book/raise/ask-for-a-raise-in-person-first/)
 
-Ready to get started? Start by [defining you goal]({{ site.baseurl }}/book/raise/what-is-your-target-salary/).
+Ready to get started? Start by [defining your goal]({{ site.baseurl }}/book/raise/what-is-your-target-salary/).
