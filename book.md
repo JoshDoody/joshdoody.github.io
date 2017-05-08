@@ -31,9 +31,9 @@ I like [helping people]({{ site.baseurl }}/testimonials/), and this is another w
 
 ## How do I make money if I'm giving it away?
 
-Some people will be happy reading the book for free online, and others are happy to pay for more. Some will want to read it on their [Kindle or in iBooks]({{ site.baseurl }}/#basic). Some will want the worksheets and email templates that come with [the book]({{ site.baseurl }}/#basic). Some will want [self-paced courses]({{ site.baseurl }}/video-courses/) to really master the material. 
+Some people will be happy reading the book for free online, and others are happy to pay for more for the expert interviews, self-paced video courses, worksheets the worksheets and email templates that come with [the Complete Bundle]({{ site.baseurl }}/#complete).
 
-And for those considering [1-on-1 coaching]({{ site.baseurl }}/coach/) for accountability and a customized plan, this is a great way to show them that I know what I'm talking about.
+And for those considering [1-on-1 salary negotiation coaching]({{ site.baseurl }}/coach/) for accountability and a customized plan, or a [personalized strategy session]({{ site.baseurl }}/call/) this is a great way to show them that I know what I'm talking about.
 
 My book is the *foundation* for everything else I offer, and those other things are very valuable.
 
