@@ -574,6 +574,11 @@ p, ul, ol {
   margin-left: 2em;
 }
 
+.u-hangingindent {
+  padding-left: 22px ;
+  text-indent: -22px ;
+}
+
 /**
  * Header
  */
@@ -2758,7 +2763,7 @@ ul.lesson-list li {
 .price-column {
     box-sizing: border-box;
 		float: left;
-    width: 50%;
+    width: 33.3%;
     padding: 8px;
 }
 
@@ -2808,7 +2813,11 @@ ul.lesson-list li {
 /* List items */
 .product li {
     border-bottom: 1px solid #eee;
-    padding: 15px 15px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;		
+		padding-left: 35px;
+		text-indent: -14px;
     text-align: left;
 }
 
