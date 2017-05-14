@@ -1137,7 +1137,7 @@ h1, h2 {
 }
 
 .toc__item.toc__item--indented {
-  padding-left: 15px;
+  padding-left: 20px;
 }
 
 .toc__item b {
@@ -1164,10 +1164,12 @@ h1, h2 {
 
 .toc__item--section {
   padding-bottom: 5px;
+	padding-left: 20px;
+	text-indent: -8px;
   letter-spacing: .02em;
   font-weight: 600;
   text-transform: uppercase;
-  color: #0087cc;
+  color: #555;
 }
 
 .toc__item--section b {
@@ -1195,7 +1197,6 @@ h1, h2 {
 .toc__item--section span + span:before {
   content: '° ';
   display: inline-block;
-  width: 15px;
   position: relative;
   top: 5px;
   color: #ccc;
