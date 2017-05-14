@@ -618,7 +618,7 @@ p, ul, ol {
   font-weight: bold;
   /*font-style: italic;*/
   font-size: 2.5em;
-  line-height: 1.0;
+  line-height: 1.2;
   color: #00A9FF;
   margin: 0;
   text-decoration: none;
@@ -645,6 +645,7 @@ p, ul, ol {
 .header__tagline {
   /*font-style: italic;*/
   font-size: 1.1em;
+	line-height: 1.4;
   color: #999;
 }
 
@@ -2767,14 +2768,6 @@ ul.lesson-list li {
     padding: 8px;
 }
 
-.price-column:first-of-type {
-	padding-left: 0;
-}
-
-.price-column:last-of-type {
-	padding-right: 0;
-}
-
 /* Style the list */
 .product {
     list-style-type: none;
@@ -2812,13 +2805,15 @@ ul.lesson-list li {
 
 /* List items */
 .product li {
-    border-bottom: 1px solid #eee;
-    padding-top: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;		
-		padding-left: 35px;
-		text-indent: -14px;
-    text-align: left;
+  border-bottom: 1px solid #eee;
+	padding: 10px;
+}
+
+.product li.feature {
+  padding-right: 10px;
+	padding-left: 40px;
+	text-indent: -15px;
+  text-align: left;
 }
 
 .product li s {
@@ -2866,8 +2861,8 @@ li.product-price a.price {
 @media only screen and (max-width: 799px) {
   .price-column {
     width: 100%;
-		padding-left: 0px;
-		padding-right: 0px;
+		margin-left: 0px;
+		margin-right: 0px;
   }
 	.product-name .spacing {
 		display: none;
