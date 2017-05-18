@@ -1,17 +1,18 @@
 ---
 layout: post
 title: Fearless Salary Negotiation in the media
+headline: Fearless Salary Negotiation <br>in the media
 excerpt: Article, Podcasts, Talks, and Guest Posts featuring Fearless Salary Negotiation
-last_modified_at: 2017-01-16
+last_modified_at: 2017-05-15
 share_title: Fearless Salary Negotiation in the media
 ---
-<img src="{{ site.baseurl }}/images/josh-doody-200px-circle.png" style="padding-right: 10px;" width="125" alt="Josh Doody headshot" class="author__image" align="left"> **I'm Josh Doody**—a Computer & Electrical Engineer, MBA, author, and consultant. I didn't negotiate my salary at my first few jobs, but quickly realized I had left a lot of money on the table. **I began negotiating and I doubled my salary in three years.**
-
-With the experience and confidence I gained from doubling my own salary, I began helping others make tens of thousands more dollars negotiating with companies like **Google, Amazon, Tesla, @WalmartLabs, Kimberly-Clark, Bloomberg, Red Hat, Verizon, IBM**, and many other companies you've probably heard of.
+{% include fsn_bio.html %}
 
 I love finding new audiences to talk with through interviews, guest posts, and talks. This page is a good summary of other places where you can find my work.
 
 For booking and interview requests, send me a message on  [LinkedIn](https://www.linkedin.com/in/joshdoody)!
+
+To hire me as your salary negotiation coach, click here [click here]({{ site.baseurl }}/coach)!
 
 ## Articles and Interviews
 
