@@ -23,6 +23,12 @@ window.drip_plinko = function(drip, page) {
 				modal: drip.file('tics-modal'),
 				footer: drip.file('tics-footer')
 			}
+		} else if (context == 'coach-test') {
+			response = {
+				offer: 'tics',
+				modal: drip.file('coach-modal'),
+				footer: drip.file('coach-footer')
+			}
 		} 
 	} else if (!drip.has_tag('Purchased - FSN - Bundle') && !(context == 'sales-page')) {
 		response = {

@@ -2913,6 +2913,13 @@ div[data-offer-plinko="optional"] {
     float: left;
 }
 
+.slider-cta-coach .slider-icon  {
+    width: 90px;
+    margin-top: -17px;
+		margin-left: 20px;
+    float: left;
+}
+
 .slider-header {
     font-family: "museo-sans-rounded", sans-serif;
     font-weight: 100;
@@ -2920,8 +2927,8 @@ div[data-offer-plinko="optional"] {
     line-height: 36px;
     color: #fff;
     padding-top: 33px;
-    padding-left: 130px;
     padding-right: 170px;
+    padding-left: 130px;
 }
 
 .slider-header span {
@@ -2948,11 +2955,11 @@ div[data-offer-plinko="optional"] {
     background: #F37021!important;
 }
 
-.slider-cta-salary-negotiation-templates {
+.slider-cta-salary-negotiation-templates, .slider-cta-coach {
     background: #00A9FF!important;
 }
 
-.slider-cta-salary-negotiation-templates .slider-cta-btn {
+.slider-cta-salary-negotiation-templates .slider-cta-btn, .slider-cta-coach .slider-cta-btn {
     background: #006599;
 }
 
@@ -3016,7 +3023,7 @@ a.close-slider {
 		overflow: visible !important;
 }
 
-.notification-bar.slider-cta-salary-negotiation-templates {
+.notification-bar.slider-cta-salary-negotiation-templates, .notification-bar.slider-cta-coach {
   border-top: 1px solid #006599;
 }
 
@@ -3194,6 +3201,7 @@ a.close-slider {
 			padding-top: 20px;
 	    padding-right: 33px;
 			padding-bottom: 15px;
+			padding-left: 10px;
 			text-align: center;
 			text-decoration: underline;
 	}
@@ -3205,6 +3213,9 @@ a.close-slider {
 	}
 	.slider-cta-fsn .slider-icon {
 	    margin-top: -55px;
+	}
+	.slider-cta-coach .slider-icon {
+	    margin-top: -33px;
 	}
 
 }
@@ -3342,7 +3353,7 @@ a.close-slider {
   text-align: center;
 }
 
-#modal-ad .cta-btn[data-cta-label="snt-modal"] {
+#modal-ad .cta-btn[data-cta-label="snt-modal"], #modal-ad .cta-btn[data-cta-label="coach-modal"] {
   background: #00A9FF;
 }
 
