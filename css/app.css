@@ -2938,6 +2938,7 @@ div[data-offer-plinko="optional"] {
 .slider-cta {
     float: right;
     width: 150px;
+		margin-right: 20px;
 }
 
 .slider-cta-btn {
