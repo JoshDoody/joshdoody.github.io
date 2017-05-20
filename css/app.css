@@ -2220,7 +2220,7 @@ body {
 
 .nav-buy-cta {
     float: right;
-    width: 150px;
+/*    width: 210px;*/
 		display: inline;
 		margin-top: 4px;
 }
@@ -2238,7 +2238,7 @@ body {
 
 @media only screen and (max-width: 1023px) {
 	.nav-buy-cta {
-		margin-right: -30px;
+		margin-right: -20px;
 	}
 	.nav__title {
 		margin-left: -10px;
@@ -2248,6 +2248,15 @@ body {
 @media only screen and (min-width: 1024px) {
 	.nav__title {
 		margin-left: 20px;
+	}
+}
+
+@media only screen and (max-width: 649px) {
+	.nav-buy-cta {
+		display: block;
+		text-align: center;
+		float: none;
+		margin-right: 0;
 	}
 }
 

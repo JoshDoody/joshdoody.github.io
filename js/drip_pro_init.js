@@ -13,21 +13,15 @@ window.drip_plinko = function(drip, page) {
 			}
 		} else if (context == 'negotiate') {
 			response = {
-				offer: 'salary-negotiation-templates',
-				modal: drip.file('salary-negotiation-templates-modal'),
-				footer: drip.file('salary-negotiation-templates-footer')
-			}	
+				offer: 'coach',
+				modal: drip.file('coach-modal'),
+				footer: drip.file('coach-footer')
+			}
 		} else if (context == 'interview') {
 			response = {
 				offer: 'tics',
 				modal: drip.file('tics-modal'),
 				footer: drip.file('tics-footer')
-			}
-		} else if (context == 'coach-test') {
-			response = {
-				offer: 'tics',
-				modal: drip.file('coach-modal'),
-				footer: drip.file('coach-footer')
 			}
 		} 
 	} else if (!drip.has_tag('Purchased - FSN - Bundle') && !(context == 'sales-page')) {
