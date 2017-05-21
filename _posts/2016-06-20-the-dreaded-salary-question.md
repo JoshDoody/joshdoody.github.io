@@ -424,4 +424,4 @@ They're either trying to save time, or they're trying to gather information to g
 
 Next time you're asked for your current salary or desired in a job interview, use these word-for-word scripts to avoid disclosing that information and get back to the interview process. This strategy will leave the salary expectations question open longer, allowing you to impress them more so you have more leverage during your salary negotiation.
 
-{% include /drip_forms/interview-cheat-sheet.html drip_offer_plinko="optional" %}
+<div class="inline-ad hidden"></div>

@@ -108,4 +108,4 @@ Aaaaand I came up totally empty here. I promised you 10 reasons you should NOT n
 
 Sorry about that. 
 
-{% include /drip_forms/salary-negotiation-email-templates.html drip_offer_plinko="optional" %}
+<div class="inline-ad hidden"></div>

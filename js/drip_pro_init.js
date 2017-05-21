@@ -9,19 +9,22 @@ window.drip_plinko = function(drip, page) {
 			response = {
 				offer: 'salary-increase-templates',
 				modal: drip.file('salary-increase-templates-modal'),
-				footer: drip.file('salary-increase-templates-footer')
+				footer: drip.file('salary-increase-templates-footer'),
+				inline: drip.file('salary-increase-templates-inline')
 			}
 		} else if (context == 'negotiate') {
 			response = {
 				offer: 'coach',
 				modal: drip.file('coach-modal'),
-				footer: drip.file('coach-footer')
+				footer: drip.file('coach-footer'),
+				inline: drip.file('coach-inline')
 			}
 		} else if (context == 'interview') {
 			response = {
 				offer: 'tics',
 				modal: drip.file('tics-modal'),
-				footer: drip.file('tics-footer')
+				footer: drip.file('tics-footer'),
+				inline: drip.file('tics-inline')
 			}
 		} 
 	} else if (!drip.has_tag('Purchased - FSN - Bundle') && !(context == 'sales-page')) {
@@ -29,7 +32,7 @@ window.drip_plinko = function(drip, page) {
 			offer: 'fsn',
 			footer: drip.file('fsn-footer')
 		}
-	}
+	}	
 					
 	return response
 }
@@ -357,6 +360,55 @@ jQuery(function(){
 							 dptScope.storage.set(dismiss_cta_label+'_dismissed', '1', 5*86400000 );
 						});
 					});
+		  },
+			
+		  inline: function(intent, content, options) {
+		      var dom = jQuery(content)					
+					var ga_event_label = dom.find('#inline-cta').data("event-label")
+					var cta_label = dom.find('#inline-cta').data("cta-label")
+					this.dom_inline = dom
+											
+					jQuery( "div.inline-ad" ).replaceWith(content);
+					
+					// Set up a handler for the Click event on the slide-in ad
+					var cta_link = document.getElementById('inline-cta');
+					var click_event_label = cta_link.dataset.eventLabel;
+
+					var ctaButtonHandler = function(event) {
+
+					  // Prevents the browser from clicking the link
+					  // and thus unloading the current page.
+					  event.preventDefault();
+
+					  // Creates a timeout to call `clickLink` after 250ms.
+					  setTimeout(clickLink, 250);
+
+					  // Keeps track of whether or not the link has been clicked.
+					  // This prevents the link from being clicked twice in cases
+					  // where `hitCallback` fires normally.
+					  var linkClicked = false;
+
+					  function clickLink() {
+					    if (!linkClicked) {
+					      linkClicked = true;
+							  cta_link.removeEventListener('click', ctaButtonHandler);
+						    cta_link.click();
+					    }
+					  }
+
+					  // Sends the event to Google Analytics and
+					  // re-clicks the link once the hit is done.
+						ga('send', {
+							hitType: 'event',
+							eventCategory: 'Inline',
+							eventAction: 'Click ad',
+							eventLabel: click_event_label,
+							nonInteraction: 1
+						});
+					};
+					
+					// Adds a listener for the "click" event.
+					cta_link.addEventListener('click', ctaButtonHandler);
 		  }
     }
   })

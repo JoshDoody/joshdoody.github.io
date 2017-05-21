@@ -57,7 +57,7 @@ If the company wears jeans and t-shirts, you could wear jeans and a button-down 
 
 Here's a good article on [how to dress for your next job interview](http://www.forbes.com/sites/jacquelynsmith/2013/06/20/how-to-dress-for-your-next-job-interview/#277259b38bad).
 
-{% include /drip_forms/interview-cheat-sheet.html drip_offer_plinko="optional" %}
+<div class="inline-ad hidden"></div>
 
 ## <a name="phone"></a>Phone interviews
 
@@ -106,7 +106,7 @@ Keep your hands free so you can take notes. It's hard to take notes when you're 
 
 If you're excited for the interview and you do a lot of talking, your throat could dry out so it's tough for you to talk. That could hamper your interview, so have some water handy in case your voice starts to give out.
 
-{% include /drip_forms/interview-cheat-sheet.html drip_offer_plinko="optional" %}
+<div class="inline-ad hidden"></div>
 
 ## <a name="video"></a>Video interviews
 
@@ -191,4 +191,4 @@ Here's a good article on [how to dress for your next job interview](http://www.f
 
 If you're excited for the interview and you do a lot of talking, your throat could dry out so it's tough for you to talk. That could hamper your interview, so have some water handy in case your voice starts to give out.
 
-{% include /drip_forms/interview-cheat-sheet.html drip_offer_plinko="optional" %}
+<div class="inline-ad hidden"></div>

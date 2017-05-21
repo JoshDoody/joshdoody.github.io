@@ -85,4 +85,4 @@ Each job interview question is an opportunity to stand out and learn more about 
 
 One last thing—don't force it! Having these 10 job interview questions you can ask will help you make *sure* you have at least a couple good questions ready when you get the chance. But if you're out of time or have already addressed all of your questions, it's ok to just tell the interviewer that you don't have anymore questions and thank them for their time.
 
-{% include /drip_forms/interview-cheat-sheet.html drip_offer_plinko="optional" %}
+<div class="inline-ad hidden"></div>

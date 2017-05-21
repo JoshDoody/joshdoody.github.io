@@ -53,4 +53,4 @@ Please share it. The more you share, the more people will see it. That means mor
 
 Use the little buttons below to share with someone who might benefit from it!
 
-{% include /drip_forms/interview-cheat-sheet.html drip_offer_plinko="optional" %}	
+<div class="inline-ad hidden"></div>	

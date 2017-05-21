@@ -40,7 +40,7 @@ josh@example.com</p>
 
 This counter offer letter might look like a big block of text, but there's a lot going on here and all of it is by design. Let's dig deeper.
 
-{% include /drip_forms/salary-negotiation-email-templates.html drip_offer_plinko="optional" %}
+<div class="inline-ad hidden"></div>
 
 ## Open with a greeting 
 
@@ -101,5 +101,5 @@ Finally, after you use the counter offer letter sample above to write your own s
 <div class="ad-box">
 	<p><strong>What's next?</strong> To determine your counter offer or plan your next steps after sending this salary negotiation email, use this <a href="{{ site.baseurl }}/salary-negotiation-script/">salary negotiation script</a>!</p>
 </div>
-
-{% include /drip_forms/salary-negotiation-email-templates.html drip_offer_plinko="optional" %}
+<div class="inline-ad hidden"></div>
+<div class="inline-ad hidden"></div>

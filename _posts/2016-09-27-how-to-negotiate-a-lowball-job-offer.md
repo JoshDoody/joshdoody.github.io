@@ -87,7 +87,7 @@ You'll do that with this short email template you can use to respond to a lowbal
 
 Replace all the **[bold text in brackets]** with your own details and this template should give you a great starting point.
 
-{% include /drip_forms/salary-negotiation-email-templates.html drip_offer_plinko="optional" %}
+<div class="inline-ad hidden"></div>
 
 ## How this works
 
@@ -120,4 +120,4 @@ Once they send a revised job offer, then you can proceed with a standard [starti
 
 Beware that companies will often revise their lowball job offer to be pretty close to their best-possible job offer, which means your standard salary negotiation strategy may not yield as big a return when used in conjunction with this technique. The ultimate result is what you want—you've determined how much the company is willing to pay you to do the job—and you just got there combining *two* techniques instead of a single salary negotiation technique.
 
-{% include /drip_forms/salary-negotiation-email-templates.html drip_offer_plinko="optional" %}
+<div class="inline-ad hidden"></div>

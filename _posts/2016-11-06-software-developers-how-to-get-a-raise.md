@@ -112,4 +112,4 @@ So [keep track]({{ site.baseurl }}/book/raise/raise-build-your-case/) of the way
 
 **Do that consistently, and you'll make a lot more money over your career**.
 
-{% include /drip_forms/salary-increase-email-templates.html drip_offer_plinko="optional" %}
+<div class="inline-ad hidden"></div>

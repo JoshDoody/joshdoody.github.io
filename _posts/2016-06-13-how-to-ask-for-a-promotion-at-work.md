@@ -50,4 +50,4 @@ Instead of waiting for a promotion to come to you, go get it with this two-step 
 1. **Do the job**—Determine the differences between what you’re doing now and what the new job requires, and find a way to start doing those things.
 2. **Ask to make it official**—Once you’re comfortable with the new job’s responsibilities, talk to your manager to determine whether you have more work to do, or if she’s ready to make it official.
 
-{% include /drip_forms/salary-increase-email-templates.html drip_offer_plinko="optional" %}
+<div class="inline-ad hidden"></div>

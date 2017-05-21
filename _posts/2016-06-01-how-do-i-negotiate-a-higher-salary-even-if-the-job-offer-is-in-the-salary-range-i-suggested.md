@@ -31,4 +31,4 @@ It's problematic to declare a desired salary range early in the interview proces
 
 By declining to share your current or desired salary in response to [The Dreaded Salary Question]({{ site.baseurl }}/the-dreaded-salary-question), you give yourself more time to get further into the interview process before salary ranges are set *and* you allow the company to make the first offer so you can negotiate from a stronger position.
 
-{% include /drip_forms/salary-negotiation-email-templates.html drip_offer_plinko="optional" %}
+<div class="inline-ad hidden"></div>
