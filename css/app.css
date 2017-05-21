@@ -3370,3 +3370,27 @@ a.close-slider {
 #modal-ad .cta-btn[data-cta-label="sit-modal"] {
   background: #50b432;
 }
+
+/* inline ads with ctas */
+
+.inline-ad .cta {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.inline-cta-btn {
+  max-width: 350px;
+  margin: 0 auto;
+  text-align: center;
+	text-decoration: none;
+  position: relative;
+  overflow: hidden;
+	font-size: 2em;
+  background: #F37021;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 10px 20px;
+  text-align: center;
+}
