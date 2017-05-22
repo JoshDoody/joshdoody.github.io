@@ -29,6 +29,46 @@
 			// Need this for Drip Pro Tools
 			window.context = '{{ page.context }}'
 		</script>
+			
+		<script type="text/javascript">
+			var navCTAButtonHandler = function(event) {
+
+			  // Prevents the browser from clicking the link
+			  // and thus unloading the current page.
+			  event.preventDefault();
+
+			  // Creates a timeout to call `clickLink` after 250ms.
+			  setTimeout(clickNavCTA, 250);
+
+			  // Keeps track of whether or not the link has been clicked.
+			  // This prevents the link from being clicked twice in cases
+			  // where `hitCallback` fires normally.
+			  var navCTALinkClicked = false;
+
+			  function clickNavCTA() {
+			    if (!navCTALinkClicked) {
+			      navCTALinkClicked = true;
+					  navCTAButton.removeEventListener('click', navCTAButtonHandler);
+				    navCTAButton.click();
+			    }
+			  }
+
+			  // Sends the event to Google Analytics and
+			  // re-clicks the link once the hit is done.
+				ga('send', {
+					hitType: 'event',
+					eventCategory: 'Link',
+					eventAction: 'Click nav bar CTA',
+					eventLabel: 'Coaching',
+					nonInteraction: 1
+				});
+			};
+			
+			var navCTAButton = document.getElementById('nav-bar-coach-cta');
+			
+			navCTAButton.addEventListener('click', navCTAButtonHandler);
+		</script>
+			
 		
 		<script src="{{ site.baseurl }}/js/drip_pro_init.js" type="text/javascript"></script>
 			
