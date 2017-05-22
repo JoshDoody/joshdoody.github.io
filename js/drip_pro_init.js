@@ -7,10 +7,10 @@ window.drip_plinko = function(drip, page) {
 	if (drip.is_anon) {
 		if (context == 'raise') {
 			response = {
-				offer: 'salary-increase-templates',
-				modal: drip.file('salary-increase-templates-modal'),
-				footer: drip.file('salary-increase-templates-footer'),
-				inline: drip.file('salary-increase-templates-inline')
+				offer: 'free-raise-course',
+				modal: drip.file('free-raise-course-modal'),
+				footer: drip.file('free-raise-course-footer'),
+				inline: drip.file('free-raise-course-inline')
 			}
 		} else if (context == 'negotiate') {
 			response = {
@@ -26,7 +26,7 @@ window.drip_plinko = function(drip, page) {
 				footer: drip.file('tics-footer'),
 				inline: drip.file('tics-inline')
 			}
-		} 
+		}
 	} else if (!drip.has_tag('Purchased - FSN - Bundle') && !(context == 'sales-page')) {
 		response = {
 			offer: 'fsn',
