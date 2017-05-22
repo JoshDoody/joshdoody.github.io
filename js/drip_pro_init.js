@@ -14,10 +14,10 @@ window.drip_plinko = function(drip, page) {
 			}
 		} else if (context == 'negotiate') {
 			response = {
-				offer: 'coach',
-				modal: drip.file('coach-modal'),
-				footer: drip.file('coach-footer'),
-				inline: drip.file('coach-inline')
+				offer: 'salary-negotiation-templates',
+				modal: drip.file('salary-negotiation-templates-modal'),
+				footer: drip.file('salary-negotiation-templates-footer'),
+				inline: drip.file('salary-negotiation-templates-inline')
 			}
 		} else if (context == 'interview') {
 			response = {
@@ -27,12 +27,22 @@ window.drip_plinko = function(drip, page) {
 				inline: drip.file('tics-inline')
 			}
 		}
-	} else if (!drip.has_tag('Purchased - FSN - Bundle') && !(context == 'sales-page')) {
-		response = {
-			offer: 'fsn',
-			footer: drip.file('fsn-footer')
+	} else {
+		if (context == 'negotiate') {
+			response = {
+				offer: 'coach',
+				modal: drip.file('coach-modal'),
+				footer: drip.file('coach-footer'),
+				inline: drip.file('coach-inline')
+			}
+		} else if (!drip.has_tag('Purchased - FSN - Bundle') && !(context == 'sales-page')) {
+				response = {
+					offer: 'fsn',
+					footer: drip.file('fsn-footer')
+				}
 		}
-	}	
+	}
+			
 					
 	return response
 }
