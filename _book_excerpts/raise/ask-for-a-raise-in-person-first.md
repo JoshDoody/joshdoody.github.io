@@ -26,7 +26,7 @@ Hopefully your manager will talk with you about this and give you some sense of 
 Once you’ve spoken to your manager, review the email you drafted and make any changes that seem necessary after your conversation. You don’t want to send outdated information in the email. Once you’ve made any updates, go ahead and send it along to your manager for review and consideration.
 
 <div class='ad-box'>
-<p><strong>Learn more about how to ask for a raise in an email:</strong> <a href="{{ site.baseurl }}/salary-increase-letter-sample/">How to ask for a raise with a salary increase letter</a></p>
+<p><strong>Learn more about how to ask for a raise in an email:</strong> <a href="{{ site.baseurl }}/salary-increase-letter-sample/">How to ask for a raise - email template</a></p>
 </div>
 
 You might be wondering why you’re sending an email that says the same thing you asked for in your meeting. The email acts as a record of your request, and it is forwardable—this is the key component. After you request your raise, your manager will almost certainly have to run your request up the chain of command. At every stop along that chain, someone will need to be convinced that you’ve earned this raise, approve it, and pass it on to the next link in the chain for approval. Your email makes your case clearly and succinctly and will make your manager’s job easier, which increases the likelihood of your request being approved.

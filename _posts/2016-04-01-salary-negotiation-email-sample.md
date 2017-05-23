@@ -16,7 +16,7 @@ The best way to counter offer is with this salary negotiation email template. Th
 Keep reading after the salary negotiation letter sample for a detailed explanation of how you can use this template to counter offer and negotiate your starting salary.
 
 <div class='ad-box'>
-<p><strong>Looking for a salary increase letter sample to ask for a raise?</strong> Here you go! <a href="{{ site.baseurl }}/salary-increase-letter-sample/">Salary increase letter sample</a></p>
+<p><strong>Looking for a salary increase letter sample to ask for a raise?</strong> Here you go! <a href="{{ site.baseurl }}/salary-increase-letter-sample/">How to ask for a raise in writing</a></p>
 </div>
 	
 <div class='sample-email'>
