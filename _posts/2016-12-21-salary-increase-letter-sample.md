@@ -1,9 +1,10 @@
 ---
 layout: post
 title: How to ask for a raise - email templates and word-for-word scripts
-headline: Ask your boss for a raise <br>with these email templates and <br>word-for-word scripts
+headline: Ask your boss for a raise with these email templates and word-for-word scripts
 tagline: Schedule a meeting, ask for a raise, and follow up with these email templates
 excerpt: Asking for a raise is a lot easier with these email templates. Word-for-word scripts to schedule a meeting, send your request, and follow up.
+context: raise
 last_modified_at: 2017-05-23
 extra_js:
   - template_requested.js
