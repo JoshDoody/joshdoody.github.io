@@ -227,7 +227,7 @@ Finish your letter with a summary of your salary increase request along with you
 
 Thank your manager for their time and keep it brief.
 
-## What to say when asking for a raise at work (do this *before* you send the email template!)
+## <a name="in-person-script" class="below-nav"> What to say when asking for a raise at work (do this *before* you send the email template!)
 
 I recommend asking for a raise in person *before* you send this salary increase letter. Writing your case ahead of time is the *perfect* way to prepare for that discussion so you're sure that your case is rock solid before you ask for a raise.
 
@@ -315,11 +315,15 @@ What to say when asking for a raise at work is a big topic. But we can break it 
 **Ask for a time to discuss your pay raise** to get the ball rolling using one of these two templates:
 
  * [Ask to discuss compensation in your next 1-on-1](#regular-meeting){:data-template="Raise request—1-on-1"}
- * Otherwise, use this template: [Schedule a one-off meeting to talk about pay](#dedicated-meeting){:data-template="Raise request—dedicated meeting"}
+ * [Schedule a one-off meeting to talk about pay](#dedicated-meeting){:data-template="Raise request—dedicated meeting"}
  
 **Draft your written request for a raise** with this email template:
  
  * [How to ask for a raise - email template](#request-template){:data-template="Raise template"}
+ 
+**Ask for a raise in person** with this script:
+
+ * [How to ask for a raise in person](#in-person-script)
  
 **Follow up until you get a definitive answer**:
 
