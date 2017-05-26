@@ -3298,6 +3298,10 @@ a.close-slider {
 	animation: popin 0.3s;
 }
 
+#modal-ad .modal.modal-frc {
+	height: 410px;
+}
+
 #modal-ad .modal-title {
 	background-color: #666;
 	border-bottom: 1px solid #AAA;

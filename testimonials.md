@@ -17,11 +17,11 @@ Looking for testimonials for a particular product or offering?
 
 As a professional salary negotiation coach, I specialize in working with experienced software developers who are moving into a new opportunity with a new company. But I also work with clients from all backgrounds as they work to improve at job interviews and salary negotiations.
 
-My clients improve their job offers by an average of $7,247.
+My clients improve their job offers by an average of $13,069.
 
 Learn more about my coaching offering here: [Expert Salary Negotiation Coaching](/coach/)
 
-<!-- {% include testimonials/acree_m.html %} -->
+{% include testimonials/acree_m.html %}
 
 {% include testimonials/shannon_long.html %}
 
