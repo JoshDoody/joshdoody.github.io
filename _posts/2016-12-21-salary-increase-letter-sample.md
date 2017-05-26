@@ -15,9 +15,9 @@ It's time to do something about it, but you're not sure how to get a raise. You'
 
 **What is the best way to ask for a raise?**
 
-The process starts and ends with email, so we're going to do a deep dive into how to ask for a raise in writing. But we'll also talk about how to negotiate a raise in person because the one non-email part of the process is when you actually make the request.
+The process starts and ends with email, so we'll do a deep dive into how to ask for a raise in writing. But you'll also get word-for-word examples of what to say when asking for a raise in person because the one non-email part of the process is when you actually make the request.
 
-The email templates in this article are word-for-word scripts you can use so you know exactly what to say when you ask for a raise.
+Here are the exact email templates and word-for-word scripts you need to ask for a raise.
 
 **Looking for a specific email template?**
 
@@ -40,7 +40,7 @@ Asking for a raise is a lot easier when you have the tools to ask for the right 
 
 Salary negotiation—when you're changing jobs or working to increase your salary at your current job—is a collaboration. You're not so much asking your manager to give you a raise as you are asking your manager to work with you to adjust your compensation to reflect the value you add in your role.
 
-Sometimes your manager has full discretion over their compensation budget. And sometimes your manager doesn't even have a budget for raises, and relies on HR to handle all of the salary increases.
+Sometimes your manager has full discretion over their compensation budget. And sometimes your manager doesn't even have a budget for raises, and will submit a request for salary increase to HR, who will take it from there.
 
 The first step to collaborating with your manager to ask for a raise is to schedule a time to talk about it. This can be awkward, but it doesn't have to be.
 
@@ -115,7 +115,7 @@ The process of putting your case in writing will either help you to clearly see 
 <p><strong>Learn how to find the right time to ask for a raise:</strong> <a href="{{ site.baseurl }}/do-you-have-to-quit-your-job-to-get-a-big-raise/">Do yo have to quit your job to get a big raise?</a></p>
 </div>
 
-## <a name="request-template" class="below-nav">Sample letter requesting salary a increase for an employee
+## <a name="request-template" class="below-nav">Sample letter requesting salary increase for an employee
 
 Once you've scheduled a time with your manager, it will help to be as organized and prepared as possible. Remember, you're collaborating with your manager to ask a raise, so you want to make it as easy as possible for them to help you achieve your goal.
 
