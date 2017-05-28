@@ -102,4 +102,3 @@ Finally, after you use the counter offer letter sample above to write your own s
 	<p><strong>What's next?</strong> To determine your counter offer or plan your next steps after sending this salary negotiation email, use this <a href="{{ site.baseurl }}/salary-negotiation-script/">salary negotiation script</a>!</p>
 </div>
 <div class="inline-ad hidden"></div>
-<div class="inline-ad hidden"></div>

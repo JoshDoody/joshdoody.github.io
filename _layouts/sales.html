@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    <div class="page-content">
+      <div class="wrapper">
+				<header class="article-header header--centered">
+			    <div class="container container--normal">
+			      <h1 class="header__title">{% if page.headline %}{{ page.headline }}{% elsif page.title %}{{ page.title }}{% else %} Fearless Salary Negotiation {% endif %}</h1>
+			      {% if page.tagline %}
+						<h2 class="header__tagline">{{ page.tagline }}</h2>
+						{% else %}
+						<br><br>
+						{% endif %}
+			    </div>
+			  </header>
+				
+        {{ content }}
+      </div>
+    </div>
+	
+		{% include additional_js_and_css.html %}
+  </body>
+</html>
