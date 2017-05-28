@@ -1059,7 +1059,7 @@ h1, h2 {
  */
 .toc {
   clear: left;
-  margin: 60px 0;
+  margin: 30px 0 60px 0;
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 0 20px;
