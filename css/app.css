@@ -3258,7 +3258,7 @@ a.close-slider {
 	padding: 10px 0px;
 }
 
-.offering-item hr {
+.offering-item hr, .qa hr {
   display: block;
 	width: 75%;
 	margin: 0 auto;
