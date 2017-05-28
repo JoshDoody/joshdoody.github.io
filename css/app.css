@@ -3248,3 +3248,56 @@ a.close-slider {
   padding: 10px 20px;
   text-align: center;
 }
+
+/* two-column offering */
+
+.offering-item {
+	display: block:
+	overflow: visible;
+	margin: 10px 0px;
+	padding: 10px 0px;
+}
+
+.offering-item hr {
+  display: block;
+	width: 75%;
+	margin: 0 auto;
+  height: 1px;
+	width: 100%;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0; 
+}
+
+.offering-item:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.offering-item .image {
+	width: 20%;
+	float: left;
+	display: inline;
+	padding-right: 20px;
+}
+
+.offering-item .description {
+	width: 80%;
+	float: left;
+	display: inline;
+	padding-left: 20px;
+}
+
+@media only screen and (max-width: 799px) {
+  .offering-item .image, .offering-item .description {
+    width: 100%;
+		margin-left: 0px;
+		margin-right: 0px;
+  }
+	.offering-item .image {
+		margin-bottom: 10px;
+		text-align: center;
+	}
+}
