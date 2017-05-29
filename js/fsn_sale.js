@@ -18,10 +18,14 @@ $(document).ready(function () {
 			console.log(remaining);
 			if(remaining > 0){
 				$('.fsn-full-price').hide();
-				var clock = $('.clock').FlipClock(remaining, {
-		        clockFace: 'DailyCounter',
-		        countdown: true
-		    })
+		    jQuery(function(){
+		        jQuery('#countdownTimer').DYMTimer({
+		            endTime: expiry,
+		            endMessage: "We're redirecting you now!",
+		            template: '<p>This Offer ends in <strong>{{DAY}}</strong> days <strong>{{HOUR}}</strong> hours and <strong>{{MIN}}</strong> min</p>',
+		            redirectUrl: 'https://fearlesssalarynegotiation.com/get-started/'
+		        });
+		    });
 				$('.fsn-sale-price').show();
 			}
 		}
