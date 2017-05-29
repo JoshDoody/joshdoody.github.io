@@ -3311,13 +3311,3 @@ a.close-slider {
 		text-align: center;
 	}
 }
-
-/* banner countdown timer from Keith */
-.count-down {
-	background: #FFCC00;
-	position: fixed;
-	width: 100%;
-	top: 0;
-	left: 0;
-	z-index: 100;
-}

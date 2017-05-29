@@ -26,6 +26,7 @@ $(document).ready(function () {
 		            redirectUrl: 'https://fearlesssalarynegotiation.com/get-started/'
 		        });
 		    });
+				$('div.page-content').addClass("after-banner");
 				$('.fsn-sale-price').show();
 			}
 		}
