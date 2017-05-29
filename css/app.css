@@ -2684,6 +2684,11 @@ ul.lesson-list li {
   text-align: left;
 }
 
+.product li.bonus {
+	text-align: center !important;
+	padding-left: 0 !important;
+}
+
 .product li s {
 	opacity: .5;
 }
@@ -3283,6 +3288,10 @@ a.close-slider {
 	padding-right: 20px;
 }
 
+.offering-item .image img.shadow {
+	box-shadow: 5px 5px 10px #888;
+}
+
 .offering-item .description {
 	width: 80%;
 	float: left;
@@ -3295,6 +3304,7 @@ a.close-slider {
     width: 100%;
 		margin-left: 0px;
 		margin-right: 0px;
+		padding-left: 0px;
   }
 	.offering-item .image {
 		margin-bottom: 10px;
