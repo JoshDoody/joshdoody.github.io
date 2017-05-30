@@ -7,10 +7,10 @@ window.drip_plinko = function(drip, page) {
 	if (drip.is_anon) {
 		if (context == 'raise') {
 			response = {
-				offer: 'free-raise-course',
-				modal: drip.file('free-raise-course-modal'),
-				footer: drip.file('free-raise-course-footer'),
-				inline: drip.file('free-raise-course-inline')
+				offer: 'salary-increase-templates',
+				modal: drip.file('salary-increase-templates-modal'),
+				footer: drip.file('salary-increase-templates-footer'),
+				inline: drip.file('salary-increase-templates-inline')
 			}
 		} else if (context == 'negotiate') {
 			response = {
