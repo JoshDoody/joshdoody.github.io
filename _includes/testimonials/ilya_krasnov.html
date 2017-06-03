@@ -2,7 +2,8 @@
 <div class="testimonial">
 	<p><img src="{{ site.baseurl }}/images/ilya_krasnov.jpg" class="quote__image" alt="Ilya Krasnov, Software Engineer"></p>
   <p class="quote__text"><strong>The salary increase alone was worth much more than the initial investment.</strong></p><br><br>
-
+	
+	{% unless include.short == true %}
 	<p class="u-left">I read <em>Fearless Salary Negotiation</em> and wanted to work with Josh on my positioning as a software developer so I could get further in my job interviews. <strong>The first hour of preparation for my interview was so much more than just reading a book or watching a video because I could ask questions and get immediate feedback in real-time.</strong></p>
 
 	<p class="u-left">Josh is very approachable and easy to reach. All our encounters provided concrete insights—the session to refine my positioning, strategy emails, and feedback on my CV—and he was there to help every step of the way through my interviews and salary negotiation.</p>
@@ -12,6 +13,7 @@
 	<p class="u-left">The positioning work we did enabled me to land a new job, which opened up an opportunity to dive into new technologies and languages, work with experienced colleagues, and contribute to new projects in a way I was not able to at my previous job.</p>
 	
 	<p class="u-left">Besides all the benefits described above the salary increase alone was worth much more than the initial investment.</p>
+	{% endunless %}
 
   <cite class="quote__byline">Ilya Krasnov, Software Engineer</cite>
 </div>

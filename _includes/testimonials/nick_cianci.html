@@ -2,7 +2,8 @@
 <div class="testimonial">
 	<p><img src="{{ site.baseurl }}/images/nick_cianci.jpg" class="quote__image" alt="Nick Cianci, Ruby on Rails Software Developer"></p>
   <p class="quote__text"><strong>For a small amount of money I was able to speak to Josh about my situation. With his help, I was able to gain $2K in base salary. All I needed to do was send an email and make a phone call.</strong></p><br><br>
-
+	
+	{% unless include.short == true %}
 	<p class="u-left">I had three offers and one of them was through a recruiting agency. I had never been in this situation and didn't know how to deal with a pushy recruiter and waiting to fully explore my other offers. Josh has valuable knowledge and experience and was able to give me advice tailored to my specific situation when I didn't know what to do.</p>
 	
 	<p class="u-left">He gave me really valuable advice and simplified the negotiation situation for me. Just follow his negotiation strategy and you will definitely raise your salary or receive better benefits.</p>
@@ -20,6 +21,7 @@
 	<p class="u-left">Josh has a lot of great experience that really became valuable during the negotiation process. The benefits I received from this experience absolutely outweighed the cost of the strategy sessions!</p>
 	
 	<p class="u-left">I'm more excited to begin my new job because they were willing to negotiate, giving me confidence that they value me as an employee. It feels good to get a win-win result for everyone.</p>
-
+	{% endunless %}
+	
   <cite class="quote__byline">Nick Cianci, Ruby on Rails Software Developer</cite>
 </div>
