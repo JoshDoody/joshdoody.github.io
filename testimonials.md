@@ -21,6 +21,8 @@ My clients improve their job offers by an average of $13,069.
 
 Learn more about my coaching offering here: [Expert Salary Negotiation Coaching](/coach/)
 
+<!-- {% include testimonials/bob_gregor.html %} -->
+
 {% include testimonials/acree_m.html %}
 
 {% include testimonials/shannon_long.html %}
