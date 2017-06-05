@@ -3310,3 +3310,47 @@ a.close-slider {
 		text-align: center;
 	}
 }
+
+/* Doctor styling - using sections, etc. */
+section {
+	position: relative;
+	padding: 80px 0;
+}
+
+section.primary.hero {
+	padding-bottom: 40px;
+}
+
+section.primary {
+	background-color: #FF3500;
+	color: white;
+}
+
+section.hero {
+	background-color: #FF3500;
+	color: white;
+	text-align: center;
+}
+
+section.hero h2 {
+  font-size: 1.1em;
+	line-height: 1.4;
+}
+
+section.hero h1 {
+	color: white;
+  font-weight: bold;
+  font-size: 3.3em;
+  line-height: 1.4;
+  margin: 0;
+  text-decoration: none;
+	text-shadow: 1px 1px 1px #005569;
+}
+
+section.white {
+	background-color: white;
+}
+
+section.gray {
+	background-color: #eee;
+}

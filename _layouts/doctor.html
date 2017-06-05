@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    <div class="page-content">
+      <div class="wrapper">
+				<section class="primary hero">
+			    <div class="container container--normal">
+			      <h1>{% if page.headline %}{{ page.headline }}{% elsif page.title %}{{ page.title }}{% else %} Fearless Salary Negotiation {% endif %}</h1>
+			      {% if page.tagline %}
+						<h2>{{ page.tagline }}</h2>
+						{% else %}
+						<br><br>
+						{% endif %}
+						{% if page.icon %}
+						<div class='u-center'>
+							<img src="/images/{{ page.icon }}" with="80" height="80" style="opacity: .7"/>
+						</div>
+						{% endif %}
+					</div>
+				</section>
+				
+        {{ content }}
+      </div>
+    </div>
+	
+		{% include additional_js_and_css.html %}
+  </body>
+</html>
