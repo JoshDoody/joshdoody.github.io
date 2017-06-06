@@ -1,18 +1,11 @@
 ---
 layout: post
 title: The complete salary negotiation guide
-tagline: Read Fearless Salary Negotiation for free
-excerpt: Read Fearless Salary Negotiation online for free and quickly learn everything you need to know about salary negotiation in one place.
+excerpt: A free salary negotiation guide to quickly learn everything you need to know about salary negotiation in one place.
 context: interview
-last_modified_at: 2016-07-05
-share_title: Read Fearless Salary Negotiation for free
+last_modified_at: 2017-06-06
+share_title: The complete salary negotiation guide
 ---
-<!--- You have a feeling you should negotiate your salary, but you don't know where to start. Searching online will help you find *tons* of articles written on many salary negotiation topics, but the sheer number of articles from reputable sources can be overwhelming.
-
-What if there were a complete guide written by a single expert to walk you through the entire salary negotiation process?
-
-## Read Fearless Salary Negotiation—the complete salary negotiation guide—for free online -->
-
 *Fearless Salary Negotiation* is a step-by-step guide that walks you through every phase of the interview and salary negotiation processes, and it's packed with specific tactics so you always know what to do next. That's why it quickly became a #1 Best Seller on Amazon.
 
 <html>
@@ -31,9 +24,9 @@ I like [helping people]({{ site.baseurl }}/testimonials/), and this is another w
 
 ## How do I make money if I'm giving it away?
 
-Some people will be happy reading the book for free online, and others are happy to pay for more for the expert interviews, self-paced video courses, worksheets the worksheets and email templates that come with [the Complete Bundle]({{ site.baseurl }}/#complete).
+Some people will be happy reading the book for free online, and others are happy to pay for more for the expert interviews, self-paced video courses, worksheets the worksheets and email templates that come with [the Complete Bundle]({{ site.baseurl }}/get-started#complete).
 
-And for those considering [1-on-1 salary negotiation coaching]({{ site.baseurl }}/coach/) for accountability and a customized plan, or a [personalized strategy session]({{ site.baseurl }}/call/) this is a great way to show them that I know what I'm talking about.
+And for those considering [expert salary negotiation coaching]({{ site.baseurl }}/coach/) for accountability and a customized plan, or a [personalized strategy session]({{ site.baseurl }}/call/) this is a great way to show them that I know what I'm talking about.
 
 My book is the *foundation* for everything else I offer, and those other things are very valuable.
 
