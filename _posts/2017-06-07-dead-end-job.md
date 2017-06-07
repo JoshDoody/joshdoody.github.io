@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 2 Ways to Avoid Being Trapped in a Dead-End Job
-headline: Afraid you’re being pigeonholed at work? <br>Here’s what to do about it
+title: How to Escape Your Dead-End Job and Avoid “Pigeonholing”
+headline: Afraid you’re being pigeonholed at work? <br>Here’s what to do about it.
 tagline: 2 ways to find opportunities to branch out in your career today
-excerpt: You're heading for a dead-end job. You're stuck on your career path, possibly boxed in by your own success. Here's what to do.
+excerpt: You're heading for a dead-end job. You're stuck on your career path, possibly boxed in by your own success. Here's what to do to avoid being pigeonholed.
 context: raise
 last_modified_at: 2017-06-07
 --- 
