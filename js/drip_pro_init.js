@@ -387,8 +387,9 @@ jQuery(function(){
 					
 					// Set up a handler for the Click event on the slide-in ad
 					var cta_link = document.getElementById('inline-cta');
-					var click_event_label = cta_link.dataset.eventLabel;
-
+					if (cta_link) {
+						var click_event_label = cta_link.dataset.eventLabel;
+					};
 					var ctaButtonHandler = function(event) {
 
 					  // Prevents the browser from clicking the link
@@ -423,7 +424,9 @@ jQuery(function(){
 					};
 					
 					// Adds a listener for the "click" event.
-					cta_link.addEventListener('click', ctaButtonHandler);
+					if (cta_link) {
+						cta_link.addEventListener('click', ctaButtonHandler);
+					};
 		  }
     }
   })

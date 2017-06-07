@@ -67,7 +67,9 @@
 			
 			var navCTAButton = document.getElementById('nav-bar-coach-cta');
 			
-			navCTAButton.addEventListener('click', navCTAButtonHandler);
+			if (navCTAButton) {
+				navCTAButton.addEventListener('click', navCTAButtonHandler);
+			};
 		</script>
 			
 		
