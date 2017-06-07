@@ -26,6 +26,11 @@ window.drip_plinko = function(drip, page) {
 				footer: drip.file('tics-footer'),
 				inline: drip.file('tics-inline')
 			}
+		} else if (context == 'sales-page-interview') {
+			response = {
+				offer: 'interview-sample-chapter',
+				inline: drip.file('interview-sample-chapter-inline')
+			}
 		}
 	} else {
 		if (context == 'negotiate') {
@@ -35,7 +40,7 @@ window.drip_plinko = function(drip, page) {
 				footer: drip.file('coach-footer'),
 				inline: drip.file('coach-inline')
 			}
-		} else if (!drip.has_tag('Purchased - FSN - Bundle') && !(context == 'sales-page')) {
+		} else if (!drip.has_tag('Purchased - FSN - Bundle') && !context.startsWith('sales-page')) {
 				response = {
 					offer: 'fsn',
 					footer: drip.file('fsn-footer')

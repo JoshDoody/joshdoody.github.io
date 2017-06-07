@@ -13,13 +13,13 @@ What's it mean to be pigeonholed?
 
 Maybe you have several years of experience and have gotten pretty good at your job. You're paid pretty well, but have run out of places to go. There are no logical promotions, no new challenges to tackle, just more of the same old routine.
 
-Your salary has been flat for the past few years, and you feel like you're just doing the same thing over and over and over. You might hear yourself describes as "the Receivables person" or "the tester" or some other term with a single focus.
+Your salary has been flat for the past few years because it's never a great time to [ask for a raise]({{ site.baseurl }}/salary-increase-letter-sample/), and you feel like you're just doing the same thing over and over and over. You might hear yourself described as "the Receivables person" or "the tester" or some other term with a single focus.
 
 You're stuck on your career path, possibly boxed in by your own success, and there's no obvious next step for you.
 
 You may have been pigeonholed.
 
-**Here are two ways to avoid being pigeonholed in your career**
+## Here are two ways to escale your dead-end job and avoid being pigeonholed
 
 What can you do to avoid being pigeonholed and continue making progress in terms of responsibility and pay?
 
@@ -53,6 +53,6 @@ Ask your manager and colleagues what they're struggling with. Here's the "ask" v
 
 One big reason you can get pigeonholed is that you get comfortable doing what you're good at. To avoid being pigeonholed, *you're going to have to step out of your comfort zone and do new things*. 
 
-The more new things you try, the more often you'll add another skill to your repertoire, and the more likely you'll be to find promotion opportunities or even new career opportunities to help you get un-stuck.
+The more new things you try, the more often you'll add another skill to your repertoire, and the more likely you'll be to find [promotion]({{ site.baseurl }}/how-to-ask-for-a-promotion-at-work/) opportunities or even new career opportunities to help you get un-stuck.
 
 <div class="inline-ad hidden"></div>
