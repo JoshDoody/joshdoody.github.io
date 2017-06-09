@@ -11,6 +11,9 @@ baseurl:
 title: Fearless Salary Negotiation—A step-by-step guide to getting paid what you’re worth
 email: josh@joshdoody.com
 description: Get paid what you’re worth
+avg_coach_increase: $13,310
+avg_coach_increase_devs: $15,773
+avg_coach_increase_non_devs: $10,144
 # Build settings
 markdown: kramdown
 exclude:
@@ -34,3 +37,6 @@ collections:
   redirects:
     output: true
     permalink: /:title/
+  ads:
+    output: true
+    permalink: /:collection/:path
