@@ -3354,3 +3354,9 @@ section.white {
 section.gray {
 	background-color: #eee;
 }
+
+/* Guarantee images */
+p.gaurantee-img {
+	margin: 0 0 -20px 0;
+	opacity: .8;
+}
