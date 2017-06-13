@@ -2357,6 +2357,17 @@ div.ad-box p:last-child {
 	margin-bottom: 0px;
 }
 
+.ad-box .ad-image {
+	float: left;
+}
+
+@media all and (max-width: 649px) {
+	.ad-box .ad-image {
+		float: none;
+		text-align: center;
+	}
+}
+
 .pull-left {
 	float: left;
 }
