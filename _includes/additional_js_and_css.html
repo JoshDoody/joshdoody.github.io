@@ -31,45 +31,45 @@
 		</script>
 			
 		<script type="text/javascript">
-			// Tracking clicks on nav bar CTA - need to DRY this up since used in multiple places
-			var navCTAButtonHandler = function(event) {
+			$(function() {
+				// Tracking clicks on links
+				$('[data-track-click]').click(function(event) {
 
-			  // Prevents the browser from clicking the link
-			  // and thus unloading the current page.
-			  event.preventDefault();
+				  // Prevents the browser from clicking the link
+				  // and thus unloading the current page.
+				  event.preventDefault();
+					var link = $(this);
+					var href = link.attr('href');
+					
+				  // Creates a timeout to call `clickLink` after 250ms.
+				  setTimeout(clickLink, 250);
 
-			  // Creates a timeout to call `clickLink` after 250ms.
-			  setTimeout(clickNavCTA, 250);
+				  // Keeps track of whether or not the link has been clicked.
+				  // This prevents the link from being clicked twice in cases
+				  // where `hitCallback` fires normally.
+				  var linkClicked = false;
 
-			  // Keeps track of whether or not the link has been clicked.
-			  // This prevents the link from being clicked twice in cases
-			  // where `hitCallback` fires normally.
-			  var navCTALinkClicked = false;
+				  function clickLink() {
+				    if (!linkClicked) {
+				      linkClicked = true;
+					    document.location = href;
+				    }
+				  }
+	
+					var targetLinkEventAction = $(this).data("event-action");
+					var targetLinkEventLabel = $(this).data("event-label");
 
-			  function clickNavCTA() {
-			    if (!navCTALinkClicked) {
-			      navCTALinkClicked = true;
-					  navCTAButton.removeEventListener('click', navCTAButtonHandler);
-				    navCTAButton.click();
-			    }
-			  }
-
-			  // Sends the event to Google Analytics and
-			  // re-clicks the link once the hit is done.
-				ga('send', {
-					hitType: 'event',
-					eventCategory: 'Link',
-					eventAction: 'Click nav bar CTA',
-					eventLabel: 'Coaching',
-					nonInteraction: 1
+				  // Sends the event to Google Analytics and
+				  // re-clicks the link once the hit is done.
+					ga('send', {
+						hitType: 'event',
+						eventCategory: 'Link',
+						eventAction: targetLinkEventAction,
+						eventLabel: targetLinkEventLabel,
+						nonInteraction: 1
+					});
 				});
-			};
-			
-			var navCTAButton = document.getElementById('nav-bar-coach-cta');
-			
-			if (navCTAButton) {
-				navCTAButton.addEventListener('click', navCTAButtonHandler);
-			};
+			});
 		</script>
 			
 		
