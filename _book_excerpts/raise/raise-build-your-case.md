@@ -17,7 +17,7 @@ So you need to identify the specific reasons—the things you’ve done since yo
 <p><strong>Learn more about how to use your accomplishments and accolades to ask for a raise in an email:</strong> <a href="{{ site.baseurl }}/salary-increase-letter-sample/">How to ask for a raise - email template</a></p>
 </div>
 
-## <a name="accomplishments"></a>Accomplishments
+## <a name="accomplishments" class="below-nav"></a>Accomplishments
 
 *Accomplishments* are things you’ve done to add additional value to your company by helping it make more money or save money. 
 
@@ -53,7 +53,7 @@ Having trouble thinking of things you've accomplished? Here are some questions t
 * What other ways are you making your company more money or saving money?
 
 
-## <a name="accolades"></a>Accolades
+## <a name="accolades" class="below-nav"></a>Accolades
 
 *Accolades* are praise and awards you’ve received over the past several months. Accolades are helpful because they demonstrate to your company’s management that others have noticed the great job you’re doing, even if your managers haven’t.
 
