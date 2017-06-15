@@ -2043,28 +2043,34 @@ body {
 	}
 }
 
-@media only screen and (min-width: 650px) {
+@media only screen and (min-width: 800px) {
   .script-fields__left {
     float: left;
     display: block;
     margin-right: 2.35765%;
-    width: 65.88078%;
+    width: 62%;
   }
   .script-fields__left:last-child {
     margin-right: 0;
   }
+  
+	.script-fields__right {
+    float: right;
+    display: block;
+/*    margin-right: 2.35765%;*/
+    width: 33%;
+		white-space: nowrap;
+  }
 }
 
-@media only screen and (min-width: 650px) {
-  .script-fields__right {
-    float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 31.76157%;
-  }
-  .script-fields__right:last-child {
-    margin-right: 0;
-  }
+@media only screen and (min-width: 1023px) {
+	.script-fields__right {
+		padding-left: 18px;
+	}
+}
+
+.slider.slider-horizontal {
+	margin-left: 20px;
 }
 
 /* Styling the displayed counteroffer for the salary negotiation script page */
