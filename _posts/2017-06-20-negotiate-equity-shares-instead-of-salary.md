@@ -30,7 +30,9 @@ Let's walk through a simple heuristic to help you decide if negotiating for more
 
 ## Does your job offer include shares or other equity?
 
-If your offer includes some equity component—stock options, [Restricted Stock Units](http://www.investopedia.com/terms/r/restricted-stock-unit.asp) (RSUs) or other equity—then you probably *can* negotiate for more shares. If there's not an equity component to your job offer, then shares probably aren't in play.
+If there's not an equity component to your job offer, then shares probably aren't in play. If your offer includes some equity component—stock options, [Restricted Stock Units](http://www.investopedia.com/terms/r/restricted-stock-unit.asp) (RSUs) or other equity—then you probably *can* negotiate for more shares.
+
+Assuming you *can* negotiate more shares, let's dig into more interesting question: ***Should* you negotiate more equity shares instead of salary?**
 
 ## Can you impute a real value on the shares they offered?
 
