@@ -8,7 +8,7 @@ last_modified_at: 2017-06-20
 --- 
 You've been interviewing for a while and they're ready to make you an offer. You really want this job, and you're excited the interview phase is finally over and it's time to negotiate.
 
-You just need the details of the offer and then you'll be ready to counter offer. So you hop on a call with the hiring manager, who describes the offer in detail.
+You just need the details of the offer and then you'll be ready to [counter offer]({{ site.baseurl }}/salary-negotiation-email-sample/). So you hop on a call with the hiring manager, who describes the offer in detail.
 
 Base salary - check.
 
@@ -68,7 +68,7 @@ I recommend prioritizing the available negotiable options from "most valuable" t
 
 You can pay your mortgage or car payment with base salary or a signing bonus. You can impute a real value on paid vacation time. A relocation stipend will help you cover your moving expenses if you're relocating for this job. But shares might or might not be worth something by the time you can access them, so I recommend putting them at the bottom of your list.
 
-To make sure you get the best result in your negotiation, I recommend focusing on the top two or three things on your list. Starting with the most valuable things and work your way down. 
+To make sure you get the best result in your negotiation, I [recommend]({{ site.baseurl }}/salary-negotiation-script-example/) focusing on the top two or three things on your list. Starting with the most valuable things and work your way down. 
 
 In our example above, if you can't negotiate base salary, signing bonus, paid vacation, relocation stipend or anything else more valuable than the shares you were offered, *then* might consider negotiating shares in lieu of pay.
 
