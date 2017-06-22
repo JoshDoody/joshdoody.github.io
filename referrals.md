@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to refer experienced Software Developers for salary negotiation coaching
+title: Refer experienced Software Developers for salary negotiation coaching
 headline: Referrals
 excerpt: How to refer experienced Software Developers expecting to negotiate a job offer in the next four weeks for expert salary negotiation coaching
 last_modified_at: 2017-06-22
