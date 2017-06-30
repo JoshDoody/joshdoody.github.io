@@ -87,7 +87,7 @@ Learn more: [*Fearless Salary Negotiation*](/)
 
 {% include testimonials/josh_thompson.html %}
 
-<!-- {% include testimonials/aaron_b.html %} -->
+{% include testimonials/aaron_batilo.html %}
 
 ## <a name="gynr" class="below-nav">*Get Your Next Raise*
 	
