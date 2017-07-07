@@ -1,36 +1,45 @@
 ---
 layout: post
 title: Fearless Salary Negotiation in the media
-tagline: Articles and Interviews, Podcasts, Talks, and Guest Posts
+tagline: Articles and Interviews, Podcasts, and Talks
 headline: Fearless Salary Negotiation <br>in the media
-excerpt: Article, Podcasts, Talks, and Guest Posts featuring Fearless Salary Negotiation
+excerpt: Article, Interviews, Podcasts, and Talks featuring Fearless Salary Negotiation
 last_modified_at: 2017-05-15
 share_title: Fearless Salary Negotiation in the media
 ---
 {% include fsn_bio.html %}
 
-I love finding new audiences to talk with through interviews, guest posts, and talks. This page is a good summary of other places where you can find my work.
+I love finding new audiences through articles and interviews, podcasts, and talks. This page is a good summary of other places where you can find my work.
 
-For booking and interview requests, send me a message on  [LinkedIn](https://www.linkedin.com/in/joshdoody)!
+For booking and interview requests, send me a message on [LinkedIn](https://www.linkedin.com/in/joshdoody).
 
-To hire me as your salary negotiation coach, click here [click here]({{ site.baseurl }}/coach)!
+To hire me as your salary negotiation coach, click here [click here]({{ site.baseurl }}/coach).
 
 Learn more about [*Fearless Salary Negotiation*]({{ site.baseurl }}/get-started/).
 
 ## Articles and Interviews
 
 * [9 Things to Never Say in a Salary Negotiation](https://www.glassdoor.com/blog/9-things-to-never-say-in-a-salary-negotiation/){:rel="nofollow"} – Glassdoor (also [Business Insider](http://www.businessinsider.com/9-things-you-should-never-say-during-a-salary-negotiation-2017-2){:rel="nofollow"}, [Fast Company](https://www.fastcompany.com/3068323/career-evolution/nine-words-and-phrases-to-avoid-when-youre-negotiating-a-salary){:rel="nofollow"})
+* [How Do I Avoid Being Pigeonholed?](https://www.glassdoor.com/blog/how-do-i-avoid-being-pigeonholed/){:rel="nofollow"} – Glassdoor 
+* [Salary Negotiation Scripts For Any Job](https://www.glassdoor.com/blog/salary-negotiation-scripts-for-any-job/){:rel="nofollow"} – Glassdoor (also [Fast Company](https://www.fastcompany.com/40406763/exactly-what-to-say-in-these-four-common-salary-conversations{:rel="nofollow"}), [CNBC](http://www.cnbc.com/2017/06/15/salary-negotiation-scripts-for-any-job.html){:rel="nofollow"}, [MSN](https://www.msn.com/en-my/news/other/salary-negotiation-scripts-for-any-job/ar-BBCJUoI){:rel="nofollow"}, [Yahoo! Finance](https://ca.finance.yahoo.com/news/salary-negotiation-scripts-job-200600153.html){:rel="nofollow"})
+* [13 Must-Have Words to Include In Your Resume](https://www.glassdoor.com/blog/words-to-include-in-resume/){:rel="nofollow"} – Glassdoor (also [Business Insider](http://www.businessinsider.com/13-words-you-should-include-on-your-resume-according-to-a-panel-of-experts-2017-4){:rel="nofollow"})
+* [9 Reasons Why You Didn’t Get a Raise](https://www.glassdoor.com/blog/reasons-you-didnt-get-a-raise/){:rel="nofollow"} – Glassdoor 
+* [4 Ways to Score a Great Salary at Your First Job](https://www.glassdoor.com/blog/salary-first-job/){:rel="nofollow"} – Glassdoor 
+* [How to Negotiate Beyond the Raise You Were Offered?](https://www.glassdoor.com/blog/how-to-negotiate-beyond-the-raise-you-were-offered/){:rel="nofollow"} – Glassdoor 
+* [What To Do If You Don’t Want to Be A Manager, But Want More Money](https://www.glassdoor.com/blog/what-to-do-if-you-dont-want-to-be-a-manager-but-want-more-money/){:rel="nofollow"} – Glassdoor, (also [CNBC](http://www.cnbc.com/2017/07/07/what-to-do-if-you-dont-want-to-be-a-manager-but-want-more-money.html){:rel="nofollow"})
 * [How to negotiate a raise](http://www.forbes.com/sites/tomanderson/2016/07/06/how-to-negotiate-a-raise/#6dbd01246fa0){:rel="nofollow"} – Forbes.com
 * [11 ways to ruin a job interview according to three experts](http://www.independent.co.uk/news/business/news/11-ways-to-ruin-a-job-interview-according-to-three-experts-a6721271.html){:rel="nofollow"} – Independent.co.uk
 * [How to (successfully) ask for a raise](https://generalassemb.ly/blog/how-to-successfully-ask-for-a-raise/){:rel="nofollow"} – General Assembly Blog
 * [Interview with Engr. Josh Doody - Career Coach and author of Fearless Salary Negotiation](https://www.eeweb.com/spotlight/interview-with-engr-josh-doody){:rel="nofollow"} – EEWeb
 * [How to Negotiate Your Salary via Email](https://business.tutsplus.com/tutorials/how-to-negotiate-your-salary-via-email--cms-27031){:rel="nofollow"} – tuts+
 * [How to leap past 90% of applicants](https://purelyfunctional.tv/functional-programming-career-guide/resume-interview-salary/){:rel="nofollow"} – purelyfunctional.tv
-* [Salary Negotiation Scripts For Any Job](https://www.glassdoor.com/blog/salary-negotiation-scripts-for-any-job/){:rel="nofollow"} – Glassdoor (also [Fast Company](https://www.fastcompany.com/40406763/exactly-what-to-say-in-these-four-common-salary-conversations{:rel="nofollow"}), [CNBC](http://www.cnbc.com/2017/06/15/salary-negotiation-scripts-for-any-job.html){:rel="nofollow"}, [MSN](https://www.msn.com/en-my/news/other/salary-negotiation-scripts-for-any-job/ar-BBCJUoI){:rel="nofollow"}, [Yahoo! Finance](https://ca.finance.yahoo.com/news/salary-negotiation-scripts-job-200600153.html){:rel="nofollow"})
-* [13 Must-Have Words to Include In Your Resume](https://www.glassdoor.com/blog/words-to-include-in-resume/){:rel="nofollow"} – Glassdoor (also [Business Insider](http://www.businessinsider.com/13-words-you-should-include-on-your-resume-according-to-a-panel-of-experts-2017-4){:rel="nofollow"})
-* [9 Reasons Why You Didn’t Get a Raise](https://www.glassdoor.com/blog/reasons-you-didnt-get-a-raise/){:rel="nofollow"} – Glassdoor 
-* [4 Ways to Score a Great Salary at Your First Job](https://www.glassdoor.com/blog/salary-first-job/){:rel="nofollow"} – Glassdoor 
-* [How to Negotiate Beyond the Raise You Were Offered?](https://www.glassdoor.com/blog/how-to-negotiate-beyond-the-raise-you-were-offered/){:rel="nofollow"} – Glassdoor 
+* [A simple process to negotiate your starting salary](http://www.lewis-lin.com/blog/2016/10/13/a-simple-process-to-negotiate-your-starting-salary){:rel="nofollow"} – lewis-lin.com
+* [What Shark Tank can teach us about career and business decisions](http://annieduke.com/annies-analysis/#what-shark-tank-can-teach-us-about-business-and-career-decisions){:rel="nofollow"} – annieduke.com
+* [How to ask for a promotion at work](http://interview-coach.co.uk/howtoaskforapromotion/){:rel="nofollow"} – interview-coach.co.uk
+* [Five salary negotiation tactics everyone can use to negotiate starting salary](http://interview-coach.co.uk/five-salary-negotiation-tactics-everyone-can-use-negotiate-starting-salary/){:rel="nofollow"} – interview-coach.co.uk
+* [Do you have to quit your job to get a big raise?](https://simpleprogrammer.com/2016/11/16/do-you-have-to-quit-your-job-to-get-a-big-raise/){:rel="nofollow"} – SimpleProgrammer.com
+* [How and when to ask for a raise at work—A 6-part series](https://www.paysa.com/blog/2017/01/16/the-cost-of-waiting-for-a-raise/){:rel="nofollow"} – paysa
+* [An interview coach says there’s a right way to answer the dreaded salary history question](https://qz.com/942800/an-interview-coach-says-theres-a-right-way-to-answer-the-dreaded-salary-history-question/){:rel="nofollow"} – Quartz
 
 ## Podcasts
 
@@ -67,13 +76,3 @@ Learn more about [*Fearless Salary Negotiation*]({{ site.baseurl }}/get-started/
 * [Salary negotiation for engineers, developers, and designers](https://fearlesssalarynegotiation.com/salary-negotiation-for-engineers-developers-and-designers/){:rel="nofollow"} – The Iron Yard Orlando and Orlando Devs – March 9, 2016
 * [Job interview preparation and salary negotiation workshop](http://www.intaadvising.gatech.edu/career/meet-and-greet-josh-doody-author-of-fearless-salary-negotiation-september-8th/){:rel="nofollow"} - Preparing Georgia Tech graduate students for Career Fair – September 8, 2016
 * [How to ace your job interviews](https://www.eng.ufl.edu/students/events/ace-job-interviews/){:rel="nofollow"} – Preparing University of Florida Engineering Students for Career Fair – September 16, 2016
-
-## Guest posts
-
-* [A simple process to negotiate your starting salary](http://www.lewis-lin.com/blog/2016/10/13/a-simple-process-to-negotiate-your-starting-salary){:rel="nofollow"} – [lewis-lin.com](http://www.lewis-lin.com){:rel="nofollow"}
-* [What Shark Tank can teach us about career and business decisions](http://annieduke.com/annies-analysis/#what-shark-tank-can-teach-us-about-business-and-career-decisions){:rel="nofollow"} – [annieduke.com](http://annieduke.com){:rel="nofollow"}
-* [How to ask for a promotion at work](http://interview-coach.co.uk/howtoaskforapromotion/){:rel="nofollow"} – [interview-coach.co.uk](http://interview-coach.co.uk){:rel="nofollow"}
-* [Five salary negotiation tactics everyone can use to negotiate starting salary](http://interview-coach.co.uk/five-salary-negotiation-tactics-everyone-can-use-negotiate-starting-salary/){:rel="nofollow"} – [interview-coach.co.uk](http://interview-coach.co.uk){:rel="nofollow"}
-* [Do you have to quit your job to get a big raise?](https://simpleprogrammer.com/2016/11/16/do-you-have-to-quit-your-job-to-get-a-big-raise/){:rel="nofollow"} – [SimpleProgrammer.com](https://simpleprogrammer.com){:rel="nofollow"}
-* [How and when to ask for a raise at work—A 6-part series](https://www.paysa.com/blog/2017/01/16/the-cost-of-waiting-for-a-raise/){:rel="nofollow"} – [paysa](https://www.paysa.com){:rel="nofollow"}
-* [An interview coach says there’s a right way to answer the dreaded salary history question](https://qz.com/942800/an-interview-coach-says-theres-a-right-way-to-answer-the-dreaded-salary-history-question/){:rel="nofollow"} – [Quartz](https://www.qz.com){:rel="nofollow"}
