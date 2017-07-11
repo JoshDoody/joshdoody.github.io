@@ -70,6 +70,8 @@ Learn more about [*Fearless Salary Negotiation*]({{ site.baseurl }}/get-started/
 * [Stripe Observability with Cory Watson](https://softwareengineeringdaily.com/2017/03/15/stripe-observability-with-cory-watson/){:rel="nofollow"} - Software Engineering Daily ("4 Salary Negotiation Tips" starting at the 1:02:50 mark)
 * [Salary Negotiations with Josh Doody](http://completedeveloperpodcast.com/episode-85/){:rel="nofollow"} – Complete Developer Podcast
 * [How to be a badass at making money](https://www.monster.com/career-advice/article/jen-sincero-badass-at-making-money-0517){:rel="nofollow"} – Jobsessed—A Monster podcast
+* [Josh Doody on Narrowing His Positioning, part 1](http://consultingpipelinepodcast.com/40){:rel="nofollow"} – The Consulting Pipeline Podcast
+* [From Full-Time Job to Full-Time Freelancing](http://www.100kfreelancing.com/0123-full-time-job-full-time-freelancing-wjosh-doody/){:rel="nofollow"} – $100k Freelancing
 
 ## Talks
 
