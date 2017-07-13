@@ -51,7 +51,7 @@ Learn more about my coaching offering here: [Expert Salary Negotiation Coaching]
 
 {% include testimonials/j_n.html %}
 
-<!-- {% include testimonials/haripriya_ayyalasomayajula.html %} -->
+<!-- {% include testimonials/haripriya_a.html %} -->
 
 ## <a name="fsn" class="below-nav">*Fearless Salary Negotiation*
 
@@ -59,7 +59,7 @@ If my salary negotiation coaching offering isn't a good fit for you, *Fearless S
 
 If you're looking for a DIY salary negotiation option, *Fearless Salary Negotiation* is for you.
 
-Learn more: [*Fearless Salary Negotiation*](/)
+Learn more: [*Fearless Salary Negotiation*](/get-started/)
 
 {% include testimonials/jared_allen.html %}
 
