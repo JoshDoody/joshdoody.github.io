@@ -56,4 +56,36 @@ One big reason you can get pigeonholed is that you get comfortable doing what yo
 
 The more new things you try, the more often you'll add another skill to your repertoire, and the more likely you'll be to find [promotion]({{ site.baseurl }}/how-to-ask-for-a-promotion-at-work/) opportunities or even new career opportunities to help you get un-stuck.
 
+## How to prioritize the opportunities you identify
+
+By listening and asking, you'll find valuable opportunities to expand your skillset. But then you need to prioritize the opportunities you found so that you focus on the things that are most valuable to your career at its current stage.
+
+So how do you know whether to learn more about your current area of expertise or if you should add new skills to your repertoire in different areas?
+
+The real question is: **Should you go wide or deep?**
+
+As usual, "It depends!" 😉 So here's one way to think about this question as you decide where to invest your time, which is your most valuable asset.
+
+**Short-term gain**
+
+Going deeper by learning more about your current area of expertise can often pay off well in the short-term. For example, a Software Developer who learns a new programming language or jumps into a new part of "the stack" can put that new knowledge to use right away.
+
+That could mean a promotion or a raise very soon after acquiring that new skill.
+
+Or a Project Manager at a Client Services company may earn her PMP Certification, which will often be rewarded with higher pay or a promotion soon thereafter.
+
+Going deeper on your current skillset can pay off faster. But relative to adding a brand new skill to your arsenal, the payoff may also be smaller.
+
+**Long-term gain**
+
+Going wider usually takes longer to pay off. For example, maybe that same Software Developer sees an opportunity to start learning about Operations inside the company. That learning process will take a while, and there probably won't be any immediate payoff in terms of a promotion or raise because it will take a while for the Dev to become proficient enough in this new area of expertise to add real value to the company.
+
+Or maybe the same Project Manager decides to learn more about portfolio management at her company so she has more opportunities to move into a Practice Director role later on.
+
+These things take a while because you're often learning a totally new skill and because you'll need time to apply that skill in order to add additional value to the company. But once you have that new skill and can leverage it to add value to a company, the payoff can be much larger because you're able to influence an entirely new business function.
+
+So should you go wide or deep? Both! Start by getting good at your core job function—going deeper—and when you feel you're running out of room to improve, look for an opportunity to add a new skill to your arsenal by going wider.
+
+Throughout your career, you'll have more opportunities and make significantly more money if you alternate going deeper and going wider as you progress. By actively looking for new opportunities to add value in your role and then prioritizing those opportunities for short- and long-term gain, you'll avoid being pigeonholed and earn a lot more throughout your career.
+
 <div class="inline-ad hidden"></div>
