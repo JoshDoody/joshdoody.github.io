@@ -42,6 +42,7 @@ An television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the
 * [4 Ways to Score a Great Salary at Your First Job](https://www.glassdoor.com/blog/salary-first-job/){:rel="nofollow"} – Glassdoor 
 * [How to Negotiate Beyond the Raise You Were Offered?](https://www.glassdoor.com/blog/how-to-negotiate-beyond-the-raise-you-were-offered/){:rel="nofollow"} – Glassdoor 
 * [What To Do If You Don’t Want to Be A Manager, But Want More Money](https://www.glassdoor.com/blog/what-to-do-if-you-dont-want-to-be-a-manager-but-want-more-money/){:rel="nofollow"} – Glassdoor (also [CNBC](http://www.cnbc.com/2017/07/07/what-to-do-if-you-dont-want-to-be-a-manager-but-want-more-money.html){:rel="nofollow"}, [Yahoo! Finance](https://uk.finance.yahoo.com/news/don-t-want-manager-want-142800962.html))
+* [Become a 'fearless salary negotiator' - the five things to do now](http://www.telegraph.co.uk/men/thinking-man/become-fearless-salary-negotiator-five-things-do-now/){:rel="nofollow"} (paywall) – The Telegraph
 * [How to negotiate a raise](http://www.forbes.com/sites/tomanderson/2016/07/06/how-to-negotiate-a-raise/#6dbd01246fa0){:rel="nofollow"} – Forbes.com
 * [11 ways to ruin a job interview according to three experts](http://www.independent.co.uk/news/business/news/11-ways-to-ruin-a-job-interview-according-to-three-experts-a6721271.html){:rel="nofollow"} – Independent.co.uk
 * [How to (successfully) ask for a raise](https://generalassemb.ly/blog/how-to-successfully-ask-for-a-raise/){:rel="nofollow"} – General Assembly Blog
@@ -87,6 +88,7 @@ An television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the
 * [How to be a badass at making money](https://www.monster.com/career-advice/article/jen-sincero-badass-at-making-money-0517){:rel="nofollow"} – Jobsessed—A Monster podcast
 * [Josh Doody on Narrowing His Positioning, part 1](http://consultingpipelinepodcast.com/40){:rel="nofollow"} – The Consulting Pipeline Podcast
 * [From Full-Time Job to Full-Time Freelancing](http://www.100kfreelancing.com/0123-full-time-job-full-time-freelancing-wjosh-doody/){:rel="nofollow"} – $100k Freelancing
+* [Resumes, Interviews, and Negotiation with Josh Doody](http://msdevshow.com/2017/07/resumes-interviewing-and-negotation-with-josh-doody/){:rel="nofollow"} – MS Dev Show
 
 ## Talks
 
