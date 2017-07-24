@@ -17,6 +17,21 @@ To hire me as your salary negotiation coach, [click here]({{ site.baseurl }}/coa
 
 Learn more about [*Fearless Salary Negotiation*]({{ site.baseurl }}/get-started/).
 
+## Television and Radio Interviews
+
+An television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the [BBC News Channel](http://www.bbc.com/news/av/10318089/bbc-news-channel) about BBC gender pay disparity and how to negotiate your salary:
+
+<div class="video-container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/RohE7VqgJK0" frameborder="0" allowfullscreen></iframe>
+</div><br>
+
+<p>A radio interview with <a href="https://twitter.com/StephenNolan">Stephen Nolan</a> on <a href="http://www.bbc.co.uk/5live">BBC 5 Live</a>:  
+	<audio controls>
+	  <source src="/download/josh-doody-bbc-5-live-salary-negotiation-interview.mp3" ype="audio/mpeg">
+	Or <a href="/download/josh-doody-bbc-5-live-salary-negotiation-interview.mp3">click here</a> to download the MP3 directly
+	</audio>
+</p>
+
 ## Articles and Interviews
 
 * [9 Things to Never Say in a Salary Negotiation](https://www.glassdoor.com/blog/9-things-to-never-say-in-a-salary-negotiation/){:rel="nofollow"} – Glassdoor (also [Business Insider](http://www.businessinsider.com/9-things-you-should-never-say-during-a-salary-negotiation-2017-2){:rel="nofollow"}, [Fast Company](https://www.fastcompany.com/3068323/career-evolution/nine-words-and-phrases-to-avoid-when-youre-negotiating-a-salary){:rel="nofollow"})
