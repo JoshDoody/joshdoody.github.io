@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Fearless Salary Negotiation in the media
-tagline: Articles and Interviews, Podcasts, and Talks
-headline: Fearless Salary Negotiation <br>in the media
-excerpt: Article, Interviews, Podcasts, and Talks featuring Fearless Salary Negotiation
-last_modified_at: 2017-05-15
+title: Josh Doody and Fearless Salary Negotiation in the media
+tagline: TV and Radio, Articles, Podcasts, and Talks
+headline: Josh Doody and <br>Fearless Salary Negotiation <br>in the media
+excerpt: TV and Radio, Articles, Podcasts, and Talks featuring Josh Doody and Fearless Salary Negotiation
+last_modified_at: 2017-07-25
 share_title: Fearless Salary Negotiation in the media
 ---
 {% include fsn_bio.html %}
@@ -17,7 +17,7 @@ To hire me as your salary negotiation coach, [click here]({{ site.baseurl }}/coa
 
 Learn more about [*Fearless Salary Negotiation*]({{ site.baseurl }}/get-started/).
 
-## <a name="tv" class="below-nav">Television and Radio Interviews
+## <a name="tv" class="below-nav">Television and Radio
 
 A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the [BBC News Channel](http://www.bbc.com/news/av/10318089/bbc-news-channel) about BBC gender pay disparity and how to negotiate your salary:
 
@@ -32,7 +32,7 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 	</audio>
 </p>
 
-## <a name="articles" class="below-nav">Articles and Interviews
+## <a name="articles" class="below-nav">Articles
 
 * [9 Things to Never Say in a Salary Negotiation](https://www.glassdoor.com/blog/9-things-to-never-say-in-a-salary-negotiation/){:rel="nofollow"} – Glassdoor (also [Business Insider](http://www.businessinsider.com/9-things-you-should-never-say-during-a-salary-negotiation-2017-2){:rel="nofollow"}, [Fast Company](https://www.fastcompany.com/3068323/career-evolution/nine-words-and-phrases-to-avoid-when-youre-negotiating-a-salary){:rel="nofollow"})
 * [How Do I Avoid Being Pigeonholed?](https://www.glassdoor.com/blog/how-do-i-avoid-being-pigeonholed/){:rel="nofollow"} – Glassdoor 
