@@ -19,7 +19,7 @@ Learn more about [*Fearless Salary Negotiation*]({{ site.baseurl }}/get-started/
 
 ## <a name="tv" class="below-nav">Television and Radio Interviews
 
-An television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the [BBC News Channel](http://www.bbc.com/news/av/10318089/bbc-news-channel) about BBC gender pay disparity and how to negotiate your salary:
+A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the [BBC News Channel](http://www.bbc.com/news/av/10318089/bbc-news-channel) about BBC gender pay disparity and how to negotiate your salary:
 
 <div class="video-container">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/RohE7VqgJK0" frameborder="0" allowfullscreen></iframe>
