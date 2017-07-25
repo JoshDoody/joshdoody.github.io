@@ -53,6 +53,8 @@ Learn more about my coaching offering here: [Expert Salary Negotiation Coaching]
 
 <!-- {% include testimonials/haripriya_a.html %} -->
 
+<!-- {% include testimonials/tiffani_w.html %} -->
+
 ## <a name="fsn" class="below-nav">*Fearless Salary Negotiation*
 
 If my salary negotiation coaching offering isn't a good fit for you, *Fearless Salary Negotiation* is a detailed summary of the strategy and tactics I use to coach my clients who improve their salaries by thousands of dollars on average.

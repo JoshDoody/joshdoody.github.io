@@ -17,7 +17,7 @@ To hire me as your salary negotiation coach, [click here]({{ site.baseurl }}/coa
 
 Learn more about [*Fearless Salary Negotiation*]({{ site.baseurl }}/get-started/).
 
-## Television and Radio Interviews
+## <a name="tv" class="below-nav">Television and Radio Interviews
 
 An television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the [BBC News Channel](http://www.bbc.com/news/av/10318089/bbc-news-channel) about BBC gender pay disparity and how to negotiate your salary:
 
@@ -32,7 +32,7 @@ An television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the
 	</audio>
 </p>
 
-## Articles and Interviews
+## <a name="articles" class="below-nav">Articles and Interviews
 
 * [9 Things to Never Say in a Salary Negotiation](https://www.glassdoor.com/blog/9-things-to-never-say-in-a-salary-negotiation/){:rel="nofollow"} – Glassdoor (also [Business Insider](http://www.businessinsider.com/9-things-you-should-never-say-during-a-salary-negotiation-2017-2){:rel="nofollow"}, [Fast Company](https://www.fastcompany.com/3068323/career-evolution/nine-words-and-phrases-to-avoid-when-youre-negotiating-a-salary){:rel="nofollow"})
 * [How Do I Avoid Being Pigeonholed?](https://www.glassdoor.com/blog/how-do-i-avoid-being-pigeonholed/){:rel="nofollow"} – Glassdoor 
@@ -57,7 +57,7 @@ An television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the
 * [How and when to ask for a raise at work—A 6-part series](https://www.paysa.com/blog/2017/01/16/the-cost-of-waiting-for-a-raise/){:rel="nofollow"} – paysa
 * [An interview coach says there’s a right way to answer the dreaded salary history question](https://qz.com/942800/an-interview-coach-says-theres-a-right-way-to-answer-the-dreaded-salary-history-question/){:rel="nofollow"} – Quartz
 
-## Podcasts
+## <a name="podcasts" class="below-nav">Podcasts
 
 * [Salary Negotiation with Josh Doody](http://www.kalzumeus.com/2016/06/03/kalzumeus-podcast-episode-12-salary-negotiation-with-josh-doody/){:rel="nofollow"} – Kalzumeus podcast with Patrick McKenzie
 * [Fearless Salary Negotiation – Josh Doody](http://engineeringinsightspodcast.com/episode25/){:rel="nofollow"} – Engineering Insights
@@ -90,7 +90,7 @@ An television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the
 * [From Full-Time Job to Full-Time Freelancing](http://www.100kfreelancing.com/0123-full-time-job-full-time-freelancing-wjosh-doody/){:rel="nofollow"} – $100k Freelancing
 * [Resumes, Interviews, and Negotiation with Josh Doody](http://msdevshow.com/2017/07/resumes-interviewing-and-negotation-with-josh-doody/){:rel="nofollow"} – MS Dev Show
 
-## Talks
+## <a name="talks" class="below-nav">Talks
 
 * [Salary negotiation for engineers, developers, and designers](https://fearlesssalarynegotiation.com/salary-negotiation-for-engineers-developers-and-designers/){:rel="nofollow"} – The Iron Yard Orlando and Orlando Devs – March 9, 2016
 * [Job interview preparation and salary negotiation workshop](http://www.intaadvising.gatech.edu/career/meet-and-greet-josh-doody-author-of-fearless-salary-negotiation-september-8th/){:rel="nofollow"} - Preparing Georgia Tech graduate students for Career Fair – September 8, 2016
