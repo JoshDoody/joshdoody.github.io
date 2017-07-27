@@ -3,8 +3,8 @@ $(function() {
 		 ga('send', {
 		 	hitType: 'event',
 		 	eventCategory: 'Link',
-		 	eventAction: 'Choose raise request template',
-		 	eventLabel: $(this).data('template'),
+		 	eventAction: $(this).data('action'),
+			eventLabel: $(this).data('template'),
 		 	nonInteraction: 1
 		 });
 	 })

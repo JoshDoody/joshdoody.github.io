@@ -21,12 +21,12 @@ Here are the exact email templates and word-for-word scripts you need to ask for
 
 **Looking for a specific email template?**
 
- * [Ask to discuss compensation in your next 1-on-1](#regular-meeting){:data-template="Raise request—1-on-1"}
- * [Schedule a one-off meeting to talk about pay](#dedicated-meeting){:data-template="Raise request—dedicated meeting"}
- * [How to ask for a raise - email template](#request-template){:data-template="Raise template"}
- * [Follow up on your raise request](#follow-up){:data-template="Raise request follow-up"}
- * [Ask for a specific action plan to get a raise](#request-a-plan){:data-template="Raise plan request"}
- * [Negotiate a new job offer]({{ base.url }}/salary-negotiation-email-sample/){:data-template="Salary negotiation email sample"}
+ * [Ask to discuss compensation in your next 1-on-1](#regular-meeting){:data-template="Raise request—1-on-1", :data-action="Choose raise request template"}
+ * [Schedule a one-off meeting to talk about pay](#dedicated-meeting){:data-template="Raise request—dedicated meeting", :data-action="Choose raise request template"}
+ * [How to ask for a raise - email template](#request-template){:data-template="Raise template", :data-action="Choose raise request template"}
+ * [Follow up on your raise request](#follow-up){:data-template="Raise request follow-up", :data-action="Choose raise request template"}
+ * [Ask for a specific action plan to get a raise](#request-a-plan){:data-template="Raise plan request", :data-action="Choose raise request template"}
+ * [Negotiate a new job offer]({{ base.url }}/salary-negotiation-email-sample/){:data-template="Salary negotiation email sample", :data-action="Choose counter offer template"}
 
 Some companies address employee compensation in small salary increments—a percent or two every now and then—rather than big jumps. And some companies will grant big raises for exceptional employees.
 
