@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Write a Kick-Ass Resume
+tagline: <em>By <a href="https://kaidavis.com">Kai Davis</a></em>
 excerpt: TKTK
 context: interview
 last_modified_at: 2017-07-14

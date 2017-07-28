@@ -571,6 +571,10 @@ p, ul, ol {
   text-align: left;
 }
 
+.u-right {
+  text-align: right;
+}
+
 .u-highlight {
   background: #FFF9C4;
   font-style: normal;
