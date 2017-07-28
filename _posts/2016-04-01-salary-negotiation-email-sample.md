@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Salary negotiation email sample - free counter offer letter sample
+title: Salary negotiation email sample - free counter offer letter templates
 headline: How to negotiate your starting salary with a compelling counter offer email
 tagline: Salary negotiation email templates to deliver your counter offer when negotiating starting salary
 excerpt: Salary negotiation email samples you can use to counter offer and negotiate your salary once you have a job offer.
@@ -21,10 +21,10 @@ This guide will show you how to negotiate your salary over email with a step-by-
 **Already know which template you need?**
 
  * [Ask for time to consider your job offer](#ask-for-time-template){:data-template="Ask for time template"}{:data-action="Choose counter offer template"}
- * [Negotiating a lowball job offer](#lowball-template){:data-template="Lowball template"}{:data-action="Choose counter offer template"}
- * [Salary negotiation email sample—baseline template](#baseline-counter-template){:data-template="Counter offer template—baseline"}{:data-action="Choose counter offer template"}
- * [Salary negotiation email sample—counter with your minimum](#counter-minimum-template){:data-template="Counter offer template—minimum"}{:data-action="Choose counter offer template"}
- * [Salary negotiation email sample—counter and disclose other offers](#counter-other-offers-template){:data-template="Counter offer template—other offers"}{:data-action="Choose counter offer template"}
+ * [Negotiate a lowball job offer](#lowball-template){:data-template="Lowball template"}{:data-action="Choose counter offer template"}
+ * [Baseline template—Salary negotiation email sample](#baseline-counter-template){:data-template="Counter offer template—baseline"}{:data-action="Choose counter offer template"}
+ * [Counter with your minimum—Salary negotiation email sample](#counter-minimum-template){:data-template="Counter offer template—minimum"}{:data-action="Choose counter offer template"}
+ * [Disclose other offers—Salary negotiation email sample](#counter-other-offers-template){:data-template="Counter offer template—other offers"}{:data-action="Choose counter offer template"}
  * [Follow up after sending your counter offer](#follow-up-template){:data-template="Follow-up after counter"}{:data-action="Choose counter offer template"}
 
 Just in case you're not convinced that you can or should negotiate a higher salary after a job offer, let's start with a few common questions about the process.
