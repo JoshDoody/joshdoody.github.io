@@ -2,7 +2,7 @@
 layout: post
 title: How to Write a Kick-Ass Resume
 tagline: <em>By <a href="https://kaidavis.com">Kai Davis</a></em>
-excerpt: How to write a compelling resume that will get you get more job interviews
+excerpt: How to write a compelling resume or CV that will get you get more job interviews
 context: interview
 last_modified_at: 2017-07-28
 extra_css:
