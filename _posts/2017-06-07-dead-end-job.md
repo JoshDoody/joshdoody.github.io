@@ -92,11 +92,11 @@ Throughout your career, you'll have more opportunities and make significantly mo
 
 Sometimes, you should pursue opportunities to gain a *deeper* level of experience with a skill you already have; other times, you should pursue opportunities that give you a *broader* skillset to draw on.
 
-Let's talk about *why* building a broader skillset makes you more valuable and will help you to be ready when big new opportunities become available. And I'll explain why you should look beyond your current job for opportunities to add new skills to your repertiore.
+Let's talk about *why* building a broader skillset makes you more valuable and will help you to be ready when big new opportunities become available. And I'll explain why you should look beyond your current job for opportunities to add new skills to your repertoire.
 
 **Skill stacking**
 
-The value in learning new skills is in combining them to do unique new things. For each new skill you add to your repertiore, you could gain *multiple* new skills that you didn't have before. So if you have two skills and you add a new skill, you may have more than three total skills now.
+The value in learning new skills is in combining them to do unique new things. For each new skill you add to your repertoire, you could gain *multiple* new skills that you didn't have before. So if you have two skills and you add a new skill, you may have more than three total skills now.
 
 Why? Because that new skill might also augment your existing skills to create more new skills.
 
@@ -112,7 +112,7 @@ Ah ha! You no longer have to wait for things to come to you—you can go to them
 
 But here's where the magic of Skill Stacking comes in to play.
 
-You can *also* combine your new skill of running with your two previous skills of jumping and crouching. Because these three skills work so well together, you have gone from two to at least five skills by adding only one new skill to your repertiore. Here's what you can do now:
+You can *also* combine your new skill of running with your two previous skills of jumping and crouching. Because these three skills work so well together, you have gone from two to at least five skills by adding only one new skill to your repertoire. Here's what you can do now:
 
  * Crouch
  * Jump
@@ -124,7 +124,7 @@ While you only added one new skill, you actually gained at least *three* new ski
 
 Sometimes, a new skill is just one new skill. But most of the time, you can combine a new skill with other skills you already had to create even *more* skills.
 
-Each of those new skills—the ones you expicitly add, and the ones you gain by combining existing skills—may be valuable in its own right. And the more valuable skills you have, the more opportunities you'll get and the more you can earn throughout your career.
+Each of those new skills—the ones you explicitly add, and the ones you gain by combining existing skills—may be valuable in its own right. And the more valuable skills you have, the more opportunities you'll get and the more you can earn throughout your career.
 
 **A simple real-world example**
 
@@ -138,7 +138,7 @@ You have now learned two skills: Excel and PowerPoint. But you also have access 
 
 You can create charts and graphs in Excel, then include them in a PowerPoint presentation, and create useful reports for your team or for management. 
 
-So by adding "knows PowerPoint" to your repertiore, you added one new basic skill, and Skill Stacking means you *also* added another valuable skill that can help you communicate with management and gain more visibility for the other work you do.
+So by adding "knows PowerPoint" to your repertoire, you added one new basic skill, and Skill Stacking means you *also* added another valuable skill that can help you communicate with management and gain more visibility for the other work you do.
 
 You can also look for opportunities to add new skills *outside* of work that might pay off for your career as well. Reading books on new subjects or picking up new hobbies could net you new skills that you can stack with the skills you typically use at work.
 
