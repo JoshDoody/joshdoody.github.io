@@ -5,6 +5,7 @@ tagline: How to negotiate salary even after the company meets your stated salary
 excerpt: One of the most common starting salary neogotiation mistakes is disclosing your current or expected salary during the interview process. Here's how to negotiate salary even after suggesting a salary range.
 context: negotiate
 last_modified_at: 2017-05-02
+301_to_url: 'https://fearlesssalarynegotiation.com/the-dreaded-salary-question/'
 ---
 First things first: **I strongly recommend that you [don't disclose your current or expected salary during your job interviews]({{ site.baseurl }}/the-dreaded-salary-question/)** because you could end up boxed into the range you suggest and cost yourself a lot of money.
 

@@ -5,7 +5,9 @@ tagline: Word-for-word scripts to avoid making one of the most expensive intervi
 excerpt: How to avoid sharing your current salary or expected salary when asked for your salary requirements in an interview with word-for-word scripts
 og-image: DreadedSalaryQuestion.png
 context: interview
-last_modified_at: 2017-03-27
+last_modified_at: 2017-08-04
+extra_js:
+  - template_requested.js
 ---
 You've been job hunting for a while, and you finally hear back about a job you really want. The recruiter reaches out and asks if you're free to chat for a few minutes so they can ask you a few questions. "Sure!"
 
@@ -13,7 +15,7 @@ Everything seems pretty straightforward—you talk about your background, how yo
 
 > “So where are you right now in terms of salary, and what are you looking for if you make this move?”
 
-**Wait a minute.** They want to know your salary expectations before you even start your job interviews?
+**Wait a minute.** They want to know your current salary and expected salary before you even start your job interviews?
 
 **You intuitively know that sharing your current salary or desired salary probably isn't in your best interest.** But you're also really excited about this opportunity and you don't want to miss out. Plus, you're not sure how to not answer this question.
 
@@ -23,13 +25,30 @@ What if they tell you the interview process simply can't continue unless you sha
 
 This will usually come up in the "[pre-interview]({{ site.baseurl }}/book/interview/pre-interview-phase/)" or "pre-screen", which is right at the beginning of the interview process. That's why it's such a sneaky question! It's a salary negotiation tactic disguised as a gatekeeper-type interview question.
 
-So when you hear the salary requirements question, you'll be thinking "What do I need to say to get to my next interview? They asked for my current salary and expected salary, so I'll tell them that to move on."
+So when you hear the salary requirements question, you'll be thinking "What do I need to say to get to my next interview? They asked for my current salary and expected salary, so I'll tell them that so we can move on."
 
-## How to respond when they ask for your salary requirements
+This is a detailed article, so you can use this table of contents to jump ahead if you already know what you're looking for!
 
-It's easier to understand this question if we answer another one first: What is the recruiter or hiring manager *really* asking for here?
+**Article contents**
 
-**What's your current salary?**
+ * [Current salary question - what to expect](#current-salary-question){:data-template="Current salary question"}{:data-action="Current and expected salary section"}
+ * [Expected salary question - what to expect](#expected-salary-question){:data-template="Expected salary question"}{:data-action="Current and expected salary section"}
+ * [Current salary answer - how to respond](#current-salary-answer){:data-template="Current salary answer"}{:data-action="Current and expected salary section"}
+ * [Expected salary answer - how to respond](#expected-salary-answer){:data-template="Expected salary answer"}{:data-action="Current and expected salary section"}
+ * [Combined answer to both questions](#combined-answer){:data-template="Expected salary answer"}{:data-action="Current and expected salary section"}
+ * [When they ask again](#when-they-ask-again){:data-template="When they ask again"}{:data-action="Current and expected salary section"}
+ * [When they *insist* - your trump card](#when-they-insist){:data-template="When they insist"}{:data-action="Current and expected salary section"}
+ * [Handling special circumstances - other ways they ask](#special-circumstances){:data-template="handling special circumstances"}{:data-action="Current and expected salary section"}
+ * [Pushback from recruiters and how to respond](#recruiter-pushback){:data-template="Recruiter pushback"}{:data-action="Current and expected salary section"}
+ * [Already shared current salary - how to recover](#already-shared-current-salary){:data-template="Already shared current salary"}{:data-action="Current and expected salary section"}
+ * [Already shared expected salary - how to recover](#already-shared-expected-salary){:data-template="Already shared expected salary"}{:data-action="Current and expected salary section"}
+ * [Summary](#summary){:data-template="Summary"}{:data-action="Current and expected salary section"}
+
+It's easier to understand the current and desired salary questions if we answer another question first: What is the recruiter or hiring manager *really* asking for here?
+
+Let's take each question—current salary and expected salary–separately.
+
+## <a name="current-salary-question" class="below-nav">“What's your current salary?”
 
 This question is pretty straightforward, but not nearly as innocuous as it may sound. Here's a different way of looking at this question:
 
@@ -45,7 +64,7 @@ When you disclosed your current salary, you gave them an easy out: they just too
 
 The good news is the new offer was higher than your current salary was. The bad news is you probably could've gotten more if you hadn't shared your current salary with the recruiter.
 
-**What's your expected salary?**
+## <a name="expected-salary-question" class="below-nav">“What's your expected salary?”
 
 This question is a little trickier because it *sounds* like they're giving you a chance to set the baseline for your new salary. It *sounds* like they're asking you to contribute to the terms of the job offer you'll hopefully get later.
 
@@ -150,9 +169,7 @@ If you had told them your expected salary, you may not have even gotten this far
 
 And all of this is just to get a strong *initial* job offer. You can *continue* telling your story when you counter offer (see this [salary negotiation email sample]({{ site.baseurl }}/salary-negotiation-email-sample/) for an example of how you continue telling your story even as you counter offer), and that may drive their budget even higher. 
 
-Now that we've talked about why sharing your current salary or expected salary is such a bad idea, let's loop back to the question at the beginning of this article:
-
-## What should you say when asked for your current salary or expected salary in an interview?
+Now that we've talked about why sharing your current salary or expected salary is such a bad idea, let's talk about how to avoid sharing that information.
 
 Here's a short video with the basics of how to respond when asked for your salary expectations. Then I'll tell you more about the nuances of this question and what to do when they don't give up so easily:
 
@@ -162,7 +179,7 @@ Here's a short video with the basics of how to respond when asked for your salar
 
 Let's break this down into two parts: "What's your current salary?" and "What's your expected salary?"
 
-### "What's your current salary?"
+## <a name="current-salary-answer" class="below-nav">How to answer the "What's your current salary?" interview question
 
 For the "current salary" part of the question, I recommend answering something like this:
 
@@ -172,7 +189,7 @@ It’s true that they may do some digging and put together a good educated guess
 
 It also means that their eventual offer will need to reflect both your [market value]({{ site.baseurl }}/book/value/market-value-overview/) and the value you’ll add to the company without being biased by your current salary.
 
-### "What's your expected salary?"
+## <a name="expected-salary-answer" class="below-nav">How to answer the "What's your expected salary?" interview question
  
 My pat answer to the "what are you looking for" part of the salary expectations question is this:
 
@@ -180,9 +197,9 @@ My pat answer to the "what are you looking for" part of the salary expectations 
 
 This answer demonstrates that you want to contribute to the company by taking on additional responsibilities and that you want to be well compensated for those contributions.
 
-### The answer to the salary expectations question
+## <a name="combined-answer" class="below-nav">How to answer the "What's your current and expected salary?" interview question
 
-Here is my recommendation for a good answer to the salary expectations: 
+Here is my recommendation for a good answer to the full version of this question: 
 
 > "I’m not comfortable sharing my current salary. I would prefer to focus on the value I can add to this company rather than what I’m paid at my current job. I don’t have a specific number in mind for a desired salary, and you know better than I do what value my skillset and experience could bring to your company. I want this move to be a big step forward for me in terms of both responsibility and compensation."
 
@@ -194,7 +211,7 @@ Here is my recommendation for a good answer to the salary expectations:
 
 So let's say that you're playing a game, and your goal is to get past the salary expectations without sharing your salary requirements. This is Level 1, and the script I just gave you will usually win the game.
 
-## What if that's not good enough?
+## <a name="when-they-ask-again" class="below-nav">What if they ask again?
 
 So you got to the end of Level 1, and you're feeling pretty good that you didn't disclose your salary expectations. Excellent!
 
@@ -264,7 +281,7 @@ I can't answer that question for you, but I can tell you my answer: "Nope."
 	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to the current and expected salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get the free Interview Cheat Sheet</a></p>
 </div>
 
-## What if they keep pushing?
+## <a name="when-they-insist" class="below-nav">What if *insist*?
 
 So you gave my pat answer and completed Level 1. But the game kept going and now you're at Level 2 and they're asking *again*. What do you say to complete Level 2 and end this awkward conversation?
 
@@ -288,7 +305,7 @@ So this is how you complete Level 2, and then it's over right? Usually, but ther
 
 I already covered why I think this is silly, so let's just cut to the chase: **How do you end this conversation without sharing your current salary or expected salary?**
 
-## Here's your trump card for the salary expectations question
+### Here's your trump card for the salary expectations question
 
 This is Level 3. It's the last level in the game. You've told them you're uncomfortable sharing your salary expectations, and they persisted. You've told them you're happy to confirm if the range they've budgeted is in the ballpark of what compensation you'll consider, and they persisted. 
 
@@ -300,15 +317,15 @@ This is a heavy-handed answer, but it's necessary because of the situation. You'
 
 If they *still* press after this answer, I'm all out of ideas because I've never seen anyone fail to complete the game with this script.
 
-## What about salary expectations questions on job applications?
+## <a name="special-circumstances" class="below-nav">Handling special circumstances - other ways they ask
 
 It's more and more common to see salary questions on job applications—both paper and online. So let's talk about how to use this strategy when confronted with the salary expectations questions on an application.
 
-### Salary questions on paper job applications
+### Answering salary questions on paper job applications
 
 If you're filling out a paper job application with questions about your current, previous, or expected salary, just leave those questions blank. Either the recruiter will just let it go, or they'll verbally ask you for those numbers, and you can fall back on the scripts we covered earlier.
 
-### Salary questions on online job applications
+### Answering salary questions on online job applications
 
 Online job applications can be trickier because they might *require* you to enter an answer in order to submit them. So there are two things to try:
 
@@ -322,7 +339,7 @@ This feels weird, but sometimes it's the only way. Try entering "0" or "1" or "9
 
 Again, the recruiter or hiring manager may follow up to ask for your current salary or expected salary, and you can just fall back on the scripts we covered earlier.
 
-## What if they ask for W-2s or pay stubs from your previous jobs?
+### What if they ask for W-2s or pay stubs from your previous jobs?
 
 Don't share them. It's none of their business.
 
@@ -332,7 +349,7 @@ Every time I've seen this, it's usually a rogue recruiter who has created their 
 
 Regardless, you shouldn't share this information because it has nothing to do with how qualified you are for the job they're trying to fill, and your previous salary has no bearing on how valuable you will be in this role for their company.
 
-## What if they stop the interview process because you won't share your current salary or expected salary?
+### What if they stop the interview process because you won't share your current salary or expected salary?
 
 It's *extremely* unlikely that they will halt the interview process if you refuse to share this information. The reason they're talking to you at all is that they need to fill a role at their company, and they need to fill that role even if you won't make the salary negotiation easy for them by sharing your salary expectations.
 
@@ -342,7 +359,7 @@ You're probably dodging a bullet. Let's take a step back and look at the situati
 
 **Do you really want to work for that company?** If they're that petty *before* they hire someone, how petty will they be once you're their employee? Chances are, things will only get more difficult after they hire you.
 
-## Common pushback from recruiters
+## <a name="recruiter-pushback" class="below-nav">Common pushback from recruiters
 
 I've been talking about the salary expectations question for years now. My coaching clients have used this advice to get much better job offers and negotiate better compensation than they ever had before. These tactics *work*.
 
@@ -376,7 +393,72 @@ If they're serious about respecting everyone's time, then they'll tell you the r
 	<p>For a different perspective on these interview questions, Penelope Trunk's succinct and direct responses are fantastic: <a href="http://blog.penelopetrunk.com/2008/02/19/the-answer-to-the-toughest-interview-question/" target="_blank">The answer to the toughest interview question</a></p>
 </div>
 
-## Summarizing your options for answering the salary expectations question
+## <a name="already-shared-current-salary" class="below-nav">How to recover if you've already disclosed your current salary
+
+So how do you recover if you've already disclosed your current salary depends how early you are in the interview process? Let's take the interview process in two phases:
+
+1. Early in the process—You haven't started your formal interviews yet
+2. Late in the process—You already have a job offer
+
+**1. You haven't started your formal interviews yet**
+
+There's still time!
+
+The problem you need to overcome is that most companies start by thinking, "What's the minimum we need to offer this person to get them to take the job?"
+
+Unfortunately, they have a simple formula to find that "minimum" number they need to offer: your current salary plus a little more to entice you to make the leap.
+
+You want to switch their thinking to, "What do we have to offer this person to convince them to take the job?"
+
+See the difference?
+
+In the first one, they're looking for the smallest number they can get away with. In the second one, they're looking for a number big enough to convince you to make the leap. These are probably two *very* different numbers.
+
+**How you change their thinking**
+
+At every stage of the interview process, **your primary goal is to tell a story about how their company will be better with you on their team**. Just keep telling that story over and over again.
+
+Every time they ask you a question, think, "How can I answer this question in a way that adds another chapter to the story about how their company will be better if they bring me on board?"
+
+If you do change their thinking from "minimum number" to "biggest number necessary", they may forget that you told them your current salary and focus on making a compelling offer instead.
+
+That may be enough to break away from your current salary, but what if you try this and still get an offer that's based on your current salary?
+
+**2. You already have a job offer**
+
+You may have experienced something like this:
+
+You got a job offer, and felt great because it was more than you were currently making. Then, a few minutes later you thought, "Wait a minute. This offer is just my current salary plus 5%! Is that a coincidence?"
+
+Nope, it's not a coincidence 😕
+
+Once you get this far, it's much harder to recover and drastically improve your offer. But you have a couple options based on your own assessment of your [minimum acceptable salary(/minimum-acceptable-salary/):
+
+ 1. If a counter of 10-20% above their offer is above your minimum acceptable salary, then that's your best move. You could negotiate more than your minimum or you can fall back to your minimum as your line in the sand (your walk away number).
+ 2. If that won't work, you can use this [technique to negotiate a lowball job offer](/how-to-negotiate-a-lowball-job-offer/)—ask them if they can make improvements to the offer so you can consider them. This is your way of letting them know that they need to switch their thinking from "minimum" to "most convincing".
+
+Your options are slim, but you do have options even if you've already disclosed your current salary!
+
+## <a name="already-shared-expected-salary" class="below-nav">How to recover if you stated your expected salary and the offer meets or exceeds it
+
+What if you already declared your expected salary and they made an offer that meets or exceeds it, but you want to negotiate for something even higher. How do you do that?
+
+**Look for new information you can incorporate into your negotiation**—ways in which your understanding of the position has changed since you declared your salary range. Here are two examples:
+
+- The job requirements are different than you thought they were—there's more responsibility than you anticipated.
+- The overall benefits package isn't what you anticipated—there's less paid vacation or sick time, the available health insurance coverage isn't as robust as you thought, etc.
+
+Once you identify one or more things, wait for them to make an offer, which will probably be either below or at the low end of the expected salary range you disclosed. Then you can negotiate by saying something like this:
+
+> "I have learned a lot more about the company, the position, and the compensation package since I gave that initial salary range. Given what I've learned, I would be more comfortable at [your counteroffer]."
+
+<div class="ad-box">
+	<p><strong>I recommend sending your counter offer in an email because you can make a stronger, more thoughtful case in writing.</strong> Here's an email template you can use to deliver your counter offer: <a href="{{ site.baseurl }}/salary-negotiation-email-sample/">Salary negotiation email sample</a></p>
+</div>
+
+It's problematic to declare a expected salary range early in the interview process because you don't know enough about the job, the company, and the available perks to pick a salary. But even if you already shared an expected salary, there are still ways to negotiate and improve your job offer.
+
+## <a name="summary" class="below-nav">Summarizing your options for answering the salary expectations question
 
 We've covered a lot of ground here, so let me give you a short-and-sweet summary of the scripts you can use to avoid sharing your current salary and expected salary when asked for your salary expectations in a job interview.
 
@@ -421,6 +503,22 @@ Don't share them. This isn't any of their business.
 They're either trying to save time, or they're trying to gather information to give them an advantage later on when you negotiate. If they're genuinely trying to save time, then this answer should get you through:
 
 > "It sounds like you're trying to qualify me for a salary range. If you want to tell me what that range is, I'm happy to tell you if it's in the ballpark."
+
+### How to recover when you already shared your current salary
+
+**1. You haven't started your formal interviews yet**
+
+There's still time to switch their thinking to "What do we need to offer to convince them to take this role?" Focus on interviewing well and telling a story about how their company will be better if you're a part of it.
+
+**2. You already have a job offer**
+
+Your best bet is to negotiate the offer as well as possible. The offer itself will be based on your current salary, but with a good negotiation strategy, you can see how much room for improvement there is in their offer.
+
+### How to recover when you already shared your expected salary
+
+Look for new information you can incorporate into your negotiation. For example, the job requirements or benefits package may be different than you anticipated. Then you can counter offer while saying something like: 
+
+> "I have learned a lot more about the company, the position, and the compensation package since I gave that initial salary range. Given what I've learned, I would be more comfortable at [your counteroffer]."
 
 Next time you're asked for your current salary or desired in a job interview, use these word-for-word scripts to avoid disclosing that information and get back to the interview process. This strategy will leave the salary expectations question open longer, allowing you to impress them more so you have more leverage during your salary negotiation.
 
