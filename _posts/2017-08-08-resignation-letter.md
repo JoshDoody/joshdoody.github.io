@@ -14,7 +14,7 @@ You've decided to move on to your next career opportunity and you need to give y
 
 And once you've told your manager that you're resigning, you will need to communicate with your team to say goodbye and make sure everyone knows how to stay in touch. Your professional network will be your greatest source of career opportunities and this may be your last chance to reach out to your team and make a lasting connection.
 
-These simple letter or resignation and last day email templates will help you give your notice without feeling stressed and leave on good terms while expanding your professional network.
+These simple letter of resignation and last day email templates will help you give your notice without feeling stressed and leave on good terms while expanding your professional network.
 
 Both emails use a simple format so you can easily edit them for your own situation. Just replace the **[bold text in brackets]** with your own personal details and you're all set!
 
@@ -26,6 +26,8 @@ Both emails use a simple format so you can easily edit them for your own situati
 ## <a name="resignation-letter-template" class="below-nav">Resignation letter template to give your notice
 
 Keep your resignation letter short and sweet. You want to make it clear that you're leaving and that you plan to wrap up your open projects and facilitate the transitioning of your work to other colleagues. But you don't want to over-communicate.
+
+This letter of resignation template will work for almost any situation whether you're leaving for personal reasons or a great new opportunity at another company.
 
 <div class="sample-email">
 <p>
