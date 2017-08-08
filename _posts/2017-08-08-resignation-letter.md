@@ -1,32 +1,31 @@
 ---
 layout: post
-title: Resignation letter templates - Give notice to your boss and team
-headline: Give your notice and leave on good terms with these resignation letter templates
-tagline: Flexible email templates to give your notice when you leave a job
-excerpt: Use these resignation letter templates to give notice to your boss and your team and announce your last day while building your professional network.
+title: Resignation letter templates - free, simple example emails
+headline: Simple resignation letter templates to give notice and say goodbye on your last day
+tagline: Simple letter of resignation and last day at work email templates
+excerpt: Use these free, simple resignation letter templates to email your boss and colleagues to give notice and say goodbye on your last day at work.
 context: negotiate
+og-image: ResignationLetterTemplate.png
 last_modified_at: 2017-08-08
 extra_js:
   - template_requested.js
 --- 
-You've decided to move on to your next career opportunity and you need to give your notice. But even something as simple as writing a resignation letter can feel overwhelming.
+You've decided to move on to your next career opportunity and you need to give your notice and then say goodbye to your colleagues on your last day at work. But even something as simple as writing a resignation letter or saying goodbye can feel overwhelming when things are changing so quickly.
 
-Who do you send it to? What do you say? Should you give two weeks notice or leave it open for discussion?
+And once you've told your manager that you're resigning, you will need to communicate with your team to say goodbye and make sure everyone knows how to stay in touch. Your professional network will be your greatest source of career opportunities and this may be your last chance to reach out to your team and make a lasting connection.
 
-And even once you've told your manager that you're resigning, you will need to communicate with your team to say goodbye and make sure everyone knows how to stay in touch. Your professional network will be your greatest source of career opportunities and this may be your last chance to reach out to your team and make a lasting connection.
+These simple letter or resignation and last day email templates will help you give your notice without feeling stressed and leave on good terms while expanding your professional network.
 
-Here are two email templates you can use to send your resignation letter to your manager and say goodbye to your team and colleagues while building your professional network.
+Both emails use a simple format so you can easily edit them for your own situation. Just replace the **[bold text in brackets]** with your own personal details and you're all set!
 
 **Already know what you're looking for?**
 
- * [Resignation letter template](#resignation-letter-template){:data-template="Resignation leter template"}{:data-action="Choose resignation letter template"}
- * [Tell your team](#resignation-letter-team){:data-template="Resignation letter - team"}{:data-action="Choose resignation letter template"}
+ * [Resignation letter template](#resignation-letter-template){:data-template="Resignation letter template"}{:data-action="Choose resignation letter template"}
+ * [Last day at work email - say goodbye to colleagues](#last-day-template){:data-template="Last day email template"}{:data-action="Choose resignation letter template"}
 
 ## <a name="resignation-letter-template" class="below-nav">Resignation letter template to give your notice
 
 Keep your resignation letter short and sweet. You want to make it clear that you're leaving and that you plan to wrap up your open projects and facilitate the transitioning of your work to other colleagues. But you don't want to over-communicate.
-
-Here's a simple resignation letter template you can use to write your own email to give your notice at work. Make sure to swap the **[bold text in brackets]** with details for your own specific situation before you send it!
 
 <div class="sample-email">
 <p>
@@ -46,35 +45,36 @@ Here's a simple resignation letter template you can use to write your own email 
 
 As you can see, there's an optional paragraph you might add if you have long-running projects that may take more than two weeks to transition *and* you have flexibility in your schedule to work more than two weeks before your final day.
 
-## <a name="resignation-letter-team" class="below-nav">Reach out to your colleagues to say goodbye and share your contact information
+## <a name="last-day-template" class="below-nav">Say goodbye to your colleagues on your last day at work
 	
-Once you've given your notice, you'll work hard to wrap things up before you go. But before your final day, you want to make sure to reach out to your teammates and colleagues to say goodbye and make sure they know how to get in touch.
+Once you've given your notice, you'll work hard to wrap things up before you go. But before your last day, you want to make sure to reach out to say goodbye to your teammates and colleagues and make sure they know how to get in touch.
 
 This is a pretty standard practice nowadays. Usually, people put together an email to their team, or practice, or department, tell them it was great working them, they’ll be missed, and to reach out if they ever need anything. This is about 50% genuine and 50% networking. 
 
 The genuine part is that you’re giving your former coworkers a way to find you if they run into an issue with one of your old responsibilities. The networking part is that you’re sharing your name, email address and phone number so that your coworkers have your contact info in case they find an awesome job you would be right for.
 
-Here’s a short example you can use to say goodbye and make sure your former coworkers know how to find you if they need to. This is a real email—slightly modified—that I sent when I left a great job in 2015. 
+Here’s a short farewell email sample you can use to say goodbye and make sure your former coworkers know how to find you if they need to. This is a real email—slightly modified—that I sent when I left a great job.
 
 <div class='sample-email'>
 <p>
-	<strong><u>To:</u></strong> ACME Corp—Consulting Practice<br>
-	<strong><u>CC:</u></strong> Josh Doody <josh@example.com> [personal email address]<br>
+	<strong><u>To:</u> [Team mailing list or your colleagues]</strong><br>
+	<strong><u>CC:</u></strong> <strong>[Your personal email address]</strong><br>
 	<strong><u>Subject:</u></strong> See you around!
 </p>
 <hr>
 <p>Hi everyone</p>
 <p>Today is my last day working with this amazing team at this amazing company. It has been a pleasure working with all of you, and I'm grateful for the opportunity to work with such a great team of experts. The amount of talent in this group is really astounding.</p>
-<p>I've been in this industry for almost 10 years now, and I've learned that this is a very tight-knit industry where I continuously bump into old friends. I'm sure we'll cross paths again, and that's very comforting given how great this team is.</p>
+<p>I've been in this industry for almost <strong>[Years you've been in the industry]</strong> years now, and I've learned that this is a very tight-knit industry where I continuously bump into old friends. I'm sure we'll cross paths again, and that's very comforting given how great this team is.</p>
 <p>If you ever need anything or have any questions for me about any of my projects or responsibilities please reach out and ask. Don't spin your wheels trying to figure something out when you could just email me for a quick answer!</p>
 <p>And of course, please stay in touch and feel free to reach out at any time to say hello.</p> 
-<p>My personal email address is: josh@example.com <br>
-I'm on LinkedIn at: https://www.linkedin.com/in/joshdoody</p>
+<p>My personal email address is: <strong>[Your personal email address]</strong><br>
+I'm on LinkedIn at: <strong>[Your LinkedIn profile URL]</strong></p>
 <p>Thank you for this tremendous opportunity, and for making this such a fantastic place to work!</p>
 <p>All the best</p>
-<p>Josh</p>
+<p><strong>[Your name]</strong></br>
+<strong>[Your personal email address]</strong</p>
 </div>
 
-You're making a big career move by leaving your company, and there are big things ahead to focus on. But make sure you leave your old job on the best possible terms so you can continue building your professional network and positioning yourself for greater opportunities in the future.
+You're making a big career move by leaving your company, and there are big things ahead to focus on. But make sure your resignation letter and goodbye message allow you to leave on the best possible terms so you can continue building your professional network and positioning yourself for greater opportunities in the future.
 
 <div class="inline-ad hidden"></div>
