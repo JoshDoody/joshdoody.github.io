@@ -20,10 +20,10 @@ Both emails use a simple format so you can easily edit them for your own situati
 
 **Already know what you're looking for?**
 
- * [Resignation letter template](#resignation-letter-template){:data-template="Resignation letter template"}{:data-action="Choose resignation letter template"}
+ * [Resignation letter template - two weeks notice](#resignation-letter-template){:data-template="Resignation letter template"}{:data-action="Choose resignation letter template"}
  * [Last day at work email - say goodbye to colleagues](#last-day-template){:data-template="Last day email template"}{:data-action="Choose resignation letter template"}
 
-## <a name="resignation-letter-template" class="below-nav">Resignation letter template to give your notice
+## <a name="resignation-letter-template" class="below-nav">Resignation letter template to give your two weeks notice
 
 Keep your resignation letter short and sweet. You want to make it clear that you're leaving and that you plan to wrap up your open projects and facilitate the transitioning of your work to other colleagues. But you don't want to over-communicate.
 
@@ -47,7 +47,7 @@ This letter of resignation template will work for almost any situation whether y
 
 As you can see, there's an optional paragraph you might add if you have long-running projects that may take more than two weeks to transition *and* you have flexibility in your schedule to work more than two weeks before your final day.
 
-## <a name="last-day-template" class="below-nav">Say goodbye to your colleagues on your last day at work
+## <a name="last-day-template" class="below-nav">Sample goodbye email to your colleagues on your last day at work
 	
 Once you've given your notice, you'll work hard to wrap things up before you go. But before your last day, you want to make sure to reach out to say goodbye to your teammates and colleagues and make sure they know how to get in touch.
 
@@ -73,8 +73,8 @@ Here’s a short farewell email sample you can use to say goodbye and make sure 
 I'm on LinkedIn at: <strong>[Your LinkedIn profile URL]</strong></p>
 <p>Thank you for this tremendous opportunity, and for making this such a fantastic place to work!</p>
 <p>All the best</p>
-<p><strong>[Your name]</strong></br>
-<strong>[Your personal email address]</strong</p>
+<p><strong>[Your name]</strong><br>
+<strong>[Your personal email address]</strong></p>
 </div>
 
 You're making a big career move by leaving your company, and there are big things ahead to focus on. But make sure your resignation letter and goodbye message allow you to leave on the best possible terms so you can continue building your professional network and positioning yourself for greater opportunities in the future.
