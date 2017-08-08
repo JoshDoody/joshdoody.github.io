@@ -28,7 +28,6 @@ My ideal clients are looking for help:
 
 - Negotiating one or more job offers
 - Getting to the later rounds of the interview process
-- Juggling multiple job offers
 - Making their next career move
 
 <h2 class='u-center'>“How should I refer people to you?”</h2>
