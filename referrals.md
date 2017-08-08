@@ -29,7 +29,7 @@ My ideal clients are looking for help:
 - Negotiating one or more job offers
 - Getting to the later rounds of the interview process
 - Juggling multiple job offers
-- Planning their next career move
+- Making their next career move
 
 <h2 class='u-center'>“How should I refer people to you?”</h2>
 
@@ -65,7 +65,7 @@ I do! Just copy and paste this email, substituting their name and other relevant
 <div class='sample-email'>
 <p>Hi <strong>[Name]</strong></p>
 <p>You mentioned that you were looking for help with <strong>[Problem or issue they're facing OR an outcome they're looking for]</strong>.</p>
-<p>I'd like to introduce you to Josh Doody, a salary negotiation coach who helps Software Developers get more high-quality job offers, negotiate higher starting salaries, and plan their next career moves.</p>
+<p>I'd like to introduce you to Josh Doody, a salary negotiation coach who helps Software Developers get more high-quality job offers, negotiate higher starting salaries, and make their next career moves.</p>
 <p>I’m familiar with Josh’s work and highly recommend him as someone that you speak to. I’ve CC’d Josh on this email and he’ll be replying in a day or so to learn more about you, your goals, and your current situation.</p>
 <p>In the meantime, I recommend you visit his Coaching page to learn more about how he can help and fill out the short application to tell him more about your current situation and challenges, so he knows in advance of the call how he can best help you (make sure to put me down as the source of the referral!).</p>
 <p><a href="https://fearlesssalarynegotiation.com/coach/">&gt;&gt; https://fearlesssalarynegotiation.com/coach/</a></p>
