@@ -3376,6 +3376,17 @@ section.gray {
 	background-color: #eee;
 }
 
+section.logos {
+	padding: 0;
+	text-align: center;
+}
+
+section.logos img {
+	width: 100px;
+	height: 100px;
+	opacity: .8;
+}
+
 /* Guarantee images */
 p.guarantee-img {
 	margin: 0 0 -20px 0;
