@@ -3384,7 +3384,7 @@ section.logos {
 section.logos img {
 	width: 100px;
 	height: 100px;
-	opacity: .8;
+	opacity: 1;
 }
 
 /* Guarantee images */
