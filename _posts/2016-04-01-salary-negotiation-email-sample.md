@@ -98,6 +98,8 @@ Here's an email template you can use to reply to your job offer letter while you
 
 You can also use this template if the verbal offer was made by the hiring manager with the understanding that you would eventually respond to the recruiter you've been working with.
 
+<div class="inline-ad hidden"></div>
+
 ## Evaluate the job offer
 
 There are many components to most job offers, but base salary is usually far more important than all of the others. Base salary is what you can use to set your budget, pay your mortgage, make your car payment, and put food on your table while you work for this company. 
@@ -180,8 +182,6 @@ josh@example.com</p>
 
 This counter offer letter might look like a big block of text, but there's a lot going on here and all of it is by design. Let's dig deeper.
 
-<div class="inline-ad hidden"></div>
-
 ### Open with a greeting 
 
 This email is addressed to the recruiter I’ve been working with throughout the hiring process, *not* the hiring manager who extended the verbal job offer. This recruiter has been my primary point of contact throughout the job interview process so I will negotiate with this same recruiter as well. 
@@ -245,6 +245,8 @@ Immediately after your counter offer, summarize your case in a single sentence, 
 If you haven't already set your next meeting time or discussed other next steps, be sure to ask about them. "Thanks for your time, and please let me know our next steps."
 
 In this example, I had already scheduled a follow up call to discuss my job offer with the recruiter on Monday at 10:30 AM, so I simply confirmed that meeting time.
+
+<div class="inline-ad hidden"></div>
 
 ## Salary negotiation email samples—special cases and unique situations
 
