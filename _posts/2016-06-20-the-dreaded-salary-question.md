@@ -6,7 +6,7 @@ excerpt: How to avoid sharing your current salary or expected salary when asked 
 og-image: DreadedSalaryQuestion.png
 branded_title: false
 context: interview
-last_modified_at: 2017-08-04
+last_modified_at: 2017-08-18
 extra_js:
   - template_requested.js
 ---
