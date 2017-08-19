@@ -11,17 +11,17 @@ Salary negotiation doesn't have to be intimidating. [Fearless Salary Negotiation
 
 Here is a short summary of five salary negotiation tactics that everyone can use to negotiate starting salary. I'll just share each tactic and a quick description so you can use these tactics right away if you need them.
 
-## 1. Don't disclose your current or desired salary
+## 1. Don't disclose your current or expected salary
 
-[The Dreaded Salary Question]({{ site.baseurl}}/the-dreaded-salary-question) usually comes up early in the job interview process, and it's a salary negotiation tactic disguised as an interview question. 
+You'll often be asked for your current or expected salary early in the job interview process. This is a salary negotiation tactic disguised as an interview question. 
 
-Here's The Dreaded Salary Question:
+I call this the The Dreaded Salary Question:
 
 > “So where are you right now in terms of salary, and what are you looking for if you make this move?"
 
 When The Dreaded Salary Question comes up, you're usually focused on simply getting to the next stage of your interview. It seems like an interview question, and since the point of a job interview is to answer questions, you might as well answer this one, right?
 
-Nope. **Don't disclose your current or desired salary in your job interview or salary negotiation.** You want the company to focus on what they need to offer to convince you to take the job, not on the minimum they need to offer to approximate your current salary.
+Nope. [Don't disclose your current or expected salary]({{ site.baseurl}}/the-dreaded-salary-question) in your job interview or salary negotiation. You want the company to focus on what they need to offer to convince you to take the job, not on the minimum they need to offer to approximate your current salary.
 
 So what should you say when asked for your current or desired salary? Here is an answer you can give to continue progressing in your job interview without costing yourself money later on:
 

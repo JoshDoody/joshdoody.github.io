@@ -16,13 +16,13 @@ The best part? You can use these five ways to get a raise over and over again th
 	
 The first way to get a raise is unusual because you'll take advantage of it by *not* doing something that could cost you a lot of money.
 
-I call this [The Dreaded Salary Question]({{ site.baseurl }}/the-dreaded-salary-question/), and it usually comes up early in the interview process, sometimes before you even start interviewing. It looks like this:
+Eary in the interview process, sometimes before you even start interviewing, you'll often be asked for your current or expected salary. Here's how you might be asked:
 
 > "So where are you right now in terms of compensation, and what are you hoping for if you make this move?"
 
 Sound familiar? I bet it does.
 
-**Don't disclose your current or desired salary in a negotiation** and you'll significantly increase your lifetime earning potential. Every time you get a new job, you'll give yourself the best chance for the highest salary the company will pay.
+[Don't disclose your current or expected salary in a negotiation]({{ site.baseurl }}/the-dreaded-salary-question/) and you'll significantly increase your lifetime earning potential. Every time you get a new job, you'll give yourself the best chance for the highest salary the company will pay.
 
 ## 2. Negotiate starting salary
 			

@@ -30,6 +30,6 @@ Once you identify one or more things, wait for them to make an offer, which will
 
 It's problematic to declare a desired salary range early in the interview process because you don't know enough about the job, the company, and the available perks to pick a salary.
 
-By declining to share your current or desired salary in response to [The Dreaded Salary Question]({{ site.baseurl }}/the-dreaded-salary-question), you give yourself more time to get further into the interview process before salary ranges are set *and* you allow the company to make the first offer so you can negotiate from a stronger position.
+By declining to share [your current or expected salary]({{ site.baseurl }}/the-dreaded-salary-question) in response to The Dreaded Salary Question, you give yourself more time to get further into the interview process before salary ranges are set *and* you allow the company to make the first offer so you can negotiate from a stronger position.
 
 <div class="inline-ad hidden"></div>
