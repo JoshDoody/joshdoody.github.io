@@ -6,7 +6,7 @@ excerpt: Word-for-word scripts to avoid sharing your current salary or expected 
 og-image: DreadedSalaryQuestion.png
 branded_title: false
 context: interview
-last_modified_at: 2017-08-18
+last_modified_at: 2017-08-22
 extra_js:
   - template_requested.js
 ---
