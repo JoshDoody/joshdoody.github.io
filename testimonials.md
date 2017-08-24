@@ -3,7 +3,7 @@ layout: post
 title: Testimonials for salary negotiation coaching, public speaking, and Fearless Salary Negotiation
 tagline: Real testimonials and stories from real people
 excerpt: Testimonials for salary negotiation coaching, public speaking, and Fearless Salary Negotiation
-last_modified_at: 2017-05-25
+last_modified_at: 2017-08-24
 ---
 Looking for testimonials for a particular product or offering?
 
