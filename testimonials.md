@@ -95,7 +95,7 @@ Learn more: [*Fearless Salary Negotiation*](/get-started/)
 
 {% include testimonials/aaron_batilo.html %}
 
-<!-- {% include testimonials/jeremy.html %} -->
+{% include testimonials/jeremy.html %}
 
 ## <a name="gynr" class="below-nav">*Get Your Next Raise*
 	
