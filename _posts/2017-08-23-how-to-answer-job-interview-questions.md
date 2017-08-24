@@ -31,17 +31,19 @@ You want to get the best plumber for the best price, so you call two plumbers an
 
 ### The first plumber
 
-The first plumber looks at the sink and you ask, "So, can you fix it?" The first plumber says, "I think so. I have an opening tomorrow afternoon, and I can come by and take a shot at fixing it then."
+The first plumber looks at the sink and you ask, "Can you fix it?" He says, "I think so. I have an opening tomorrow afternoon, and I can come by and take a shot at fixing it then."
 
-Ok, so that's not really ideal. They can probably fix the clogged sink, but you have to wait until tomorrow—*after* your friends come over for dinner—before you can find out for sure.
+Ok, so that's not really ideal. He can probably fix the clogged sink, but you have to wait until tomorrow—*after* your friends come over for dinner—before you can find out for sure.
 
 Maybe the second plumber can do better.
 
 ### The second plumber
 
-The second plumber looks at your clogged sink. "So, can you fix it?" The second plumber says, "Definitely. With these pipes and the city water, the problem is usually just that the p-trap is plugged up, and there might be some gunk in the pipes beyond the p-trap. I fix this sort of thing all the time. I have everything I need on the truck and I can fix it right now if you want me to go ahead and get started."
+The second plumber looks at your clogged sink. "Can you fix it?" He says, "Definitely. With these pipes and the city water, the problem is usually just that the p-trap is plugged up, and there might be some gunk in the pipes beyond the p-trap. I fix this sort of thing all the time. I have everything I need on the truck and I can fix it right now if you want me to go ahead and get started."
 
-The second plumber is clearly the better option, so let's talk about how you might think about pricing in this case. How would you think about the cost of each plumber?
+The second plumber is clearly the better option—you prefer to work with him if possible—so let's talk about how you might think about pricing in this case. 
+
+**How would you think about the cost of each plumber?**
 
 For the first plumber, you might think something like, "What's the lowest price I can pay this plumber to fix my sink?" For the second plumber, you're probably thinking something like, "How much can I afford to have this plumber fix my sink today?"
 
