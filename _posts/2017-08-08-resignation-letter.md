@@ -16,12 +16,12 @@ And once you've told your manager that you're resigning, you will need to commun
 
 These simple letter of resignation and last day email templates will help you give your notice without feeling stressed and leave on good terms while expanding your professional network.
 
-Both emails use a simple format so you can easily edit them for your own situation. Just replace the **[bold text in brackets]** with your own personal details and you're all set!
-
 **Already know what you're looking for?**
 
  * [Resignation letter template - two weeks notice](#resignation-letter-template){:data-template="Resignation letter template"}{:data-action="Choose resignation letter template"}
  * [Last day at work email - say goodbye to colleagues](#last-day-template){:data-template="Last day email template"}{:data-action="Choose resignation letter template"}
+
+Both emails use a simple format so you can easily edit them for your own situation. Just replace the **[bold text in brackets]** with your own personal details and you're all set!
 
 ## <a name="resignation-letter-template" class="below-nav">Resignation letter template to give your two weeks notice
 
