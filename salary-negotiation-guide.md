@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Salary Negotiation Guide | Fearless Salary Negotiation
+title: Salary Negotiation Guide
 headline: Salary Negotiation Guide
 tagline: How to negotiate your salary and get paid what you're worth
 excerpt: A complete salary negotiation guide for negotiating starting salary, getting a raise, and getting paid what you're worth throughout your career
