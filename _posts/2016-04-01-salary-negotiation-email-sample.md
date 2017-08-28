@@ -216,7 +216,7 @@ When they need further approval, you need to make it as easy as possible for the
 
 Instead, give them a well-written counter offer email that they can circulate along with their request for additional budget. You will make your own case much better than they will, so giving them your case in writing allows you to make your best case to whoever needs to approve your final salary.
 
-#### How write a compelling case to support your counter offer
+#### How to write a compelling case to support your counter offer
 
 Ask yourself, "What are five or six ways I can contribute to this team and make an impact right away?" Then write the answers down as bullet points or sentence fragments. All you need is the ideas to start with.
 
