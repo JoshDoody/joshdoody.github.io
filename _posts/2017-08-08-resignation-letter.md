@@ -23,6 +23,11 @@ These simple letter of resignation and last day email templates will help you gi
 
 Both emails use a simple format so you can easily edit them for your own situation. Just replace the **[bold text in brackets]** with your own personal details and you're all set!
 
+<div class='guide-link'>
+<p><strong>Not quite ready to give your notice?</strong></p>
+<p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>
+</div>
+
 ## <a name="resignation-letter-template" class="below-nav">Resignation letter template to give your two weeks notice
 
 Keep your resignation letter short and sweet. You want to make it clear that you're leaving and that you plan to wrap up your open projects and facilitate the transitioning of your work to other colleagues. But you don't want to over-communicate.

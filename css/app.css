@@ -3391,3 +3391,15 @@ p.guarantee-img {
 	margin: 0 0 -20px 0;
 	opacity: .8;
 }
+
+/* Salary negotiation guide internal links back to hub */
+div.guide-link {
+	text-align: right;
+	border-top: 1px solid #aaa;
+	border-bottom: 1px solid #aaa;
+	margin-bottom: 1.5em;
+}
+
+div.guide-link p {
+	margin: 10px 0 10px 0;
+}

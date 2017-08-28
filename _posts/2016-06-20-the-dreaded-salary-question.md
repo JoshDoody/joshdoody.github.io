@@ -20,6 +20,11 @@ Everything seems pretty straightforward—you talk about your background, how yo
 
 **You intuitively know that sharing your current salary or desired salary probably isn't in your best interest.** But you're also really excited about this opportunity and you don't want to miss out. Plus, you're not sure how to not answer this question.
 
+<div class='guide-link'>
+<p><strong>What's next once you get past the current and expected salary question?</strong></p>
+<p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>
+</div>
+
 **What if they *insist?***
 
 What if they tell you the interview process simply can't continue unless you share your current salary or expected salary?
@@ -29,6 +34,8 @@ This will usually come up in the "[pre-interview]({{ site.baseurl }}/book/interv
 So when you hear the salary requirements question, you'll be thinking "What do I need to say to get to my next interview? They asked for my current salary and expected salary, so I'll tell them that so we can move on."
 
 This is a detailed article, so you can use this table of contents to jump ahead if you already know what you're looking for!
+
+[Learn what to once you get past the current and expected salary question →](/salary-negotiation-guide/)
 
 **Article contents**
 

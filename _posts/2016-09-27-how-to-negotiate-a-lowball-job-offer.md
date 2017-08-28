@@ -14,6 +14,11 @@ Occasionally you'll ace your interviews and still get a lowball job offer, way b
 
 So what can you do to reset the salary negotiation? Here's a tactic you can use when negotiating a lowball salary offer.
 
+<div class='guide-link'>
+<p><strong>What's next once you respond to your lowball job offer?</strong></p>
+<p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>
+</div>
+
 ## You *could* go straight to your minimum acceptable salary
 
 Your minimum acceptable salary makes negotiating pretty easy because it allows you to draw a line in the sand, determine whether a standard negotiation strategy can get you past that line, and counter offer appropriately. Then you know whether to counter offer above your minimum acceptable salary, or just state your minimum acceptable salary as an ultimatum:

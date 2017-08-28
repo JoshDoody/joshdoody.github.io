@@ -45,8 +45,9 @@ Yes, negotiating your starting salary is a good way to get paid what you're wort
 
 But the best reason to negotiate is that you could literally be leaving money on the table if you don't test the company to see if there's room to negotiate.
 
-<div class='ad-box'>
-<p><strong>Not convinced?</strong> Here are 10 popular reasons people <em>don't</em> negotiate their job offers, debunked: <a href="{{ site.baseurl }}/why-you-should-not-negotiate-your-salary/">10 reasons you should NOT negotiate your salary</a></p>
+<div class='guide-link'>
+<p><strong>What's next once you respond to your job offer?</strong></p>
+<p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>
 </div>
 
 ## Should you negotiate your salary through email or a phone call?

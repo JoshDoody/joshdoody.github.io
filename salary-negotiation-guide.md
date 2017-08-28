@@ -4,8 +4,7 @@ title: Salary Negotiation Guide
 headline: Salary Negotiation Guide
 tagline: How to negotiate your salary and get paid what you're worth
 excerpt: A complete salary negotiation guide for negotiating starting salary, getting a raise, and getting paid what you're worth throughout your career
-last_modified_at: 2017-08-26
-metatags: noindex
+last_modified_at: 2017-08-28
 ---
 
 Let's walk through the entire salary negotiation process so you can see what it's like from end to end.
@@ -150,6 +149,8 @@ Run your script a few times before your Final Discussion. If you can find someon
 With your script in hand, you're ready for your Final Discussion. The recruiter or hiring manager will call you and respond to your counter offer. Because you have your script prepared and you've practiced it, you're ready to go. This call will only last a few minutes, and it'll be over before you know it!
 
 ## <a name="negotiation-complete" class="below-nav">After you negotiate your salary
+
+<p class='u-center'><a href="/resignation-letter/" target="_blank"><img src="/images/ResignationLetterTemplate.png" alt="Resignation letter templates - free, simple example emails" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
 
 Once you've finalized your compensation package and set your start date, you'll need to wrap things up at your current company. It's easy to gloss over this step because you're so excited for your new opportunity, but make sure you tie up all loose ends and leave on the best possible terms!
 
