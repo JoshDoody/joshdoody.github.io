@@ -59,13 +59,15 @@ First, you need time to determine your best negotiation strategy based on their 
 
 Second, your best bet is to reply to any job offer with an email. You'll be able to clearly articulate your case, make a specific counter offer, and avoid any sort of miscommunication as to what you were offered and what you're requesting.
 
-[Get scripts to ask for time to consider the offer verbally, or via email →](/salary-negotiation-email-sample/#ask-for-time-template)
+[Get scripts to ask for time to consider the offer verbally or via email →](/salary-negotiation-email-sample/#ask-for-time-template)
 
 ### Choose your salary negotiation strategy based on their offer and your minimum acceptable salary
 
 Remember when you set your minimum acceptable salary *before* they made you an offer? This is why: Now that you have the offer, you can compare your minimum to it and determine if you can negotiate with a standard, straightforward counter offer, or if you need to use more advanced tactics to try to get them to improve the offer so you can negotiate it normally.
 
 #### When you get a lowball job offer
+
+<p class='u-center'><a href="/how-to-negotiate-a-lowball-job-offer/" target="_blank"><img src="/images/LowballJobOffer.png" alt="How to negotiate a lowball job offer" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
 
 If your offer is more than 20% below your minimum acceptable salary, you'll need a different strategy to save the negotiation. As it stands, their offer is very far away from your minimum, which means you can't and won't accept the offer as-is.
 
@@ -91,6 +93,8 @@ If you received a lowball offer and were not able to get it improved, your count
 
 #### When your offer can be negotiated using standard techniques
 
+<p class='u-center'><a href="/salary-negotiation-script/" target="_blank"><img src="/images/SalaryNegotiationScript.png" alt="How to counter a job offer - salary negotiation script & calculator" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
+
 If your offer is not a lowball offer, then your counter offer will be 10–20% above their offer. Ten percent means that you don't have any particular reason to believe they're compelled to hire you. Twenty percent means you have reason to believe that they want you specifically in this role and they're willing to work to make that happen.
 
 You can use the *Fearless Salary Negotiation* counter offer calculator to determine the appropriate counter offer for your specific situation.
@@ -98,6 +102,8 @@ You can use the *Fearless Salary Negotiation* counter offer calculator to determ
 [Determine your counter offer with the counter offer calculator →](/salary-negotiation-script/)
 
 ### Send a salary negotiation email with your counter offer and your case
+
+<p class='u-center'><a href="/salary-negotiation-email-sample/" target="_blank"><img src="/images/SalaryNegotiationEmailSample.png" alt="Salary negotiation email sample - free counter offer letter templates" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
 
 Once you've determined your counter offer, it's time to formally begin your starting salary negotiation by counter offering. 
 
