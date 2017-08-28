@@ -9,8 +9,6 @@ last_modified_at: 2017-08-28
 
 Let's walk through the entire salary negotiation process so you can see what it's like from end to end.
 
-The first step might surprise you because it usually comes up very early in the *interview* process. In fact, we're going to walk through the interview process because *that* is when the negotiation usually starts.
-
 ## Where are you in the salary negotiation process?
 
  * [No job offer yet](#before-job-offer){:data-template="Before job offer"}{:data-action="Choose salary negotiation stage"}
