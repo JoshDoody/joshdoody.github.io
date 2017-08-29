@@ -10,9 +10,9 @@ last_modified_at: 2017-08-29
 ---
 Salary negotiation is a cycle that repeats throughout your career. You interview for a new position, negotiate a job offer, leave your old position, start your new job, ask for a raise or two, seek out new opportunities and begin interviewing and negotiating all over again. 
 
-You might do this dozens of times throughout your career, but the salary negotiation process will always be the same. All that changes is where you currently are in this salary negotiation cycle.
+You might do this dozens of times throughout your career, but the salary negotiation process will always be the same. All that changes is where you currently are in the salary negotiation cycle.
 
-Use this salary negotiation guide to jump right to your current stage in the salary negotiation cycle and learn the valuable strategies and tactics to get paid what you're worth by negotiating starting salary or asking for a raise.
+Use this salary negotiation guide to jump right to your current stage in the salary negotiation cycle and learn valuable strategies and tactics to get paid what you're worth by negotiating starting salary or asking for a raise.
 
 ## Where are you in the salary negotiation cycle?
 
