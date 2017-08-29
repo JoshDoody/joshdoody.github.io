@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Salary Negotiation Guide - How to negotiate your salary like a pro
+share_title: Salary Negotiation Guide - How to negotiate your salary like a pro 
 headline: Salary Negotiation Guide -<br>How to negotiate your salary like a pro
 tagline: Salary negotiation strategies and techniques for negotiating a job offer and getting a raise
 excerpt: A detailed salary negotiation guide for negotiating starting salary, getting a raise, and getting paid what you're worth throughout your career
