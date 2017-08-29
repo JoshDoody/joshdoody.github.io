@@ -4,9 +4,8 @@ title: How to answer the “What’s your current or expected salary?” questio
 tagline: Word-for-word scripts to avoid making one of the most expensive interview mistakes
 excerpt: Word-for-word scripts to avoid sharing your current salary or expected salary when asked for your current compensation or salary expectations in an interview
 og-image: DreadedSalaryQuestion.png
-branded_title: false
 context: interview
-last_modified_at: 2017-08-22
+last_modified_at: 2017-08-29
 extra_js:
   - template_requested.js
 ---

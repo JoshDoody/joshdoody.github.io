@@ -3,7 +3,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 	<link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.ico" />
-  <title>{% if page.title %}{{ page.title | strip_html | escape }}{% unless page.branded_title == false %}{% if page.layout == 'gynr' %} | Get Your Next Raise{% else %} | Fearless Salary Negotiation{% endif %}{% endunless %}{% else %}{{ site.title | strip_html | escape }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | strip_html | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
 	{% if page.metatags %} 
 	<meta name="robots" content="{{page.metatags}}" />
@@ -14,7 +14,7 @@
 	<meta http-equiv="refresh" content="0; url={{ page.301_to_url }}">
 	{% endif %}
 	<meta property="og:url" content="{% if page.301_to_url %}{{ page.301_to_url }}{% elsif page.canonical_url %}{{ page.canonical_url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ page.url }}{% endif %}" />	
-	<meta property="og:title" content="{% if page.title %}{{ page.title | strip_html | escape }}{% unless page.branded_title == false %}{% if page.layout == 'gynr' %} | Get Your Next Raise{% else %} | Fearless Salary Negotiation{% endif %}{% endunless %}{% else %}{{ site.title | strip_html | escape }}{% endif %}" />
+	<meta property="og:title" content="{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | strip_html | escape }}{% endif %}" />
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
 	<meta property="og:type" content="{% if page.og-type %}{{ page.og-type | escape }}{% else %}article{% endif %}" />
 	<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/images/{% if page.og-image %}{{ page.og-image }}{% else %}FBOGImage.png{% endif %}" />
@@ -22,7 +22,7 @@
 	{% if page.og-image %}
 	<meta property="twitter:card" content="summary_large_image" />
 	<meta property="twitter:site" content="@JoshDoody" />
-	<meta property="twitter:title" content="{% if page.title %}{{ page.title | strip_html | escape }}{% unless page.branded_title == false %}{% if page.layout == 'gynr' %} | Get Your Next Raise{% else %} | Fearless Salary Negotiation{% endif %}{% endunless %}{% else %}{{ site.title | strip_html | escape }}{% endif %}" />
+	<meta property="twitter:title" content="{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | strip_html | escape }}{% endif %}" />
   <meta property="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
 	<meta property="twitter:image" content="{{ site.url }}{{ site.baseurl }}/images/{{ page.og-image }}" />
 	{% endif %}

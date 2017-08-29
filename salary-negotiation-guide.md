@@ -1,25 +1,29 @@
 ---
 layout: post
-title: Salary Negotiation Guide
-headline: Salary Negotiation Guide
-tagline: How to negotiate your salary and get paid what you're worth
-excerpt: A complete salary negotiation guide for negotiating starting salary, getting a raise, and getting paid what you're worth throughout your career
+title: Salary Negotiation Guide - How to negotiate your salary like a pro
+headline: Salary Negotiation Guide -<br>How to negotiate your salary like a pro
+tagline: Salary negotiation strategies and techniques for negotiating a job offer and getting a raise
+excerpt: A detailed salary negotiation guide for negotiating starting salary, getting a raise, and getting paid what you're worth throughout your career
 context: negotiate
-last_modified_at: 2017-08-28
+og-image: SalaryNegotiationGuide.png
+last_modified_at: 2017-08-29
 ---
+Salary negotiation is a cycle that repeats throughout your career. You interview for a new position, negotiate a job offer, leave your old position, start your new job, ask for a raise or two, seek out new opportunities and begin interviewing and negotiating all over again. 
 
-Let's walk through the entire salary negotiation process so you can see what it's like from end to end.
+You might do this dozens of times throughout your career, but the salary negotiation process will always be the same. All that changes is where you currently are in this salary negotiation cycle.
 
-## Where are you in the salary negotiation process?
+Use this salary negotiation guide to jump right to your current stage in the salary negotiation cycle and learn the valuable strategies and tactics to get paid what you're worth by negotiating starting salary or asking for a raise.
 
- * [No job offer yet](#before-job-offer){:data-template="Before job offer"}{:data-action="Choose salary negotiation stage"}
+## Where are you in the salary negotiation cycle?
+
+ * [Currently interviewing](#currently-interviewing){:data-template="Currently interviewing"}{:data-action="Choose salary negotiation stage"}
  * [Just got a job offer](#job-offer-in-hand){:data-template="Job offer in hand"}{:data-action="Choose salary negotiation stage"}
- * [Already counter offered](#counter-offer-sent){:data-template="Counter offer sent"}{:data-action="Choose salary negotiation stage"}
- * [Through negotiating](#negotiation-complete){:data-template="Negotiation complete"}{:data-action="Choose salary negotiation stage"}
+ * [Currently negotiating](#currently-negotiating){:data-template="Currently negotiating"}{:data-action="Choose salary negotiation stage"}
+ * [Finished negotiating](#negotiation-complete){:data-template="Negotiation complete"}{:data-action="Choose salary negotiation stage"}
 
 Ready to get started?
 
-## <a name="before-job-offer" class="below-nav">Before you get a job offer
+## <a name="currently-interviewing" class="below-nav">Currently interviewing - no job offer yet
 
 Your salary negotiation will begin *before* you get a job offer. There are two things you need to do to get ready for your job offer and make sure you're ready to negotiate the best salary possible.
 
@@ -45,7 +49,7 @@ There's one more thing you need to do before you get your job offer: Set your wa
 
 By avoiding sharing your salary history or compensation expectations, you'll give yourself the most opportunity to negotiate the highest salary possible. By setting your minimum acceptable salary before you get your job offer, you'll give yourself an objective way to evaluate the final result of your negotiation so you can make the best decision about whether to accept the job.
 
-## <a name="job-offer-in-hand" class="below-nav">Once you have your job offer
+## <a name="job-offer-in-hand" class="below-nav">Once you have your job offer in hand
 
 Now it's time to start negotiating your starting salary. Here's how.
 
@@ -111,7 +115,7 @@ But there are several unique situations that might call for a slightly modified 
 
 [Salary negotiation email templates →](/salary-negotiation-email-sample/)
 
-## <a name="counter-offer-sent" class="below-nav">After you send your counter offer
+## <a name="currently-negotiating" class="below-nav">Currently negotiating - after you send your counter offer
 
 Once you've sent your counter offer, you should immediately begin preparing for your Final Discussion. This is what most people think of when they think of "salary negotiation". It's a very short phone call—usually just a few minutes—where the recruiter or hiring manager will respond to your counter offer, and you'll have your final opportunity to maximize your base salary and other non-salary benefits that are important to you.
 
@@ -147,7 +151,7 @@ Run your script a few times before your Final Discussion. If you can find someon
 
 With your script in hand, you're ready for your Final Discussion. The recruiter or hiring manager will call you and respond to your counter offer. Because you have your script prepared and you've practiced it, you're ready to go. This call will only last a few minutes, and it'll be over before you know it!
 
-## <a name="negotiation-complete" class="below-nav">After you negotiate your salary
+## <a name="negotiation-complete" class="below-nav">After you finished negotiating your salary
 
 <p class='u-center'><a href="/resignation-letter/" target="_blank"><img src="/images/ResignationLetterTemplate.png" alt="Resignation letter templates - free, simple example emails" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
 
