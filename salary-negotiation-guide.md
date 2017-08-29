@@ -4,6 +4,7 @@ title: Salary Negotiation Guide
 headline: Salary Negotiation Guide
 tagline: How to negotiate your salary and get paid what you're worth
 excerpt: A complete salary negotiation guide for negotiating starting salary, getting a raise, and getting paid what you're worth throughout your career
+context: negotiate
 last_modified_at: 2017-08-28
 ---
 
@@ -163,3 +164,5 @@ Once you know your start date for your new role, you should put in your notice a
 On your last day at your current job, you have a great opportunity to leave on good terms and expand your professional network. This is crucial because you may get great future jobs from your professional network. To make sure people know how to find you when they have a great opportunity for you, let them know how to get in touch.
 
 [Use this email template to say goodbye to your coworkers on your final day →](/resignation-letter/#last-day-template)
+
+<div class="inline-ad hidden"></div>
