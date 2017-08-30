@@ -4,7 +4,7 @@ title: How to answer “Why should we hire you?” and other questions
 tagline: Connecting your professional super powers to employers' desired business outcomes to get more high-quality job offers
 excerpt: How to say why you're the best candidate and answer the toughest interview questions with a straightforward, repeatable process.
 context: interview
-last_modified_at: 2017-08-29
+last_modified_at: 2017-08-30
 extra_js:
   - template_requested.js
 ---
@@ -77,6 +77,47 @@ Here's what your answer might sound like when you leveraging strong positioning 
 > “You’re transitioning your application to Ruby on Rails, and I’ve been using Ruby on Rails for production client projects for two years. I can save your team a lot of time because I can start writing production code right away.”
 
 Well, hello there! That's a compelling answer that will impress your interviewer and significantly increase your chances of getting another interview and ultimately getting a high-quality job offer. And there's a straightforward process you can follow to consistently give strong answers like the second one.
+
+## Defining *your* positioning for a specific job
+
+In a nutshell, positioning is how you show a company that you're *the* person they need for a specific job.
+
+But how do you do that? How did the Software Developer know the company was transitioning their application to Ruby on Rails?
+
+Research!
+
+### Basic research you should do for each opportunity
+
+You'll start with basic research and careful preparation for your interviews. Your goal is to learn enough about the company and job you're pursuing so that you understand exactly what they need. Once you have that information, will tell them why *you* are exactly what they need.
+
+Here's a short list of things you should look for as you discover exactly what the company needs:
+
+- Company name
+- Company size
+- Mission statement
+- Company goals
+- Company challenges/struggles
+- Company website and jobs page (a link to the specific job listing would be great, plus a link to their generic jobs page)
+- What types of other jobs are they trying to fill right now? How many of each type?
+- A summary of what your know about the company from blog posts, news, experience with their products, etc.
+- Are they growing? How quickly?
+
+Knowing that information before you go into an interview will help you be prepared to talk about the specific company and job you're considering. And, more importantly, you'll be able to tell a more detailed story about how their company will be better if you're a part of it.
+
+### Where to find that information
+
+So where do you start? There are two main places where you'll find pretty much everything you need: their company website, and Google.
+
+This isn't very complicated—you're simply doing the work that others won't do. Head over to Google and see what there is to see. Here are the types of information you're looking for:
+
+- **Company website**—You're particularly interested in their "Careers" or "Jobs" page, their home page, their About page.
+- **News and articles about them**—Are other people talking about this company? What are they saying?
+- **Blogs**—If they have a corporate blog, read a few entries to see what they're talking about right now; if there are other blogs written about the company, see what others are saying about the company.
+- **Financial statements**—If the company is publicly traded, then they're required to file 10-Q (quarterly) and 10-K (annual) financial statements. You don't have to read the entire thing, but the first page is usually pretty enlightening.
+
+In general, bigger companies will have more information available than smaller companies. That's ok. For now, all you're doing is building a list of data sources you can use.
+
+Next week, I'll show you how to turn that research into stronger positioning.
 
 <div class='ad-box'>
 <p><strong>This article is a work in progress!</strong> Over the next few weeks, you'll learn that process so you can use positioning to stand out as <em>the</em> candidate for the job so you get more interviews that result in more high-quality job offers. Bookmark this page to follow along!</p>
