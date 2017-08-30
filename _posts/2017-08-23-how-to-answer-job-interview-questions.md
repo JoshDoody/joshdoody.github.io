@@ -18,7 +18,7 @@ What's going on?
 
 This is almost always a sign that the you need better *positioning*. 
 
-## "What is positioning?"
+## <a name="positioning-definition" class="below-nav">"What is positioning?"
 
 Positioning is how you describe yourself as the hero this company needs, turning your skillset and experience into superpowers by matching them with the outcomes the business wants.
 
@@ -78,7 +78,7 @@ Here's what your answer might sound like when you leveraging strong positioning 
 
 Well, hello there! That's a compelling answer that will impress your interviewer and significantly increase your chances of getting another interview and ultimately getting a high-quality job offer. And there's a straightforward process you can follow to consistently give strong answers like the second one.
 
-## Defining *your* positioning for a specific job
+## <a name="gathering-data" class="below-nav">Learning about the job and company
 
 In a nutshell, positioning is how you show a company that you're *the* person they need for a specific job.
 
