@@ -1,12 +1,11 @@
 ---
 layout: post
-title: The complete salary negotiation guide
-excerpt: A free salary negotiation guide to quickly learn everything you need to know about salary negotiation in one place.
+title: Read Fearless Salary Negotiation online for free
+excerpt: Fearless Salary Negotiation will show you how to estimate your market value, acei your job interviews, negotiate starting salary, and get raises and promotions throughout your career. Read it here for free.
 context: interview
-last_modified_at: 2017-06-06
-share_title: The complete salary negotiation guide
+last_modified_at: 2017-08-30
 ---
-*Fearless Salary Negotiation* is a step-by-step guide that walks you through every phase of the interview and salary negotiation processes, and it's packed with specific tactics so you always know what to do next. That's why it quickly became a #1 Best Seller on Amazon.
+*Fearless Salary Negotiation* walks you through every phase of the interview and salary negotiation processes, and it's packed with specific tactics so you always know what to do next. That's why it quickly became a #1 Best Seller on Amazon.
 
 <html>
 {% include book_contents_linked.html %}
