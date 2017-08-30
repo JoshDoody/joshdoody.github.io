@@ -108,7 +108,7 @@ Knowing that information before you go into an interview will help you be prepar
 
 So where do you start? There are two main places where you'll find pretty much everything you need: their company website, and Google.
 
-This isn't very complicated—you're simply doing the work that others won't do. Head over to Google and see what there is to see. Here are the types of information you're looking for:
+This doesn't need to be complicated—you're simply doing the work that others won't do. Here are the types of information you're looking for:
 
 - **Company website**—You're particularly interested in their "Careers" or "Jobs" page, their home page, their About page.
 - **News and articles about them**—Are other people talking about this company? What are they saying?
