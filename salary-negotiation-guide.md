@@ -26,6 +26,20 @@ Ready to get started?
 
 ## <a name="currently-interviewing" class="below-nav">Currently interviewing - no job offer yet
 
+Or maybe you're *not* quite ready to get started? Maybe you're skeptical that negotiating salary actually works, or you're concerned about coming off as too aggressive or rubbing someone the wrong way.
+
+### 10 reasons you should *not* negotiate your salary
+
+So before we jump into *how* to negotiate your salary, let's start with *why* you should negotiate your salary. And why not have a little fun with it?
+
+<p class='u-center'><a href="/why-you-should-not-negotiate-your-salary/" target="_blank"><img src="/images/YoinkScreenCap.jpg" alt="10 reasons you should NOT negotiate your salary" style="display: block; width: 100%; max-width: 600px; margin: 0 auto;"/></a></p>
+
+[Read the 10 reasons you should *not* negotiate your salary →](/why-you-should-not-negotiate-your-salary/)
+
+Most of those reasons come from a place of fear, *which is totally understandable*! That's why it's called [***Fearless** Salary Negotiation*](/get-started/). This guide will who you how to replace that fear and skepticism with confidence.
+
+Now let's get into *how* to negotiate your salary.
+
 Your salary negotiation will begin *before* you get a job offer. There are two things you need to do to get ready for your job offer and make sure you're ready to negotiate the best salary possible.
 
 ### How to answer the "What's your current or expected salary?" interview question

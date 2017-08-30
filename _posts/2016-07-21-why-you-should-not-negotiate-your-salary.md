@@ -108,4 +108,9 @@ Aaaaand I came up totally empty here. I promised you 10 reasons you should NOT n
 
 Sorry about that. 
 
+<div class='guide-link'>
+<p><strong>Ready to learn how to negotiate your salary?</strong></p>
+<p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>
+</div>
+
 <div class="inline-ad hidden"></div>
