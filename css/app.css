@@ -2129,22 +2129,26 @@ body {
 .nav__title {
   font-family: 'Helvetica', sans-serif;
   font-weight: bold;
-  font-size: 1.5em;
+  font-size: 1.4em;
   color: white;
   text-decoration: none;
 }
 
+@media only screen and (max-width: 767px) {
+	.nav__title {
+	  font-size: 1.2em;
+	}
+}
+
 .nav-banner img {
-	height: 1em;
-	margin-bottom: -1px;
+	height: 2.9em;
+	margin-bottom: -20px;
+	margin-right: 10px;
 }
 
 .nav__title a {
   color: white;
   text-decoration: none;
-  -webkit-transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-  -moz-transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-  transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
 .nav__title a:hover {
@@ -2153,7 +2157,6 @@ body {
 
 .nav-buy-cta {
     float: right;
-/*    width: 210px;*/
 		display: inline;
 		margin-top: 4px;
 }
@@ -2178,21 +2181,6 @@ body {
     border-bottom: none;
     position: relative;
     top: 3px;
-}
-
-@media only screen and (max-width: 1023px) {
-	.nav-buy-cta {
-		margin-right: -20px;
-	}
-	.nav__title {
-		margin-left: -10px;
-	}
-}
-
-@media only screen and (min-width: 1024px) {
-	.nav__title {
-		margin-left: 20px;
-	}
 }
 
 @media only screen and (max-width: 649px) {
