@@ -2155,13 +2155,13 @@ body {
   color: white;
 }
 
-.nav-buy-cta {
+.nav-cta {
     float: right;
 		display: inline;
 		margin-top: 4px;
 }
 
-.nav-banner .nav-buy-cta-btn {
+.nav-banner .nav-cta-btn {
     background: #F37021;
     color: #fff;
 		text-decoration: none;
@@ -2173,18 +2173,18 @@ body {
 		display: inline;
 }
 
-.nav-banner .nav-buy-cta-btn:hover {
+.nav-banner .nav-cta-btn:hover {
   background: #EC6B00 ;
 }
 
-.nav-banner .nav-buy-cta-btn:active{
+.nav-banner .nav-cta-btn:active{
     border-bottom: none;
     position: relative;
     top: 3px;
 }
 
 @media only screen and (max-width: 649px) {
-	.nav-buy-cta {
+	.nav-cta {
 		display: block;
 		text-align: center;
 		float: none;
