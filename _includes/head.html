@@ -28,7 +28,7 @@
 	{% endif %}
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-
+	<link rel="stylesheet" href="{{ site.baseurl }}/css/levels-boilerplate.css">
 	<link rel="stylesheet" href="{{ site.baseurl }}/css/app.css">
 	
 	<link rel="canonical" href="{% if page.301_to_url %}{{ page.301_to_url }}{% elsif page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endif %}">
