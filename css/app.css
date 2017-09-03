@@ -2071,7 +2071,7 @@ p.footer-heading {
 		margin-top: 4px;
 }
 
-.nav-banner .nav-cta-btn {
+.nav-banner .nav-cta-btn, .guide-btn {
     background: #F37021;
     color: #fff;
 		text-decoration: none;
@@ -2083,14 +2083,21 @@ p.footer-heading {
 		display: inline;
 }
 
-.nav-banner .nav-cta-btn:hover {
+.nav-banner .nav-cta-btn:hover, .guide-btn:hover {
   background: #EC6B00 ;
+	color: white;
 }
 
-.nav-banner .nav-cta-btn:active{
+.nav-banner .nav-cta-btn:active, .guide-btn:active {
     border-bottom: none;
     position: relative;
     top: 3px;
+}
+
+.guide-btn {
+	max-width: 600px;
+	display: block;
+	margin: auto;
 }
 
 @media only screen and (max-width: 649px) {
