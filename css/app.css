@@ -449,6 +449,7 @@ html {
 /**
  * Utility Functions
  */
+
 @font-face {
   font-family: 'levels-icons';
   src: url("fonts/levels-icons.eot?4kz4sn");
@@ -464,7 +465,7 @@ html {
   font-weight: normal;
   font-variant: normal;
   text-transform: none;
-  line-height: 1;
+  line-height: 1; */
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -481,12 +482,12 @@ html {
 .icon-check:before {
   content: "\e600";
 }
-
+	
 /**
  * Common / Utility
  */
 body {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -543,7 +544,7 @@ p, ul, ol {
 }
 
 .container--normal {
-  max-width: 800px;
+  max-width: 750px;
 }
 
 .container--widened {
@@ -596,7 +597,6 @@ p, ul, ol {
  * Header
  */
 .header {
-  font-family: 'Asap', sans-serif;
   padding-top: 4em;
 }
 
@@ -735,92 +735,6 @@ p, ul, ol {
 }
 
 /**
- * Book Wrapper & Titles
- */
-.book-wrapper {
-  position: relative;
-  text-align: center;
-  display: inline-block;
-}
-
-@media only screen and (min-width: 650px) {
-  .book-wrapper {
-    font-size: 1.25em;
-    margin: 0 0 1em 0;
-    display: block;
-    float: right;
-  }
-}
-
-@media only screen and (min-width: 650px) {
-  .book-wrapper--align-right {
-    float: right;
-  }
-}
-
-@media only screen and (min-width: 650px) {
-  .book-wrapper--align-left {
-    float: left;
-  }
-}
-
-@media only screen and (min-width: 650px) {
-  .book-wrapper--align-none {
-    float: none;
-  }
-}
-
-.book-wrapper__svg {
-  display: inline-block;
-  width: 16em;
-  height: 16em;
-}
-
-.book-wrapper__title {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  padding: 0 50px;
-  font-family: 'Asap';
-  font-style: italic;
-  font-size: 1.4em;
-  color: #fff;
-  margin-top: 2.5em;
-  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
-}
-
-.book-wrapper__byline {
-  font-size: .7em;
-  font-weight: 100;
-  opacity: .6;
-  margin-top: .25em;
-}
-
-/**
- * Book SVG
- */
-.book__back-cover {
-  fill: #00A9FF;
-}
-
-.book__front-cover {
-  fill: #00A9FF;
-}
-
-.book__page {
-  fill: #fff;
-}
-
-.book__front-binding {
-  fill: #0076b3;
-}
-
-.book__back-binding {
-  fill: #0076b3;
-}
-
-/**
  * Headings
  */
 h1,
@@ -830,7 +744,7 @@ h4,
 h5,
 .section-heading {
   color: #555;
-	font-family: 'Helvetica', sans-serif;
+/*	font-family: 'Helvetica', sans-serif;*/
 	line-height: 1.4;
 }
 
@@ -1240,7 +1154,7 @@ h1, h2 {
   margin: 0;
   font-size: 1.7em;
   font-weight: 800;
-  font-family: 'Source Sans Pro';
+/*  font-family: 'Source Sans Pro';*/
   font-style: normal;
 }
 
@@ -1454,7 +1368,7 @@ h1, h2 {
   font-size: 1.5em;
   margin: 1em 0 0 0;
   padding: 0;
-  font-family: 'Source Sans Pro';
+/*  font-family: 'Source Sans Pro';*/
   font-style: normal;
 }
 
@@ -1793,10 +1707,9 @@ p.footer-heading {
 /**
  * Video Wrapper
  */
-.videoWrapper {
+/*.videoWrapper {
   position: relative;
   padding-bottom: 56.25%;
-  /* 16:9 */
   padding-top: 25px;
   height: 0;
   margin-bottom: 60px;
@@ -1862,15 +1775,11 @@ p.footer-heading {
   left: 0;
   width: 100%;
   height: 100%;
-}
+}*/
 
 /* custom.css below this line */
 
 /* Making long-form more readable */
-body {
-  font-family: 'Helvetica', sans-serif;
-}
-
 .hidden {
 	display: none;
 }
@@ -1919,7 +1828,7 @@ body {
   position: absolute;
   z-index: 7;
   display: block;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+/*  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
   font-size: 12px;
   font-style: normal;
   font-weight: normal;
@@ -2127,7 +2036,7 @@ body {
 }
 
 .nav__title {
-  font-family: 'Helvetica', sans-serif;
+/*  font-family: 'Helvetica', sans-serif;*/
   font-weight: bold;
   font-size: 1.4em;
   color: white;
@@ -2810,7 +2719,7 @@ div[data-offer-plinko="optional"] {
 }
 
 .slider-header {
-    font-family: "museo-sans-rounded", sans-serif;
+/*    font-family: "museo-sans-rounded", sans-serif;*/
     font-weight: 100;
     font-size: 22px;
     line-height: 36px;
@@ -2834,7 +2743,7 @@ div[data-offer-plinko="optional"] {
     margin-top: 35px;
     background: #924314;
     color: #fff;
-    font-family: "museo-sans-rounded", sans-serif;
+/*    font-family: "museo-sans-rounded", sans-serif;*/
     font-weight: 700;
     border-radius: 5px;
     padding: 10px;
@@ -2964,7 +2873,7 @@ a.close-slider {
 }
 
 .notification-bar .optin-promo-headline {
-    font-family: "museo-sans-rounded", sans-serif;
+/*    font-family: "museo-sans-rounded", sans-serif;*/
     font-weight: 700;
     font-style: Bold;
     font-size: 110%;
@@ -3332,37 +3241,12 @@ a.close-slider {
 /* Physician styling - using sections, etc. */
 section {
 	position: relative;
-	padding: 80px 0;
-}
-
-section.primary.hero {
-	padding-bottom: 40px;
+	padding: 40px 0;
 }
 
 section.primary {
 	background-color: #FF3500;
 	color: white;
-}
-
-section.hero {
-	background-color: #FF3500;
-	color: white;
-	text-align: center;
-}
-
-section.hero h2 {
-  font-size: 1.1em;
-	line-height: 1.4;
-}
-
-section.hero h1 {
-	color: white;
-  font-weight: bold;
-  font-size: 3.3em;
-  line-height: 1.4;
-  margin: 0;
-  text-decoration: none;
-	text-shadow: 1px 1px 1px #005569;
 }
 
 section.white {
@@ -3371,6 +3255,39 @@ section.white {
 
 section.gray {
 	background-color: #eee;
+}
+
+section.blue {
+	background-color: #00A9FF;
+}
+
+section.hero {
+	text-align: center;
+	padding-top: 80px;
+	padding-bottom: 40px;
+}
+
+section.hero h1 {
+	color: white;
+  font-weight: bold;
+  font-size: 3.2em;
+  line-height: 1.4;
+  margin: 0;
+  text-decoration: none;
+	text-shadow: 1px 1px 1px #005569;
+}
+
+section.hero h1 span.sub {
+	font-weight: 400;
+	text-shadow: none;
+}
+
+section.hero h2 {
+  font-size: 1.35em;
+	font-weight: 400;
+	color: #fff;
+	text-transform: uppercase;
+/*	line-height: 1;*/
 }
 
 section.logos {

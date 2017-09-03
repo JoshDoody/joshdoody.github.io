@@ -1,9 +1,9 @@
 {% if page.share_title %}
-{% assign link_title = page.share_title %}
+{% assign link_title = page.share_title | strip_html %}
 {% elsif page.headline %}
-{% assign link_title = page.headline %}
+{% assign link_title = page.headline | strip_html %}
 {% else %}
-{% assign link_title = page.title %}
+{% assign link_title = page.title | strip_html %}
 {% endif %}
 
 <p style="float: left;" class="book-excerpt-footer">
