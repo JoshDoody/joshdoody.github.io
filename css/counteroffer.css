@@ -1,0 +1,62 @@
+/* Script generator inputs */
+.script-fields__left {
+  margin-bottom: 2em;
+}
+
+.script-form {
+	background-color: #EEE;
+	padding: 20px 10px 10px 10px;
+}
+
+@media only screen and (max-width: 320px) {
+	.script-form {
+		padding: 20px 0px 10px 0px;
+	}
+}
+
+@media only screen and (min-width: 800px) {
+  .script-fields__left {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 57%;
+  }
+  .script-fields__left:last-child {
+    margin-right: 0;
+  }
+  
+	.script-fields__right {
+    display: block;
+    width: 33%;
+		white-space: nowrap;
+  }
+}
+
+@media only screen and (min-width: 1023px) {
+  .script-fields__left {
+    width: 62%;
+  }
+	
+	
+	.script-fields__right {
+		padding-left: 18px;
+	}
+}
+
+.slider.slider-horizontal {
+	margin-left: 20px;
+}
+
+/* Styling the displayed counteroffer for the salary negotiation script page */
+.counteroffer {
+	font-weight: bold;
+	font-size: 300%;
+	text-align: center;
+	color: red;
+}
+
+.counteroffer-reminder {
+	text-align: center;
+	font-weight: bold;
+	color: red;
+}
