@@ -1,34 +1,9 @@
-@font-face {
-  font-family: 'levels-icons';
-  src: url("fonts/levels-icons.eot?4kz4sn");
-  src: url("fonts/levels-icons.eot?4kz4sn#iefix") format("embedded-opentype"), url("fonts/levels-icons.ttf?4kz4sn") format("truetype"), url("fonts/levels-icons.woff?4kz4sn") format("woff"), url("fonts/levels-icons.svg?4kz4sn#levels-icons") format("svg");
-  font-weight: normal;
-  font-style: normal;
+html {
+  box-sizing: border-box;
 }
 
-[class^="icon-"], [class*=" icon-"] {
-  font-family: 'levels-icons';
-  speak: none;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1; */
-  /* Better Font Rendering =========== */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.icon-play:before {
-  content: "\e602";
-}
-
-.icon-download:before {
-  content: "\e601";
-}
-
-.icon-check:before {
-  content: "\e600";
+*, *::after, *::before {
+  box-sizing: inherit;
 }
 	
 /**
@@ -46,11 +21,6 @@ blockquote a,
 .post a {
   color: #00A9FF;
   text-decoration: underline;
-  /* nonedisplay: inline-block;
-  box-shadow: inset 0 -2px 0 0 rgba(0, 169, 255, 0.5);
-  -webkit-transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-  -moz-transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-  transition: all 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);*/
 }
 
 p a:hover,
@@ -67,6 +37,23 @@ p, ul, ol {
   font-weight: 300;
   line-height: 1.6;
   margin: 0 0 1.5em 0;
+}
+
+b, strong {
+	font-weight: bold;
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+  color: inherit;
+  /* 1 */
+  font: inherit;
+  /* 2 */
+  margin: 0;
+  /* 3 */
 }
 
 .container {
@@ -153,10 +140,6 @@ p, ul, ol {
   .header {
     padding-top: 5em;
   }
-  .levels-wp .header {
-    padding-top: 0;
-    padding-bottom: 2em;
-  }
 }
 
 .header:before {
@@ -217,16 +200,42 @@ p, ul, ol {
   }
 }
 
+@font-face {
+  font-family: 'levels-icons';
+  src: url("fonts/levels-icons.eot?4kz4sn");
+  src: url("fonts/levels-icons.eot?4kz4sn#iefix") format("embedded-opentype"), url("fonts/levels-icons.ttf?4kz4sn") format("truetype"), url("fonts/levels-icons.woff?4kz4sn") format("woff"), url("fonts/levels-icons.svg?4kz4sn#levels-icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'levels-icons';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1; */
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-play:before {
+  content: "\e602";
+}
+
+.icon-download:before {
+  content: "\e601";
+}
+
+.icon-check:before {
+  content: "\e600";
+}
+
 /**
  * Quotes
  */
-/*blockquote {
-
-  padding-left: 20px;
-	padding-right: 20px;
-  margin-left: 0;
-}*/
-
 .testimonial {
   border-left: 2px solid #00A9FF;
   border-right: 2px solid #00A9FF;
@@ -1480,6 +1489,7 @@ div.ad-box p:last-child {
 /* styling tables */
 table {
     border-collapse: collapse;
+	  border-spacing: 0;
     width: 100%;
 		margin-bottom: 20px;
 }
