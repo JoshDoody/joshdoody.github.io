@@ -23,7 +23,7 @@ I like [helping people]({{ site.baseurl }}/testimonials/), and this is another w
 
 ## How do I make money if I'm giving it away?
 
-Some people will be happy reading the book for free online, and others are happy to pay for more for the expert interviews, self-paced video courses, worksheets the worksheets and email templates that come with [the Complete Bundle]({{ site.baseurl }}/get-started#complete).
+Some people will be happy reading the book for free online, and others are happy to pay for more for the expert interviews, self-paced video courses, worksheets and email templates that come with [the Complete Bundle]({{ site.baseurl }}/get-started#complete).
 
 And for those considering [expert salary negotiation coaching]({{ site.baseurl }}/coach/) for accountability and a customized plan, or a [personalized strategy session]({{ site.baseurl }}/call/) this is a great way to show them that I know what I'm talking about.
 
