@@ -4,7 +4,7 @@ title: How to answer “Why should we hire you?” and other questions
 tagline: Connecting your professional super powers to employers' desired business outcomes to get more high-quality job offers
 excerpt: How to say why you're the best candidate and answer the toughest interview questions with a straightforward, repeatable process.
 context: interview
-last_modified_at: 2017-08-30
+last_modified_at: 2017-09-05
 extra_js:
   - template_requested.js
 ---
@@ -117,7 +117,79 @@ This doesn't need to be complicated—you're simply doing the work that others w
 
 In general, bigger companies will have more information available than smaller companies. That's ok. For now, all you're doing is building a list of data sources you can use.
 
-Next week, I'll show you how to turn that research into stronger positioning.
+## <a name="answering-questions" class="below-nav">Using your research to answer interview questions
+
+
+Last time, you got a short list of things to look for as you discover exactly what the company needs. Most of the information is publicly available, and some companies will have more information than others. But that's ok because you just need basic information to get through the first interview or two.
+
+**How can you help them achieve their goals and address their pain points?**
+
+*This* is the key question you want to answer before your interviews. When you can tell the hiring manager how you'll help the company or team achieve its goals and address its challenges, they will want to hire you.
+
+Remember, they're interviewing you because they need to fill an open position. That position is open because the company has needs or challenges that the person who does that job will help address. So when you tell them that you'll help them address those needs and challenges, and you tell them *how* you'll do it, you're saying, "I am the candidate you opened this job for." 
+
+Why would they look anywhere else?
+
+Here's the formula:
+
+1. Identify needs and challenges the company or team has.
+2. Identify specific ways you can help them address those needs and challenges.
+3. Answer interview questions by telling them how you'll help them address their needs and challenges.
+
+Let's go back to the very beginning. The question we're considering is:
+
+**"Why should we hire you?"**
+
+Most people are intimidated by this question because it's so vague and open-ended. Usually, they'll say something like, "Because I'm a software developer."
+
+*But that's not good enough.*
+
+This is a softball question, the perfect setup for you to tell them how you'll help them meet one of their goals or resolve a challenge they're having! Take advantage of it!
+
+If you've done your research before the interview, then the first thing you'll do when confronted with this question is think, "What is their most urgent need or challenge?" It will probably be pretty obvious since you've spent time reading about their company, but it's ok to just pick something from your list if there isn't any particular outstanding one.
+
+Now that you've identified their most urgent need, ask yourself, "How can I help them address that need?" You've already been thinking about this before the interview, so it's a slam dunk. 
+
+Then you put them together into a nice, short answer that tells them how you'll help them address their most urgent need with your skillset and experience. 
+
+Remember our plumber examples from earlier in the series? You asked them both the same question:
+
+> "Can you fix it?"
+
+This is basically the same question as, "Why should I hire you?"
+
+Before we revisit their answers, what are the most urgent needs you might have in that moment?
+
+- Fix the sink so you can use it.
+- Fix it quickly since you have company coming over.
+
+Here are their answers:
+
+> **Plumber 1:** "I think so. I have an opening tomorrow afternoon, and I can come by and take a shot at fixing it then."
+
+> **Plumber 2:** "Definitely. With these pipes and the city water, the problem is usually just that the p-trap is plugged up, and there might be some gunk in the pipes beyond the p-trap. I fix this sort of thing all the time. I have everything I need on the truck and I can fix it right now if you want me to go ahead and get started."
+
+**Plumber 1 doesn't address either of your urgent needs.** He says he'll take a shot at fixing it, and he can't even try until tomorrow. 
+
+**Plumber 2 nails them both!** He tells you exactly why he's confident he can fix it and offers to start working immediately.
+
+But what about the price? Why isn't that on the list? Because it doesn't matter too much. Your two most important needs are **fix it** and **now**. Even if Plumber 2 is a bit more expensive, you're probably willing to pay more to have this problem fixed right now.
+
+This is also true when companies hire people. They have a range they're able to pay to fill the position, and they're more inclined to pay at the higher end of that range if they find the *right* candidate. You want to be that candidate.
+
+### Another look at our Software Developer example from earlier
+
+Before we wrap up, let's jump back to the software developer example we saw in the first part of the series. Now that you know how to use positioning to answer interview questions, see if you can spot the need and how the developer describes the solution when asked "Why should we hire you?"
+
+> “You’re transitioning your application to Ruby on Rails, and I’ve been using Ruby on Rails for production client projects for two years. I can save your team a lot of time because I can start writing production code right away.”
+
+Do you see it now? The most urgent need this developer identified was a big transition to a new technology. The developer could directly help address that need because he had a few years' experience with that specific technology.
+
+All he had to do was tell the interviewer how he could help meet that need.
+
+That's an excellent use of positioning to answer a tricky interview question.
+
+Next week, we'll look at a real-world case study so you can see the positioning process in action.
 
 <div class='ad-box'>
 <p><strong>This article is a work in progress!</strong> Over the next few weeks, you'll learn that process so you can use positioning to stand out as <em>the</em> candidate for the job so you get more interviews that result in more high-quality job offers. Bookmark this page to follow along!</p>
