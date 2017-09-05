@@ -7,7 +7,7 @@ tagline: Salary negotiation strategies and techniques for negotiating a job offe
 excerpt: A detailed salary negotiation guide for negotiating starting salary, getting a raise, and getting paid what you're worth throughout your career
 context: negotiate
 og-image: SalaryNegotiationGuide.png
-last_modified_at: 2017-08-29
+last_modified_at: 2017-09-05
 ---
 ## Where are you in the salary negotiation cycle?
 
