@@ -39,8 +39,19 @@ p, ul, ol {
   margin: 0 0 1.5em 0;
 }
 
+li a {
+  color: #00A9FF;
+  text-decoration: underline;
+}
+
 b, strong {
 	font-weight: bold;
+}
+
+i {
+  display: inline-block;
+	text-decoration: none;
+  padding-right: .35em;
 }
 
 button,
@@ -1112,6 +1123,36 @@ p.footer-heading {
 	margin: auto;
 }
 
+/* ToC buttons for guides */
+ul.buttons:after {
+  content:'';
+  display:block;
+  clear: both;
+}
+
+ul.buttons li {
+  float: left;
+  list-style: none;
+  text-align: center;
+  margin-right: 20px;
+  width: 150px;
+}
+
+@media only screen and (max-width: 1023px) {
+	ul.buttons {
+		padding-left: 0px;
+	}
+	
+	ul.buttons li {
+		float: none;
+	  list-style: none;
+		display: inline;
+	  margin: 5px;
+		width: 100%;
+	  max-width: 300px;
+	}
+}
+
 @media only screen and (max-width: 649px) {
 	.nav-cta {
 		display: block;
@@ -1256,17 +1297,6 @@ ul.share-buttons li {
 
 ul.share-buttons img {
   width: 32px;
-}
-
-i {
-  display: inline-block;
-	text-decoration: none;
-  padding-right: .35em;
-}
-
-li a {
-  color: #00A9FF !important;
-  text-decoration: underline;
 }
 
 /* Ad box for HTML book */

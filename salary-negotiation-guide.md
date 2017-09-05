@@ -9,20 +9,20 @@ context: negotiate
 og-image: SalaryNegotiationGuide.png
 last_modified_at: 2017-08-29
 ---
+## Where are you in the salary negotiation cycle?
+
+<ul class="buttons">
+	<li><a class="guide-btn" href="#currently-interviewing" data-template="Currently interviewing" data-action="Choose salary negotiation stage">Currently interviewing</a></li>
+	<li><a class="guide-btn" href="#job-offer-in-hand" data-template="Job offer in hand" data-action="Choose salary negotiation stage">Just got a job offer</a></li>
+	<li><a class="guide-btn" href="#currently-negotiating" data-template="Currently negotiating" data-action="Choose salary negotiation stage">Currently negotiating</a></li>
+	<li><a class="guide-btn" href="#negotiation-complete" data-template="Negotiation complete" data-action="Choose salary negotiation stage">Finished negotiating</a></li>
+</ul>
+
 Salary negotiation is a cycle that repeats throughout your career. You interview for a new position, negotiate a job offer, leave your old position, start your new job, ask for a raise or two, seek out new opportunities and begin interviewing and negotiating all over again. 
 
 You might do this dozens of times throughout your career, but the salary negotiation process will always be the same. All that changes is where you currently are in the salary negotiation cycle.
 
-Use this salary negotiation guide to jump right to your current stage in the salary negotiation cycle and learn valuable strategies and tactics to get paid what you're worth by negotiating starting salary or asking for a raise.
-
-## Where are you in the salary negotiation cycle?
-
- * [Currently interviewing](#currently-interviewing){:data-template="Currently interviewing"}{:data-action="Choose salary negotiation stage"}
- * [Just got a job offer](#job-offer-in-hand){:data-template="Job offer in hand"}{:data-action="Choose salary negotiation stage"}
- * [Currently negotiating](#currently-negotiating){:data-template="Currently negotiating"}{:data-action="Choose salary negotiation stage"}
- * [Finished negotiating](#negotiation-complete){:data-template="Negotiation complete"}{:data-action="Choose salary negotiation stage"}
-
-Ready to get started?
+Use this salary negotiation guide to jump right to your current stage in the salary negotiation cycle and learn valuable strategies and tactics to get paid what you're worth by negotiating starting salary or asking for a raise.	
 
 ## <a name="currently-interviewing" class="below-nav">Currently interviewing - no job offer yet
 
