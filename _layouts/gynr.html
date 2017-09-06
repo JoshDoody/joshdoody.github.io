@@ -5,27 +5,22 @@
 
   <body>
 		{% include get_your_next_raise/gynr_banner.html %}
-    <div class="page-content after-banner">
+    <div class="page-content">
       <div class="wrapper">
-	
-				<header class="article-header header--centered">
-
-			    <div class="container container--normal">
-
-			      <h1 class="header__title">{% if page.headline %}{{ page.headline }}{% elsif page.title %}{{ page.title }}{% else %} Fearless Salary Negotiation {% endif %}</h1>
-			      {% if page.tagline %}
-						<h2 class="header__tagline">{{ page.tagline }}</h2>
-						{% else %}
-						<br><br>
-						{% endif %}
-
-			    </div>
-
-			  </header>
+				<section class="blue hero">
+				    <div class="container container--normal">
+				      <h1>{% if page.headline %}{{ page.headline }}{% elsif page.title %}{{ page.title }}{% else %} Get Your Next Raise {% endif %}</h1>
+				      {% if page.tagline %}
+							<h2>{{ page.tagline }}</h2>
+							{% else %}
+							<br><br>
+							{% endif %}
+				    </div>
+				</section>
 				
-				<main role="main">
+				<section class="white">
 				  {{ content }}
-				</main>
+				</section>
       </div>
     </div>
 		
