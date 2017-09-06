@@ -4,29 +4,26 @@
   {% include head.html %}
 
   <body>
-		{% include fsn_banner.html %}
-    <div class="page-content after-banner">
+    <div class="page-content">
       <div class="wrapper">
-				<header class="article-header header--centered">
-
-			    <div class="container container--normal">
-						{% if page.logo %}<img src="{{ site.baseurl }}/images/{{ page.logo }}" style="max-width: 250px; margin-bottom: 20px;" alt="{{ page.logo-alt }}"/>{% endif %}
-
-			      <h1 class="header__title">{% if page.headline %}{{ page.headline }}{% elsif page.title %}{{ page.title }}{% else %} Fearless Salary Negotiation {% endif %}</h1>
-			      {% if page.tagline %}
-						<h2 class="header__tagline">{{ page.tagline }}</h2>
-						{% else %}
-						<br><br>
-						{% endif %}
-
-			    </div>
-
-			  </header>
+				<section class="blue hero">
+				    <div class="container container--normal">
+							{% if page.logo %}<img src="{{ site.baseurl }}/images/{{ page.logo }}" style="max-width: 250px; margin-bottom: 20px;" alt="{{ page.logo-alt }}"/>{% endif %}
+				      <h1>{% if page.headline %}{{ page.headline }}{% elsif page.title %}{{ page.title }}{% else %} Fearless Salary Negotiation {% endif %}</h1>
+				      {% if page.tagline %}
+							<h2>{{ page.tagline }}</h2>
+							{% else %}
+							<br><br>
+							{% endif %}
+				    </div>
+				</section>
 				
-        {{ content }}
-      </div>
+				<section class="white">
+				  {{ content }}
+				</section>
+			</div>
     </div>
-	
+		
 		{% include additional_js_and_css.html %}
   </body>
 </html>

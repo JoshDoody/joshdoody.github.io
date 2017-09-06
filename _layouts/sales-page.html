@@ -7,18 +7,18 @@
 		<div class="count-down fsn-sale-price hidden"><div class="count-down-container" id="countdownTimer"><p>This Offer ends in <strong>6</strong> days <strong>6</strong> hours and <strong>26</strong> min</p></div></div>
     <div class="page-content">
       <div class="wrapper">
-				<header class="article-header header--centered">
+				<section class="blue hero">
 			    <div class="container container--normal">
-			      <h1 class="header__title">{% if page.headline %}{{ page.headline }}{% elsif page.title %}{{ page.title }}{% else %} Fearless Salary Negotiation {% endif %}</h1>
+			      <h1>{% if page.headline %}{{ page.headline }}{% elsif page.title %}{{ page.title }}{% else %} Fearless Salary Negotiation {% endif %}</h1>
 			      {% if page.tagline %}
-						<h2 class="header__tagline">{{ page.tagline }}</h2>
+						<h2>{{ page.tagline }}</h2>
 						{% else %}
 						<br><br>
 						{% endif %}
 			    </div>
-			  </header>
+				</section>
 				
-        {{ content }}
+			  {{ content }}
       </div>
     </div>
 	

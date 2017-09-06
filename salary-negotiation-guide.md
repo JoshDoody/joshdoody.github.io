@@ -1,8 +1,8 @@
 ---
-layout: guide-test
+layout: post
 title: Salary Negotiation Guide - How to negotiate your salary like a pro
 share_title: Salary Negotiation Guide - How to negotiate your salary like a pro 
-headline: Salary Negotiation Guide<br><span class="sub-h1">How to negotiate your salary like a pro</span>
+headline: Salary Negotiation Guide <span class="sub-h1">How to negotiate your salary like a pro</span>
 tagline: Salary negotiation strategies and techniques for negotiating a job offer and getting a raise
 excerpt: A detailed salary negotiation guide for negotiating starting salary, getting a raise, and getting paid what you're worth throughout your career
 context: negotiate

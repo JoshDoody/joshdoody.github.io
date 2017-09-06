@@ -2319,15 +2319,16 @@ section.hero h1 {
 }
 
 section.hero h1 span.sub-h1 {
-	text-shadow: none;
+	display: block;
+	margin-top: 10px;
 	font-weight: 400;
+	text-shadow: none;
 }
 
 section.hero h2 {
   font-size: 1.35em;
 	color: #fff;
 	text-transform: uppercase;
-/*	line-height: 1;*/
 }
 
 section.logos {
