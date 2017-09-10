@@ -1410,8 +1410,6 @@ div.ad-box p:last-child {
 	border-radius: 10px;
 	margin-bottom: 15px;
 	background: #e6f7ff;
-  /*font-style: normal;
-  font-weight: 400;*/
 }
 
 /* Drip forms */
@@ -1503,11 +1501,10 @@ div.ad-box p:last-child {
   font-size: 18px;
 	font-weight: bold;
   background: #F37021;
-  -moz-border-radius: 0px;
-  -webkit-border-radius: 0px;
-  border-radius: 0px; /* border radius */
-  cursor: pointer;
   border: none;
+	border-radius: 5px; /* border radius */
+	border-bottom: 3px solid #D15F00;
+  cursor: pointer;
   text-shadow: none;
   width: 30%;
   float: left;
@@ -1518,6 +1515,16 @@ div.ad-box p:last-child {
 	font-size: inherit;
 	margin: 8px 0px 8px 0px;
 	padding-left: 30px;
+}
+
+.drip_form.content-upgrade {
+	margin-top: 20px;
+}
+
+.drip_form.content-upgrade p {
+	padding: 10px 0px 10px 0px;
+	margin: 0px;
+	text-align: left;
 }
 
 @media all and (max-width: 799px) {
