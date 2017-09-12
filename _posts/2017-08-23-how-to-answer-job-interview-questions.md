@@ -4,7 +4,7 @@ title: How to answer “Why should we hire you?” and other questions
 tagline: Connecting your professional super powers to employers' desired business outcomes to get more high-quality job offers
 excerpt: How to say why you're the best candidate and answer the toughest interview questions with a straightforward, repeatable process.
 context: interview
-last_modified_at: 2017-09-05
+last_modified_at: 2017-09-012
 extra_js:
   - template_requested.js
 ---
@@ -189,10 +189,81 @@ All he had to do was tell the interviewer how he could help meet that need.
 
 That's an excellent use of positioning to answer a tricky interview question.
 
-Next week, we'll look at a real-world case study so you can see the positioning process in action.
+## <a name="case-study" class="below-nav"></a>Case Study
 
-<div class='ad-box'>
-<p><strong>This article is a work in progress!</strong> Over the next few weeks, you'll learn that process so you can use positioning to stand out as <em>the</em> candidate for the job so you get more interviews that result in more high-quality job offers. Bookmark this page to follow along!</p>
+I think the best way to give you a sense of how to turn the research you've done into a strong positioning statement is to *show* you how to do that.
+
+Michael volunteered to be a case study for this process as he considered a Backend Engineer position at SimplyCredit. I sent the basic research outline to him and asked that he do the research and send back what he found. Then Eric Normand and I talked about the position and how Michael could use his research to stand out in his upcoming interviews.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b4pKH_mvlVo" frameborder="0" allowfullscreen></iframe>
 </div>
+
+---
+
+Here's Michael's research for a company called Simply Credit:
+
+**Company name:** SimplyCredit
+
+**Company website:** [https://www.simplycreditinc.com/](https://www.simplycreditinc.com/)
+
+**Company Careers page:** [https://www.simplycreditinc.com/careers](https://www.simplycreditinc.com/careers)
+
+[The job posting isn't online anymore, but it was for a backend engineer with functional programming experience.]
+
+**Mission statement:**
+
+> Our mission is to redefine consumer lending to be fair and transparent. We believe in doing right by the consumer, and by everyone who works with us. We're looking for exceptional individuals who take pride in their work and thrive in collaborative environments. Join our dedicated, experienced and ambitious team as we tackle this mission in a meaningful and lasting way.
+
+**Goals and pain points**
+
+- Architect the backend to allow for sophisticated deployment of machine learning algorithms and data science
+- Design and build the data warehousing infrastructure
+- Define key workflow infrastructure including automated testing, continuous integration, and continuous deployments
+
+Early stage company (founded 2015) in need of engineers to build out their platform. Handling customer personal financial information, so security is important. By their words, their engineering culture and direction is not fully defined.
+
+**Who are their customers?**
+
+Consumers looking to consolidate credit into a single solution while maintaining their existing credit cards.
+
+**How big are they?** 1–10 people
+
+**Where are they located?** San Francisco (Open to Remote)
+
+**Other job openings:** None
+
+**Blog posts and news articles**
+
+[SimplyCredit Raises $1.5M and Launches Platform for Paying Off Cardholder Balances](http://www.prnewswire.com/news-releases/simplycredit-raises-15m-and-launches-platform-for-paying-off-cardholder-balances-300144323.html)
+
+**Recent financials (if public)**
+
+Raised $1.5 million in Sept 2015.
+
+**Ways I can help the company right now...**
+
+ - Experience integrating data science into existing applications.
+ - Familiarity with different automated testing and continuous integration approaches, including building out automation at two different companies.
+ - Familiarity with security concerns of software (worked on software for scanning vulnerabilities and checking PCI compliance).
+ - Experience across the stack, so able to work in the frontend when needed.
+ - Experience building and refactoring REST APIs.
+ 
+---
+Without doing this research, it would be difficult for Michael to stand out in his interviews as anything other than an experienced software developer. But look at the answer I improvsed for "Why should we hire you?" using Michael's research:
+
+> "I've got 15 years of technical experience. I can see that your company is laser-focused on the product right now. You're looking at all technical things. You're only hiring for this engineering position. I can see you just raised a round. It feels like you're trying to build a superior product to help consumers and protect consumers. I'm interested in helping you with that mission and I want to help you build a really solid product."
+
+That's a lot more compelling than "I'm a software developer and you need one of those!"
+
+## Use this process for every new opportunity
+
+Let's go back to our Positioning definition from the beginning of this series:
+
+> Positioning is how you describe yourself as the hero this company needs, turning your skillset and experience into superpowers by matching them with the outcomes the business wants.
+
+For each opportunity you pursue, do the research described above, and consider the company's goals and challenges. Then think about how you can use your skillset and experience to help the company address those goals and challenges.
+
+Do that for every opportunity and you'll stand out from other candidates and get more high-quality job offers.
 
 <div class="inline-ad hidden"></div>
