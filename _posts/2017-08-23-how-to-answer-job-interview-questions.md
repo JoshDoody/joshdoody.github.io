@@ -4,7 +4,7 @@ title: How to answer “Why should we hire you?” and other questions
 tagline: Connecting your professional super powers to employers' desired business outcomes to get more high-quality job offers
 excerpt: How to say why you're the best candidate and answer the toughest interview questions with a straightforward, repeatable process.
 context: interview
-last_modified_at: 2017-09-012
+last_modified_at: 2017-09-12
 extra_js:
   - template_requested.js
 ---
