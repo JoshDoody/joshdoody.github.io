@@ -5,7 +5,7 @@ headline: Ask your boss for a raise with these email templates and word-for-word
 tagline: Schedule a meeting, ask for a raise, and follow up with these email templates
 excerpt: Asking for a raise is a lot easier with these email templates. Word-for-word scripts to schedule a meeting, send your request, and follow up.
 context: raise
-last_modified_at: 2017-05-23
+last_modified_at: 2017-09-12
 extra_js:
   - template_requested.js
 --- 
