@@ -240,7 +240,6 @@ State your counter offer in a firm but neutral way. "I would be more comfortable
 "Are you sure you can't do any better?" is not firm or neutral. That makes it _very_ easy for the recruiter to simply say, "I'm sorry, we can't." By stating the actual amount along with "...I would be more comfortable...", you're forcing the recruiter to acknowledge the amount you counter offered and respond _to that specific amount_ while making it tougher to simply say "No."
 
 Immediately after your counter offer, summarize your case in a single sentence, just to remind them of the great case you made earlier.
-
 <a name="get-the-baseline-template" class='below-nav'></a>
 {% include drip_forms/salary-negotiation-email-templates-content-upgrade.html template-description="the baseline template to send your counter offer" %}
 

@@ -126,7 +126,7 @@ Here are the basic components you need to ask for a raise. I recommend writing a
 Here is a detailed explanation of each section you should include in your email to make sure your salary increase request has all the components you need before you ask for your raise.
 
 <div class='ad-box'>
-	<p><strong>Just want to get the template?</strong> <a href="#request-template">&gt;&gt; Click here</a></p>
+	<p><strong>Just want to get the template?</strong> <a href="#get-the-baseline-template">&gt;&gt; Click here</a></p>
 </div>
 
 **Note:** Don't send this email yet! You'll send it *after* you ask for a raise in person.
@@ -232,8 +232,8 @@ Finish your letter with a summary of your salary increase request along with you
 ### Signoff and signature
 
 Thank your manager for their time and keep it brief.
-<a name="request-template" class='below-nav'></a>
-{% include drip_forms/salary-increase-email-templates-content-upgrade.html template-description="the template to ask for a raise" %}
+<a name="get-the-baseline-template" class='below-nav'></a>
+{% include drip_forms/salary-increase-email-templates-content-upgrade.html template-description="the template to build your case and make your request in writing" %}
 
 ## <a name="in-person-script" class="below-nav"> What to say when asking for a raise at work (do this *before* you send the email template!)
 
