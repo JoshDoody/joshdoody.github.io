@@ -1,16 +1,16 @@
 ---
 layout: post
 title: 'Lowball job offers: How to negotiate them'
-tagline: When silence is the best response to a lowball job offer
-excerpt: 'How to counter a lowball job offer using a simple negotiation tactic: silence.'
+tagline: How to respond to a low salary offer when negotiating starting salary
+excerpt: How to respond to a low salary offer when negotiating starting salary
 share_title: How to negotiate a lowball job offer
 context: negotiate
-last_modified_at: 2016-09-29
+last_modified_at: 2017-09-12
 og-image: LowballJobOffer.png
 ---
 What's your goal in an interview? To get the best job offer possible and to set yourself up to negotiate the best salary possible. You want the company to focus on "What do we have to offer to convince them to join our team?" as opposed to "What's the minimum we can pay to bring them on board?" It's a subtle but important distinction.
 
-Occasionally you'll ace your interviews and still get a lowball job offer, way below your [minimum acceptable salary]({{ site.baseurl }}/book/negotiate/what-is-your-minimum-acceptable-salary/). Maybe they simply can't afford you, or maybe their pay range for this particular job is so wide that they don't know where to slot you in.
+Occasionally you'll ace your interviews and still get a lowball job offer, with a salary that's just too low—*way* below your [minimum acceptable salary]({{ site.baseurl }}/book/negotiate/what-is-your-minimum-acceptable-salary/). Maybe they simply can't afford you, or maybe their pay range for this particular job is so wide that they don't know where to slot you in.
 
 So what can you do to reset the salary negotiation? Here's a tactic you can use when negotiating a lowball salary offer.
 
@@ -49,13 +49,13 @@ But before I tell you _what_ we did, let's talk about _when_ you should use this
 
 The first thing to do when you get a job offer is to say something like, "Thanks for the offer! Do you mind if I take a couple of days to think it over and discuss it with my family?" Then you can take your time to consider the situation and plan your next move.
 
-With a lowball job offer, the best move may be to use a very powerful negotiation technique: silence. The trick is to deploy it at the right time like when you get a lowball job offer.
+With a lowball job offer, the best move may be to use the very powerful negotiation technique you'll learn in this article. The trick is to deploy it at the right time like when you get a lowball job offer.
 
-Silence can sometimes turn a lowball job offer into a more reasonable job offer by giving the company a chance to reset the salary negotiation _without making a counter offer_. This is key because you really only get one "big" counter offer, and you want to save it until the baseline job offer is as strong as possible.
+You can sometimes turn a lowball job offer into a more reasonable job offer by giving the company a chance to reset the salary negotiation _without making a counter offer_. This is key because you really only get one "big" counter offer, and you want to save it until the baseline job offer is as strong as possible.
 
-**How do you know when silence is the right response to a lowball job offer?**
+**How do you know when this technique is the right response to a lowball job offer?**
 
-If these things are true, then responding with silence may be the right move:
+If these things are true, then responding with this technique may be the right move:
 
 <ul class="checkbox-list">
   <li class="checkbox-list__item"><strong>The company is impressed with you and has indicated they want you to join the team</strong>—Did they initiate contact with you and ask you to interview? Were you referred to them by a reliable employee? Have they said that they really want <em>you</em>, specifically, for this role? If any of these is true, you can check this off.</li>
@@ -65,13 +65,15 @@ If these things are true, then responding with silence may be the right move:
 
 Are all those things true for you? If they are, then this tactic may be good for your situation.
 
-## How to use silence when negotiating a lowball salary offer
+## How to negotiate a lowball salary offer
 
-You won't be _totally_ silent—you are going to say _something_—but you will be silent in terms of explicitly negotiating the job offer they made. Rather than counter offering their lowball job offer, you will give them the opportunity to improve the offer and reset the salary negotiation.
+Rather than counter offering their lowball job offer directly, you will give them the opportunity to improve the offer and reset the salary negotiation so you have more to work with.
 
-You'll do that with this short email template you can use to respond to a lowball job offer. First I'll share the email template, then I'll explain why it works.
+It's best to do that by sending a short email to let them know that the offer is disappointing while asking if they can improve the offer so you can consider it.
 
-<div class='sample-email'>
+{% include drip_forms/salary-negotiation-email-templates-content-upgrade.html template-description="the template to respond to a lowball offer using this technique" %}
+
+<!-- <div class='sample-email'>
 <p>
 	<strong><u>To:</u></strong> <strong>[Recruiter]</strong><br>
 	<strong><u>Subject:</u></strong> <strong>[Your name]</strong> - My thoughts on <strong>[name of person who made the offer]</strong>'s verbal offer
@@ -90,24 +92,22 @@ You'll do that with this short email template you can use to respond to a lowbal
 <strong>[Your email address]</strong></p>
 </div>
 
-Replace all the **[bold text in brackets]** with your own details and this template should give you a great starting point.
-
-<div class="inline-ad hidden"></div>
+Replace all the **[bold text in brackets]** with your own details and this template should give you a great starting point. -->
 
 ## How this works
 
 The company wants to bring you on board, so they're thinking "What do we have to offer to convince them to join our team?" They're probably thinking pretty narrowly—a little more salary, slightly better benefits, maybe a signing bonus.
 
-This email tells them "You need to think bigger if you want me to come on board." The second paragraph is key as it does two things:
+Your email tells them "You need to think bigger if you want me to come on board." Your email accomplishes this by doing two things:
 
 1. **It let's the company know you're "disappointed" with the job offer.** This is a diplomatic way of saying, "This job offer is no good. If you're trying to convince me to join the team, this is a miss."
-2. **It tells how to right the ship.** "...I want to be sure this move is a step forward in my career." In other words, "This offer _isn't_ a big enough step forward for me."
+2. **It tells how to right the ship.** Now that you've told them that you're disappointed, you'll tell them how to right the ship so you can consider their offer.
 
 Translation: "This lowball job offer hasn't convinced me to come on board. Want to try again?"
 
 ## Joe improved his lowball job offer by 30% without counter offering
 
-Joe sent a very similar email in response to his lowball job offer. We didn't hear anything for a day or so, but then he got a call from the recruiter he had been working with...
+Joe used this technique to respond to his lowball job offer. We didn't hear anything for a day or so, but then he got a call from the recruiter he had been working with...
 
 "Hi Joe, we agree that our job offer was a little underwhelming. So we went back to the drawing board and here's what we came up with..."
 
@@ -115,7 +115,7 @@ The new offer was still heavy on equity, but they increased it by 30% by adding 
 
 ## What happens next?
 
-This email will usually elicit one of two responses, and both are useful.
+This technique for negotiating a lowball job offer usually elicits one of two responses, and both are useful.
 
 They may say, "Ok, thanks for considering our job offer. We look forward to hearing your response." Essentially, they're letting you know that they're comfortable with that job offer and it's pretty close to as good as it's going to get. In this case, you would just proceed with your [standard counter offer]({{ site.baseurl }}/salary-negotiation-script/).
 
