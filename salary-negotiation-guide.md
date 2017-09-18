@@ -24,13 +24,27 @@ You might do this dozens of times throughout your career, but the salary negotia
 
 Use this salary negotiation guide to jump right to your current stage in the salary negotiation cycle and learn valuable strategies and tactics to get paid what you're worth by negotiating starting salary or asking for a raise.	
 
+## Quick overview: How to negotiate your starting salary
+
+Before we jump into the detailed process, let's start with a *very* broad overview of how to negotiate your salary.
+
+Salary negotiation starts early in the interview process, when you'll often be asked for your current salary or expected salary. Rule #1 of salary negotiation is this: Do not disclose your salary history or salary requirements. This can be uncomfortable, but it's your first opportunity to negotiate a much higher salary.
+
+Once they make an offer, you'll counter offer by sending a carefully written email that includes a strong case to support your counter offer. Typically, your counter offer will be 10–20% more than their offer, and you'll focus on your base salary at first.
+
+After you send your counter, you'll prepare a script ahead of the "Final Discussion", which is typically a 3–5 minute phone call where the recruiter or hiring manager responds to your counter offer and you hash out all the final details of your offer. This is your last chance to improve your compensation package before you decide whether to accept their offer.
+
+Finally, once you complete your negotiation and set a start date for your new role, you'll want to give your notice and wrap things up at your current company. This is an important step because you can bolster your reputation while building your network before you leave your current role.
+
+That's a high-level overview of the salary negotiation process. The rest of this guide is a step-by-step deep-dive to help you get the best results possible when negotiating your salary.
+
 ## <a name="currently-interviewing" class="below-nav">Currently interviewing - no job offer yet
 
-Or maybe you're *not* quite ready to get started? Maybe you're skeptical that negotiating salary actually works, or you're concerned about coming off as too aggressive or rubbing someone the wrong way.
+Just in case you're not quite ready to negotiate your salary—maybe you're skeptical that negotiating salary actually works, or you're concerned about coming off as too aggressive or rubbing someone the wrong way—let's start with *why* you should negotiate your salary.
+
+And why not have a little fun with it?
 
 ### 10 reasons you should *not* negotiate your salary
-
-So before we jump into *how* to negotiate your salary, let's start with *why* you should negotiate your salary. And why not have a little fun with it?
 
 <p class='u-center'><a href="/why-you-should-not-negotiate-your-salary/" target="_blank"><img src="/images/YoinkScreenCap.jpg" alt="10 reasons you should NOT negotiate your salary" style="display: block; width: 100%; max-width: 600px; margin: 0 auto;"/></a></p>
 
@@ -137,6 +151,14 @@ Once you've sent your counter offer, you should immediately begin preparing for 
 ### What non-salary benefits do you care most about?
 
 Most of the time, your goal will be to maximize your starting salary. But you may also want to negotiate for other non-salary benefits like vacation time, signing bonus, relocation stipend, or additional equity, and now is the time to choose your top three non-salary benefits to focus on.
+
+#### Should you negotiate for more equity or more base salary?
+
+Equity is a special case of a non-salary benefit where it might be particularly valuable or totally worthless. A good rule of thumb is that if you can put a value on the equity right now, then it might be worth negotiating. If you *cannot* put a value on it right now, then it's probably better to negotiate for other things with a known value.
+
+[Learn more about negotiating more equity instead of base salary →](/negotiate-equity-shares-instead-of-salary/){:class="guide-btn"}
+
+#### Prioritizing non-salary benefits
 
 Once you have identified your top three non-salary benefits, you have everything you need to plan for your Final Discussion.
 

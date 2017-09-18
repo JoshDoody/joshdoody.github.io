@@ -28,6 +28,11 @@ This is a big question that will be easier to answer as three smaller questions.
 
 Let's walk through a simple heuristic to help you decide if negotiating for more shares makes sense in your situation.
 
+<div class='guide-link'>
+<p><strong>How do you plan your salary negotiation once you decide whether to negotiate equity?</strong></p>
+<p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>
+</div>
+
 ## Does your job offer include shares or other equity?
 
 If there's not an equity component to your job offer, then shares probably aren't in play. If your offer includes some equity component—stock options, [Restricted Stock Units](http://www.investopedia.com/terms/r/restricted-stock-unit.asp) (RSUs) or other equity—then you probably *can* negotiate for more shares.
