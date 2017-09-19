@@ -7,7 +7,7 @@ tagline: Salary negotiation strategies and techniques for negotiating a job offe
 excerpt: A detailed salary negotiation guide for negotiating starting salary, getting a raise, and getting paid what you're worth throughout your career
 context: negotiate
 og-image: SalaryNegotiationGuide.png
-last_modified_at: 2017-09-05
+last_modified_at: 2017-09-19
 ---
 ## Where are you in the salary negotiation cycle?
 
@@ -158,7 +158,7 @@ Equity is a special case of a non-salary benefit where it might be particularly 
 
 [Learn more about negotiating more equity instead of base salary →](/negotiate-equity-shares-instead-of-salary/){:class="guide-btn"}
 
-#### Prioritizing non-salary benefits
+### Writing your salary negotiation script for the Final Discussion
 
 Once you have identified your top three non-salary benefits, you have everything you need to plan for your Final Discussion.
 
@@ -168,10 +168,6 @@ Here are all the inputs you need to write your salary negotiation script:
 * Your counter offer amount
 * Your minimum acceptable salary
 * Your top three non-salary benefits
-
-[Get a summary of your inputs for your salary negotiation script →](/salary-negotiation-script/){:class="guide-btn"}
-
-### Writing your salary negotiation script for the Final Discussion
 
 With those items ready to go, you can write the script you'll use for negotiating your salary on your final call with the recruiter or hiring manager. This is a *crucial* step for your salary negotiation for two reasons:
 
