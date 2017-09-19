@@ -34,6 +34,8 @@ Once they make an offer, you'll counter offer by sending a carefully written ema
 
 After you send your counter, you'll prepare a script ahead of the "Final Discussion", which is typically a 3–5 minute phone call where the recruiter or hiring manager responds to your counter offer and you hash out all the final details of your offer. This is your last chance to improve your compensation package before you decide whether to accept their offer.
 
+{% include drip_forms/salary-negotiation-email-templates-content-upgrade.html template-description="the baseline template to send your counter offer" %}
+
 Finally, once you complete your negotiation and set a start date for your new role, you'll want to give your notice and wrap things up at your current company. This is an important step because you can bolster your reputation while building your network before you leave your current role.
 
 That's a high-level overview of the salary negotiation process. The rest of this guide is a step-by-step deep-dive to help you get the best results possible when negotiating your salary.
