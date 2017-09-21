@@ -99,8 +99,6 @@ Sometimes, you'll get the job offer via email and you can just respond to that e
 <strong>[Your email address]</strong></p>
 </div> -->
 
-
-
 <!-- <div class="inline-ad hidden"></div> -->
 
 ## Evaluate the job offer
