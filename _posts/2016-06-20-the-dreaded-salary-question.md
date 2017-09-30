@@ -34,8 +34,6 @@ So when you hear the salary requirements question, you'll be thinking "What do I
 
 This is a detailed article, so you can use this table of contents to jump ahead if you already know what you're looking for!
 
-[Learn what to once you get past the current and expected salary question →](/salary-negotiation-guide/)
-
 **Article contents**
 
  * [Current salary question - what to expect](#current-salary-question){:data-template="Current salary question"}{:data-action="Current and expected salary section"}
