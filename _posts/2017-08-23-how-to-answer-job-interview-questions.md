@@ -4,9 +4,7 @@ title: How to answer “Why should we hire you?” and other questions
 tagline: Connecting your professional super powers to employers' desired business outcomes to get more high-quality job offers
 excerpt: How to say why you're the best candidate and answer the toughest interview questions with a straightforward, repeatable process.
 context: interview
-last_modified_at: 2017-09-12
-extra_js:
-  - template_requested.js
+last_modified_at: 2017-10-06
 ---
 You're ready to make a change, so you throw your hat in the ring for a few opportunities that look interesting. You quickly get a couple of calls to set up interviews, talk to a couple of hiring managers, and...you don't hear back.
 
@@ -20,9 +18,17 @@ This is almost always a sign that the you need better *positioning*.
 
 ## <a name="positioning-definition" class="below-nav">"What is positioning?"
 
-Positioning is how you describe yourself as the hero this company needs, turning your skillset and experience into superpowers by matching them with the outcomes the business wants.
+Your job interviews are a part of your negotiation. The better you perform, the better your offer will be *and* the better you'll be able make your case when you begin the formal salary negotiation.
 
-Let's start with an example you may have experienced: Your sink is clogged and that's a big problem because you have friends coming over for dinner later on.
+Every question you're asked is a chance to move them in this direction. Imagine you have a power meter that fills up a little more every time you give a great answer to an interview question. The more full that power meter is when they make you an offer, the better the offer will be.
+
+Once you get into your interviews your job is to change the company's thinking from "What's the minimum we can offer this candidate to get them into this role?" to "What's it going to take to convince this candidate to take this job?"
+
+See the difference? You want to shift their thinking from "What's the minimum salary we can offer?" to "What's it going to take?"
+
+**Positioning is how you describe yourself as the hero this company needs, turning your skillset and experience into superpowers by matching them with the outcomes the business wants.**
+
+Let's illustrate this with an example you may have experienced: Your sink is clogged and that's a big problem because you have friends coming over for dinner later on.
 
 You've tried all the normal tricks to get it unclogged, but it's *really* clogged and you can't seem to make any progress. It's time to call a plumber.
 
@@ -120,7 +126,7 @@ In general, bigger companies will have more information available than smaller c
 ## <a name="answering-questions" class="below-nav">Using your research to answer interview questions
 
 
-Last time, you got a short list of things to look for as you discover exactly what the company needs. Most of the information is publicly available, and some companies will have more information than others. But that's ok because you just need basic information to get through the first interview or two.
+Use the short list of above to discover exactly what the company needs. Most of the information is publicly available, and some companies will have more information than others. But that's ok because you just need basic information to get through the first interview or two.
 
 **How can you help them achieve their goals and address their pain points?**
 
@@ -142,7 +148,15 @@ Let's go back to the very beginning. The question we're considering is:
 
 Most people are intimidated by this question because it's so vague and open-ended. Usually, they'll say something like, "Because I'm a software developer."
 
-*But that's not good enough.*
+A more experienced interviewer might say something like:
+
+> "I've been in this industry for 10 years, and I worked on a major project for ACME Corp and carried a lot of responsibility there. I also have experience managing teams and I have published five white papers on various topics."
+
+But look at who this candidate is talking about: I've, I, I, I.
+
+*That's not good enough.*
+
+Don't just talk about yourself. Talk about how you can help the company achieve its goals or address its pain points. You'll still say "I", but you'll say it in the context of "you".
 
 This is a softball question, the perfect setup for you to tell them how you'll help them meet one of their goals or resolve a challenge they're having! Take advantage of it!
 
@@ -179,11 +193,15 @@ This is also true when companies hire people. They have a range they're able to 
 
 ### Another look at our Software Developer example from earlier
 
-Before we wrap up, let's jump back to the software developer example we saw in the first part of the series. Now that you know how to use positioning to answer interview questions, see if you can spot the need and how the developer describes the solution when asked "Why should we hire you?"
+Before we wrap up, let's jump back to the software developer example we saw earlier. Now that you know how to use positioning to answer interview questions, see if you can spot the need and how the developer describes the solution when asked "Why should we hire you?"
 
 > “You’re transitioning your application to Ruby on Rails, and I’ve been using Ruby on Rails for production client projects for two years. I can save your team a lot of time because I can start writing production code right away.”
 
-Do you see it now? The most urgent need this developer identified was a big transition to a new technology. The developer could directly help address that need because he had a few years' experience with that specific technology.
+You're, your, I've, I, your, I.
+
+Do you see it now? This answer is much more focused on the company and their needs.
+
+The most urgent need this developer identified was a big transition to a new technology. The developer could directly help address that need because he had a few years' experience with that specific technology.
 
 All he had to do was tell the interviewer how he could help meet that need.
 
