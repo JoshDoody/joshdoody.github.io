@@ -7,8 +7,6 @@ excerpt: Watch out for these red flags before you accept a job offer.
 context: negotiate
 last_modified_at: 2017-10-06
 ---
-This might be a little ranty - sorry about that.
-
 You've probably heard me say that you should not disclose your current or expected salary when asked for it during your job interviews or salary negotiations. If you haven't (or even if you have), you should bookmark this guide:
 
 [How to answer the current or expected salary question](https://fearlesssalarynegotiation.com/the-dreaded-salary-question/)
