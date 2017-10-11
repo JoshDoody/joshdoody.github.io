@@ -8,11 +8,12 @@ metatags: noindex
 sitemap: false
 ---
 <div class="container container--normal">
-  <h2 class='section-heading' id="#sell-more">Your free extras to accompany <em>Fearless Salary Negotiation</em>.</h2>
-  <p>Where should I send your free extras? Please tell me by completing the form below, and I'll send them right away!</p>
+	{% include /drip_forms/extras.html %}
+  
+	<h2 class='section-heading' id="#sell-more">Your free extras to accompany <em>Fearless Salary Negotiation</em>.</h2>
+  <p>Where should I send your free extras? Please tell me by completing the form above, and I'll send them right away!</p>
   <p>Thanks for reading <em>Fearless Salary Negotiation</em>!</p>
 	<p>—Josh</p>
-	{% include /drip_forms/extras.html %}
 	
 	{% include testimonials/josh_kaufman.html %}
 </div>
