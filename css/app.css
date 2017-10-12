@@ -2125,24 +2125,20 @@ a.close-slider {
 }
 
 #modal-ad .modal {
+	display: block;
+	overflow: auto;
 	width: 600px;
-	height: 500px;
 	background-color: #f0f1f2;
 	z-index: 25;
 	position: fixed;
 	margin: auto;
-	top: 0;
+	top: 80px;
 	right: 0;
-	bottom: 0;
 	left: 0;
 	border-radius: 4px;
 	box-shadow: 0px 0px 5px #888;
 	-webkit-animation: popin 0.3s;
 	animation: popin 0.3s;
-}
-
-#modal-ad .modal.modal-frc {
-	height: 440px;
 }
 
 #modal-ad .modal-title {
@@ -2157,21 +2153,13 @@ a.close-slider {
 
 #modal-ad h2 {
 	color: #fff;
-	font-size: 1.7em;
 	margin: 0.2em;
 	text-transform: uppercase;
 	font-weight: bold;
-	line-height: 1.4;
 }
 
 #modal-ad .modal-body {
 	padding: 20px 35px;
-	font-size: 0.9em;
-}
-
-#modal-ad p, #modal-ad ul, #modal-ad ol {
-	color: #344a5f;
-	line-height: 1.5em;
 }
 
 #modal-ad .modal-body .more-info {
@@ -2188,6 +2176,7 @@ a.close-slider {
 
 #modal-ad .modal-dismiss {
 	margin-top: 15px;
+	margin-bottom: 0px;
 	font-size: 1em !important;
 }
 
@@ -2217,6 +2206,80 @@ a.close-slider {
 
 #modal-ad .cta-btn[data-cta-label="sit-modal"], #modal-ad .cta-btn[data-cta-label="frc-modal"] {
   background: #50b432;
+}
+
+/* Modal forms */
+
+.modal form label {
+	display: none;
+}
+
+.modal form input[type="text"], .modal form input[type="email"] {
+	font-size: 18px;
+	padding: 10px 8px;
+	width: 49%;
+	border: 1px solid #d6d6d6; /* stroke */
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px; /* border radius */
+  border: 1px solid #aaa;
+	background-color: #fff; /* layer fill content */
+	height: auto;
+	float: left;
+	margin: 0px;
+	margin-bottom: 5px;
+	height: 42px;
+}
+
+.modal form input[type="text"] {
+	margin-right: 2%;
+}
+
+.modal form input[type="email"] {
+	margin-right: 0;
+}
+
+.modal form input[type] {
+	margin-top: 10px;
+}
+
+.modal form input[type="text"]:focus, .modal form input[type="email"]:focus {
+	outline: none;
+	border-color: #888;
+}
+
+.modal form input[type="submit"] {
+  width: 100%;
+  color: #fff;
+  padding:  9px 0px;
+  font-size: 18px;
+	font-weight: bold;
+  background: #F37021;
+  border: none;
+	border-radius: 5px; /* border radius */
+	border-bottom: 3px solid #D15F00;
+  cursor: pointer;
+  text-shadow: none;
+  height: 42px;
+}
+
+.modal form input[type="submit"][data-cta-label="snt-modal"] {
+  background: #00A9FF;
+	border-bottom: 3px solid #006599;
+}
+
+.modal form input[type="submit"]:hover {
+  background: #EC6B00;
+}
+
+.modal form input[type="submit"]:active {
+    border-bottom: none;
+    position: relative;
+    top: 3px;
+}
+
+.modal form input[type="submit"][data-cta-label="snt-modal"]:hover {
+  background: #0099E6;
 }
 
 /* inline ads with ctas */

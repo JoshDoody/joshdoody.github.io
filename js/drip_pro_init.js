@@ -15,7 +15,7 @@ window.drip_plinko = function(drip, page) {
 		} else if (context == 'negotiate') {
 			response = {
 				offer: 'salary-negotiation-templates',
-				modal: drip.file('salary-negotiation-templates-modal'),
+				modal: drip.file('salary-negotiation-templates-modal-with-form'),
 				footer: drip.file('salary-negotiation-templates-footer'),
 				inline: drip.file('salary-negotiation-templates-inline')
 			}
@@ -165,6 +165,7 @@ jQuery(function(){
 		    jQuery('body').append(dom)
 				
 				var ga_event_label = dom.find('#modal-cta').data("event-label")
+
 				var modal_fired = false
 				var modal_dismissed = false
 				
@@ -220,7 +221,7 @@ jQuery(function(){
 				
 				// Set up a handler for the Click event on the modal ad
 				var modal_cta_link = document.getElementById('modal-cta');
-				var modal_click_event_label = modal_cta_link.dataset.eventLabel;
+				var modal_click_event_action = modal_cta_link.dataset.eventAction;
 
 				var ModalCTAClickHandler = function(event) {
 				  // Prevents the browser from clicking the link
@@ -248,7 +249,7 @@ jQuery(function(){
 					ga('send', {
 						hitType: 'event',
 						eventCategory: 'Modal',
-						eventAction: 'Click ad',
+						eventAction: modal_click_event_action,
 						eventLabel: ga_event_label,
 						nonInteraction: 1
 					});
