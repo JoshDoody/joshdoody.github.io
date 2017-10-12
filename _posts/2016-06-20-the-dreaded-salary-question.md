@@ -99,7 +99,7 @@ If you underestimate what they're willing to pay, you're leaving money on the ta
 
 The one thing that might save you is when you guess so badly that you under-shoot the minimum salary they can pay you to do the job. For example, you might tell them your expected salary is $65,000, but the minimum they pay for that job is $70,000. Then they would pay you $70,000 even though you "only" asked for $65,000—a huge win! Except they're paying you the absolute minimum salary they possibly can, and you could've gotten a lot more.
 
-If you *over*estimate and tell them your salary expectation is $85,000, you may set off red flags that cause them to rethink the interview process altogether. This is pretty rare, but you could disqualify yourself by being "too expensive" for them. If your expected salary is well above their budgeted pay range, they may just move on to other similar candidates with lower salary expectations.
+If you *over*-estimate and tell them your salary expectation is $85,000, you may set off red flags that cause them to rethink the interview process altogether. This is pretty rare, but you could disqualify yourself by being "too expensive" for them. If your expected salary is well above their budgeted pay range, they may just move on to other similar candidates with lower salary expectations.
 
 The bottom line is you probably aren’t going to guess what their [salary structure]({{ site.baseurl }}/book/salary-structures/what-is-a-salary-structure/) looks like, and if you try to guess you’ll cost yourself a lot of money.
 
@@ -107,9 +107,9 @@ This sounds pretty bad, right?
 
 But wait! It gets *even worse*!
 
-<div class='ad-box' data-offer-plinko="optional">
+<!-- <div class='ad-box' data-offer-plinko="optional">
 	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to current and desired salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get the free Interview Cheat Sheet</a></p>
-</div>
+</div> -->
 
 ## The "real" salary they're willing to pay could increase throughout your interview
 
@@ -184,37 +184,67 @@ Here's a short video with the basics of how to respond when asked for your salar
 
 Let's break this down into two parts: "What's your current salary?" and "What's your expected salary?"
 
+TKTK_AD
+
 ## <a name="current-salary-answer" class="below-nav">How to answer the "What's your current salary?" interview question
 
-For the "current salary" part of the question, I recommend answering something like this:
+<!-- For the "current salary" part of the question, I recommend answering something like this:
 
-> "I’m not really comfortable sharing that information. I would prefer to focus on the value I can add to this company and not what I’m paid at my current job."
+> "I’m not really comfortable sharing that information. I would prefer to focus on the value I can add to this company and not what I’m paid at my current job." -->
+	
+For the "current salary" part of the question, I recommend simply telling the recruiter or hiring manager that you're not comfortable sharing your salary history. Sometimes it's best to be direct.
  
 It’s true that they may do some digging and put together a good educated guess as to what you’re making anyway, but maybe they won’t. If they don’t know what you're currently making, that makes it more difficult for them to base an offer on your current salary, and that’s probably going to mean a higher initial offer for you. 
 
 It also means that their eventual offer will need to reflect both your [market value]({{ site.baseurl }}/book/value/market-value-overview/) and the value you’ll add to the company without being biased by your current salary.
 
+TKTK_AD
+
 ## <a name="expected-salary-answer" class="below-nav">How to answer the "What's your expected salary?" interview question
  
-My pat answer to the "what are you looking for" part of the salary expectations question is this:
+<!-- My pat answer to the "what are you looking for" part of the salary expectations question is this:
 
-> "I want this move to be a big step forward for me in terms of both responsibility and compensation."
+> "I want this move to be a big step forward for me in terms of both responsibility and compensation." -->
+	
+Let's turn to the "expected salary" part of the question. As we discussed earlier, it's not in your best interest to guess what they might pay you for this role. But this could be a good opportunity to signal that you would be a great addition to their team if the opportunity and pay are right for you.
+	
+Answer the "what are you looking for" part of the salary expectations question by explaining that you want this to be a big step forward for your career. After all, that's a primary reason most people change jobs—they can't find a way to take that next step at their current job.
 
-This answer demonstrates that you want to contribute to the company by taking on additional responsibilities and that you want to be well compensated for those contributions.
+This lets them know that you're not simply looking to anonymously collect a paycheck. Instead, you want to grow and help their company grow. 
+
+You should also emphasize that you want to contribute to the company by taking on additional responsibilities relative to your current role and that you hope to be well compensated for those contributions.
+
+This way, you avoid guessing at their pay range for this role *and* you use this as an opportunity to let them know that you want to be a key contributor to their team.
+
+TKTK_AD
 
 ## <a name="combined-answer" class="below-nav">How to answer the "What's your current and expected salary?" interview question
 
-Here is my recommendation for a good answer to the full version of this question: 
+<!-- Here is my recommendation for a good answer to the full version of this question:
 
-> "I’m not comfortable sharing my current salary. I would prefer to focus on the value I can add to this company rather than what I’m paid at my current job. I don’t have a specific number in mind for a desired salary, and you know better than I do what value my skillset and experience could bring to your company. I want this move to be a big step forward for me in terms of both responsibility and compensation."
+> "I’m not comfortable sharing my current salary. I would prefer to focus on the value I can add to this company rather than what I’m paid at my current job. I don’t have a specific number in mind for a desired salary, and you know better than I do what value my skillset and experience could bring to your company. I want this move to be a big step forward for me in terms of both responsibility and compensation." -->
+
+Now that we've covered the basics of how to respond when asked for your salary history or salary expectations, let's summarize the main points you want to emphasize while simultaneously *not* disclosing your current or expected salary.
+
+Wen they ask you for your current *and* expected salary, you should communicate the following:
+
+ * You're not comfortable sharing your salary history.
+ * You prefer to focus on the value you can add to this company in the role you're interviewing for.
+ * You want this to be a big step forward for your career.
+ * You want to contribute to the company by taking on more responsibility than you currently have.
+ * You want the additional responsibility to lead to better compensation.
+ 
+Here's what your answer my look like when they ask you for your current or expected salary:
 
 <p class='u-center'><a href="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" target="_blank"><img src="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" alt="The current and expected salary question" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
 
-<div class='ad-box' data-offer-plinko="optional">
+<!-- <div class='ad-box' data-offer-plinko="optional">
 	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to current and expected salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get the free Interview Cheat Sheet</a></p>
-</div>
+</div> -->
 
-So let's say that you're playing a game, and your goal is to get past the salary expectations without sharing your salary requirements. This is Level 1, and the script I just gave you will usually win the game.
+TKTK_AD
+
+So let's say that you're playing a game, and your goal is to get past the salary expectations questions without sharing your salary requirements. This is Level 1, and the recommendations I just gave you will usually win the game.
 
 ## <a name="when-they-ask-again" class="below-nav">What if they ask again?
 
@@ -230,9 +260,9 @@ But! Sometimes you complete Level 1 and the game doesn't end. Instead, you move 
 
 > "We can't move forward without this information."
 
-The first thing to try is just repeating that you're not comfortable answering these questions:
+The first thing to try is just repeating that you're not comfortable answering these questions while emphasizing you want this to be a big step forward for your career.
 
-> "I'm just not comfortable discussing my current or expected salary. I prefer to focus on the value I can add in this position, and I look forward to hearing what you think is appropriate."
+<!-- > "I'm just not comfortable discussing my current or expected salary. I prefer to focus on the value I can add in this position, and I look forward to hearing what you think is appropriate." -->
 
 Sometimes that will work because they were willing to take one more pass at getting you to share your salary requirements. But what if *that* doesn't work and they *insist* on getting this information?
 
@@ -244,7 +274,7 @@ You may have gotten this far just because you believe I know what I'm talking ab
 
 **I take off my "author" hat and put on my "coach" hat**
 
-Let me emphasize that sharing your current salary or your expected salary *is not in your best interest*. Those two pieces of information—your salary expectations—are two of three unique pieces of information you have:
+Let me emphasize that sharing your current salary or your expected salary *is not in your best interest*. Those two pieces of information—your salary history and salary expectations—are two of three unique pieces of information you have:
 
 1. Your current salary
 2. Your expected salary
@@ -282,9 +312,11 @@ That's bad news for you even if you get the job. Do you really want to work some
 
 I can't answer that question for you, but I can tell you my answer: "Nope."
 
-<div class='ad-box' data-offer-plinko="optional">
+<!-- <div class='ad-box' data-offer-plinko="optional">
 	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to the current and expected salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get the free Interview Cheat Sheet</a></p>
-</div>
+</div> -->
+
+TKTK_AD
 
 ## <a name="when-they-insist" class="below-nav">What if *insist*?
 
@@ -296,13 +328,15 @@ By now they've probably either implied or straight-out said something like this:
 
 Nobody likes wasting time, and you especially don't want to waste someone's time when they might be the gatekeeper for a great job opportunity, right? So you're inclined to just give them what they need and get on with the interviews.
 
-Instead, I recommend a little conversational Judo—use the reason they gave for asking *again* as your own leverage. Here's how:
+Instead, I recommend a little conversational Judo—use the reason they gave for asking *again* as your own leverage.
 
-> "It sounds like you're trying to qualify me for a salary range. If you want to tell me what that range is, I'm happy to tell you if it's in the ballpark."
+<!-- Here's how:
 
-They claim they need to qualify you for a salary range, but they are also asking you to give up one of your precious pieces of information to do that. Instead of sharing your salary expectations, just ask them for the range.
+> "It sounds like you're trying to qualify me for a salary range. If you want to tell me what that range is, I'm happy to tell you if it's in the ballpark." -->
 
-The nice thing about the way I've worded this script is that you're not actually committing to accepting a job offer in that salary range. You're saying it's "in the ballpark". This matters because you still have full latitude to negotiate your compensation later on once they finally make you an offer.
+They claim they need to qualify you for a salary range, but they are also asking you to give up one of your precious pieces of information to do that. Instead of sharing your salary expectations, just ask them for the range so you can tell them whether it's in the ballpark of what you would consider.
+
+The nice thing about this tactics is that you're not actually committing to accepting a job offer in that salary range. You're simply confirming whether or not the range they have in mind "in the ballpark" of what you would consider. This matters because you still have full latitude to negotiate your compensation later on once they finally make you an offer.
 
 (Yes, this is a semantic argument. This is about the the diciest semantic argument you'll hear me make.)
 
@@ -314,11 +348,19 @@ I already covered why I think this is silly, so let's just cut to the chase: **H
 
 This is Level 3. It's the last level in the game. You've told them you're uncomfortable sharing your salary expectations, and they persisted. You've told them you're happy to confirm if the range they've budgeted is in the ballpark of what compensation you'll consider, and they persisted. 
 
-There aren't many options left, but this one is very effective. Here we go:
+<!-- There aren't many options left, but this one is very effective. Here we go:
 
-> "I'm not comfortable sharing my current employer's proprietary compensation information, and I know they wouldn't appreciate it if I did. I still work for them, and I'm just not comfortable sharing their proprietary information about how they pay people like me. I really don't have a specific number in mind for an expected salary, and I look forward to hearing what you suggest."
+> "I'm not comfortable sharing my current employer's proprietary compensation information, and I know they wouldn't appreciate it if I did. I still work for them, and I'm just not comfortable sharing their proprietary information about how they pay people like me. I really don't have a specific number in mind for an expected salary, and I look forward to hearing what you suggest." -->
 
-This is a heavy-handed answer, but it's necessary because of the situation. You're basically saying, "I have ethical qualms with giving you the compensation information you're demanding." This has the advantage of putting the pressure back on the recruiter, who now has a clear Catch-22 if they continue to press: They're asking you do something you see as unethical to move forward, but they probably don't want to hire someone unethical.
+There aren't many options left, so what can you say?
+
+Tell them you're not comfortable sharing your current employer's proprietary information about how they compensate people. Then reiterate that you don't have a specific salary in mind for this new role and you look forward to considering an offer if they decide to extend one.
+
+This is a pretty heavy-handed answer, but that's what's necessary because of the situation.
+
+If you tell them you have ethical qualms with giving them the compensation information you're demanding, that will make it very difficult for them to continue. This has the advantage of putting the pressure back on the recruiter, who now has a clear Catch-22 if they continue to press: They're asking you do something you see as unethical to move forward, but they probably don't want to hire someone unethical.
+
+TKTK_AD
 
 If they *still* press after this answer, I'm all out of ideas because I've never seen anyone fail to complete the game with this script.
 
@@ -386,17 +428,21 @@ Recruiters spend most of their time finding candidates, and scheduling interview
 
 But your experience is different—you're probably interviewing for just one or two jobs. It might be a little inconvenient if you sit through four or five interviews and get an offer that doesn't meet your [minimum acceptable salary]( {{site.baseurl }}/minimum-acceptable-salary/), but that's a pretty small investment to find a good job. And since you only change jobs every couple of years or so, this is an investment you'll make only occasionally.
 
-So this is *their* problem, not *yours*, and they can solve it easily enough. Here's my recommendation if a recruiter tells you they don't want to waste your time on interviews if your expected salary doesn't fit their hiring budget:
+So this is *their* problem, not *yours*, and they can solve it easily enough. How? They can simply tell you the salary range available for the job they're trying to fill.
 
-> "It sounds like you're trying to qualify me for a salary range. If you want to tell me what that range is, I'm happy to tell you if it's in the ballpark."
+<!-- Here's my recommendation if a recruiter tells you they don't want to waste your time on interviews if your expected salary doesn't fit their hiring budget:
 
-As I mentioned earlier, this answer doesn't box you in to accepting a job offer in that salary range. You're just saying it's "in the ballpark", so you still have full latitude to negotiate your compensation when they finally make you an offer.
+> "It sounds like you're trying to qualify me for a salary range. If you want to tell me what that range is, I'm happy to tell you if it's in the ballpark." -->
+
+As I mentioned earlier, even if you tell them the range is something you would consider if offered, that doesn't box you in to accepting a job offer in that salary range. You're just saying it's "in the ballpark", so you still have full latitude to negotiate your compensation when they finally make you an offer.
 
 If they're serious about respecting everyone's time, then they'll tell you the range so you can confirm it's in the ballpark. And if they won't share a range, then it's clear they're simply trying to gain information to benefit them during your salary negotiation later on.
 
-<div class='ad-box'>
+<!-- <div class='ad-box'>
 	<p>For a different perspective on these interview questions, Penelope Trunk's succinct and direct responses are fantastic: <a href="http://blog.penelopetrunk.com/2008/02/19/the-answer-to-the-toughest-interview-question/" target="_blank">The answer to the toughest interview question</a></p>
-</div>
+</div> -->
+
+TKTK_AD
 
 ## <a name="already-shared-current-salary" class="below-nav">How to recover if you've already disclosed your current salary
 
@@ -437,7 +483,7 @@ You got a job offer, and felt great because it was more than you were currently 
 
 Nope, it's not a coincidence 😕
 
-Once you get this far, it's much harder to recover and drastically improve your offer. But you have a couple options based on your own assessment of your [minimum acceptable salary(/minimum-acceptable-salary/):
+Once you get this far, it's much harder to recover and drastically improve your offer. But you have a couple options based on your own assessment of your [minimum acceptable salary](/minimum-acceptable-salary/):
 
  1. If a counter of 10-20% above their offer is above your minimum acceptable salary, then that's your best move. You could negotiate more than your minimum or you can fall back to your minimum as your line in the sand (your walk away number).
  2. If that won't work, you can use this [technique to negotiate a lowball job offer](/how-to-negotiate-a-lowball-job-offer/)—ask them if they can make improvements to the offer so you can consider them. This is your way of letting them know that they need to switch their thinking from "minimum" to "most convincing".
@@ -473,25 +519,33 @@ Here's salary expectations question again:
 
 ### Level 1 answer
 
-> "I’m not comfortable sharing my current salary. I would prefer to focus on the value I can add to this company rather than what I’m paid at my current job. I don’t have a specific number in mind for a desired salary, and you know better than I do what value my skillset and experience could bring to your company. I want this move to be a big step forward for me in terms of both responsibility and compensation."
+<!-- > "I’m not comfortable sharing my current salary. I would prefer to focus on the value I can add to this company rather than what I’m paid at my current job. I don’t have a specific number in mind for a desired salary, and you know better than I do what value my skillset and experience could bring to your company. I want this move to be a big step forward for me in terms of both responsibility and compensation."
 
 If they keep pushing after that longer answer, you can shorten it up and try again:
 
-> "I'm just not comfortable discussing my current or expected salary. I prefer to focus on the value I can add in this position, and I look forward to hearing what you think is appropriate."
+> "I'm just not comfortable discussing my current or expected salary. I prefer to focus on the value I can add in this position, and I look forward to hearing what you think is appropriate." -->
+
+Sometimes it's best to be direct: Tell them you're not comfortable sharing your salary history and emphasize that you want this move to be a big step forward in your career. 
 
 ### Level 2 answer
 
-If the Level 1 answer doesn't quite work, it's time to move on to Level 2, which requires a slightly more sophisticated answer:
+If the Level 1 answer doesn't quite work, it's time to move on to Level 2, which requires a slightly more sophisticated answer. They'll often explain that the reason they need this information is to make sure your expectations are in line with their budget.
 
-> "It sounds like you're trying to qualify me for a salary range. If you want to tell me what that range is, I'm happy to tell you if it's in the ballpark."
+So a good tactic is to ask them for the range so you can tell them whether it’s in the ballpark of what you would consider. You're not committing to accept an offer if it's in the ballpark—just letting them know you'll entertain it.
+
+<!-- > "It sounds like you're trying to qualify me for a salary range. If you want to tell me what that range is, I'm happy to tell you if it's in the ballpark." -->
 
 And if *that* doesn't work, you can reach for the trump card—the Level 3 answer...
 
 ### Level 3 answer
 
-> "I'm not comfortable sharing my current employer's proprietary compensation information, and I know they wouldn't appreciate it if I did. I still work for them, and I'm just not comfortable sharing their proprietary information about how they pay people like me. I really don't have a specific number in mind for an expected salary, and I look forward to hearing what you suggest."
+<!-- > "I'm not comfortable sharing my current employer's proprietary compensation information, and I know they wouldn't appreciate it if I did. I still work for them, and I'm just not comfortable sharing their proprietary information about how they pay people like me. I really don't have a specific number in mind for an expected salary, and I look forward to hearing what you suggest." -->
+
+Tell them you’re not comfortable sharing your current employer’s proprietary information about how they compensate people. Then reiterate that you don’t have a specific salary in mind for this new role and you look forward to considering an offer if they decide to extend one.
 
 That should enable you to move on to the actual job interviews.
+
+TKTK_AD
 
 ### How to handle paper and online job applications
 
@@ -505,9 +559,11 @@ Don't share them. This isn't any of their business.
 
 ### What to say when recruiters ask for your salary expectations to save time
 
-They're either trying to save time, or they're trying to gather information to give them an advantage later on when you negotiate. If they're genuinely trying to save time, then this answer should get you through:
+They're either trying to save time, or they're trying to gather information to give them an advantage later on when you negotiate. If they're genuinely trying to save time, then you can offer to confirm that the range they have in mind is something you would consider. 
 
-> "It sounds like you're trying to qualify me for a salary range. If you want to tell me what that range is, I'm happy to tell you if it's in the ballpark."
+<!-- If they're genuinely trying to save time, then this answer should get you through:
+
+> "It sounds like you're trying to qualify me for a salary range. If you want to tell me what that range is, I'm happy to tell you if it's in the ballpark." -->
 
 ### How to recover when you already shared your current salary
 
@@ -527,4 +583,4 @@ Look for new information you can incorporate into your negotiation. For example,
 
 Next time you're asked for your current salary or desired in a job interview, use these word-for-word scripts to avoid disclosing that information and get back to the interview process. This strategy will leave the salary expectations question open longer, allowing you to impress them more so you have more leverage during your salary negotiation.
 
-<div class="inline-ad hidden"></div>
+TKTK_AD
