@@ -57,7 +57,7 @@ Learn more about my coaching offering here: [Expert Salary Negotiation Coaching]
 
 {% include testimonials/vanessa_m.html %} 
 
-<!-- {% include testimonials/melissa_s.html %} -->
+{% include testimonials/cynthia.html %}
 
 ## <a name="fsn" class="below-nav">*Fearless Salary Negotiation*
 
