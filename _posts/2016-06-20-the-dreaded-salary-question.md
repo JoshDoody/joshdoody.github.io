@@ -4,7 +4,7 @@ title: How to answer the “What’s your current or expected salary?” questio
 tagline: Word-for-word scripts to avoid making one of the most expensive interview mistakes
 excerpt: Word-for-word scripts to avoid sharing your current salary or expected salary when asked for your current compensation or salary expectations in an interview
 og-image: DreadedSalaryQuestion.png
-context: interview
+context: salary-questions
 last_modified_at: 2017-08-29
 extra_js:
   - template_requested.js
@@ -184,7 +184,7 @@ Here's a short video with the basics of how to respond when asked for your salar
 
 Let's break this down into two parts: "What's your current salary?" and "What's your expected salary?"
 
-TKTK_AD
+{% include drip_forms/salary-question-scripts-content-upgrade.html %}
 
 ## <a name="current-salary-answer" class="below-nav">How to answer the "What's your current salary?" interview question
 
@@ -198,7 +198,7 @@ It’s true that they may do some digging and put together a good educated guess
 
 It also means that their eventual offer will need to reflect both your [market value]({{ site.baseurl }}/book/value/market-value-overview/) and the value you’ll add to the company without being biased by your current salary.
 
-TKTK_AD
+{% include drip_forms/salary-question-scripts-content-upgrade.html %}
 
 ## <a name="expected-salary-answer" class="below-nav">How to answer the "What's your expected salary?" interview question
  
@@ -216,7 +216,7 @@ You should also emphasize that you want to contribute to the company by taking o
 
 This way, you avoid guessing at their pay range for this role *and* you use this as an opportunity to let them know that you want to be a key contributor to their team.
 
-TKTK_AD
+{% include drip_forms/salary-question-scripts-content-upgrade.html %}
 
 ## <a name="combined-answer" class="below-nav">How to answer the "What's your current and expected salary?" interview question
 
@@ -242,7 +242,7 @@ Here's what your answer my look like when they ask you for your current or expec
 	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to current and expected salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get the free Interview Cheat Sheet</a></p>
 </div> -->
 
-TKTK_AD
+{% include drip_forms/salary-question-scripts-content-upgrade.html %}
 
 So let's say that you're playing a game, and your goal is to get past the salary expectations questions without sharing your salary requirements. This is Level 1, and the recommendations I just gave you will usually win the game.
 
@@ -316,7 +316,7 @@ I can't answer that question for you, but I can tell you my answer: "Nope."
 	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to the current and expected salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get the free Interview Cheat Sheet</a></p>
 </div> -->
 
-TKTK_AD
+{% include drip_forms/salary-question-scripts-content-upgrade.html %}
 
 ## <a name="when-they-insist" class="below-nav">What if *insist*?
 
@@ -360,7 +360,7 @@ This is a pretty heavy-handed answer, but that's what's necessary because of the
 
 If you tell them you have ethical qualms with giving them the compensation information you're demanding, that will make it very difficult for them to continue. This has the advantage of putting the pressure back on the recruiter, who now has a clear Catch-22 if they continue to press: They're asking you do something you see as unethical to move forward, but they probably don't want to hire someone unethical.
 
-TKTK_AD
+{% include drip_forms/salary-question-scripts-content-upgrade.html %}
 
 If they *still* press after this answer, I'm all out of ideas because I've never seen anyone fail to complete the game with this script.
 
@@ -442,7 +442,7 @@ If they're serious about respecting everyone's time, then they'll tell you the r
 	<p>For a different perspective on these interview questions, Penelope Trunk's succinct and direct responses are fantastic: <a href="http://blog.penelopetrunk.com/2008/02/19/the-answer-to-the-toughest-interview-question/" target="_blank">The answer to the toughest interview question</a></p>
 </div> -->
 
-TKTK_AD
+{% include drip_forms/salary-question-scripts-content-upgrade.html %}
 
 ## <a name="already-shared-current-salary" class="below-nav">How to recover if you've already disclosed your current salary
 
@@ -545,7 +545,7 @@ Tell them you’re not comfortable sharing your current employer’s proprietary
 
 That should enable you to move on to the actual job interviews.
 
-TKTK_AD
+{% include drip_forms/salary-question-scripts-content-upgrade.html %}
 
 ### How to handle paper and online job applications
 
@@ -583,4 +583,4 @@ Look for new information you can incorporate into your negotiation. For example,
 
 Next time you're asked for your current salary or desired in a job interview, use these word-for-word scripts to avoid disclosing that information and get back to the interview process. This strategy will leave the salary expectations question open longer, allowing you to impress them more so you have more leverage during your salary negotiation.
 
-TKTK_AD
+{% include drip_forms/salary-question-scripts-content-upgrade.html %}
