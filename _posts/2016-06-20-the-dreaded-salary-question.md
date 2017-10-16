@@ -9,6 +9,8 @@ last_modified_at: 2017-08-29
 extra_js:
   - template_requested.js
 ---
+{% include drip_forms/salary-question-scripts-content-upgrade.html %}
+
 You've been job hunting for a while, and you finally hear back about a job you really want. The recruiter reaches out and asks if you're free to chat for a few minutes so they can ask you a few questions. "Sure!"
 
 Everything seems pretty straightforward—you talk about your background, how you found this job listing, stuff like that. Then the recruiter asks you a question that stops you in your tracks:
