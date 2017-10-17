@@ -15,7 +15,8 @@ window.drip_plinko = function(drip, page) {
 		} else if (context == 'negotiate') {
 			response = {
 				offer: 'salary-negotiation-templates',
-				modal: drip.file('salary-negotiation-templates-modal-with-form'),
+				//modal: drip.file('salary-negotiation-templates-modal-with-form'),
+				modal: [drip.file('salary-negotiation-templates-modal-with-form'), 'modal', { show: "auto" }],
 				footer: drip.file('salary-negotiation-templates-footer'),
 				inline: drip.file('salary-negotiation-templates-inline')
 			}
@@ -197,6 +198,23 @@ jQuery(function(){
 				
 				var modal_disabled = _ouibounce.isDisabled();
 				
+				// -------- Adding "fire after delay" code to test with -------- //
+				if(options.show == 'auto') {
+				  // Creates a timeout to call `showModal` after 1s.
+				  setTimeout(showModal, 3000);
+
+				  function showModal() {
+				    if (!modal_disabled && !modal_dismissed) {
+				      _ouibounce.fire();
+						 $('#slider-ad').slideUp('fast', function() {
+							 $('#slider-ad').remove();
+						 });
+				    }
+				  }
+				}
+				
+				// -------- Adding "fire after delay" code to test with -------- //
+								
 			  function closeModal(ga_event_label) {
 	        $('#modal-ad').hide();				
 					if(!modal_disabled && modal_fired && !modal_dismissed) {
