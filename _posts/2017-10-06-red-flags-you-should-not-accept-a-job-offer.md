@@ -149,7 +149,7 @@ Here's a short recap of Jim's experience "negotiating" with the first company wh
 - They suggested a range of salaries for the position - Low, Medium, High - and asked if he would consider an offer in the "Medium" range.
 - He said he would consider such an offer.
 - They made an offer *below* the "Medium" range they had suggested and said he could "accept, decline or counter" (those were the exact words from the recruiter).
-- He chose "counter" and countered about 10% above their offer (still well below the "High" part of the range they told him earlier).
+- He chose "counter" and countered about 15% above their offer (still well below the "High" part of the range they told him earlier).
 - The recruiter implied that talking to Jim had been a waste of time and that she would run his "counter offer" by HR.
 - The recruiter then got back to Jim and said they had declined his counter offer.
 - Jim asked for clarification on whether the original offer stood or not.
