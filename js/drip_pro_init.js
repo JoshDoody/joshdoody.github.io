@@ -8,14 +8,13 @@ window.drip_plinko = function(drip, page) {
 		if (context == 'raise') {
 			response = {
 				offer: 'salary-increase-templates',
-				modal: drip.file('salary-increase-templates-modal'),
+				modal: [drip.file('salary-increase-templates-modal-with-form'), 'modal', { show: "auto" }],
 				footer: drip.file('salary-increase-templates-footer'),
 				inline: drip.file('salary-increase-templates-inline')
 			}
 		} else if (context == 'negotiate') {
 			response = {
 				offer: 'salary-negotiation-templates',
-				//modal: drip.file('salary-negotiation-templates-modal-with-form'),
 				modal: [drip.file('salary-negotiation-templates-modal-with-form'), 'modal', { show: "auto" }],
 				footer: drip.file('salary-negotiation-templates-footer'),
 				inline: drip.file('salary-negotiation-templates-inline')

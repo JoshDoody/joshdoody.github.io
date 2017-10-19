@@ -2268,8 +2268,9 @@ a.close-slider {
 	border-bottom: 3px solid #006599;
 }
 
-.modal form input[type="submit"]:hover {
-  background: #EC6B00;
+.modal form input[type="submit"][data-cta-label="sit-modal"] {
+  background: #50b432;
+	border-bottom: 3px solid #357821;
 }
 
 .modal form input[type="submit"]:active {
@@ -2278,8 +2279,16 @@ a.close-slider {
     top: 3px;
 }
 
+.modal form input[type="submit"]:hover {
+  background: #EC6B00;
+}
+
 .modal form input[type="submit"][data-cta-label="snt-modal"]:hover {
   background: #0099E6;
+}
+
+.modal form input[type="submit"][data-cta-label="sit-modal"]:hover {
+  background: #47a02c;
 }
 
 /* inline ads with ctas */
