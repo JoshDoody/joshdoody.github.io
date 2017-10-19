@@ -22,7 +22,7 @@ window.drip_plinko = function(drip, page) {
 		} else if (context == 'interview') {
 			response = {
 				offer: 'tics',
-				modal: drip.file('tics-modal'),
+				modal: [drip.file('tics-modal-with-form'), 'modal', { show: "auto" }],
 				footer: drip.file('tics-footer'),
 				inline: drip.file('tics-inline')
 			}
