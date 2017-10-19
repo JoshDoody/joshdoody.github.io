@@ -29,12 +29,13 @@ window.drip_plinko = function(drip, page) {
 		} else if (context == 'sales-page-interview') {
 			response = {
 				offer: 'interview-sample-chapter',
+				modal: drip.file('interview-sample-chapter-modal-with-form'),
 				inline: drip.file('interview-sample-chapter-inline')
 			}
 		} else if (context == 'salary-questions') {
 			response = {
 				offer: 'salary-question-scripts',
-				modal: drip.file('salary-question-scripts-modal-with-form')
+				modal: [drip.file('salary-question-scripts-modal-with-form'), 'modal', { show: "auto" }]
 			}
 		}
 	} else {
