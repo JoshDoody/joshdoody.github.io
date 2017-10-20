@@ -282,7 +282,7 @@ The wording in this version of your salary negotiation letter will be much less 
 
 That so you can be absolutely sure the recruiter understands that this number is no longer negotiable. 
 
-{% include drip_forms/salary-negotiation-email-templates-content-upgrade.html template-description=" including the template to counter offer with your minimum acceptable salary" %}
+{% include drip_forms/salary-negotiation-email-templates-content-upgrade.html template-description="the template to counter offer with your minimum acceptable salary" %}
 
 ### <a name="counter-other-offers-template" class="below-nav">Counter offering and letting the company know you are considering other offers
 
@@ -318,7 +318,7 @@ You don't need to tell them which companies have made you offers or share the de
 
 When you're negotiating salary over email, simply mentioning competing offers is sufficient. No need to go into great detail.
 
-{% include drip_forms/salary-negotiation-email-templates-content-upgrade.html template-description=" including the template to counter offer and mention that you're considering other offers" %}
+{% include drip_forms/salary-negotiation-email-templates-content-upgrade.html template-description="the template to counter offer and mention that you're considering other offers" %}
 
 ## Send your draft counter offer email to someone you trust for review
 
@@ -355,7 +355,7 @@ But if you haven't heard back from them after two or three *business* days (week
 
 You don't need to akd how they feel about your counter offer, whether they can accommodate it, or anything like that. You don't want them to know you're sweating the negotiation—you're just casually checking in to make sure they're not waiting on you.
 
-{% include drip_forms/salary-negotiation-email-templates-content-upgrade.html template-description=" including the template to follow up after you send your counter offer" %}
+{% include drip_forms/salary-negotiation-email-templates-content-upgrade.html template-description="the template to follow up after you send your counter offer" %}
 
 ## What happens next?
 
