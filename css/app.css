@@ -1135,6 +1135,10 @@ p.footer-heading {
 	margin: auto;
 }
 
+.guide-btn.large {
+	font-size: 150%;
+}
+
 /* ToC buttons for guides */
 ul.buttons:after {
   content:'';
