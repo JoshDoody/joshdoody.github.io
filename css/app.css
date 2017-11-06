@@ -1660,6 +1660,11 @@ ul.lesson-list li {
     background-color: #4CAF50;
 }
 
+.product .product-name.coach {
+    background-color: #FF3500;
+}
+
+
 .product .product-price {
   font-size: 1.8em;
 	font-weight: bold;
