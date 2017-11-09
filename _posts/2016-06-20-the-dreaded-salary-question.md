@@ -4,7 +4,7 @@ title: How to answer the “What’s your current or expected salary?” questio
 tagline: Word-for-word scripts to avoid making one of the most expensive interview mistakes
 excerpt: Word-for-word scripts to avoid sharing your current salary or expected salary when asked for your current compensation or salary expectations in an interview
 og-image: DreadedSalaryQuestion.png
-context: interview
+context: negotiate
 last_modified_at: 2017-08-29
 extra_js:
   - template_requested.js
@@ -19,9 +19,8 @@ Everything seems pretty straightforward—you talk about your background, how yo
 
 **You intuitively know that sharing your current salary or desired salary probably isn't in your best interest.** But you're also really excited about this opportunity and you don't want to miss out. Plus, you're not sure how to not answer this question.
 
-<div class='guide-link'>
-<p><strong>What's next once you get past the current and expected salary question?</strong></p>
-<p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>
+<div data-offer-plinko="optional">
+{% include drip_forms/salary-negotiation-email-templates-content-upgrade-dsq.html %}
 </div>
 
 **What if they *insist?***
@@ -107,8 +106,12 @@ This sounds pretty bad, right?
 
 But wait! It gets *even worse*!
 
-<div class='ad-box' data-offer-plinko="optional">
+<!-- <div class='ad-box' data-offer-plinko="optional">
 	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to current and desired salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get the free Interview Cheat Sheet</a></p>
+</div> -->
+
+<div data-offer-plinko="optional">
+{% include drip_forms/salary-negotiation-email-templates-content-upgrade-dsq.html %}
 </div>
 
 ## The "real" salary they're willing to pay could increase throughout your interview
@@ -210,8 +213,11 @@ Here is my recommendation for a good answer to the full version of this question
 
 <p class='u-center'><a href="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" target="_blank"><img src="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" alt="The current and expected salary question" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
 
-<div class='ad-box' data-offer-plinko="optional">
+<!-- <div class='ad-box' data-offer-plinko="optional">
 	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to current and expected salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get the free Interview Cheat Sheet</a></p>
+</div> -->
+<div data-offer-plinko="optional">
+{% include drip_forms/salary-negotiation-email-templates-content-upgrade-dsq.html %}
 </div>
 
 So let's say that you're playing a game, and your goal is to get past the salary expectations without sharing your salary requirements. This is Level 1, and the script I just gave you will usually win the game.
@@ -282,8 +288,11 @@ That's bad news for you even if you get the job. Do you really want to work some
 
 I can't answer that question for you, but I can tell you my answer: "Nope."
 
-<div class='ad-box' data-offer-plinko="optional">
+<!-- <div class='ad-box' data-offer-plinko="optional">
 	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to the current and expected salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get the free Interview Cheat Sheet</a></p>
+</div> -->
+<div data-offer-plinko="optional">
+{% include drip_forms/salary-negotiation-email-templates-content-upgrade-dsq.html %}
 </div>
 
 ## <a name="when-they-insist" class="below-nav">What if *insist*?
@@ -394,8 +403,9 @@ As I mentioned earlier, this answer doesn't box you in to accepting a job offer 
 
 If they're serious about respecting everyone's time, then they'll tell you the range so you can confirm it's in the ballpark. And if they won't share a range, then it's clear they're simply trying to gain information to benefit them during your salary negotiation later on.
 
-<div class='ad-box'>
-	<p>For a different perspective on these interview questions, Penelope Trunk's succinct and direct responses are fantastic: <a href="http://blog.penelopetrunk.com/2008/02/19/the-answer-to-the-toughest-interview-question/" target="_blank">The answer to the toughest interview question</a></p>
+<div class='guide-link'>
+<p><strong>What's next once you get past the current and expected salary question?</strong></p>
+<p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>
 </div>
 
 ## <a name="already-shared-current-salary" class="below-nav">How to recover if you've already disclosed your current salary
