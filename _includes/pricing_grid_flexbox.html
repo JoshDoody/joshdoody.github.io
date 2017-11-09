@@ -1,15 +1,13 @@
 <a name="purchase" class="below-nav"></a>
 <section class="pricing-table">
   <section class='item'>
-    <p class="item__header">Premium</p>
-		<p class="item__description">Do It Yourself</p>
+    <p class="item__header">Do It Yourself</p>
+		<!-- <p class="item__description">Do It Yourself</p> -->
 		<span class="fsn-full-price hidden"><p class="item__price">$239</p></span>
 		<span class="fsn-sale-price"><p class="item__price"><s>$239</s> $167</p></span>
     <ul>
       <li>Instant Access</li>
-			<li>Be ready to negotiate or interview an hour from now</li>
-			<li>Learn how to say the right things to stand out in your interviews</li>
-			<li>Learn how to estimate your market value</li>
+			<li>Be ready to negotiate or interview in under an hour</li>
 			<li>Email templates and scripts to negotiate you salary</li>
 			<li>Detailed worksheets</li>
 			<li>3 hours of video courses teach you key concepts</li>
@@ -24,8 +22,8 @@
 		</div>
   </section>
   <section class='item'>
-    <p class="item__header">Strategy</p>
-		<p class="item__description">Talk To An Expert</p>
+    <p class="item__header">Talk To An Expert</p>
+		<!-- <p class="item__description">Talk To An Expert</p> -->
 		<span class="fsn-full-price hidden"><p class="item__price">$499</p></span>
 		<span class="fsn-sale-price"><p class="item__price"><s>$499</s> $349</p></span>
     <ul>
@@ -44,8 +42,8 @@
 		</div>
   </section>
   <section class='item'>
-    <p class="item__header">Pro</p>
-		<p class="item__description">I'll Do It For You</p>
+    <p class="item__header">Done For You</p>
+		<!-- <p class="item__description">I'll Do It For You</p> -->
 		<span class="fsn-full-price"><p class="item__price">$1,500+</p></span>
     <ul>
 			<li>Ideal for Software Developers making over $100,000</li>
@@ -77,11 +75,11 @@
 
 .pricing-table {
   display: flex;        /* Flex layout so items have equal height  */
-  flex-flow: row wrap;  /* Allow items to wrap into multiple lines */
+  flex-direction: column;  /* Allow items to wrap into multiple lines */
   max-width: 80%;
 }
 .item { 
-  flex: 1 0 280px;
+/*  flex: 1 0 280px;*/
   display: flex;        /* Lay out each item using flex layout */
   flex-flow: column;    /* Lay out item’s contents vertically  */
 	padding: 0 10px 0 10px;
@@ -100,9 +98,10 @@
 }
 
 .item {
-  margin: 0 10px 10px;
-	padding: 10px;
-  border: 1px solid #555;
+  margin: 20px 0 20px 0;
+	padding: 20px;
+  border: 3px solid #AAA;
+	border-radius: 5px;
 }
 
 .item__header {
