@@ -14,6 +14,10 @@ extra_js:
 ---
 <section class="white">
 	<div class="container container--normal">	
+		<p><a href="#purchase" class="guide-btn large">
+  		Get Instant Access
+		</a></p>
+		
 		<p><strong>"Why should we hire you?"</strong> After weeks or even <em>months</em> of looking for the right job, the moment of truth has arrived—they finally asked the question you hoped they wouldn't. And even though you've thought about this question a hundred times, you're <em>still</em> not sure what to say.</p>
 	
 		<p>The job search process can feel like a series of uncomfortable situations designed to trip you up. Every time you start finding your stride, you bump into another tough situation that you just have to stumble through.</p>
@@ -77,26 +81,6 @@ extra_js:
 	</div>
 </section>
 
-{% include featured_logos.html %}
-
-<section class="white">
-	<div class="container container--wide">
-		{% include pricing_grid_flexbox.html %}
-	</div>
-</section>
-
-<section class="gray">
-	<div class="container container--normal">
-		<p class="u-center guarantee-img"><img src="/images/HappyCustomerGuarantee.png" with="150"/></p>
-		
-		<h2 class='u-center'>Happy Customer Guarantee <br>plus lifetime updates</h2>
-	  <p>You're protected by the Happy Customer Guarantee: If you’re not happy with the book, courses, or your strategy session, reach out any time and <strong>I’ll refund your money.</strong></p>
-		<p><strong>That’s it—there’s no fine print.</strong> I know how valuable <em>Fearless Salary Negotiation</em> is and I know you’ll find it valuable.</p>
-		<p><strong>You own the book and courses</strong>—I don’t use DRM or limit the number of devices you can use—and you will own them forever.</p>
-		<p>Plus I'll email you to let you know when I update the book or courses for the lifetime of the product.</p>
-	</div>
-</section>
-
 <section class="white">	
 	<div class="container container--normal qa">
 		<h2 class='u-center'><em>Fearless Salary Negotiation</em> isn't for everyone...</h2>
@@ -130,13 +114,30 @@ extra_js:
 	</div>
 </section>
 
-<section class="gray">
-	<div class="container container--normal">
-		{% include fsn_bio.html h2="Strategy and Tactics from a Salary Negotiation Expert" %}
-	</div>
-</section>
+{% include featured_logos.html %}
+
 <section class="white">
 	<div class="container container--normal">
+		{% include pricing_grid_with_coaching.html %}
+	</div>
+</section>
+
+<section class="gray">
+	<div class="container container--normal">
+		<p class="u-center guarantee-img"><img src="/images/HappyCustomerGuarantee.png" with="150"/></p>
+		
+		<h2 class='u-center'>Happy Customer Guarantee <br>plus lifetime updates</h2>
+	  <p>You're protected by the Happy Customer Guarantee: If you’re not happy with the book, courses, or your strategy session, reach out any time and <strong>I’ll refund your money.</strong></p>
+		<p><strong>That’s it—there’s no fine print.</strong> I know how valuable <em>Fearless Salary Negotiation</em> is and I know you’ll find it valuable.</p>
+		<p><strong>You own the book and courses</strong>—I don’t use DRM or limit the number of devices you can use—and you will own them forever.</p>
+		<p>Plus I'll email you to let you know when I update the book or courses for the lifetime of the product.</p>
+	</div>
+</section>
+
+<section class="white">
+	<div class="container container--normal">
+		{% include fsn_bio.html h2="How I became a salary negotiation coach" %}
+	
 		{% include testimonials/d_o.html short=true %}
 	
 		{% include testimonials/matt_wood.html short=true %}
