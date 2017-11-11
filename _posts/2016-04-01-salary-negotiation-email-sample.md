@@ -373,11 +373,11 @@ You should negotiate your job offer even if it already seems pretty good. The be
 
 The first thing you should do when you get a job offer is ask for some time to think it over using [this template](#ask-for-time-template){:data-template="Ask for time template", :data-action="Choose counter offer template"}.
 
-Then, evaluate your job offer relative to your minimum acceptable salary to determine if you can negotiate using standard techniques or if you've received a lowball offer that might benefit from a unique tactic you can employ with [this template](#lowball-template){:data-template="Lowball template", :data-action="Choose counter offer template"}.
+Then, evaluate your job offer relative to your minimum acceptable salary to determine if you can negotiate using standard techniques or if you've received a lowball offer that might benefit from a unique tactic you can employ with [this template](#lowball-template){:data-template="Lowball template"}{:data-action="Choose counter offer template"}.
 
-Once you're ready to counter offer, use the [salary negotiation email sample](#baseline-counter-template){:data-template="Counter offer template—baseline", :data-action="Choose counter offer template"} to build your case and send your counter offer. There are also a couple of minor variations that may come in handy if your situation is unique.
+Once you're ready to counter offer, use the [salary negotiation email sample](#baseline-counter-template){:data-template="Counter offer template—baseline"}{:data-action="Choose counter offer template"} to build your case and send your counter offer. There are also a couple of minor variations that may come in handy if your situation is unique.
 
-If you don't hear back after a few days, you might want to follow-up to make sure you're still on the recruiter's radar and that you didn't miss any emails or phone calls. [This template](#follow-up-template){:data-template="Follow-up after counter", :data-action="Choose counter offer template"} will help you check in.
+If you don't hear back after a few days, you might want to follow-up to make sure you're still on the recruiter's radar and that you didn't miss any emails or phone calls. [This template](#follow-up-template){:data-template="Follow-up after counter"}{:data-action="Choose counter offer template"} will help you check in.
 
 Then it's time to prepare for your [Final Discussion](/salary-negotiation-script-example/), where you'll hash out all the final details of your compensation package.
 
