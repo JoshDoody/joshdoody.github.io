@@ -29,9 +29,18 @@
 				<a href="https://transactions.sendowl.com/packages/35512/C895E617/add_to_cart?discount_code=FSNSaleBOOK30" class='guide-btn large'>Get Instant Access</a>
 			</span>
 		</div>
-		<div class="item__footer">
-			<span><img src="/images/HappyCustomerGuarantee.png" width=30/></span>
-			<p class="guarantee"><span class="guarantee-headline">Happy Customer Guarantee</span><span class="guarantee-sub-head">If you're not happy, I'll refund your money</span></p>
+		<div class="item__pay-logos">
+			<img src="/images/pay-logos/visa.png" width=50/>
+			<img src="/images/pay-logos/master_card.png" width=50/>
+			<img src="/images/pay-logos/amex.png" width=50/>
+			<img src="/images/pay-logos/discover.png" width=50/>
+			<img src="/images/pay-logos/visa.png" width=50/>
+			<img src="/images/pay-logos/pay_pal.png" width=50/>
+			<img src="/images/pay-logos/apple_pay.png" width=50/>
+		</div>
+		<div class="item__happy-customer-guarantee">
+			<img src="/images/HappyCustomerGuarantee.png" width=30/>
+			<p class="guarantee"><span class="guarantee-headline">Happy Customer Guarantee</span><span class="guarantee-sub-head">If you're not happy, I'll refund your money.</span></p>
 		</div>
   </section>
   <section class='item'>
@@ -63,9 +72,18 @@
 				<a href="https://transactions.sendowl.com/packages/35513/80DBBDE4/add_to_cart?discount_code=FSNSaleCOMPLETE30" class='guide-btn large'>Get Instant Access</a>
 			</span>
 		</div>
-		<div class="item__footer">
-			<span><img src="/images/HappyCustomerGuarantee.png" width=30/></span>
-			<p class="guarantee"><span class="guarantee-headline">Happy Customer Guarantee</span><span class="guarantee-sub-head">If you're not happy, I'll refund your money</span></p>
+		<div class="item__pay-logos">
+			<img src="/images/pay-logos/visa.png" width=50/>
+			<img src="/images/pay-logos/master_card.png" width=50/>
+			<img src="/images/pay-logos/amex.png" width=50/>
+			<img src="/images/pay-logos/discover.png" width=50/>
+			<img src="/images/pay-logos/visa.png" width=50/>
+			<img src="/images/pay-logos/pay_pal.png" width=50/>
+			<img src="/images/pay-logos/apple_pay.png" width=50/>
+		</div>
+		<div class="item__happy-customer-guarantee">
+			<img src="/images/HappyCustomerGuarantee.png" width=30/>
+			<p class="guarantee"><span class="guarantee-headline">Happy Customer Guarantee</span><span class="guarantee-sub-head">If you're not happy, I'll refund your money.</span></p>
 		</div>
   </section>
   <section class='item'>
@@ -97,9 +115,18 @@
 				<a href="https://transactions.sendowl.com/packages/35514/18BAA1E4/add_to_cart?discount_code=FSNSaleSTRATEGY30" class='guide-btn large'>Schedule Now</a>
 			</span>
 		</div>
-		<div class="item__footer">
-			<span><img src="/images/HappyCustomerGuarantee.png" width=30/></span>
-			<p class="guarantee"><span class="guarantee-headline">Happy Customer Guarantee</span><span class="guarantee-sub-head">If you're not happy, I'll refund your money</span></p>
+		<div class="item__pay-logos">
+			<img src="/images/pay-logos/visa.png" width=50/>
+			<img src="/images/pay-logos/master_card.png" width=50/>
+			<img src="/images/pay-logos/amex.png" width=50/>
+			<img src="/images/pay-logos/discover.png" width=50/>
+			<img src="/images/pay-logos/visa.png" width=50/>
+			<img src="/images/pay-logos/pay_pal.png" width=50/>
+			<img src="/images/pay-logos/apple_pay.png" width=50/>
+		</div>
+		<div class="item__happy-customer-guarantee">
+			<img src="/images/HappyCustomerGuarantee.png" width=30/>
+			<p class="guarantee"><span class="guarantee-headline">Happy Customer Guarantee</span><span class="guarantee-sub-head">If you're not happy, I'll refund your money.</span></p>
 		</div>
   </section>
   <section class='item'>
@@ -144,8 +171,8 @@
   display: flex;
   align-items: center;
   margin-top: auto;     /* Auto top margin pushes button to bottom */
+	margin-bottom: 10px;
 }
-
 
 /* Styles not relevant to flexbox */
 .pricing-table {
@@ -223,26 +250,39 @@
 	margin: auto !important;
 }
 
-.item__footer {
+.item__pay-logos {
 	display: flex;
 	flex: row;
-	padding-top: 20px;
+	flex-wrap: wrap;
+	padding-top: 10px;
 }
 
-.item__footer img {
+.item__pay-logos img {
+	align-self: center;
 	margin-right: 5px;
 }
 
-.item__footer p.guarantee {
-	margin-top: -8px;
+.item__happy-customer-guarantee {
+	display: flex;
+	flex: row;
+	flex-wrap: wrap;
 }
 
-.item__footer p .guarantee-headline {
+.item__happy-customer-guarantee img {
+	margin-right: 5px;
+	align-self: center;
+}
+
+.item__happy-customer-guarantee p.guarantee {
+	margin-top: 10px;
+}
+
+.item__happy-customer-guarantee p .guarantee-headline {
 	font-size: .8rem;
 	font-weight: bold;
 	line-height: 1;
 }
-.item__footer p .guarantee-sub-head {
+.item__happy-customer-guarantee p .guarantee-sub-head {
 	display: block;
 	font-size: .25rem;
 	line-height: 0;
