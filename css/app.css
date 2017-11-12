@@ -245,65 +245,6 @@ textarea {
 }
 
 /**
- * Quotes
- */
-.testimonial {
-  border-left: 2px solid #00A9FF;
-  border-right: 2px solid #00A9FF;
-  quotes: "“" "”" "‘" "’";
-  text-align: center;
-  padding: 2em 1em 2em 1em;
-	margin-bottom: 20px;
-  background: url(../../images/topo-map-bg-1.png);
-  background-size: 1000px 1000px;
-	border-radius: 5px;
-  box-shadow: 0 0 0 1px rgba(151, 151, 151, 0.2);
-}
-
-@media only screen and (min-width: 650px) {
-  .testimonial {
-    padding: 3em 1em 2.5em 1em;
-  }
-}
-
-.quote__text {
-  font-size: 1.3em;
-  font-weight: 300;
-  font-style: italic;
-  color: #777;
-  display: inline;
-  line-height: 1.4;
-}
-
-@media only screen and (min-width: 650px) {
-  .quote__text {
-    font-size: 2em;
-  }
-}
-
-.quote__text:before {
-  content: open-quote;
-  display: inline;
-}
-
-.quote__text:after {
-  content: close-quote;
-  display: inline;
-}
-
-.quote__byline {
-  display: block;
-  text-align: right;
-  font-size: 1.0em;
-  margin-top: 1em;
-}
-
-.quote__byline:before {
-  content: '— ';
-  color: #ccc;
-}
-
-/**
  * Headings
  */
 h1,
@@ -2485,4 +2426,62 @@ div.guide-link {
 
 div.guide-link p {
 	margin: 10px 0 10px 0;
+}
+
+/* --- updating testimonial displays --- */
+/**
+ * Quotes
+ */
+
+.testimonial-series {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.testimonial {
+	display: flex;
+	flex-direction: column;
+  align-items: center;
+  justify-content: center;
+	max-width: 350px;	
+  quotes: "“" "”" "‘" "’";
+  text-align: center;
+	padding: 10px;
+	/*margin-bottom: 20px;
+	border-radius: 5px;*/
+  box-shadow: 0 0 0 1px rgba(151, 151, 151, 0.2);
+}
+
+.testimonial img {
+	border-radius: 100%;
+	width: 40px;
+	height: 40px;
+	margin-bottom: 10px;
+}
+
+.quote__text {
+	font-size: 1em;
+}
+
+.quote__text:before {
+  content: open-quote;
+  display: inline;
+}
+
+.quote__text:after {
+  content: close-quote;
+  display: inline;
+}
+
+.quote__byline {
+  display: block;
+  text-align: right;
+	font-size: 1em;
+	margin-bottom: 0;
+}
+
+.quote__byline:before {
+  content: '— ';
+  color: #ccc;
 }
