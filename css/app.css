@@ -2431,6 +2431,13 @@ section.hero h2 {
 	text-transform: uppercase;
 }
 
+h2 span.sub-h2 {
+	display: block;
+	color: #aaa;
+	margin-top: 10px;
+	font-weight: 400;
+}
+
 section.logos {
 	padding: 0;
 	text-align: center;
