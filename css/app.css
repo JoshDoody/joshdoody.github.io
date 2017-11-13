@@ -2437,20 +2437,23 @@ div.guide-link p {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
+	justify-content: center;
+	align-content: center;
 }
 
 .testimonial {
 	display: flex;
 	flex-direction: column;
   align-items: center;
-  justify-content: center;
-	max-width: 350px;	
+  justify-content: top;
   quotes: "“" "”" "‘" "’";
-  text-align: center;
 	padding: 10px;
-	/*margin-bottom: 20px;
-	border-radius: 5px;*/
   box-shadow: 0 0 0 1px rgba(151, 151, 151, 0.2);
+}
+
+.testimonial.short {
+	max-width: 300px;
+	margin: 10px;
 }
 
 .testimonial img {
@@ -2460,7 +2463,17 @@ div.guide-link p {
 	margin-bottom: 10px;
 }
 
+.testimonial p, .testimonial ul, .testimonial ol {
+	font-size: 1em;
+	text-align: left;
+}
+
+.testimonial .testimonial-content {
+  align-items: left;
+}
+
 .quote__text {
+	text-align: center !important;
 	font-size: 1em;
 }
 

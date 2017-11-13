@@ -1,10 +1,12 @@
 <a name="j_n"></a>
-<div class="testimonial">
+<div class="testimonial {% if include.short == true %}short{% endif %}">
   <p class="quote__text"><strong>I improved my job offer by nearly $16,000 by working with Josh. I also gained a lot of reassurance in the process and he helped me fine-tune specific points as I planned my negotiation.</strong></p>
 	
 	{% unless include.short == true %}
-		<p class="u-left">It’s rare to be able to consult on salary and hiring practices with someone who has experience as a hiring manager.</p>
-		<p class="u-left">For someone who’s relatively-high salary and has multiple job offers with multiple components, I highly recommend working with Josh as a salary negotiation coach.</p>
+	<div class="testimonial-content">
+		<p>It’s rare to be able to consult on salary and hiring practices with someone who has experience as a hiring manager.</p>
+		<p>For someone who’s relatively-high salary and has multiple job offers with multiple components, I highly recommend working with Josh as a salary negotiation coach.</p>
+	</div>
 	{% endunless %}
 
   <p class="quote__byline">J.N., DevOps Engineer</p>

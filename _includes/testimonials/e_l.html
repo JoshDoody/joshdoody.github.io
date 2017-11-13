@@ -1,11 +1,13 @@
 <a name="e_l"></a>
-<div class="testimonial">
+<div class="testimonial {% if include.short == true %}short{% endif %}">
   <p class="quote__text"><strong>A small investment, compared to what I had to lose.</strong></p>
 	
 	{% unless include.short == true %}
-	<p class="u-left">It was really helpful to have someone to talk with and get different perspectives and to suggest and improve responses throughout my negotiations. And Josh's responses were always very fast, which is huge during salary negotiations!</p>
+	<div class="testimonial-content">
+		<p>It was really helpful to have someone to talk with and get different perspectives and to suggest and improve responses throughout my negotiations. And Josh's responses were always very fast, which is huge during salary negotiations!</p>
 
-	<p class="u-left">Josh offered the right mix of understanding and encouragement while pushing me to keep going to get the best result possible.</p>
+		<p>Josh offered the right mix of understanding and encouragement while pushing me to keep going to get the best result possible.</p>
+	</div>
 	{% endunless %}
 	
   <p class="quote__byline">E. L., Senior Software Engineer, Red Hat</p>

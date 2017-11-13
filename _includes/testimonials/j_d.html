@@ -1,13 +1,15 @@
 <a name="j_d"></a>
-<div class="testimonial">
+<div class="testimonial {% if include.short == true %}short{% endif %}">
   <p class="quote__text"><strong>Because of <em>Fearless Salary Negotiation</em> I got an extra $25,000 in salary...which means it could be realistic for my family to stay here instead of having to move somewhere cheaper.</strong></p>
 	
 	{% unless include.short == true %}
-	<p class='u-left'>I purchased <em>Fearless Salary Negotiation</em> several weeks ago a day before my call with the recruiter to start the salary negotiation for a job with a new company. I followed the steps as closely as possible.</p>
+	<div class="testimonial-content">
+		<p>I purchased <em>Fearless Salary Negotiation</em> several weeks ago a day before my call with the recruiter to start the salary negotiation for a job with a new company. I followed the steps as closely as possible.</p>
 	
-	<p class='u-left'>Their first offer was $10,000 above my "reach goal" which I had not disclosed. I countered twice and ended up getting an extra $15,000 on top of their first offer. Because of <em>Fearless Salary Negotiation</em> I got an extra $25,000 in salary and doubled my stock grant.</p>
+		<p>Their first offer was $10,000 above my "reach goal" which I had not disclosed. I countered twice and ended up getting an extra $15,000 on top of their first offer. Because of <em>Fearless Salary Negotiation</em> I got an extra $25,000 in salary and doubled my stock grant.</p>
 	
-	<p class='u-left'>Now I can consider buying a house in the Bay Area within the next two years, which means it could be realistic for my family to stay here instead of having to move somewhere cheaper.</p>
+		<p>Now I can consider buying a house in the Bay Area within the next two years, which means it could be realistic for my family to stay here instead of having to move somewhere cheaper.</p>
+	</div>
 	{% endunless %}
 	
   <p class="quote__byline">J. D.</p>

@@ -1,12 +1,16 @@
 <a name="david_hill"></a>
-<div class="testimonial">
+<div class="testimonial {% if include.short == true %}short{% endif %}">
   <p class="quote__text"><strong>My new job is paying me 15% more than what they initially offered!</strong></p>
 	
-	<p class='u-left'>For the first time in my professional career I countered a job offer. And it worked! My new job is paying me 15% more than what they initially offered!</p>
+	{% unless include.short == true %}
+	<div class="testimonial-content">
+		<p>For the first time in my professional career I countered a job offer. And it worked! My new job is paying me 15% more than what they initially offered!</p>
 	
-	<p class='u-left'>The experience has changed how I think about my career. Now I see that there are possibilities to earn and do more beyond what a particular company is willing to offer me at any particular time.</p>
+		<p>The experience has changed how I think about my career. Now I see that there are possibilities to earn and do more beyond what a particular company is willing to offer me at any particular time.</p>
 	
-	<p class='u-left'>I honestly don't think I would have ever attempted this without having read <em>Fearless Salary Negotiation</em>.</p>
+		<p>I honestly don't think I would have ever attempted this without having read <em>Fearless Salary Negotiation</em>.</p>
+	</div>
+	{% endunless %}
 
   <p class="quote__byline">David Hill, Lead Software Engineer</p>
 </div>

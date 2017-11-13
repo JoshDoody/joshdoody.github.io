@@ -1,14 +1,16 @@
 <a name="emily_kaneff"></a>
-<div class="testimonial">
+<div class="testimonial {% if include.short == true %}short{% endif %}">
 	<img src="{{ site.baseurl }}/images/emily_kaneff.jpg" alt="Emily Kaneff, Software Developer">
   <p class="quote__text"><strong>The extra $6,000 helped me afford my dream apartment in a safe, well-kept area where my family can rest easy.</strong></p>
 	
 	{% unless include.short == true %}
-	<p class="u-left">I ended up getting the job, and I was able to negotiate from them an extra $6,000! I definitely wouldn't have been able to do that without Josh's help!</p>
+	<div class="testimonial-content">
+		<p>I ended up getting the job, and I was able to negotiate from them an extra $6,000! I definitely wouldn't have been able to do that without Josh's help!</p>
 	
-	<p class="u-left">The extra $6,000 helped me afford my dream apartment in a safe, well-kept area where my family can rest easy. It's an apartment that impresses and that I enjoy coming home to!</p>
+		<p>The extra $6,000 helped me afford my dream apartment in a safe, well-kept area where my family can rest easy. It's an apartment that impresses and that I enjoy coming home to!</p>
 	
-	<p class="u-left">Not only that, but I am less worried about when my student loan payments need to start being paid back because I know I have enough to make my payments.</p>
+		<p>Not only that, but I am less worried about when my student loan payments need to start being paid back because I know I have enough to make my payments.</p>
+	</div>
 	{% endunless %}
 	
   <p class="quote__byline">Emily Kaneff, Software Developer</p>

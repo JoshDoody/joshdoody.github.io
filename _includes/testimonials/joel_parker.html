@@ -1,17 +1,21 @@
 <a name="joel_parker"></a>
-<div class="testimonial">
+<div class="testimonial {% if include.short == true %}short{% endif %}">
 	<img src="{{ site.baseurl }}/images/joel_parker.jpg" alt="Joel Parker, Academic Advisor, University of Florida College of Engineering">
   <p class="quote__text"><strong>The University of Florida's Career Showcase was the week after Josh's talk, and a number of students were able to translate Josh’s strategies into successful interviews.</strong></p>
 
-	<p class="u-left">The University of Florida Career Showcase was a week away, and Josh spoke to my Engineering students on how to excel in their job interviews. The students were incredibly engaged, eager to find out strategies for interviewing.</p>
+	{% unless include.short == true %}
+	<div class="testimonial-content">
+		<p>The University of Florida Career Showcase was a week away, and Josh spoke to my Engineering students on how to excel in their job interviews. The students were incredibly engaged, eager to find out strategies for interviewing.</p>
 
-	<p class="u-left">He spoke on a pertinent topic for my students with clarity, a wealth of knowledge and enthusiasm. He was able to simplify complex ideas and present them in a manner that was easy for the student to remember and implement.</p>
+		<p>He spoke on a pertinent topic for my students with clarity, a wealth of knowledge and enthusiasm. He was able to simplify complex ideas and present them in a manner that was easy for the student to remember and implement.</p>
 
-	<p class="u-left">Students often comment that they are pursuing engineering to help people, and Josh is a perfect example of how to do this.</p>
+		<p>Students often comment that they are pursuing engineering to help people, and Josh is a perfect example of how to do this.</p>
 	
-	<p class="u-left">I will bring Josh in again next year, and I have recommended him to the University of Florida College of Engineering to help all of our Gator Engineers excel in their job intervies.</p>
+		<p>I will bring Josh in again next year, and I have recommended him to the University of Florida College of Engineering to help all of our Gator Engineers excel in their job intervies.</p>
 	
-	<p class="u-left">I believe Josh’s speaking abilities along with his knowledge and preparation would make him adept at any speaking engagement.</p>
+		<p>I believe Josh’s speaking abilities along with his knowledge and preparation would make him adept at any speaking engagement.</p>
+	</div>
+	{% endunless %}
 
   <p class="quote__byline">Joel Parker, Academic Advisor, University of Florida College of Engineering</p>
 </div>

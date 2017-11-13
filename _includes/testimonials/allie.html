@@ -1,11 +1,13 @@
 <a name="allie"></a>
-<div class="testimonial">
+<div class="testimonial {% if include.short == true %}short{% endif %}">
   <p class="quote__text"><strong>I accepted an offer and was able to negotiate an increase in base salary of $4k, an extra week of vacation, and a change in title.</strong></p>
 	
 	{% unless include.short == true %}
-	<p class="u-left">Their original offer was right at my walk away number so I consider this to be a pretty favourable outcome. I can also leverage the change in job title for upwards movement in the future.</p>
+	<div class="testimonial-content">
+		<p>Their original offer was right at my walk away number so I consider this to be a pretty favourable outcome. I can also leverage the change in job title for upwards movement in the future.</p>
 	
-	<p class="u-left">The template you offered really helped. Thank you so much!</p>
+		<p>The template you offered really helped. Thank you so much!</p>
+	</div>
 	{% endunless %}
 	
   <p class="quote__byline">Allie, Marketing Specialist</p>

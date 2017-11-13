@@ -1,18 +1,22 @@
 <a name="j_c"></a>
-<div class="testimonial">
+<div class="testimonial {% if include.short == true %}short{% endif %}">
   <p class="quote__text"><strong>Josh's coaching paid for itself many times over in a 3-minute conversation with HR, where I earned another $6,000 in base salary and a $3,000 incentive bonus!</strong></p>
 
-	<p class="u-left">Josh helped me gain confidence in my strengths as a candidate, and helped me interpret the thinking behind the offer that was made. He also helped me get comfortable with the idea of having the discussion about negotiating the salary, including specific numbers to work with based on the unique details of my situation.</p>
+	{% unless include.short == true %}
+	<div class="testimonial-content">
+		<p>Josh helped me gain confidence in my strengths as a candidate, and helped me interpret the thinking behind the offer that was made. He also helped me get comfortable with the idea of having the discussion about negotiating the salary, including specific numbers to work with based on the unique details of my situation.</p>
 
-	<p class="u-left">I realized that they really wanted me as a candidate and the HR representative seemed eager to try and sell me on the full offer package.</p>
+		<p>I realized that they really wanted me as a candidate and the HR representative seemed eager to try and sell me on the full offer package.</p>
 	
-	<p class="u-left">The negotiation felt very natural and wasn't nearly as confrontational as I initially feared.</p>
+		<p>The negotiation felt very natural and wasn't nearly as confrontational as I initially feared.</p>
 	
-	<p class="u-left">I think many people who have never done a negotiation would benefit from having a helpful coach.</p>
+		<p>I think many people who have never done a negotiation would benefit from having a helpful coach.</p>
 	
-	<p class="u-left">I'll be reinvesting the additional salary I earned into the tuition for an Executive Education program to gain even more earning power. Without that extra pad, I would have been more difficult for me to allocate the budget I need for the tuition fees.</p>
+		<p>I'll be reinvesting the additional salary I earned into the tuition for an Executive Education program to gain even more earning power. Without that extra pad, I would have been more difficult for me to allocate the budget I need for the tuition fees.</p>
 							
-	<p class="u-left">Thank you, thank you, thank you again!</p>
+		<p>Thank you, thank you, thank you again!</p>
+	</div>
+	{% endunless %}
 
   <p class="quote__byline">J.C., Compliance Manager</p>
 </div>

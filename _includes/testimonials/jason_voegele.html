@@ -1,10 +1,12 @@
 <a name="jason_voegele"></a>
-<div class="testimonial">
+<div class="testimonial {% if include.short == true %}short{% endif %}">
 	<img src="{{ site.baseurl }}/images/jason_voegele.jpg" alt="Jason Voegele, Senior Software Engineer">
   <p class="quote__text"><strong>My wife and I will use the additional $6,000 I negotiated to go to Hawaii for our 10th anniversary this year.</strong></p>
 	
 	{% unless include.short == true %}
-	<p class='u-left'>With the tactics in <em>Fearless Salary Negotiation</em> I negotiated an additional $6,000 on my starting salary at my new job as a Senior Software Engineer. And all of my <em>future</em> salary increases will all be relative to this higher starting salary, so I am likely to receive larger raises from here on out.</p>
+	<div class="testimonial-content">
+		<p>With the tactics in <em>Fearless Salary Negotiation</em> I negotiated an additional $6,000 on my starting salary at my new job as a Senior Software Engineer. And all of my <em>future</em> salary increases will all be relative to this higher starting salary, so I am likely to receive larger raises from here on out.</p>
+	</div>
 	{% endunless %}
 	
   <p class="quote__byline">Jason Voegele, Senior Software Engineer</p>

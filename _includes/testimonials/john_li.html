@@ -1,11 +1,15 @@
 <a name="john_li"></a>
-<div class="testimonial">
+<div class="testimonial {% if include.short == true %}short{% endif %}">
 	<img src="{{ site.baseurl }}/images/john_li.jpeg" alt="John Li, Android Software Engineer">
   <p class="quote__text"><strong>I wanted a raise, but didn't know where to start.</strong></p>
 
-	<p class="u-left">This course walked me through a simple process to prepare my case and ask for a raise. Each lesson had specific action items for me to make steady progress, and I got feedback on my work plus great answers to my questions every step of the way.</p>
+	{% unless include.short == true %}
+	<div class="testimonial-content">
+		<p>This course walked me through a simple process to prepare my case and ask for a raise. Each lesson had specific action items for me to make steady progress, and I got feedback on my work plus great answers to my questions every step of the way.</p>
 
-	<p class="u-left">I needed a push and a process, and this course gave me both. I'm definitely recommending this course to my friends.</p>
+		<p>I needed a push and a process, and this course gave me both. I'm definitely recommending this course to my friends.</p>
+	</div>
+	{% endunless %}
 
   <p class="quote__byline">John Li, Android Software Engineer</p>
 </div>

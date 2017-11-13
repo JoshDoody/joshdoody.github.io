@@ -1,16 +1,21 @@
 <a name="shawn_tuckett"></a>
-<div class="testimonial">
+<div class="testimonial {% if include.short == true %}short{% endif %}">
 	<img src="{{ site.baseurl }}/images/shawn_tuckett.jpg" alt="Shawn Tuckett, Vice President of Sales and Service">
   <p class="quote__text"><strong>With research and a good plan, I got a $17,000 raise! Now I know I'm valued and I can finally stop worrying about whether I was underpaid.</strong></p>
 
-	<p class="u-left">This coaching isn’t cheap, and I already owned <em>Fearless Salary Negotiation</em>, so I knew the process to ask for a raise. But even though I knew I should be paid more and I knew the process, I kept running into road blocks with my boss.</p>
+	{% unless include.short == true %}
+	<div class="testimonial-content">
+		<p>This coaching isn’t cheap, and I already owned <em>Fearless Salary Negotiation</em>, so I knew the process to ask for a raise. But even though I knew I should be paid more and I knew the process, I kept running into road blocks with my boss.</p>
 
-	<p class="u-left">I wanted help for my specific situation, and I needed a push to make a plan and see it through, so I decided to give this coaching a try.</p>
+		<p>I wanted help for my specific situation, and I needed a push to make a plan and see it through, so I decided to give this coaching a try.</p>
 
-	<p class="u-left">What a great decision! Josh helped me formulate a solid plan, and he gave me quick feedback as we talked through different scenarios and possible outcomes so I knew exactly what to expect and how to react. </p>
+		<p>What a great decision! Josh helped me formulate a solid plan, and he gave me quick feedback as we talked through different scenarios and possible outcomes so I knew exactly what to expect and how to react. </p>
 	
-	<p class="u-left">The extra income helped me start a second business and begin a remodel on our home. It has also made it easier for my wife to take time off of work and spend time at home with our new baby.</p>
+		<p>The extra income helped me start a second business and begin a remodel on our home. It has also made it easier for my wife to take time off of work and spend time at home with our new baby.</p>
 
-	<p class="u-left">I recommend this coaching because salary negotiations are important, and going it alone is risky when you can have expert guidance on your side.</p>
+		<p>I recommend this coaching because salary negotiations are important, and going it alone is risky when you can have expert guidance on your side.</p>
+	</div>
+	{% endunless %}
+	
   <p class="quote__byline">Shawn Tuckett, Vice President of Sales and Service</p>
 </div>

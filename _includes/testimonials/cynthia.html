@@ -1,11 +1,13 @@
 <a name="cynthia"></a>
-<div class="testimonial">
+<div class="testimonial {% if include.short == true %}short{% endif %}">
   <p class="quote__text"><strong>The coaching fee initially seemed high, but Salary Negotiation Coaching was a great investment that improved my base salary by $15,000.</strong></p>
 	
 	{% unless include.short == true %}
-	<p class="u-left">Josh's prompt communication was a huge factor in making me feel like my concerns were addressed, and our work helped me feel more confident about presenting a counter offer.</p>
+	<div class="testimonial-content">
+		<p>Josh's prompt communication was a huge factor in making me feel like my concerns were addressed, and our work helped me feel more confident about presenting a counter offer.</p>
 	
-	<p class="u-left">Many of my friends in tech are not very assertive in negotiating and working with Josh will allow them to have more direct and productive conversations about salary.</p>
+		<p>Many of my friends in tech are not very assertive in negotiating and working with Josh will allow them to have more direct and productive conversations about salary.</p>
+	</div>
 	{% endunless %}
 	
   <p class="quote__byline">Cynthia, Technical Program Manager</p>
