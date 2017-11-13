@@ -44,7 +44,7 @@ Below, I’ve included an email that you can copy and paste and send to anyone y
 
 <h2 class='u-center'>How does Josh help his clients?</h2>
 
-My clients can benefit from advisory services or done-for-you coaching services. Services range from —$499 value to $2,000, depending on their needs and budget. All of my services are fixed-rate, so my clients know immediately which service best fits their budget and needs.
+My clients can benefit from advisory services or done-for-you coaching services. Services range from $499 to $2,000, depending on their needs and budget. All of my services are fixed-rate, so my clients know immediately which service best fits their budget and needs.
 
 <h2 class='u-center'>“How do I know who I should refer to you?”</h2>
 
