@@ -2382,6 +2382,11 @@ h2 span.sub-h2 {
 section.logos {
 	padding: 0;
 	text-align: center;
+	opacity: .5;
+}
+
+section.logos h3.headline {
+	margin-bottom: 0;
 }
 
 section.logos img {
