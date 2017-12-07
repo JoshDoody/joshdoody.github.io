@@ -17,7 +17,7 @@ window.drip_plinko = function(drip, page) {
 			response = {
 				offer: 'salary-negotiation-templates',
 				// modal: [drip.file('salary-negotiation-templates-modal-with-form'), 'modal', { show: "auto" }],
-				modal: drip.file('salary-negotiation-templates-modal-with-form'),
+				modal: drip.file('salary-negotiation-templates-modal'),
 				footer: drip.file('salary-negotiation-templates-footer'),
 				inline: drip.file('salary-negotiation-templates-inline')
 			}
