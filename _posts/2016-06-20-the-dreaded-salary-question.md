@@ -4,7 +4,7 @@ title: How to answer the “What’s your current or expected salary?” questio
 tagline: Word-for-word scripts to avoid making one of the most expensive interview mistakes
 excerpt: Word-for-word scripts to avoid sharing your current salary or expected salary when asked for your current compensation or salary expectations in an interview
 og-image: DreadedSalaryQuestion.png
-context: negotiate
+context: interview
 last_modified_at: 2017-08-29
 extra_js:
   - template_requested.js
@@ -20,7 +20,7 @@ Everything seems pretty straightforward—you talk about your background, how yo
 **You intuitively know that sharing your current salary or desired salary probably isn't in your best interest.** But you're also really excited about this opportunity and you don't want to miss out. Plus, you're not sure how to not answer this question.
 
 <div data-offer-plinko="optional">
-{% include drip_forms/salary-negotiation-email-templates-content-upgrade-dsq.html %}
+{% include drip_forms/tics-content-upgrade.html %}
 </div>
 
 **What if they *insist?***
@@ -106,12 +106,8 @@ This sounds pretty bad, right?
 
 But wait! It gets *even worse*!
 
-<!-- <div class='ad-box' data-offer-plinko="optional">
-	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to current and desired salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get the free Interview Cheat Sheet</a></p>
-</div> -->
-
 <div data-offer-plinko="optional">
-{% include drip_forms/salary-negotiation-email-templates-content-upgrade-dsq.html %}
+{% include drip_forms/tics-content-upgrade.html %}
 </div>
 
 ## The "real" salary they're willing to pay could increase throughout your interview
@@ -182,7 +178,7 @@ Now that we've talked about why sharing your current salary or expected salary i
 Here's a short video with the basics of how to respond when asked for your salary expectations. Then I'll tell you more about the nuances of this question and what to do when they don't give up so easily:
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4N7mOR9yv2U" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4N7mOR9yv2U?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Let's break this down into two parts: "What's your current salary?" and "What's your expected salary?"
@@ -213,11 +209,8 @@ Here is my recommendation for a good answer to the full version of this question
 
 <p class='u-center'><a href="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" target="_blank"><img src="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" alt="The current and expected salary question" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
 
-<!-- <div class='ad-box' data-offer-plinko="optional">
-	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to current and expected salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get the free Interview Cheat Sheet</a></p>
-</div> -->
 <div data-offer-plinko="optional">
-{% include drip_forms/salary-negotiation-email-templates-content-upgrade-dsq.html %}
+{% include drip_forms/tics-content-upgrade.html %}
 </div>
 
 So let's say that you're playing a game, and your goal is to get past the salary expectations without sharing your salary requirements. This is Level 1, and the script I just gave you will usually win the game.
@@ -288,11 +281,8 @@ That's bad news for you even if you get the job. Do you really want to work some
 
 I can't answer that question for you, but I can tell you my answer: "Nope."
 
-<!-- <div class='ad-box' data-offer-plinko="optional">
-	<p><strong>Prepare for every interview with The Interview Cheat Sheet, a printable, 2-page PDF!</strong> Includes the answer to the current and expected salary questions and much more: <a href="{{ site.baseurl }}/interview-cheat-sheet/" target="_blank">Get the free Interview Cheat Sheet</a></p>
-</div> -->
 <div data-offer-plinko="optional">
-{% include drip_forms/salary-negotiation-email-templates-content-upgrade-dsq.html %}
+{% include drip_forms/tics-content-upgrade.html %}
 </div>
 
 ## <a name="when-they-insist" class="below-nav">What if *insist*?
@@ -372,6 +362,10 @@ But let's say they *do* stop talking to you because you won't share your current
 You're probably dodging a bullet. Let's take a step back and look at the situation: They need to fill a role with the right candidate. You've applied for the job, indicating that *you* could be the right candidate. But instead of exploring that further, they stop talking to you because you won't share personal information about your salary history, or take a guess at what they're willing to pay you to do the job.
 
 **Do you really want to work for that company?** If they're that petty *before* they hire someone, how petty will they be once you're their employee? Chances are, things will only get more difficult after they hire you.
+
+<div data-offer-plinko="optional">
+{% include drip_forms/tics-content-upgrade.html %}
+</div>
 
 ## <a name="recruiter-pushback" class="below-nav">Common pushback from recruiters
 
@@ -467,11 +461,11 @@ Once you identify one or more things, wait for them to make an offer, which will
 
 > "I have learned a lot more about the company, the position, and the compensation package since I gave that initial salary range. Given what I've learned, I would be more comfortable at [your counteroffer]."
 
-<div class="ad-box">
-	<p><strong>I recommend sending your counter offer in an email because you can make a stronger, more thoughtful case in writing.</strong> Here's an email template you can use to deliver your counter offer: <a href="{{ site.baseurl }}/salary-negotiation-email-sample/">Salary negotiation email sample</a></p>
-</div>
-
 It's problematic to declare a expected salary range early in the interview process because you don't know enough about the job, the company, and the available perks to pick a salary. But even if you already shared an expected salary, there are still ways to negotiate and improve your job offer.
+
+<div data-offer-plinko="optional">
+{% include drip_forms/tics-content-upgrade.html %}
+</div>
 
 ## <a name="summary" class="below-nav">Summarizing your options for answering the salary expectations question
 
