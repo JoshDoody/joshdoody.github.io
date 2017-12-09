@@ -19,7 +19,7 @@ window.drip_plinko = function(drip, page) {
 				// modal: [drip.file('salary-negotiation-templates-modal-with-form'), 'modal', { show: "auto" }],
 				modal: drip.file('salary-negotiation-templates-modal-with-form'),
 				footer: drip.file('salary-negotiation-templates-footer'),
-				inline: drip.file('salary-negotiation-templates-inline')
+				inline: drip.file('salary-negotiation-templates-inline-with-form')
 			}
 		} else if (context == 'interview') {
 			response = {
