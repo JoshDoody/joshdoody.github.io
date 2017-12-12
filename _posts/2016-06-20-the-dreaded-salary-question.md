@@ -4,7 +4,7 @@ title: How to answer the “What’s your current or expected salary?” questio
 tagline: Word-for-word scripts to avoid making one of the most expensive interview mistakes
 excerpt: Word-for-word scripts to avoid sharing your current salary or expected salary when asked for your current compensation or salary expectations in an interview
 og-image: DreadedSalaryQuestion.png
-context: interview
+context: interview-guide
 last_modified_at: 2017-08-29
 extra_js:
   - template_requested.js
@@ -20,7 +20,7 @@ Everything seems pretty straightforward—you talk about your background, how yo
 **You intuitively know that sharing your current salary or desired salary probably isn't in your best interest.** But you're also really excited about this opportunity and you don't want to miss out. Plus, you're not sure how to not answer this question.
 
 <div data-offer-plinko="optional">
-{% include drip_forms/tics-content-upgrade.html %}
+{% include drip_forms/interview-guide-content-upgrade.html %}
 </div>
 
 **What if they *insist?***
@@ -107,7 +107,7 @@ This sounds pretty bad, right?
 But wait! It gets *even worse*!
 
 <div data-offer-plinko="optional">
-{% include drip_forms/tics-content-upgrade.html %}
+{% include drip_forms/interview-guide-content-upgrade.html %}
 </div>
 
 ## The "real" salary they're willing to pay could increase throughout your interview
@@ -210,7 +210,7 @@ Here is my recommendation for a good answer to the full version of this question
 <p class='u-center'><a href="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" target="_blank"><img src="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" alt="The current and expected salary question" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
 
 <div data-offer-plinko="optional">
-{% include drip_forms/tics-content-upgrade.html %}
+{% include drip_forms/interview-guide-content-upgrade.html %}
 </div>
 
 So let's say that you're playing a game, and your goal is to get past the salary expectations without sharing your salary requirements. This is Level 1, and the script I just gave you will usually win the game.
@@ -282,7 +282,7 @@ That's bad news for you even if you get the job. Do you really want to work some
 I can't answer that question for you, but I can tell you my answer: "Nope."
 
 <div data-offer-plinko="optional">
-{% include drip_forms/tics-content-upgrade.html %}
+{% include drip_forms/interview-guide-content-upgrade.html %}
 </div>
 
 ## <a name="when-they-insist" class="below-nav">What if *insist*?
@@ -364,7 +364,7 @@ You're probably dodging a bullet. Let's take a step back and look at the situati
 **Do you really want to work for that company?** If they're that petty *before* they hire someone, how petty will they be once you're their employee? Chances are, things will only get more difficult after they hire you.
 
 <div data-offer-plinko="optional">
-{% include drip_forms/tics-content-upgrade.html %}
+{% include drip_forms/interview-guide-content-upgrade.html %}
 </div>
 
 ## <a name="recruiter-pushback" class="below-nav">Common pushback from recruiters
@@ -464,7 +464,7 @@ Once you identify one or more things, wait for them to make an offer, which will
 It's problematic to declare a expected salary range early in the interview process because you don't know enough about the job, the company, and the available perks to pick a salary. But even if you already shared an expected salary, there are still ways to negotiate and improve your job offer.
 
 <div data-offer-plinko="optional">
-{% include drip_forms/tics-content-upgrade.html %}
+{% include drip_forms/interview-guide-content-upgrade.html %}
 </div>
 
 ## <a name="summary" class="below-nav">Summarizing your options for answering the salary expectations question

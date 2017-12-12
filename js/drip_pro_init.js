@@ -35,6 +35,13 @@ window.drip_plinko = function(drip, page) {
 				modal: drip.file('interview-sample-chapter-modal-with-form'),
 				inline: drip.file('interview-sample-chapter-inline')
 			}
+		} else if (context == 'interview-guide') {
+			response = {
+				offer: 'interview-guide',
+				modal: drip.file('interview-guide-modal-with-form'),
+				footer: drip.file('interview-guide-footer'),
+				inline: drip.file('interview-guide-inline')
+			}
 		} else if (context == 'salary-questions') {
 			response = {
 				offer: 'salary-question-scripts',
