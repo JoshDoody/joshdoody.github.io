@@ -39,7 +39,7 @@ window.drip_plinko = function(drip, page) {
 			response = {
 				offer: 'interview-guide',
 				modal: drip.file('interview-guide-modal-with-form'),
-				footer: drip.file('interview-guide-footer'),
+				// footer: drip.file('interview-guide-footer'),
 				inline: drip.file('interview-guide-inline')
 			}
 		} else if (context == 'salary-questions') {
