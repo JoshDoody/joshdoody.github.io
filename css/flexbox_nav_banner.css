@@ -1,0 +1,28 @@
+.nav-banner {
+  display: flex;        /* Flex layout so items have equal height  */
+  flex-direction: row;  /* Allow items to wrap into multiple lines */
+}
+
+/* regular CSS */
+
+.nav-banner section.item { 
+	padding: 0px;
+}
+
+.nav-banner .logo { 
+	margin-right: auto;
+}
+
+.nav-banner .links {
+	display: flex;
+	flex-direction: row;
+}
+
+.nav-banner .link {
+	padding: 10px;
+}
+
+.nav-banner .link a {
+	color: white;
+	font-weight: 600;
+}
