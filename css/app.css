@@ -934,7 +934,14 @@ p.footer-heading {
 }
 
 a.guide-btn:hover {
+	background: #EC6B00;
 	color: white;
+}
+
+a.guide-btn:active {
+	border-bottom: none;
+  position: relative;
+  top: 3px;
 }
 
 /* ToC buttons for guides */
@@ -1291,6 +1298,16 @@ div.ad-box p:last-child {
   width: 30%;
   float: left;
   height: 42px;
+}
+
+.drip_form input[type="submit"]:hover {
+	background: #EC6B00;
+}
+
+.drip_form input[type="submit"]:active {
+	border-bottom: none;
+  position: relative;
+  top: 3px;
 }
 
 .drip-tab .drip-content .drip-description ul, .drip-tab .drip-content .drip-description ol {
