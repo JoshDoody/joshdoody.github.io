@@ -2439,3 +2439,100 @@ div.guide-link p {
   content: '— ';
   color: #ccc;
 }
+
+/* Header */
+header#masthead {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 50px;
+	padding: 10px 10px 45px 10px;
+	background: #00A9FF;
+  position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 10;
+}
+
+header#masthead #logo {
+	margin-right: auto;
+	display: block;
+}
+
+header#masthead #logo img {
+	height: 2.9em;
+	margin-bottom: -20px;
+	margin-right: 10px;
+}
+
+header#masthead #logo .name {
+  font-weight: bold;
+  font-size: 1.4em;
+  color: white;
+  text-decoration: none;
+}
+
+header#masthead #logo .name a {
+  color: white;
+  text-decoration: none;
+}
+
+header#masthead nav ul {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: row;
+	list-style: none;
+	padding: 0px !important;
+}
+
+header#masthead nav ul li {
+	padding: 5px 10px;
+}
+
+header#masthead nav ul a {
+	color: white;
+	font-weight: 400;
+	text-transform: uppercase;
+}
+
+@media only screen and (min-width: 768px) {
+	header#masthead + * {
+		/* background-color: #00A9FF; */
+		padding-top: 40px;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	header#masthead {
+		position: static;
+		display: flex;
+	  flex-direction: column;
+		flex-wrap: none;
+    align-items: center;
+		height: auto;
+		padding: 15px 10px 0px 10px;
+	}
+
+	header#masthead #logo {
+		margin: 0;
+		display: block;
+	}
+	
+	header#masthead #logo img {
+		margin-bottom: 0;
+	}
+	
+	header#masthead nav ul {
+		margin-bottom: 0;
+	}
+}
+
+@media only screen and (max-width: 499px) {
+	header#masthead #logo {
+		text-align: center;
+	}
+	
+	header#masthead #logo img {
+		display: none;
+	}
+}
