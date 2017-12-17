@@ -933,6 +933,10 @@ p.footer-heading {
 	font-size: 150%;
 }
 
+a.guide-btn:hover {
+	color: white;
+}
+
 /* ToC buttons for guides */
 ul.buttons:after {
   content:'';
