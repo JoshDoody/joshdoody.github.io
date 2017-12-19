@@ -92,7 +92,8 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 * [Josh Doody on Narrowing His Positioning, part 1](http://consultingpipelinepodcast.com/40){:rel="nofollow"} – The Consulting Pipeline Podcast
 * [From Full-Time Job to Full-Time Freelancing](http://www.100kfreelancing.com/0123-full-time-job-full-time-freelancing-wjosh-doody/){:rel="nofollow"} – $100k Freelancing
 * [Resumes, Interviews, and Negotiation with Josh Doody](http://msdevshow.com/2017/07/resumes-interviewing-and-negotation-with-josh-doody/){:rel="nofollow"} – MS Dev Show
-* [FT 127: What Building a Successful Business Really Looks Like with Josh Doody](https://freelancetransformation.com/blog/what-building-a-successful-business-really-looks-like-with-josh-doody){:rel="nofollow"} – Freelance Transformation
+* [What Building a Successful Business Really Looks Like with Josh Doody](https://freelancetransformation.com/blog/what-building-a-successful-business-really-looks-like-with-josh-doody){:rel="nofollow"} – Freelance Transformation
+* [How to stand out and get paid more with Josh Doody](https://learntocodewith.me/podcast/how-to-get-paid-more-with-josh-doody/){:rel="nofollow"} – Learn to Code With Me
 
 ## <a name="talks" class="below-nav">Talks
 
