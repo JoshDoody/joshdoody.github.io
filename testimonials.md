@@ -113,6 +113,8 @@ Learn more: [*Fearless Salary Negotiation*](/get-started/)
 
 {% include testimonials/matt_b.html %}
 
+{% include testimonials/kaylea.html %}
+
 ## <a name="gynr" class="below-nav">*Get Your Next Raise*
 	
 If you know you're underpaid and want to get a raise at your current job, *Get Your Next Raise* is exactly what you need. it's a comprehensive course with clear instructions, specific action items, accountability, and direct feedback from me as you build your case and ask for a raise.
