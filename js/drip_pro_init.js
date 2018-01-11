@@ -25,7 +25,7 @@ window.drip_plinko = function(drip, page) {
 			response = {
 				offer: 'resume-review-video',
 				modal: drip.file('resume-review-video-modal-with-form'),
-				// footer: drip.file('resume-review-video-footer'),
+				footer: drip.file('resume-review-video-footer'),
 				inline: drip.file('resume-review-video-inline')
 			}
 		} else if (context == 'sales-page-interview') {
@@ -61,7 +61,7 @@ window.drip_plinko = function(drip, page) {
 					offer: 'fsn',
 					footer: drip.file('fsn-footer')
 				}
-		}
+		}		
 	}
 			
 					
@@ -98,6 +98,7 @@ jQuery(function(){
 				console.log("Anonymous");
 				$('[data-offer-plinko="optional"]').show();
 				$('head').append('<style type="text/css">.drip-lightbox-wrapper { display: block; }</style>');
+				$( "div.subscriber-content" ).hide();
 			}
       // this.settings.score()
       //
