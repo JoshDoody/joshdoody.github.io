@@ -23,11 +23,10 @@ window.drip_plinko = function(drip, page) {
 			}
 		} else if (context == 'interview') {
 			response = {
-				offer: 'tics',
-				// modal: [drip.file('tics-modal-with-form'), 'modal', { show: "auto" }],
-				modal: drip.file('tics-modal-with-form'),
-				footer: drip.file('tics-footer'),
-				inline: drip.file('tics-inline')
+				offer: 'resume-review-video',
+				modal: drip.file('resume-review-video-modal-with-form'),
+				// footer: drip.file('resume-review-video-footer'),
+				inline: drip.file('resume-review-video-inline')
 			}
 		} else if (context == 'sales-page-interview') {
 			response = {
