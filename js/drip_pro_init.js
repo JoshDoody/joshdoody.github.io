@@ -23,23 +23,16 @@ window.drip_plinko = function(drip, page) {
 			}
 		} else if (context == 'interview') {
 			response = {
-				offer: 'resume-review-video',
-				modal: drip.file('resume-review-video-modal-with-form'),
-				footer: drip.file('resume-review-video-footer'),
-				inline: drip.file('resume-review-video-inline')
+				offer: 'tics',
+				modal: drip.file('tics-modal-with-form'),
+				footer: drip.file('tics-footer'),
+				inline: drip.file('tics-inline')
 			}
 		} else if (context == 'sales-page-interview') {
 			response = {
 				offer: 'interview-sample-chapter',
 				modal: drip.file('interview-sample-chapter-modal-with-form'),
 				inline: drip.file('interview-sample-chapter-inline')
-			}
-		} else if (context == 'interview-guide') {
-			response = {
-				offer: 'interview-guide',
-				modal: drip.file('interview-guide-modal-with-form'),
-				// footer: drip.file('interview-guide-footer'),
-				inline: drip.file('interview-guide-inline')
 			}
 		} else if (context == 'salary-questions') {
 			response = {
@@ -98,7 +91,6 @@ jQuery(function(){
 				console.log("Anonymous");
 				$('[data-offer-plinko="optional"]').show();
 				$('head').append('<style type="text/css">.drip-lightbox-wrapper { display: block; }</style>');
-				$( "div.subscriber-content" ).hide();
 			}
       // this.settings.score()
       //
