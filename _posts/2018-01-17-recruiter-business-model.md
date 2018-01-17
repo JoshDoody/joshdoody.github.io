@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Can you trust your recruiter? Yes, but not for maximum salary.
+title: Can you trust your recruiter to get you the best salary possible? No.
 headline: Your recruiter is not your friend
-excerpt: Is your recruiter trying to get you the best job at the best salary? No. Here's how to look out for yourself.
+excerpt: Is your recruiter trying to get you the best job at the best salary? No. Here’s how to look out for yourself.
 context: negotiate
 last_modified_at: 2018-01-17
 ---
