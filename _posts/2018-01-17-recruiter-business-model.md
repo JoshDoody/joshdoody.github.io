@@ -56,17 +56,21 @@ Let's say you're selling your house. You don't know how to sell houses, where to
 
 But realtors do!
 
-Of course, the downside of working with a realtor is you have to pay them a percentage of the sale price—that's their commission. But that's ok because they'll bring in buyers, show the house and, most importantly, work hard to get the highest possible selling price because they want the biggest commission possible. That's great for you because you don't want the hassle of selling the house, and you want to sell it for as much as possible. Yes, you have to pay them a bigger commission if they get a better price, but you pocket more money, so that's fine.
+Of course, the downside of working with a realtor is you have to pay them a percentage of the sale price—that's their commission. But that's ok because they'll bring in buyers, show the house and, most importantly, work hard to get the highest possible selling price because they want the biggest commission possible.
+
+That's great for you because you don't want the hassle of selling the house, and you want to sell it for as much as possible. Yes, you have to pay them a bigger commission if they get a better price, but you pocket more money, so that's fine.
 
 **Here's the secret**
 
 But that's actually not how it works. **Your realtor doesn't care about getting the best sale price, even if it increases their commission.**
 
-Don't believe me? 
+Don't believe me?
 
-Let's say you're selling your house and you hire a realtor. You list your house at $100,000. The realtor's commission is 3%, so they'll probably get at least $3,000 when your house sells. That's their baseline.
+Let's say you're selling your house and you hire a realtor. You list your house at $100,000\. The realtor's commission is 3%, so they'll probably get at least $3,000 when your house sells. That's their baseline.
 
-But! If they can get a better price for your house—say, it sells for $110,000—then you get another $9,700 and *they* also get another $300 for their commission! That $300 will add up as they sell more and more houses. Win-win!
+A potential buyer comes along and offers the asking price: $100,000\. If your realtor closes the deal, they get $3,000 right now. _But!_ They now know that you may have under-priced your house because someone just came along and offered asking price. Chances are that you and your realtor can hold out for that perfect buyer, and possibly get a _better_ selling price.
+
+If they can get a better price for your house—say, it sells for $110,000—then you get another $9,700 and _they_ also get another $300 for their commission! That $300 will add up as they sell more and more houses. Win-win!
 
 But wait a minute. They're not thinking, "Can we get more money by getting a better sale price?" They're thinking, "How much more work and time will I have to invest in this deal to earn that extra $300 in commission?"
 
@@ -74,15 +78,13 @@ This house isn't the only one they're trying to sell, right? They've got 10 hous
 
 And time is money.
 
-They already did all the basic leg work for listing house—these are essentially their fixed costs to sell the house. Their commission will probably be about $3,000 if they just sell the house without any further work. But if they work *really hard* and stay *really patient* waiting for a super-motivated buyer, they could push that commission to $3,300.
-
-A potential buyer along and offers the asking price: $100,000. If your realtor closes the deal, they get $3,000 right now. *But!* If you hold out for that perfect buyer, they could eventually get $300 more in commission.
+They already did all the basic leg work for listing house—these are essentially their fixed costs to sell the house. Their commission will probably be about $3,000 if they just sell the house without any further work. But if they work _really hard_ and stay _really patient_ waiting for a super-motivated buyer, they could push that commission to $3,300.
 
 How long will that take? How many more showings will they need to host? How much advertising will they need to do? It's hard to know, but if any of those investments are non-trivial, their return will be very low on them since they'll only get $300 if they find that perfect buyer at $110,000.
 
 It's much better for your realtor if you just sell to the first bidder at the asking price. Then they can just collect their $3,000 commission and move on to another house.
 
-They're in a *volume* game—they want to sell as many houses as quickly as possible and collect those baseline commissions. Holding out for higher selling prices, only puts a few more dollars in their pocket, keeps them from selling other houses, and could cost them a lot of time and money.
+They're in a _volume_ game—they want to sell as many houses as quickly as possible and collect those baseline commissions. Holding out for higher selling prices, only puts a few more dollars in their pocket, keeps them from selling other houses, and could cost them a lot of time and money.
 
 **Your recruiter is in the real estate business, and you're the house he's trying to sell**
 
