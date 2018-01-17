@@ -138,7 +138,7 @@ It used to be true that recruiters had unique information about local markets, j
 
 Plus your best opportunities will come through your network. Literally every job I've ever had came through my personal network.
 
-Don't have a network? SUre you do! Have you ever had a job before? Then you have a network of previous co-workers. Did you go to college? Then you have a network of classmates in your major.
+Don't have a network? Sure you do! Have you ever had a job before? Then you have a network of previous co-workers. Did you go to college? Then you have a network of classmates in your major.
 
 But let's say you don't have those. You just changed careers and you didn't go to college. Then what?
 
