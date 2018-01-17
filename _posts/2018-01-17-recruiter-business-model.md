@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can you trust your recruiter to get you the highest salary possible?
-headline: Your recruiter is not your friend
+headline: Your recruiter<br>is not your friend
 excerpt: Your recruiter is not trying to get you the best salary possible. Here’s how to look out for yourself.
 context: negotiate
 last_modified_at: 2018-01-17
