@@ -96,7 +96,7 @@ You've probably noticed the screenshots I included in this article. Maybe you're
 
 Those were all from the comments on a single interview I did for Glassdoor.com: [9 Things to Never Say in a Salary Negotiation](https://www.glassdoor.com/blog/9-things-to-never-say-in-a-salary-negotiation/) Glassdoor has since removed all of the comments (that's why I grabbed screenshots).
 
-Notice a trend? **All of that pushback is from recruiters, and it's very intenbse.**
+Notice a trend? **All of that pushback is from recruiters, and it's very intense.**
 
 Maybe that's just a one-off example, though. Or maybe I cherry-picked or even fabricated those comments to make my point.
 
