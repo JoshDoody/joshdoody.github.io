@@ -14,7 +14,7 @@ You're smart, so you know you should always consider the options available to yo
 
 And then things get a little weird. Before the recruiter can introduce you to the company, they need some information: What is your current salary? Actually, they'll need your salaries for your last few jobs. And what are your salary requirements for this new job?
 
-![Recruiter claiming this is bad advice](/images/Recruiter1.png)
+<p class='u-center'><a href="/images/Recruiter1.png" target="_blank"><img src="/images/Recruiter1.png" alt="Recruiter claiming this is bad advice" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/><br>(Click to see full-size image)</a></p>
 
 Huh? Didn't they reach out to you? And all of a sudden you have to share personal information to keep things going?
 
@@ -26,7 +26,7 @@ Fair enough.
 
 So you ask them what the salary range is for the position, and you'll let them know if it's in the ballpark of what would convince you to make the leap. But that won't work - *you* have to share *your* salary requirements to save *them* time.
 
-![Recruiter claiming they won't work with candidates who don't share current salary](/images/Recruiter2.png)
+<p class='u-center'><a href="/images/Recruiter2.png" target="_blank"><img src="/images/Recruiter2.png" alt="Recruiter claiming they won't work with candidates who don't share current salary" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/><br>(Click to see full-size image)</a></p>
 
 "I have several candidates for this position and I need to narrow it down to the 5–8 candidates who are interested in the job as-is, including salary." Again you say that you'll let them know if the salary range being offered is in the ballpark. But they dig in: We cannot move forward if you don't disclose your salary requirements.
 
@@ -42,7 +42,7 @@ And if I know this, your recruiter *definitely* knows this since they're deeper 
 
 So why are they explicitly asking you to do something that could cost you thousands of dollars *and* will reduce their commission when they place you?
 
-![Recruiter claiming witholding salary details is a poor way to start the process](/images/Recruiter3.png)
+<p class='u-center'><a href="/images/Recruiter3.png" target="_blank"><img src="/images/Recruiter3.png" alt="Recruiter claiming witholding salary details is a poor way to start the process" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/><br>(Click to see full-size image)</a></p>
 
 ## Your recruiter's dirty little secret
 
@@ -90,7 +90,7 @@ They're in a _volume_ game—they want to sell as many houses as quickly as poss
 
 Are things starting to click yet?
 
-![Recruiter profoundly disagreeing with this advice](/images/Recruiter4.png)
+<p class='u-center'><a href="/images/Recruiter4.png" target="_blank"><img src="/images/Recruiter4.png" alt="Recruiter profoundly disagreeing with this advice" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/><br>(Click to see full-size image)</a></p>
 
 You've probably noticed the screenshots I included in this article. Maybe you're skeptical that I made them up or cherry-picked them. 
 
