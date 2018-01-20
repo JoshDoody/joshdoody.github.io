@@ -36,12 +36,12 @@ Companies have a menu of options to choose from and several of those options hav
 
 Instead of *accepting* or *declining* your next job offer, you should *negotiate* the job offer. That will enable you to learn more about the menu of options available to *improve* the initial job offer they made. 
 
-By negotiating, you can determine if the salary they offered is really the highest they can pay for your skillset and experience. Or maybe you can get an additional week of paid vacation each year. But you won't know if those options are available unless you negotiate.
-
 Let's loop back on the conversation at the beginning of the article to see how it might go now that we know there are other options besides "I accept" and "I decline":
 
 > "I finally got a job offer!"\\
 > "Congrats! Are you accepting it?"\\
 > "I'm not quite to that point. I'm going to see if they'll increase the starting salary, and I want to see about getting another week of paid vacation."
+
+By negotiating, you can determine if the salary they offered is really the highest they can pay for your skillset and experience. Or maybe you can get an additional week of paid vacation each year. But you won't know if those options are available unless you negotiate.
 
 <div class="inline-ad hidden"></div>
