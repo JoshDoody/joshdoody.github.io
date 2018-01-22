@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Salary Negotiation Guide - Improve your job offer (without seeming greedy)
-share_title: Salary Negotiation Guide - How to negotiate your salary like a pro 
-headline: Salary Negotiation Guide <span class="sub-h1">How to negotiate your salary like a pro</span>
-tagline: Salary negotiation strategies and techniques for negotiating a new job offer
+title: Salary Negotiation Guide - How to negotiate (without seeming greedy)
+share_title: Salary Negotiation Guide - How to negotiate your salary (without seeming greedy)
+headline: Salary Negotiation Guide <span class="sub-h1">Negotiate your job offer (without seeming greedy)</span>
+tagline: Use this guide to negotiate over email, in person, or over the phone
 excerpt: How to negotiate your salary without leaving anything on the table or seeming greedy. Use these proven tactics to negotiate your offer though email, in person, and over the phone.
 context: negotiate
 og-image: SalaryNegotiationGuide.png
