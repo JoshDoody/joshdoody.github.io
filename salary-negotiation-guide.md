@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Salary Negotiation Guide - How to negotiate your salary like a pro
+title: Salary Negotiation Guide - Improve your job offer (without seeming greedy)
 share_title: Salary Negotiation Guide - How to negotiate your salary like a pro 
 headline: Salary Negotiation Guide <span class="sub-h1">How to negotiate your salary like a pro</span>
-tagline: Salary negotiation strategies and techniques for negotiating a job offer and getting a raise
-excerpt: A detailed salary negotiation guide for negotiating starting salary, getting a raise, and getting paid what you're worth throughout your career
+tagline: Salary negotiation strategies and techniques for negotiating a new job offer
+excerpt: How to negotiate your salary without leaving anything on the table or seeming greedy. Use these proven tactics to negotiate your offer though email, in person, and over the phone.
 context: negotiate
 og-image: SalaryNegotiationGuide.png
 last_modified_at: 2017-09-19
@@ -32,7 +32,7 @@ Salary negotiation starts early in the interview process, when you'll often be a
 
 Once they make an offer, you'll counter offer by sending a carefully written email that includes a strong case to support your counter offer. Typically, your counter offer will be 10–20% more than their offer, and you'll focus on your base salary at first.
 
-After you send your counter, you'll prepare a script ahead of the "Final Discussion", which is typically a 3–5 minute phone call where the recruiter or hiring manager responds to your counter offer and you hash out all the final details of your offer. This is your last chance to improve your compensation package before you decide whether to accept their offer.
+After you send your counter, you'll prepare a script ahead of the "Final Discussion", which is typically a 3–5 minute conversation over the phone where the recruiter or hiring manager responds to your counter offer and you hash out all the final details of your offer. This is your last chance to improve your compensation package before you decide whether to accept their offer.
 
 {% include drip_forms/salary-negotiation-email-templates-content-upgrade.html template-description="a detailed counter offer email template" %}
 
@@ -148,7 +148,7 @@ But there are several unique situations that might call for a slightly modified 
 
 ## <a name="currently-negotiating" class="below-nav">Currently negotiating - after you send your counter offer
 
-Once you've sent your counter offer, you should immediately begin preparing for your Final Discussion. This is what most people think of when they think of "salary negotiation". It's a very short phone call—usually just a few minutes—where the recruiter or hiring manager will respond to your counter offer, and you'll have your final opportunity to maximize your base salary and other non-salary benefits that are important to you.
+Once you've sent your counter offer, you should immediately begin preparing for your Final Discussion. This is what most people think of when they think of "salary negotiation". You'll usually have this discussion over the phone—usually this call will just last a few minutes—where the recruiter or hiring manager will respond to your counter offer, and you'll have your final opportunity to maximize your base salary and other non-salary benefits that are important to you.
 
 ### What non-salary benefits do you care most about?
 
