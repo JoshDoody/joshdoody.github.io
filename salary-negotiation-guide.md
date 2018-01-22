@@ -4,10 +4,10 @@ title: Salary Negotiation Guide - How to negotiate (without seeming greedy)
 share_title: Salary Negotiation Guide - How to negotiate your salary (without seeming greedy)
 headline: Salary Negotiation Guide <span class="sub-h1">Negotiate your job offer (without seeming greedy)</span>
 tagline: Use this guide to negotiate over email, in person, or over the phone
-excerpt: How to negotiate your salary without leaving anything on the table or seeming greedy. Use these proven tactics to negotiate your offer though email, in person, and over the phone.
+excerpt: Negotiate your salary without leaving anything on the table or seeming greedy. Use these proven tactics to negotiate your job offer though email, in person, and over the phone. From evaluating your offer to counter offering and finalizing your compensation package, this guide will show you exactly what to do.
 context: negotiate
 og-image: SalaryNegotiationGuide.png
-last_modified_at: 2017-09-19
+last_modified_at: 2018-01-21
 ---
 ## Where are you in the salary negotiation cycle?
 
