@@ -25,7 +25,7 @@ window.drip_plinko = function(drip, page) {
 			response = {
 				offer: 'tics',
 				modal: drip.file('tics-modal-with-form'),
-				footer: drip.file('tics-footer'),
+				// footer: drip.file('tics-footer'),
 				inline: drip.file('tics-inline')
 			}
 		} else if (context == 'sales-page-interview') {
