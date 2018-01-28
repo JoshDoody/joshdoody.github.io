@@ -8,6 +8,8 @@ excerpt: Negotiate your salary without leaving anything on the table or seeming 
 context: negotiate
 og-image: SalaryNegotiationGuide.png
 last_modified_at: 2018-01-21
+extra_js:
+  - template_requested.js
 ---
 ## Where are you in the salary negotiation cycle?
 
