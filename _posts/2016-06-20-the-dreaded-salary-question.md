@@ -27,7 +27,7 @@ Everything seems pretty straightforward—you talk about your background, how yo
 
 What if they tell you the interview process simply can't continue unless you share your current salary or expected salary?
 
-This will usually come up in the "pre-interview" or "pre-screen", which is right at the beginning of the interview process. That's why it's such a sneaky question! It's a salary negotiation tactic disguised as a gatekeeper-type interview question.
+This will usually come up in the "[pre-interview]({{ site.baseurl }}/book/interview/pre-interview-phase/)" or "pre-screen", which is right at the beginning of the interview process. That's why it's such a sneaky question! It's a salary negotiation tactic disguised as a gatekeeper-type interview question.
 
 So when you hear the salary requirements question, you'll be thinking "What do I need to say to get to my next interview? They asked for my current salary and expected salary, so I'll tell them that so we can move on."
 
