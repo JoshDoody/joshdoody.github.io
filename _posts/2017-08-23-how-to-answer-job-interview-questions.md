@@ -128,7 +128,7 @@ In general, bigger companies will have more information available than smaller c
 
 Use the short list of above to discover exactly what the company needs. Most of the information is publicly available, and some companies will have more information than others. But that's ok because you just need basic information to get through the first interview or two.
 
-**How can you help them achieve their goals and address their pain points?**
+### How can you help them achieve their goals and address their pain points?
 
 *This* is the key question you want to answer before your interviews. When you can tell the hiring manager how you'll help the company or team achieve its goals and address its challenges, they will want to hire you.
 

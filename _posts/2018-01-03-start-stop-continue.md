@@ -12,7 +12,7 @@ When things feel overwhelming, it helps to simplify them so you can get un-stuck
 
 Here's an easy method I use in my [strategy sessions](/call/) to evaluate what's working for my clients and plan for future progress.
 
-**Start.**
+## Start.
 
 What's _one thing_ you can start doing that will make your job easier, make you more productive, save you time, or otherwise make things better?
 
@@ -26,7 +26,7 @@ Or you could start documenting anything you have to do more than once so it's no
 
 Pick something small and _start_ doing it.
 
-**Stop.**
+## Stop.
 
 What's _one thing_ you can stop doing that made work more challenging last year?
 
@@ -36,7 +36,7 @@ Or maybe you can stop using your busy work schedule as an excuse for skipping wo
 
 Look for something small and annoying and see if you can cut it out of your routine.
 
-**Continue.**
+## Continue.
 
 What's _one thing_ you did last year that worked?
 

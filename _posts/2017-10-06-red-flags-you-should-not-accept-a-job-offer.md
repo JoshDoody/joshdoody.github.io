@@ -13,9 +13,12 @@ Here are some red flags to look out for when interviewing and negotiating your s
 
 ## <a name="recruiter-stops" class="below-nav">The recruiter won't continue unless you disclose your current or expected salary
 
-You've probably heard me say that you should not disclose your current or expected salary when asked for it during your job interviews or salary negotiations. If you haven't (or even if you have), you should bookmark this guide:
+You've probably heard me say that you should not disclose your current or expected salary when asked for it during your job interviews or salary negotiations. 
 
-[How to answer the current or expected salary question](https://fearlesssalarynegotiation.com/the-dreaded-salary-question/)
+<div class='guide-link'>
+<p><strong>What should you say when asked for your current salary or salary expectations during an interview?</strong></p>
+<p><a href="/the-dreaded-salary-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
+</div>
 
 A common follow up question to that guide is...
 
@@ -31,7 +34,7 @@ This is a difficult message to communicate because it's so counterintuitive. If 
 
 But maybe not. Let's take a step back and look at the situation from a different vantage point.
 
-**Looking at the bigger picture**
+### Looking at the bigger picture
 
 You want or need a job. This company has a job to be done, and they're considering you as a candidate for that job.
 
@@ -39,7 +42,7 @@ So far, so good.
 
 They have your resume, they know your work history, they have talked to you in interviews and over email. They know their budget for this particular job. They've probably done some market research to see what the going rate is for the kind of job they're trying to fill. They know how many other candidates they're considering. They know how badly they need to fill the job. 
 
-**They already have a lot more information than you do.**
+### They already have a lot more information than you do.
 
 Now they need to decide if *you* are the right candidate for the job.
 
@@ -57,7 +60,7 @@ If their response to that is, "We can't continue.", that's a bad sign. It tells 
 
 They're looking for a bargain. *You don't want to be a bargain.*
 
-**This may be the nicest they'll ever be to you.**
+### This may be the nicest they'll ever be to you.
 
 This is the courtship phase of your relationship: They should be trying to convince you to join their team. They should be *selling* you, which means there's a good chance that this is the friendliest, most copacetic phase of your relationship with this company.
 
@@ -77,7 +80,7 @@ Jim felt like he ran into a dead end at his job, and missed being challenged and
 
 His interviewing technique improved dramatically as we worked together, and he made it through several rounds of interviews for an exciting opportunity at a promising company in his field.
 
-**It seemed like a job offer might be on the way...**
+It seemed like a job offer might be on the way!
 
 The recruiter asked about his current salary, which he declined to share. She seemed a little frustrated, and shared the salary range for the role he had interviewed for. The range she provided looked like this:
 
@@ -117,7 +120,7 @@ She also said Jim had 6 days to "accept, decline or counter" (her words) from th
 
 At least she had firmly left the door open to negotiate. It seemed like the original "medium" salary was available, so we could hope to negotiate *at least* that amount.
 
-**Suddenly, things went sideways**
+Suddenly, things went sideways.
 
 It was sort of a painful process to get a firm offer, but at least we knew the company would consider paying a higher salary than offered *and* the recruiter explicitly said countering was an option.
 
@@ -139,7 +142,7 @@ She didn't respond to his email, so he called her directly. She didn't answer an
 
 She totally ghosted him. Jim still hasn't heard back from her since that last email.
 
-**Why we celebrated when Jim lost this job offer**
+## Why we celebrated when Jim lost this job offer
 
 You might be thinking, "Woah! That really blew up in Jim's face!" But Jim and I ended up celebrating this as a huge victory. Why?
 

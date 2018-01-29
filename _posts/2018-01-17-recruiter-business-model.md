@@ -4,7 +4,7 @@ title: Can you trust your recruiter to get you the highest salary possible?
 headline: Your recruiter <br>is not your friend
 excerpt: Your recruiter is not trying to get you the best salary possible. Here’s how to look out for yourself.
 context: negotiate
-last_modified_at: 2018-01-17
+last_modified_at: 2018-01-28
 ---
 You're happily plugging along at your job, making a decent living, and everything seems fine.
 
@@ -60,7 +60,7 @@ Of course, the downside of working with a realtor is you have to pay them a perc
 
 That's great for you because you don't want the hassle of selling the house, and you want to sell it for as much as possible. Yes, you have to pay them a bigger commission if they get a better price, but you pocket more money, so that's fine.
 
-**Here's the secret**
+### Here's the secret
 
 But that's actually not how it works. **Your realtor doesn't care about getting the best sale price, even if it increases their commission.**
 

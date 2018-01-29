@@ -11,6 +11,8 @@ last_modified_at: 2017-12-11
 
 Ask too early and you may wind up with a lower salary. Ask too late and you may miss your chance.
 
+## You should list your priorities for your salary negotiation
+
 Here's a short list of things you might want to maximize in your salary negotiation, listed from most valuable to least valuable:
 
 1.  More salary
@@ -31,7 +33,7 @@ Your instinct will be to make sure you ask for everything you _might_ want so
 
 But what's important is that you identify which things are most valuable to you so you can focus the negotiation on those things. If you don't explicitly do this, the company will do it for you.
 
-**The company has a list too**
+## The company also has a list of priorities for the salary negotiation
 
 _Their_ list is ordered from the least to most expensive things for them to give:
 
