@@ -205,15 +205,13 @@ Although you probably don't know the pay range for the job you're pursuing, *the
 {% include drip_forms/salary-question-scripts-content-upgrade.html %}
 </div>
 
-So let's say that you're playing a game, and your goal is to get past the salary expectations without sharing your salary requirements. This is Level 1, and the script I just gave you will usually win the game.
-
 ## <a name="when-they-ask-again" class="below-nav">What if they ask again?
 
-So you got to the end of Level 1, and you're feeling pretty good that you didn't disclose your salary expectations. Excellent!
+So you managed to answer their questions without disclosing your salary history or expectations, and you're feeling pretty good. Excellent!
 
 Most of the time, that's all it takes. Most recruiters won't put up too much of a fight because asking those questions just slows them down. They want to fill the position just as badly as you want the job. But they often *have to* ask you about your salary requirements, so they do. Once your refuse to share, they can check that item off the list and move on.
 
-But! Sometimes you complete Level 1 and the game doesn't end. Instead, you move on to Level 2, where the pressure ramps up. Here's what that sounds like:
+But! Sometimes they'll be more persistent and try to find another way to ask. Here's what that sounds like:
 
 > "I really need something to share with HR."
 
