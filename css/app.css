@@ -1627,7 +1627,7 @@ div[data-offer-plinko="optional"] {
     text-align: center;
 }
 
-.slider-cta-tics {
+.slider-cta-tics, .slider-cta-sqs {
     background: #F37021!important;
 }
 

@@ -41,6 +41,8 @@ This is a detailed article, so you can use this table of contents to jump ahead 
  * [Expected salary question - what to expect](#expected-salary-question){:data-template="Expected salary question"}{:data-action="Current and expected salary section"}
  * [Current salary answer - how to respond](#current-salary-answer){:data-template="Current salary answer"}{:data-action="Current and expected salary section"}
  * [Expected salary answer - how to respond](#expected-salary-answer){:data-template="Expected salary answer"}{:data-action="Current and expected salary section"}
+ * [Already shared current salary - how to recover](#already-shared-current-salary){:data-template="Already shared current salary"}{:data-action="Current and expected salary section"}
+ * [Already shared expected salary - how to recover](#already-shared-expected-salary){:data-template="Already shared expected salary"}{:data-action="Current and expected salary section"}
 
 It's easier to understand the current and desired salary questions if we answer another question first: What is the recruiter or hiring manager *really* asking for here?
 
@@ -268,6 +270,67 @@ If they discontinue the interview process because you won't share two of the thr
 That's bad news for you even if you get the job. Do you really want to work somewhere that is so myopic that they ignore perfectly qualified candidates simply because the candidate won't make the negotiation easier by sharing their compensation requirements?
 
 I can't answer that question for you, but I can tell you my answer: "Nope."
+
+## <a name="already-shared-current-salary" class="below-nav">How to recover if you've already disclosed your current salary
+
+So how do you recover if you've already disclosed your current salary depends how early you are in the interview process? Let's take the interview process in two phases:
+
+1. Early in the process—You haven't started your formal interviews yet
+2. Late in the process—You already have a job offer
+
+**1. You haven't started your formal interviews yet**
+
+There's still time!
+
+The problem you need to overcome is that most companies start by thinking, "What's the minimum we need to offer this person to get them to take the job?"
+
+Unfortunately, they have a simple formula to find that "minimum" number they need to offer: your current salary plus a little more to entice you to make the leap.
+
+You want to switch their thinking to, "What do we have to offer this person to convince them to take the job?"
+
+See the difference?
+
+In the first one, they're looking for the smallest number they can get away with. In the second one, they're looking for a number big enough to convince you to make the leap. These are probably two *very* different numbers.
+
+**How you change their thinking**
+
+At every stage of the interview process, **your primary goal is to tell a story about how their company will be better with you on their team**. Just keep telling that story over and over again.
+
+Every time they ask you a question, think, "How can I answer this question in a way that adds another chapter to the story about how their company will be better if they bring me on board?"
+
+If you do change their thinking from "minimum number" to "biggest number necessary", they may forget that you told them your current salary and focus on making a compelling offer instead.
+
+That may be enough to break away from your current salary, but what if you try this and still get an offer that's based on your current salary?
+
+**2. You already have a job offer**
+
+You may have experienced something like this:
+
+You got a job offer, and felt great because it was more than you were currently making. Then, a few minutes later you thought, "Wait a minute. This offer is just my current salary plus 5%! Is that a coincidence?"
+
+Nope, it's not a coincidence 😕
+
+Once you get this far, it's much harder to recover and drastically improve your offer. But you have a couple options based on your own assessment of your [minimum acceptable salary(/minimum-acceptable-salary/):
+
+ 1. If a counter of 10-20% above their offer is above your minimum acceptable salary, then that's your best move. You could negotiate more than your minimum or you can fall back to your minimum as your line in the sand (your walk away number).
+ 2. If that won't work, you can use this [technique to negotiate a lowball job offer](/how-to-negotiate-a-lowball-job-offer/)—ask them if they can make improvements to the offer so you can consider them. This is your way of letting them know that they need to switch their thinking from "minimum" to "most convincing".
+
+Your options are slim, but you do have options even if you've already disclosed your current salary!
+
+## <a name="already-shared-expected-salary" class="below-nav">How to recover if you stated your expected salary and the offer meets or exceeds it
+
+What if you already declared your expected salary and they made an offer that meets or exceeds it, but you want to negotiate for something even higher. How do you do that?
+
+**Look for new information you can incorporate into your negotiation**—ways in which your understanding of the position has changed since you declared your salary range. Here are two examples:
+
+- The job requirements are different than you thought they were—there's more responsibility than you anticipated.
+- The overall benefits package isn't what you anticipated—there's less paid vacation or sick time, the available health insurance coverage isn't as robust as you thought, etc.
+
+Once you identify one or more things, wait for them to make an offer, which will probably be either below or at the low end of the expected salary range you disclosed. Then you can negotiate by saying something like this:
+
+> "I have learned a lot more about the company, the position, and the compensation package since I gave that initial salary range. Given what I've learned, I would be more comfortable at [your counteroffer]."
+
+It's problematic to declare a expected salary range early in the interview process because you don't know enough about the job, the company, and the available perks to pick a salary. But even if you already shared an expected salary, there are still ways to negotiate and improve your job offer.
 
 ## <a name="summary" class="below-nav">Summarizing your options for answering the salary expectations question
 
