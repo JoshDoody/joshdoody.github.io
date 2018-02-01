@@ -25,14 +25,6 @@ Everything seems pretty straightforward—you talk about your background, how yo
 {% include drip_forms/salary-question-scripts-content-upgrade.html %}
 </div>
 
-**What if they *insist?***
-
-What if they tell you the interview process simply can't continue unless you share your current salary or expected salary?
-
-This will usually come up in the "pre-interview" or "pre-screen", which is right at the beginning of the interview process. That's why it's such a sneaky question! It's a salary negotiation tactic disguised as a gatekeeper-type interview question.
-
-So when you hear the salary requirements question, you'll be thinking "What do I need to say to get to my next interview? They asked for my current salary and expected salary, so I'll tell them that so we can move on."
-
 This is a detailed article, so you can use this table of contents to jump ahead if you already know what you're looking for!
 
 **Article contents**
@@ -43,6 +35,14 @@ This is a detailed article, so you can use this table of contents to jump ahead 
  * [Expected salary answer - how to respond](#expected-salary-answer){:data-template="Expected salary answer"}{:data-action="Current and expected salary section"}
  * [Already shared current salary - how to recover](#already-shared-current-salary){:data-template="Already shared current salary"}{:data-action="Current and expected salary section"}
  * [Already shared expected salary - how to recover](#already-shared-expected-salary){:data-template="Already shared expected salary"}{:data-action="Current and expected salary section"}
+
+**What if they *insist?***
+
+What if they tell you the interview process simply can't continue unless you share your current salary or expected salary?
+
+This will usually come up in the "pre-interview" or "pre-screen", which is right at the beginning of the interview process. That's why it's such a sneaky question! It's a salary negotiation tactic disguised as a gatekeeper-type interview question.
+
+So when you hear the salary requirements question, you'll be thinking "What do I need to say to get to my next interview? They asked for my current salary and expected salary, so I'll tell them that so we can move on."
 
 It's easier to understand the current and desired salary questions if we answer another question first: What is the recruiter or hiring manager *really* asking for here?
 
@@ -96,7 +96,7 @@ The one thing that might save you is when you guess so badly that you under-shoo
 
 If you *over*estimate and tell them your salary expectation is $85,000, you may set off red flags that cause them to rethink the interview process altogether. This is pretty rare, but you could disqualify yourself by being "too expensive" for them. If your expected salary is well above their budgeted pay range, they may just move on to other similar candidates with lower salary expectations.
 
-The bottom line is you probably aren’t going to guess what their [salary structure]({{ site.baseurl }}/book/salary-structures/what-is-a-salary-structure/) looks like, and if you try to guess you’ll cost yourself a lot of money.
+The bottom line is you probably aren’t going to guess what their salary structure looks like, and if you try to guess you’ll cost yourself a lot of money.
 
 This sounds pretty bad, right?
 
