@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Salary negotiation email sample - free counter offer letter templates
+title: Salary negotiation email sample - counter offer letter templates
 headline: How to negotiate your starting salary with a compelling counter offer email
 tagline: Salary negotiation email templates to deliver your counter offer when negotiating starting salary
 excerpt: Salary negotiation email samples you can use to counter offer and negotiate your salary once you have a job offer.
