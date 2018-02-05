@@ -37,8 +37,9 @@ window.drip_plinko = function(drip, page) {
 		} else if (context == 'salary-questions') {
 			response = {
 				offer: 'salary-question-scripts',
-				// footer: drip.file('salary-question-scripts-footer'),
-				modal: drip.file('salary-question-scripts-modal-with-form')
+				modal: drip.file('salary-question-scripts-modal-with-form'),
+				footer: drip.file('salary-question-scripts-footer'),
+				inline: drip.file('salary-question-scripts-inline')
 			}
 		}
 	} else {
