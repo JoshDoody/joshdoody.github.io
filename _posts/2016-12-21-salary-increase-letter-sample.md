@@ -24,8 +24,9 @@ The process starts and ends with email, so we'll do a deep dive into how to ask 
  * [Ask for a specific action plan to get a salary increase](#request-a-plan){:data-template="Raise plan request"}{:data-action="Choose raise request template"}
  * [Negotiate a new job offer](/salary-negotiation-email-sample/){:data-template="Salary negotiation email sample"}{:data-action="Choose counter offer template"}
 
-**...or just get all the templates sent directly to your inbox right now!**
-
+<div data-offer-plinko="optional">
+	<p><strong>...or get all 5 templates sent directly to your inbox right away!</strong></p>
+</div>
 <div class="inline-ad hidden"></div>
 
 Some companies address employee compensation in small salary increments—a percent or two every now and then—rather than big jumps. And some companies will grant big raises for exceptional employees.

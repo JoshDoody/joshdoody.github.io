@@ -19,9 +19,7 @@ Everything seems pretty straightforward—you talk about your background, how yo
 
 **You intuitively know that sharing your current salary or desired salary probably isn't in your best interest.** But you're also really excited about this opportunity and you don't want to miss out. Plus, you're not sure how to not answer this question.
 
-<div data-offer-plinko="optional">
-{% include drip_forms/salary-question-scripts-content-upgrade.html %}
-</div>
+<div class="inline-ad hidden"></div>
 
 **What if they *insist?***
 
@@ -33,7 +31,7 @@ So when you hear the salary requirements question, you'll be thinking "What do I
 
 This is a detailed article, so you can use this table of contents to jump ahead if you already know what you're looking for!
 
-**Article contents**
+**Get the answer for your specific situation**
 
  * [Current salary question - what to expect](#current-salary-question){:data-template="Current salary question"}{:data-action="Current and expected salary section"}
  * [Expected salary question - what to expect](#expected-salary-question){:data-template="Expected salary question"}{:data-action="Current and expected salary section"}
@@ -47,7 +45,7 @@ This is a detailed article, so you can use this table of contents to jump ahead 
  * [Already shared current salary - how to recover](#already-shared-current-salary){:data-template="Already shared current salary"}{:data-action="Current and expected salary section"}
  * [Already shared expected salary - how to recover](#already-shared-expected-salary){:data-template="Already shared expected salary"}{:data-action="Current and expected salary section"}
  * [Summary](#summary){:data-template="Summary"}{:data-action="Current and expected salary section"}
-
+ 
 It's easier to understand the current and desired salary questions if we answer another question first: What is the recruiter or hiring manager *really* asking for here?
 
 Let's take each question—current salary and expected salary–separately.
