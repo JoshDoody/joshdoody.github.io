@@ -13,18 +13,18 @@ extra_js:
 ---
 <h2 class='u-center'>Where are you in the salary negotiation cycle?</h2>
 
-Salary negotiation is a cycle that repeats throughout your career. You interview for a new position, negotiate a job offer, leave your old position, start your new job, ask for a raise or two, seek out new opportunities and begin interviewing and negotiating all over again. 
-
-You might do this dozens of times throughout your career, but the salary negotiation process will always be the same. All that changes is where you currently are in the salary negotiation cycle.
-
-Use this salary negotiation guide to jump right to your current stage in the salary negotiation cycle and learn valuable strategies and tactics to get paid what you're worth by negotiating starting salary or asking for a raise.	
-
 <ul class="buttons">
 	<li><a class="guide-btn" href="#expecting-job-offer" data-template="Expecting a job offer" data-action="Choose salary negotiation stage">Expecting a job offer</a></li>
 	<li><a class="guide-btn" href="#job-offer-in-hand" data-template="Job offer in hand" data-action="Choose salary negotiation stage">Just got a job offer</a></li>
 	<li><a class="guide-btn" href="#currently-negotiating" data-template="Currently negotiating" data-action="Choose salary negotiation stage">Currently negotiating</a></li>
 	<li><a class="guide-btn" href="#negotiation-complete" data-template="Negotiation complete" data-action="Choose salary negotiation stage">Finished negotiating</a></li>
 </ul>
+
+Salary negotiation is a cycle that repeats throughout your career. You interview for a new position, negotiate a job offer, leave your old position, start your new job, ask for a raise or two, seek out new opportunities and begin interviewing and negotiating all over again. 
+
+You might do this dozens of times throughout your career, but the salary negotiation process will always be the same. All that changes is where you currently are in the salary negotiation cycle.
+
+Use this salary negotiation guide to jump right to your current stage in the salary negotiation cycle or read it straight through and learn all the valuable strategies and tactics to get paid what you're worth by negotiating starting salary.
 
 <div class="inline-ad hidden"></div>
 
@@ -47,6 +47,25 @@ Finally, once you complete your negotiation and set a start date for your new ro
 That's a high-level overview of the salary negotiation process. The rest of this guide is a step-by-step deep-dive to help you get the best results possible when negotiating your salary.
 
 ## <a name="expecting-job-offer" class="below-nav">Expecting a job offer soon
+
+Just in case you're not quite ready to negotiate your salary—maybe you're skeptical that negotiating salary actually works, or you're concerned about coming off as too aggressive or rubbing someone the wrong way—let's start with *why* you should negotiate your salary.
+
+And why not have a little fun with it?
+
+### 10 reasons you should *not* negotiate your salary
+
+<p class='u-center'><a href="/why-you-should-not-negotiate-your-salary/" target="_blank"><img src="/images/YoinkScreenCap.jpg" alt="10 reasons you should NOT negotiate your salary" style="display: block; width: 100%; max-width: 600px; margin: 0 auto;"/></a></p>
+
+<div class='guide-link'>
+<p><strong>You might recognize a few of these from your own experience...</strong></p>
+<p><a href="/why-you-should-not-negotiate-your-salary/">10 reasons you should <em>not</em> negotiate your salary →</a></p>
+</div>
+
+Most of those reasons come from a place of fear, *which is totally understandable*! That's why it's called [***Fearless** Salary Negotiation*](/get-started/). This guide will who you how to replace that fear and skepticism with confidence.
+
+Now let's get into *how* to negotiate your salary.
+
+Your salary negotiation will begin *before* you get a job offer. There are two things you need to do to get ready for your job offer and make sure you're ready to negotiate the best salary possible.
 
 If you're expecting to negotiate a job offer soon (but haven't gotten your job offer quite yet), there are two things you can do *now* to ensure a successful salary negotiation later on. In fact, you may already be negotiating your salary if you've been asked for your current salary or salary expectations!
 
