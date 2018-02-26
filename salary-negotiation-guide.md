@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Salary Negotiation Guide - How to negotiate a job offer (2018 update)
-share_title: Salary Negotiation Guide - How to negotiate your salary (without seeming greedy)
-headline: How to negotiate your salary (without seeming greedy)
-tagline: Use this guide to negotiate over email, in person, or over the phone
-excerpt: Negotiate your salary without leaving anything on the table or seeming greedy. Use these proven tactics to negotiate your job offer though email, in person, and over the phone. From evaluating your offer to counter offering and finalizing your compensation package, this guide will show you exactly what to do.
+title: How to negotiate salary - Your salary negotiation guide (2018 update)
+share_title: How to negotiate your salary - Complete salary negotiation guide (2018 update)
+headline: How to tactfully negotiate your salary (without leaving anything on the table)
+tagline: How to negotiate salary over email, in person, or over the phone
+excerpt: This is everything you need to confidently negotiate your salary when you receive a job offer. Use these proven tactics to tactfully negotiate your job offer though email, in person, and over the phone so you don't leave anything on the table.
 context: negotiate
 og-image: SalaryNegotiationGuide.png
-last_modified_at: 2018-01-21
+last_modified_at: 2018-02-26
 extra_js:
   - template_requested.js
 ---
