@@ -1640,11 +1640,11 @@ div[data-offer-plinko="optional"] {
     background: #F37021!important;
 }
 
-.slider-cta-salary-negotiation-templates, .slider-cta-coach {
+.slider-cta-salary-negotiation-templates, .slider-cta-coach, .slider-cta-salary-negotiation-template {
     background: #00A9FF!important;
 }
 
-.slider-cta-salary-negotiation-templates .slider-cta-btn, .slider-cta-coach .slider-cta-btn {
+.slider-cta-salary-negotiation-templates .slider-cta-btn, .slider-cta-coach .slider-cta-btn, .slider-cta-salary-negotiation-template .slider-cta-btn {
     background: #006599;
 }
 
