@@ -3,9 +3,9 @@ layout: post
 title: Salary negotiation email sample - counter offer letter template (2018)
 headline: How to negotiate your starting salary with a compelling counter offer email
 tagline: Salary negotiation email templates to deliver your counter offer when negotiating starting salary
-excerpt: Salary negotiation email samples you can use to counter offer and negotiate your salary once you have a job offer.
+excerpt: A professional salary negotiator show you how to counter offer with a salary negotiation email template once you have a job offer. Here's what to say and how to say it when you negotiate your job offer over email.
 context: negotiate
-og-image: SalaryNegotiationEmailSample.png
+og-image: salary-negotiation-email-make-your-case.png
 last_modified_at: 2018-04-05
 extra_js:
   - template_requested.js
@@ -219,6 +219,13 @@ Sometimes, the recruiter will have an approved salary range they can accommodate
 When they need further approval, you need to make it as easy as possible for them to make a strong case to justify the additional salary. You could state your case verbally—on a phone call—but then you're counting on them to remember everything and convey it to Finance or whoever can approve additional budget for your salary.
 
 Instead, give them a well-written counter offer email that they can circulate along with their request for additional budget. You will make your own case much better than they will, so giving them your case in writing allows you to make your best case to whoever needs to approve your final salary.
+
+<p class='u-center'>
+	<figure>
+		<a href="/images/salary-negotiation-email-make-your-case.png" target="_blank"><img src="/images/salary-negotiation-email-make-your-case.png" alt="Salary Negotiation Email - State your case" style="display: block; width: 100%; max-width: 750px; margin: 0 auto;"/></a>
+		<figcaption style="text-align: center;">Salary Negotiation Email Template - An example of how to state your case</figcaption>
+	</figure>
+</p>
 
 #### How to write a compelling case to support your counter offer
 
