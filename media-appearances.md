@@ -95,6 +95,7 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 * [What Building a Successful Business Really Looks Like with Josh Doody](https://freelancetransformation.com/blog/what-building-a-successful-business-really-looks-like-with-josh-doody){:rel="nofollow"} – Freelance Transformation
 * [How to stand out and get paid more with Josh Doody](https://learntocodewith.me/podcast/how-to-get-paid-more-with-josh-doody/){:rel="nofollow"} – Learn to Code With Me
 * [How to Optimize for Opt-Ins and Conversions with Josh Doody](https://doubleyourfreelancing.com/season1-josh-doody/){:rel="nofollow"} – Double Your Freelancing
+* [Josh Doody talks about the biggest avoidable mistakes in salary negotiation](https://medium.com/@JBunky/people-stack-podcast-josh-doody-talks-about-the-biggest-avoidable-mistakes-in-salary-negotiation-ff551a531bd3){:rel="nofollow"} – People Stack Podcast
 
 ## <a name="talks" class="below-nav">Talks
 
