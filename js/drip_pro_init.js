@@ -41,6 +41,13 @@ window.drip_plinko = function(drip, page) {
 				footer: drip.file('salary-question-scripts-footer'),
 				inline: drip.file('salary-question-scripts-inline')
 			}
+		} else if (context == 'promotion') {
+			response = {
+				offer: 'promotion-course',
+				modal: drip.file('promotion-course-modal-with-form'),
+				footer: drip.file('promotion-course-footer'),
+				inline: drip.file('promotion-course-inline')
+			}
 		}
 	} else {
 		if (context == 'negotiate') {

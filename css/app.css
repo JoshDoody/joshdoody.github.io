@@ -1668,11 +1668,11 @@ div[data-offer-plinko="optional"] {
     margin-top: -15px;
 }
 
-.slider-cta-salary-increase-templates, .slider-cta-frc {
+.slider-cta-salary-increase-templates, .slider-cta-frc, .slider-cta-promotion-course {
     background: #50b432!important;
 }
 
-.slider-cta-salary-increase-templates .slider-cta-btn, .slider-cta-frc .slider-cta-btn {
+.slider-cta-salary-increase-templates .slider-cta-btn, .slider-cta-frc .slider-cta-btn, .slider-cta-promotion-course .slider-cta-btn {
     background: #357821;
 }
 
