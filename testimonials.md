@@ -125,7 +125,7 @@ Learn more: [*Fearless Salary Negotiation*](/get-started/)
 
 {% include testimonials/robert_m.html %}
 
-<!-- {% include testimonials/penny.html short=true %}		 -->
+{% include testimonials/penny.html short=true %}
 
 ## <a name="gynr" class="below-nav">*Get Your Next Raise*
 	
