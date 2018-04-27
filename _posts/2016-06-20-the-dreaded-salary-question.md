@@ -283,7 +283,7 @@ I can't answer that question for you, but I can tell you my answer: "Nope."
 {% include drip_forms/salary-question-scripts-content-upgrade.html %}
 </div>
 
-## <a name="when-they-insist" class="below-nav">What if *insist*?
+## <a name="when-they-insist" class="below-nav">What if they *insist*?
 
 So you gave my pat answer and completed Level 1. But the game kept going and now you're at Level 2 and they're asking *again*. What do you say to complete Level 2 and end this awkward conversation?
 
