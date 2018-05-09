@@ -24,9 +24,9 @@ So nobody buys it when you say, "I don't have any weaknesses." and that means th
 
 Ok, but just because there's not an easy answer doesn't mean it's a _bad_ question, right?
 
-The problem is if you're trying to impress someone who will pay you a lot of money to do a challenging job, telling them your greatest weakness usually isn't a great idea. Telling someone, "Here's something I'm really bad at!" will probably work against you.
+The problem is if you're trying to impress someone who will pay you a lot of money to do a challenging job, telling them, "Here's something I'm really bad at!" will probably work against you.
 
-Saying something hurtful about yourself in front of a stranger who might offer you a job will probably backfire.
+Saying something hurtful about yourself in front of a stranger who may offer you a job might possibly backfire, right?
 
 ### 3. Spin one of your assets into a "weakness" in a transparent way that doesn't fool anyone
 
@@ -44,7 +44,7 @@ You don't buy these answers and neither will they.
 
 ## Candidates - How to answer “What's your greatest weakness?”
 
-Even though this is a dumb question, you have to answer it if asked. (The alternative is to refuse to answer, but that won't go over well.) And of course you want to answer honestly without disqualifying yourself.
+Even though this is a dumb question, you have to answer it. (The alternative is to refuse to answer, but that won't go over well.) And of course you want to answer honestly without disqualifying yourself.
 
 So here are three things to consider when answering "What's your greatest weakness?":
 
@@ -54,7 +54,7 @@ So here are three things to consider when answering "What's your greatest weakne
 
 Here's an example of a good answer to this question that checks all three boxes above:
 
-"I've thought about this a lot and I often struggle with impatience and appearing intimidating to my coworkers because I want to appear knowledgeable. But that's one reason I'm interested in working with this team. I know everyone here is knowledgeable without being pretentious about it, and I can both learn from them and share things with them."
+> "I've thought about this a lot and I often struggle with impatience and appearing intimidating to my coworkers because I want to appear knowledgeable. But that's one reason I'm interested in working with this team. I know everyone here is knowledgeable without being pretentious about it, and I can both learn from them and share things with them."
 
 That's a pretty good way of acknowledging a weakness—that you might sometimes overcompensate and seem a little harsh—while also identifying that this shouldn't be an issue with this particular team because you won't need to overcompensate to impress this group.
 
@@ -68,6 +68,6 @@ If you must ask about weaknesses, try to ask a more specific question that will 
 
 "Tell me about a time you made a mistake at a previous job, and describe what you did to resolve it."
 
-That's a first-cousin of the "greatest weakness" question, but it will actually yield helpful answers that will inform your hiring decision.
+That's a first-cousin of the "greatest weakness" question, and it will actually yield helpful answers that will inform your hiring decision.
 
 <div class="inline-ad hidden"></div>
