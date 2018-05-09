@@ -38,7 +38,7 @@ That leaves us with the third terrible option, which is to pretend one of your s
 
 "I try to solve customers' problems even at my own expense."
 
-Blech. Just typing those made me feel a little nausiated, and I bet you rolled your eyes too 🙄
+Blech. Just typing those made me feel a little nauseated, and I bet you rolled your eyes too 🙄
 
 You don't buy these answers and neither will they.
 
