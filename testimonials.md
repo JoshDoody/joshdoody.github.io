@@ -127,9 +127,9 @@ Learn more: [*Fearless Salary Negotiation*](/get-started/)
 
 {% include testimonials/penny.html %}
 
-<!-- {% include testimonials/christy_s.html %} -->
+{% include testimonials/christy_s.html %}
 
-<!-- {% include testimonials/nick_c.html %} -->
+{% include testimonials/nick_c.html %}
 
 {% include testimonials/amy_fsn.html %}
 
