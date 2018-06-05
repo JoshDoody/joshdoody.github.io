@@ -74,6 +74,48 @@ But if you you don't share your current or expected salary and the recruiter shu
 
 Don't be a commodity.
 
+## <a name="equity-trouble" class="below-nav">They're a private company and they argue over the value of their equity
+
+The negotiation began pretty normally, and they even moved a little bit on salary. But then the recruiter suddenly tightened up and even became defensive and a little combative.
+
+Can you guess what set him off?
+
+Equity.
+
+### Ruffled feathers
+
+We asked them to double the equity since they couldn't move very much on base salary. Sure, that’s a pretty big ask, but not uncommon for Software Developers right now.
+
+This is a pre-IPO "startup", which means their equity doesn't have real value yet because it's not publicly traded and we can't do our own valuation of the company because their books aren't open to the public.
+
+Even their method for showing the possible value of their own equity included a lot of uncertainty: They sent a spreadsheet with "low", "medium", and "high" potential outcomes for the value of their based on a hypothetical, as-yet-unscheduled IPO. (They went with the "medium" option.)
+
+### Arguing over the value of Monopoly money
+
+Their equity offer—a significant component of the total value they put on the offer—is basically Monopoly money. And we asked for more of that equity as a last-ditch effort for my client to improve the offer *somehow* before deciding whether this company was the right place for them.
+
+Instead of compromising, the company asked *why* my client wanted more equity. His answers were reasonable: they're not public yet, so imputing a real value on the equity is extremely difficult; while he appreciated their internal valuation for their own pre-IPO stock, he felt their valuation was optimistic given recent news and market conditions he had observed; he would be leaving a stable job with a large raise coming soon for a riskier situation and wanted the upside for that risk to be higher.
+
+They didn't like those answers and actually said it rubbed them the wrong way that he would question their own valuation of their stock:
+
+“It didn’t sit very well with our Finance team that you questioned our equity valuation.”
+
+### Watch out for red flags
+
+This was a big red flag for my client. Nobody *really* knows the value of a private company whose books aren't open for public review. 
+
+This company was just trying to get a relatively cheap Software Engineer by keeping the salary lower than his market value while making up for some of that gap with over-valued equity. 
+
+And when my client said, "I think your valuation is a little rich and would like more equity to make my numbers work.", the recruiter got defensive.
+
+This is the time when the company should be working its hardest to get good candidates to help it grow and get ready for its IPO. Instead, it's looking for cheap labor and arguing about the value of Monopoly money.
+
+That’s a red flag that things inside the company may not be going well, and it could be a very difficult place to work. 
+
+In the end, my client decided to go with a better option at a company who didn’t mind a little light negotiation and I got another item to add to my list of red flags to look for when considering an opportunity.
+
+You have agency when choosing where you work. If you see red flags during your negotiation, pay attention to them and consider other options if the red flags start to pile up.
+
 ## <a name="offer-retracted" class="below-nav">They retract your job offer when you negotiate your salary
 
 Jim felt like he ran into a dead end at his job, and missed being challenged and having opportunities to try new things. He had a strong Mechanical Engineering resume that landed him plenty of job interviews, but he struggled to get call-backs. So he hired me to help.
