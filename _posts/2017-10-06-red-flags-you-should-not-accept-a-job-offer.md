@@ -5,11 +5,17 @@ headline: Do you <em>really</em> want to work there?
 tagline: Look out for these red flags when considering a job offer
 excerpt: Watch out for these red flags before you accept a job offer.
 context: negotiate
-last_modified_at: 2017-10-18
+last_modified_at: 2018-06-05
 ---
 It's tempting to see a job offer as an unequivocally good thing, but sometimes there are good reasons to avoid certain companies and situations.
 
 Here are some red flags to look out for when interviewing and negotiating your salary.
+
+**Jump to a red flag:**
+
+ * [The recruiter won't continue interviews without salary details](#recruiter-stops){:data-template="Recruiter stops negotiating"}{:data-action="Negotiation red flag"}
+ * [Private company is offended when you question their equity valuation](#equity-trouble){:data-template="Private equity valuation"}{:data-action="Negotiation red flag"}
+ * [They retract your offer when you negotiate](#offer-retracted){:data-template="Offer retracted"}{:data-action="Negotiation red flag"}
 
 ## <a name="recruiter-stops" class="below-nav">The recruiter won't continue unless you disclose your current or expected salary
 
