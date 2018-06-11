@@ -190,7 +190,7 @@ She didn't respond to his email, so he called her directly. She didn't answer an
 
 She totally ghosted him. Jim still hasn't heard back from her since that last email.
 
-## Why we celebrated when Jim lost this job offer
+### Why we celebrated when Jim lost this job offer
 
 You might be thinking, "Woah! That really blew up in Jim's face!" But Jim and I ended up celebrating this as a huge victory. Why?
 
@@ -223,5 +223,37 @@ So if this experience is the *best* they have to offer, what's it like to actual
 Fortunately, Jim had been interviewing with another company at the same time. They made a slightly better offer and were very friendly throughout the subsequent negotiation. Now he's working there, making more money and he loves what he's doing and feels great about the career opportunities that lie ahead of him at a solid company.
 
 That's something worth celebrating.
+
+### Another real-world example: Carrie was relieved when they rescinded her product manager job offer
+
+Here's another story from Carrie, who read about Jim's story and reached out to share her own situation.
+
+Thank you for this great story!  I had a very similar experience recently and it is good to know I am not the only one out there.
+
+Having recently completed my MBA and in the process of pivoting careers, I have been job searching pretty seriously for about 2 months.  A couple weeks ago, I received a call from a recruiter from a company for a position that I had not even applied for (this probably might have been my first clue that something was up).
+
+He told me he had this great position as a product manager.  I would have full responsibility for a line of products in this growing company with tons of opportunity for future growth.  It sounded exciting and like a great opportunity.  He said he would talk directly to the hiring manager and get back to me.
+
+Two hours later, he calls me back.  They wanted to meet with me!  We scheduled an interview for a few days later.  Then he says, "Ok, before you go to this interview, I need to brief you about some things."  Ok, well that sounded a little strange.  The HR recruiter for the company then goes on to tell me what I needed to know before meeting with the hiring manager, "Bring 3 copies of your resume, don't use staples, he likes paperclips, when you go in to his office, don't touch his desk, he likes to talk about himself, so don't talk too much."  What?!  Was this guy kidding?
+
+Needless to say, I thought about not showing up to the interview.  However, it was the first call I had gotten about a job since starting my search, I needed the interview practice, and I was morbidly curious, so I decided to go.
+
+And they were super nice!  The interview lasted about 2 hours, they talked about the company, its history, and how they thought I could fit in to their culture and their team.  They invited me back for a second interview the following week.  I was so excited!
+
+The next week, I went in for the second interview.  We talked briefly about salary, they had me choose and office and told me they would be sending a letter out later that day via e-mail.  (This was when I looked up your website, by the way.  I wanted to be prepared to negotiate.)
+
+I received an offer letter from their HR department the next morning, a Tuesday.  It was a reasonable offer, enough that I could live on, but not up to what the position should have paid, there certainly seemed like room for negotiation.  I responded to HR within the hour, "Thank you, may I have some time to think about it."  He responded saying they would like a response within 48 hours.  Wow, that is not much time, but I started drafting my negotiation letter.
+
+That afternoon, I got another phone call.  It was from the hiring manager, the EVP of the company.  He asked why I had not accepted the offer yet.  I let him know that I was thinking about it, I had some other companies interested in me and I wanted to make the best choice for myself and my family.
+
+**He EXPLODED!  **(this is the guy I had been warned about, apparently he had been hiding this side of himself throughout the job interview)
+
+He was obviously angry, and seemed to think that I had personally offended him in some way.  "That offer was fair and reasonable, way above the max for that position!  I will not be PLAYED like that!  If you don't want to accept our offer, we are rescinding it!"  Mind you, by that last sentence, he was practically yelling.  This was literally hours after receiving the offer, I had not even begun to negotiate yet.
+
+After that, I politely said, "Thank you, have a great day."  And man, I meant it.  _**He really did me a favor**_.  I cannot imagine having to work for a company that treats candidates like that.  What would working there be like?  
+
+It turns out, I should have listened to HR, and my gut feeling in the beginning.  But I am so glad I didn't take that first offer. I will always try to counter, even if it doesn't work, you learn a lot about the company in the process.
+
+Carrie
 
 <div class="inline-ad hidden"></div>
