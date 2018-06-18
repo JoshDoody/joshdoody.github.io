@@ -166,10 +166,10 @@ jQuery(function(){
 
       traits = $.extend(traits, this.custom_fields())
 
-			var pageName = document.title.replace(' | Fearless Salary Negotiation','').replace(' | Get Your Next Raise','')
-
-      if (pageName.length) {
-        this.add_tag('Read - ' + pageName)
+			//var pageName = document.title.replace(' | Fearless Salary Negotiation','').replace(' | Get Your Next Raise','')
+			var pageURL = window.location.origin + window.location.pathname
+      if (pageURL.length && window.location.origin != 'http://localhost:4000') {
+        this.add_tag('Read - ' + pageURL)
 				console.log("Tags: " + this.tags())
       }
     },
