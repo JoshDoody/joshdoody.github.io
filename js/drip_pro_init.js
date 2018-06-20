@@ -50,14 +50,16 @@ window.drip_plinko = function(drip, page) {
 			}
 		}
 	} else {
-		if (context == 'negotiate') {
-			response = {
-				offer: 'coach',
-				modal: drip.file('coach-modal'),
-				footer: drip.file('coach-footer'),
-				inline: drip.file('coach-inline')
-			}
-		} else if (!drip.has_tag('Purchased - FSN - Bundle') && !context.startsWith('sales-page')) {
+		// Disabling this for now - it pitches coaching and I'm booked up
+		// if (context == 'negotiate') {
+		// 	response = {
+		// 		offer: 'coach',
+		// 		modal: drip.file('coach-modal'),
+		// 		footer: drip.file('coach-footer'),
+		// 		inline: drip.file('coach-inline')
+		// 	}
+		// } else
+		if (!drip.has_tag('Purchased - FSN - Bundle') && !context.startsWith('sales-page')) {
 				response = {
 					offer: 'fsn',
 					footer: drip.file('fsn-footer')
