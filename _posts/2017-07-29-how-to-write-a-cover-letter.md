@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Write a Kick-Ass <br>Cover Letter
+headline: How to write a compelling cover letter
 tagline: <em>By <a href="https://kaidavis.com">Kai Davis</a></em>
 excerpt: How to write a cover letter that grabs the attention of even the most seasoned resume or CV reader
 context: interview
