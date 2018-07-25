@@ -1,5 +1,7 @@
 ---
 layout: gynr_markdown
+metatags: noindex
+sitemap: false
 title: Get Your Next Raise
 tagline: Lesson notes and resources
 excerpt: Lesson notes and resources to accompany Get Your Next Raise
