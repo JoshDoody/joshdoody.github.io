@@ -2432,9 +2432,34 @@ header#masthead nav ul li {
 
 header#masthead nav ul a {
 	color: white;
-	font-weight: 400;
-	text-transform: uppercase;
 }
+
+/* new nav button code pulled from old commit */
+
+header#masthead nav .nav-cta-btn {
+		width: 100%;
+		background: #F37021;
+    color: #fff;
+		text-decoration: none;
+    font-weight: 400;
+    border-radius: 5px;
+    border-bottom: 3px solid #D15F00 ;
+    padding: 0px 15px;
+    text-align: center;
+		display: inline-block;
+}
+
+header#masthead nav .nav-cta-btn:hover {
+  background: #EC6B00 ;
+	color: white;
+}
+
+header#masthead nav .nav-cta-btn:active {
+    border-bottom: none;
+    position: relative;
+    top: 3px;
+}
+/* end new nav button code from old commit */
 
 @media only screen and (min-width: 768px) {
 	header#masthead + * {
