@@ -14,6 +14,8 @@ Occasionally you'll ace your interviews and still get a lowball job offer, with 
 
 So what can you do to reset the salary negotiation? Here's a tactic you can use when negotiating a lowball salary offer.
 
+<div class="inline-ad hidden"></div>
+
 <div class='guide-link'>
 <p><strong>What's next once you respond to your lowball job offer?</strong></p>
 <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>

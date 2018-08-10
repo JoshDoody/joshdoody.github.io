@@ -23,8 +23,8 @@ window.drip_plinko = function(drip, page) {
 			response = {
 				offer: 'salary-negotiation-lowball-template',
 				modal: drip.file('salary-negotiation-lowball-template-modal-with-form'),
-				// footer: drip.file('salary-negotiation-lowball-template-footer'),
 				inline: drip.file('salary-negotiation-lowball-template-inline-with-form')
+				// footer: drip.file('salary-negotiation-lowball-template-footer'),
 			}
 		} else if (context == 'interview') {
 			response = {
