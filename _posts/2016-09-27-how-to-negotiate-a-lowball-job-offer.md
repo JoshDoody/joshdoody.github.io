@@ -4,13 +4,13 @@ title: 'Lowball job offers: How to negotiate them'
 tagline: How to respond to a low salary offer when negotiating starting salary
 excerpt: How to respond to a low salary offer when negotiating starting salary
 share_title: How to negotiate a lowball job offer
-context: negotiate
-last_modified_at: 2017-09-12
+context: negotiate-lowball
+last_modified_at: 2018-08-10
 og-image: LowballJobOffer.png
 ---
 What's your goal in an interview? To get the best job offer possible and to set yourself up to negotiate the best salary possible. You want the company to focus on "What do we have to offer to convince them to join our team?" as opposed to "What's the minimum we can pay to bring them on board?" It's a subtle but important distinction.
 
-Occasionally you'll ace your interviews and still get a lowball job offer, with a salary that's just too low—*way* below your [minimum acceptable salary]({{ site.baseurl }}/book/negotiate/what-is-your-minimum-acceptable-salary/). Maybe they simply can't afford you, or maybe their pay range for this particular job is so wide that they don't know where to slot you in.
+Occasionally you'll ace your interviews and still get a lowball job offer, with a salary that's just too low—*way* below your [minimum acceptable salary](/book/negotiate/what-is-your-minimum-acceptable-salary/). Maybe they simply can't afford you, or maybe their pay range for this particular job is so wide that they don't know where to slot you in.
 
 So what can you do to reset the salary negotiation? Here's a tactic you can use when negotiating a lowball salary offer.
 
@@ -73,7 +73,7 @@ It's best to do that by sending a short email to let them know that the offer is
 
 <div data-offer-plinko="optional">
 <!-- {% include drip_forms/salary-negotiation-email-templates-content-upgrade.html template-description="the template to respond to a lowball offer using this technique" %} -->
-{% include drip_forms/salary-negotiation-email-template-content-upgrade.html %}
+{% include drip_forms/salary-negotiation-lowball-email-template-content-upgrade.html %}
 </div>
 
 <!-- <div class='sample-email'>
