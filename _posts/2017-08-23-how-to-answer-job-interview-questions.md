@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How to answer “Why should we hire you?” and other questions
+title: How to answer interview questions like “Why should we hire you?”
 tagline: Connecting your professional super powers to employers' desired business outcomes to get more high-quality job offers
-excerpt: How to say why you're the best candidate and answer the toughest interview questions with a straightforward, repeatable process.
+excerpt: How to confidently answer the toughest interview questions to make a good impression and stand out from other candidates.
 context: interview
-last_modified_at: 2017-10-06
+last_modified_at: 2018-08-10
 ---
 You're ready to make a change, so you throw your hat in the ring for a few opportunities that look interesting. You quickly get a couple of calls to set up interviews, talk to a couple of hiring managers, and...you don't hear back.
 
@@ -20,7 +20,7 @@ This is almost always a sign that the you need better *positioning*.
 
 Your job interviews are a part of your negotiation. The better you perform, the better your offer will be *and* the better you'll be able make your case when you begin the formal salary negotiation.
 
-Every question you're asked is a chance to move them in this direction. Imagine you have a power meter that fills up a little more every time you give a great answer to an interview question. The more full that power meter is when they make you an offer, the better the offer will be.
+Every interview question you're asked is a chance to move them in this direction. Imagine you have a power meter that fills up a little more every time you give a great answer to an interview question. The more full that power meter is when they make you an offer, the better the offer will be.
 
 Once you get into your interviews your job is to change the company's thinking from "What's the minimum we can offer this candidate to get them into this role?" to "What's it going to take to convince this candidate to take this job?"
 
@@ -142,7 +142,7 @@ Here's the formula:
 2. Identify specific ways you can help them address those needs and challenges.
 3. Answer interview questions by telling them how you'll help them address their needs and challenges.
 
-Let's go back to the very beginning. The question we're considering is:
+Let's go back to the very beginning. The common interview question we're considering is:
 
 **"Why should we hire you?"**
 
@@ -158,7 +158,7 @@ But look at who this candidate is talking about: I've, I, I, I.
 
 Don't just talk about yourself. Talk about how you can help the company achieve its goals or address its pain points. You'll still say "I", but you'll say it in the context of "you".
 
-This is a softball question, the perfect setup for you to tell them how you'll help them meet one of their goals or resolve a challenge they're having! Take advantage of it!
+This is a softball interview question, the perfect setup for you to tell them how you'll help them meet one of their goals or resolve a challenge they're having! Take advantage of it!
 
 If you've done your research before the interview, then the first thing you'll do when confronted with this question is think, "What is their most urgent need or challenge?" It will probably be pretty obvious since you've spent time reading about their company, but it's ok to just pick something from your list if there isn't any particular outstanding one.
 
