@@ -5,6 +5,7 @@ tagline: Word-for-word scripts to avoid making one of the most expensive intervi
 excerpt: Word-for-word scripts to avoid sharing your current salary or expected salary when asked for your current compensation or salary expectations in an interview
 og-image: DreadedSalaryQuestion.png
 context: salary-questions
+author: josh
 last_modified_at: 2018-02-05
 extra_js:
   - template_requested.js

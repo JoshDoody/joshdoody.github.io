@@ -6,6 +6,7 @@ excerpt: Here’s how to boost your lifetime earnings by hundreds of thousands o
 last_modified_at: 2016-11-07
 og-image: SoftwareDevRaiseGuide.png
 context: raise
+author: josh
 ---
 How do you boost your lifetime earnings? The most common way is to change jobs occasionally and negotiate a higher salary.
 

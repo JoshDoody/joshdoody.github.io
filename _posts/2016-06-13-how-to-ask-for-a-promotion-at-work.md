@@ -5,6 +5,7 @@ headline: Get promoted by thinking like a manager
 tagline: A proven two-step process to get your next promotion
 excerpt: A proven two-step process to get promoted at work by thinking like a manager.
 context: promotion
+author: josh
 last_modified_at: 2016-10-24
 ---
 You’ve got your eye on a promotion. Maybe it’s the next job in your career path, or maybe it’s in another part of the company. How do you get there?

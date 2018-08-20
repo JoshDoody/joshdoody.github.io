@@ -4,6 +4,7 @@ title: Why “What's your greatest weakness?” is a dumb interview question
 tagline: ...and how to answer it
 excerpt: You’re afraid of this question, and you’re not alone! Here's why it's a dumb question and how you can answer it without tanking your job interview.
 context: interview
+author: josh
 last_modified_at: 2018-05-09
 ---
 It's the interview question that strikes fear into the hearts of job candidates everywhere: _What if they ask me about my greatest weakness?! What will I say? Do I lie? WHAT DO I DO???_

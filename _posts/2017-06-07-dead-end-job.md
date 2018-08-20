@@ -6,6 +6,7 @@ share_title: Afraid you’re being pigeonholed at work? Here’s what to do abou
 tagline: How to find and prioritize opportunities to branch out in your career today
 excerpt: You're heading for a dead-end job. You're stuck on your career path, possibly boxed in by your own success. Here's what to do to avoid being pigeonholed.
 context: raise
+author: josh
 last_modified_at: 2017-08-02
 --- 
 What's it mean to be pigeonholed?

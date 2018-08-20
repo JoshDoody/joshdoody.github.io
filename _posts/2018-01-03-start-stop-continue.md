@@ -4,6 +4,7 @@ title: Use the “Start. Stop. Continue.” method to plan your next steps
 tagline: A simple method to get un-stuck and make some progress
 excerpt: This simple method will help you evaluate your past results and plan for future progress.
 context: raise
+author: josh
 last_modified_at: 2018-01-03
 ---
 Looking back on last year and planning ahead for this year can feel overwhelming. Where do you even begin? This is a perfect time for some "analysis paralysis" to creep in and prevent you from getting anything done.

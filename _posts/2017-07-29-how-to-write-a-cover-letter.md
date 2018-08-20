@@ -2,9 +2,9 @@
 layout: post
 title: How to Write a Kick-Ass <br>Cover Letter
 headline: How to write a compelling cover letter
-tagline: <em>By <a href="https://kaidavis.com">Kai Davis</a></em>
 excerpt: How to write a cover letter that grabs the attention of even the most seasoned resume or CV reader
 context: interview
+author: kai
 last_modified_at: 2017-07-29
 --- 
 You have 60-seconds to make an impression with your cover letter. Why? The person reading your cover letter wants to ball it up, throw it away, and get on with their day. They’re burnt out and have a stack of applications on their deck. They’re an expert at reading resumes and they’ve seen all the tricks. In 30 seconds, they’re going to decide if you’re headed to the shredder or the interview pile. You need to make it easy or them to realize how interesting you are.

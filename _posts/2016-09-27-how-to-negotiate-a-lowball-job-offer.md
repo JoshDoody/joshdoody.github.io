@@ -5,6 +5,7 @@ tagline: How to respond to a low salary offer when negotiating starting salary
 excerpt: How to respond to a low salary offer when negotiating starting salary
 share_title: How to negotiate a lowball job offer
 context: negotiate-lowball
+author: josh
 last_modified_at: 2018-08-10
 og-image: LowballJobOffer.png
 ---

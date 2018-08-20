@@ -5,6 +5,7 @@ headline: Do you <em>really</em> want to work there?
 tagline: Look out for these red flags when considering a job offer
 excerpt: Watch out for these red flags before you accept a job offer.
 context: negotiate
+author: josh
 last_modified_at: 2018-06-05
 ---
 It's tempting to see a job offer as an unequivocally good thing, but sometimes there are good reasons to avoid certain companies and situations.

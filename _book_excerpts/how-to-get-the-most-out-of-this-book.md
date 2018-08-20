@@ -4,6 +4,7 @@ title: How to get the most out of Fearless Salary Negotiation
 excerpt: Here's how to get the most out of Fearless Salary Negotiation.
 has_basic_bundle_pitch: true
 context: interview
+author: josh
 last_modified_at: 2016-06-29
 permalink: /book/:path/
 type: contents

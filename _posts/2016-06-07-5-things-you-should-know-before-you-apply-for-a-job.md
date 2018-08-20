@@ -4,6 +4,7 @@ title: 5 things you should know before you apply for a job
 tagline: How to find the right opportunities and make the most of them
 excerpt: Here's how you'll find the best opportunities and tactics you can use to make the most of them.
 context: interview
+author: josh
 ---
 The key to finding great opportunities and doing well in your job interviews is preparation. When you're prepared, you'll perform better, stand out from other candidates, and set yourself up for the best job offer possible.
 

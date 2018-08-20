@@ -4,6 +4,7 @@ title: You don't have to accept or decline a job offer
 tagline: There's a better response that can improve the offer
 excerpt: There's a better response that can get you a higher base salary, more vacation time, and other benefits.
 context: negotiate
+author: josh
 ---
 > "I finally got a job offer!"\\
 > "Congrats! Are you accepting it?"\\

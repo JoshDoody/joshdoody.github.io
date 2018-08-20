@@ -4,6 +4,7 @@ title: How to compare independent contractor vs full-time employee salary
 headline: “What if they lowball my salary when I move from contractor to full-time?”
 excerpt: A simple two-step process to compare a contractor salary to a full-time employee salary if you're going contract to perm or striking out on your own as a freelancer.
 context: negotiate
+author: josh
 last_modified_at: 2018-05-23
 ---
 Joe recently asked me a great question:

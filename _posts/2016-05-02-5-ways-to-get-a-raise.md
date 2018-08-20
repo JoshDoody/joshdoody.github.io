@@ -4,6 +4,7 @@ title: 5 ways to get a raise
 tagline: How to supercharge your lifetime earning potential
 excerpt: Take advantage of these five ways to get a raise and supercharge your lifetime earning potential.
 context: raise
+author: josh
 ---	
 
 **Every career is a story, but your story will be different.** Why? Because you'll take advantage of these five ways to get a raise.

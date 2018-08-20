@@ -4,6 +4,7 @@ title: How to answer interview questions like “Why should we hire you?”
 tagline: Connecting your professional super powers to employers' desired business outcomes to get more high-quality job offers
 excerpt: How to confidently answer the toughest interview questions to make a good impression and stand out from other candidates.
 context: interview
+author: josh
 last_modified_at: 2018-08-10
 ---
 You're ready to make a change, so you throw your hat in the ring for a few opportunities that look interesting. You quickly get a couple of calls to set up interviews, talk to a couple of hiring managers, and...you don't hear back.

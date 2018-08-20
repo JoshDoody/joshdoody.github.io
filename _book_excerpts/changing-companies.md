@@ -6,6 +6,7 @@ last_modified_at: 2016-06-28
 share_title: Leveraging your best opportunity to significantly increase your salary
 permalink: /book/:path/
 context: interview
+author: josh
 type: contents
 book_section: 6
 section: 0

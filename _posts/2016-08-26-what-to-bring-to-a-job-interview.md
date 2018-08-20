@@ -5,6 +5,7 @@ tagline: Venue-specific interview checklists for each type of job interview
 excerpt: Venue-specific interview checklists to help you prepare for each type of job interview—in person, phone call, or video call.
 share_title: Interview checklists—Venue-specific checklists to prepare for each type of job interview
 context: interview
+author: josh
 last_modified_at: 2016-08-29
 og-image: InterviewChecklists.png
 ---

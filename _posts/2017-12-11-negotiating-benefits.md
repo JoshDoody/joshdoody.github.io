@@ -5,6 +5,7 @@ headline: “When can I ask for more paid vacation?”
 tagline: How to prioritize and negotiate non-salary benefits
 excerpt: Here's when and how to negotiate for non-salary benefits like vacation, equity, signing bonus and more.
 context: negotiate
+author: josh
 last_modified_at: 2017-12-11
 ---
 "When can I ask for more paid vacation?" is a valuable question that you need to get right so you don't leave anything on the table when you negotiate your salary.

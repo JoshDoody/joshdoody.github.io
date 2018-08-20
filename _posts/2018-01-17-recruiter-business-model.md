@@ -4,6 +4,7 @@ title: Can you trust your recruiter to get you the highest salary possible?
 headline: Your recruiter <br>is not your friend
 excerpt: Your recruiter is not trying to get you the best salary possible. Here’s how to look out for yourself.
 context: negotiate
+author: josh
 last_modified_at: 2018-01-28
 ---
 You're happily plugging along at your job, making a decent living, and everything seems fine.

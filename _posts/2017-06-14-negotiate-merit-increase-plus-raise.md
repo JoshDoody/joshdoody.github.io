@@ -3,6 +3,7 @@ layout: post
 title: How to negotiate a raise in addition to your annual merit increase
 excerpt: Here's how to negotiate a larger raise in addition to the merit increase you were offered in your annual review.
 context: raise
+author: josh
 last_modified_at: 2017-06-14
 --- 
 It's been a long year. You changed teams, picked up new projects, started mentoring a couple junior developers, wrote a couple spectacular white papers, or any number of other productive things. 

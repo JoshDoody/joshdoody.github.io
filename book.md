@@ -5,7 +5,7 @@ excerpt: Fearless Salary Negotiation will show you how to estimate your market v
 context: interview
 last_modified_at: 2017-08-30
 ---
-*Fearless Salary Negotiation* walks you through every phase of the interview and salary negotiation processes, and it's packed with specific tactics so you always know what to do next. That's why it quickly became a #1 Best Seller on Amazon.
+*Fearless Salary Negotiation* by [Josh Doody](/josh-doody/) walks you through every phase of the interview and salary negotiation processes, and it's packed with specific tactics so you always know what to do next. That's why it quickly became a #1 Best Seller on Amazon.
 
 <html>
 {% include book_contents_linked.html %}
