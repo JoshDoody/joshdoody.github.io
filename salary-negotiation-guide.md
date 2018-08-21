@@ -5,6 +5,7 @@ headline: How to tactfully negotiate your salary (without leaving anything on th
 tagline: How to negotiate salary over email, in person, or over the phone
 excerpt: You finally got a job offer, and you feel you should ask for more, but how? This guide will show you how to tactfully negotiate your job offer though email, in person, and over the phone so you don't leave anything on the table.
 context: negotiate
+author: josh
 og-image: SalaryNegotiationGuide.png
 last_modified_at: 2018-02-26
 extra_js:
