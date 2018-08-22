@@ -61,6 +61,7 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 * [An interview coach says there’s a right way to answer the dreaded salary history question](https://qz.com/942800/an-interview-coach-says-theres-a-right-way-to-answer-the-dreaded-salary-history-question/){:rel="nofollow"} – Quartz
 * [This Is How You Get More Than the Standard Cost-of-Living Raise](https://www.themuse.com/advice/this-is-how-you-get-more-than-the-standard-costofliving-raise){:rel="nofollow"} – The Muse
 * [8 Things You Should Never Say to a Tech Recruiter](https://insights.dice.com/2018/08/20/8-things-never-say-tech-recruiter/){:rel="nofollow"} – Dice
+* [The Secret to Negotiating $5,000 – $15,000 More in Pay](https://www.glassdoor.com/blog/negotiation-secrets/){:rel="nofollow"} – Glassdoor
 
 ## <a name="podcasts" class="below-nav">Podcasts
 
