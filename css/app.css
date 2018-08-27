@@ -2258,8 +2258,8 @@ section.logos {
 	opacity: .5;
 }
 
-section.logos h3.headline {
-	margin-bottom: 0;
+section.logos p.headline {
+	margin: 0;
 }
 
 section.logos img {
