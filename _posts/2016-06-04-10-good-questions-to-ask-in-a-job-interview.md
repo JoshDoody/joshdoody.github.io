@@ -1,20 +1,20 @@
 ---
 layout: post
-title: 10 questions to ask during an interview to really stand out
-share_title: 10 good questions to ask during a job interview
+title: 10 questions to ask in an interview to really stand out
+share_title: 10 good questions to ask in a job interview
 tagline: Stand out and learn more about the job opportunity
-excerpt: Make sure you don't freeze up when they say, "Do you have any questions for me?" Blow them away with these 10 questions to ask during an interview.
+excerpt: Make sure you don't freeze up when they say, "Do you have any questions for me?" Blow them away with these 10 questions to ask in an interview.
 context: interview
 author: josh
 last_modified_at: 2018-08-29
 og-image: JobInterviewQuestionsYouCanAsk.jpg
 ---
 
-Your primary goal in the interview process is to get the best job offer possible. Sometimes you can do that by giving great answers to interview questions. But don't overlook the benefits of *asking* good questions during the interview process, starting as early as [the pre-interview](/book/interview/pre-interview-phase/).
+Your primary goal in the interview process is to get the best job offer possible. Sometimes you can do that by giving great answers to interview questions. But don't overlook the benefits of *asking* good questions in the interview process, starting as early as [the pre-interview](/book/interview/pre-interview-phase/).
 
 When the interviewer says, "Do you have any questions for me?", that's a golden opportunitiy to establish yourself as a strong candidate for the position and to learn more about the opportunity you're pursuing.
 
-So keep this article handy to make sure you have some good questions to ask during your interview.
+So keep this article handy to make sure you have some good questions to ask in your interview.
 
 ## 1. “What does a typical day look like for this role?”
 
@@ -86,6 +86,6 @@ So it is helpful to know what the hiring manager or team expects from the person
 
 Each job interview question is an opportunity to stand out and learn more about the opportunity you're pursuing. And you can often use the information you learn in one interview to give better answers to questions in future interviews.
 
-One last thing—don't force it! Having these 10 questions to ask during an interview will help you make *sure* you have at least a couple good questions ready when you get the chance. But if you're out of time or have already addressed all of your questions, it's ok to just tell the interviewer that you don't have anymore questions and thank them for their time.
+One last thing—don't force it! Having these 10 questions to ask in an interview will help you make *sure* you have at least a couple good questions ready when you get the chance. But if you're out of time or have already addressed all of your questions, it's ok to just tell the interviewer that you don't have anymore questions and thank them for their time.
 
 <div class="inline-ad hidden"></div>
