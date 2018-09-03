@@ -137,6 +137,8 @@ Learn more: [*Fearless Salary Negotiation*](/get-started/)
 
 {% include testimonials/amy_fsn.html %}
 
+{% include testimonials/justin_j.html %}
+
 <!-- {% include testimonials/amy_esnep.html %} -->
 
 ## <a name="gynr" class="below-nav">*Get Your Next Raise*
