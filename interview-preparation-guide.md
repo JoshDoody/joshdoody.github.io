@@ -218,7 +218,7 @@ Check out our complete salary negotiation guide to make sure you get the best sa
 
 <div class='guide-link'>
 <p><strong>How to tactfully negotiate your salary (without leaving anything on the table)</strong></p>
-<p><a href="/how-to-write-a-resume/">How to negotiate salary in 2018 - Complete salary negotiation guide →</a></p>
+<p><a href="/salary-negotiation-guide/">How to negotiate salary in 2018 - Complete salary negotiation guide →</a></p>
 </div>
 
 <div class="inline-ad hidden"></div>
