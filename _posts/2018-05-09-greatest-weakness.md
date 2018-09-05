@@ -71,4 +71,9 @@ If you must ask about weaknesses, try to ask a more specific question that will 
 
 That's a first-cousin of the "greatest weakness" question, and it will actually yield helpful answers that will inform your hiring decision.
 
+<div class='guide-link'>
+<p><strong>“Do you have any questions for me?” Make sure you do!</strong></p>
+<p><a href="/interview-preparation-guide/">Interview Preparation Guide →</a></p>
+</div>
+
 <div class="inline-ad hidden"></div>

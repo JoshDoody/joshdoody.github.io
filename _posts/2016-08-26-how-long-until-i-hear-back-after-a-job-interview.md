@@ -56,4 +56,9 @@ Some companies will let you know if they decide not to move forward with you, an
 
 You can ping the recruiter (or your contact) about once a week for a few weeks. If they don’t get back to you at all within about three weeks, they’ve probably decided not to move forward with you in the interview process.
 
+<div class='guide-link'>
+<p><strong>What should you say when you get a job offer?</strong></p>
+<p><a href="/interview-preparation-guide/">Interview Preparation Guide →</a></p>
+</div>
+
 <div class="inline-ad hidden"></div>

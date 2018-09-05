@@ -19,4 +19,9 @@ og-image: software-developer-positioning_thumbnail.png
 
 Special thanks to [Eric Normand](https://twitter.com/ericnormand) of [PurelyFunctional.tv](https://purelyfunctional.tv) for contributing his excellent technical expertise.
 
+<div class='guide-link'>
+<p><strong>Are you ready for any interview question? What about the dumb ones?</strong></p>
+<p><a href="/interview-preparation-guide/">Interview Preparation Guide →</a></p>
+</div>
+
 <div class="inline-ad hidden"></div>

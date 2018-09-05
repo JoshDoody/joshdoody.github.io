@@ -21,7 +21,7 @@ This means two things are very important:
 
 ## 2. Prepare for each interview—do your homework
 
-Many candidates just show up for their interviews and start answering questions. You can do better. Before you interview with a company [prepare for your interviews]({{ site.baseurl }}/book/interview/interview-preparation/) by visiting their website and spending some time on Google just learning basic things about their company. Here are some examples:
+Many candidates just show up for their interviews and start answering questions. You can do better. Before you interview with a company [prepare for your interviews](/book/interview/interview-preparation/) by visiting their website and spending some time on Google just learning basic things about their company. Here are some examples:
 
 1. What's their mission statement?
 2. Who are their customers?
@@ -54,6 +54,11 @@ You're going to work very hard to build your skillset, find good opportunities a
 
 Most people will hold relatively few jobs over their lifetime. And changing jobs usually provides the best opportunity to significantly increase your salary. So take advantage of it and negotiate—don't just accept their initial offer.
 
-This [salary negotiation script generator and counteroffer calculator]({{ site.baseurl }}/salary-negotiation-script) is a good place to start for an overview of my strategy.
+This [salary negotiation script generator and counteroffer calculator](/salary-negotiation-script) is a good place to start for an overview of my strategy.
+
+<div class='guide-link'>
+<p><strong>Ready to start applying? Here's how to prepare for your interviews</strong></p>
+<p><a href="/interview-preparation-guide/">Interview Preparation Guide →</a></p>
+</div>
 
 <div class="inline-ad hidden"></div>

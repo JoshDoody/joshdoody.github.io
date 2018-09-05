@@ -177,7 +177,7 @@ You do! This is a great chance for you to demonstrate that you truly understand 
 
 <div class='guide-link'>
 <p><strong>Don't pass up a golden opportunity to ask some questions of your own</strong></p>
-<p><a href="/greatest-weakness/">10 questions to ask in an interview to really stand out →</a></p>
+<p><a href="/10-good-questions-to-ask-in-a-job-interview/">10 questions to ask in an interview to really stand out →</a></p>
 </div>
 
 10 questions to ask in an interview to really stand out

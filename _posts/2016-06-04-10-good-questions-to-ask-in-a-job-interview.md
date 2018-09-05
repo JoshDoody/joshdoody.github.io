@@ -88,4 +88,9 @@ Each job interview question is an opportunity to stand out and learn more about 
 
 One last thing—don't force it! Having these 10 questions to ask in an interview will help you make *sure* you have at least a couple good questions ready when you get the chance. But if you're out of time or have already addressed all of your questions, it's ok to just tell the interviewer that you don't have anymore questions and thank them for their time.
 
+<div class='guide-link'>
+<p><strong>How long should you wait to follow up after your interview?</strong></p>
+<p><a href="/interview-preparation-guide/">Interview Preparation Guide →</a></p>
+</div>
+
 <div class="inline-ad hidden"></div>

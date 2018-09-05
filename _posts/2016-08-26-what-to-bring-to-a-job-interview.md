@@ -192,4 +192,9 @@ Here's a good article on [how to dress for your next job interview](http://www.f
 
 If you're excited for the interview and you do a lot of talking, your throat could dry out so it's tough for you to talk. That could hamper your interview, so have some water handy in case your voice starts to give out.
 
+<div class='guide-link'>
+<p><strong>Learn how to answer interview questions so you stand out</strong></p>
+<p><a href="/interview-preparation-guide/">Interview Preparation Guide →</a></p>
+</div>
+
 <div class="inline-ad hidden"></div>
