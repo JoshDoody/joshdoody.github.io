@@ -25,18 +25,22 @@ Use this interview preparation guide to jump right to your current stage in the 
 
 ## Quick overview: How the job interview process works
 
-The job interview process is very similar from company to company. You either search for new jobs and submit applications until you get a few interviews, or someone refers you for a specific role and you get interviews that way. 
+The job interview process is very similar from company to company, which makes interview preparation extremely important and valuable.
 
-Once you're interviewing for one or more jobs, you hope to get multiple interviews for the same job as you progress through their hiring process. 
+There are typically two ways to get an interview: You either search for new jobs and submit applications until you get a few interviews, or someone refers you for a specific role and you get interviews that way. 
 
-If you do well in each interview, you'll be moved ahead, usually interviewing with more and more senior members of the organization until they decide whether to extend you an offer. 
+Once you're interviewing for one or more jobs, you hope to get multiple interviews for the same job as you progress through the company's hiring process. 
+
+If you do well in each interview, you'll move ahead, usually interviewing with more and more senior members of the company until they decide whether to extend you an offer. 
+
+It's important to prepare for each interview ahead of time since you'll be talking to a new person each time. Not only will they ask you different questions, but you'll have new information from your previous interviews and you want to make sure you incorporate that information into your interview preparation.
 
 <div data-offer-plinko="optional">
 <!-- {% include drip_forms/salary-negotiation-email-templates-content-upgrade.html template-description="a detailed counter offer email template" %} -->
 {% include drip_forms/tics-content-upgrade.html %}
 </div>
 
-You may find a great opportunity that yields an offer right away, or you may go through this process several times with different firms until you find the right fit.
+You may find a great opportunity that yields an offer right away, or you may go through this process several times with different companies until you find the right fit.
 
 Your primary objective throughout the interview process is to differentiate yourself as *the* candidate for the position. You need to stand out, and that's what you'll learn to do in this interview preparation guide.
 
@@ -55,24 +59,24 @@ Your cover letter and résumé are a one-two punch. Before they look at your ré
 You have 60-seconds to make an impression with your cover letter. Why? The person reading your cover letter wants to ball it up, throw it away, and get on with their day. They’re burnt out and have a stack of applications on their deck. They’re an expert at reading resumes and they’ve seen all the tricks. In 30 seconds, they’re going to decide if you’re headed to the shredder or the interview pile. You need to make it easy or them to realize how interesting you are.
 
 <div class='guide-link'>
-<p><strong>Make sure your cover letter is tailored for this job at this company</strong></p>
+<p><strong>Make sure your cover letter gets moved to the interview pile</strong></p>
 <p><a href="/how-to-write-a-cover-letter/">How to write a compelling cover letter →</a></p>
 </div>
-
-Once you've convinced them that your application is worth their time, they'll move on to skim your résumé. Notice I said "skim"—hiring managers and recruiters aren't going to take their time savoring every word of your résumé. They're going to skim it for a few seconds to see if anything stands out.
 
 ### How to write a compelling résumé
 
 <p class='u-center'><a href="/how-to-write-a-resume/" target="_blank"><img src="/images/HowToWriteAResume.png" alt="How to write a compelling resume" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
 
-The biggest value in writing a resume is gaining an understanding of the specific problems the company is facing and how to position your experience and qualifications to solve those problems.
+Once you've convinced them that your application is worth their time, they'll move on to skim your résumé. Notice I said "skim"—hiring managers and recruiters aren't going to take their time savoring every word of your résumé. They're going to skim it for a few seconds to see if anything stands out.
+
+The greatest value in the résumé writing process is gaining an understanding of the specific problems the company is facing and how to position your experience and qualifications to solve those problems.
 
 <div class='guide-link'>
 <p><strong>Write your résumé to show you will solve valuable problems for the company</strong></p>
 <p><a href="/how-to-write-a-resume/">How to write a compelling resume →</a></p>
 </div>
 
-### What your hiring manager is looking for in your résumé
+### What hiring managers are looking for in your résumé
 
 <p class='u-center'><a href="/sample-resume-format-review/" target="_blank"><img src="/images/sample-resume-format-review_thumbnail.png" alt="Sample resume format review" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
 
@@ -82,7 +86,7 @@ Believe it or not, most hiring managers will only spend about 30 seconds looking
 
 <div class='guide-link'>
 <p><strong>See a real-time review of a real résumé from a hiring manager's perspective</strong></p>
-<p><a href="/sample-resume-format-review/">Sample resume format review →</a></p>
+<p><a href="/sample-resume-format-review/">Sample résumé format review →</a></p>
 </div>
 
 ### 5 things you should know before applying for that job
@@ -90,7 +94,7 @@ Believe it or not, most hiring managers will only spend about 30 seconds looking
 Once you start submitting applications, you've passed the point of no return. So take a few minutes to review these five things as you look ahead to a potentially long and draining interview process.
 
 <div class='guide-link'>
-<p><strong>Things to consider before you start submitting those applications</strong></p>
+<p><strong>Five things to consider before you start submitting those applications</strong></p>
 <p><a href="/5-things-you-should-know-before-you-apply-for-a-job/">5 things you should know before you apply for a job →</a></p>
 </div>
 
@@ -100,13 +104,15 @@ Now that you're submitting applications and your cover letter and résumé have 
 	
 Before you schedule an interview with a hiring manager or someone on your future team, you'll probably have a "pre-screen" or "pre-interview" call with a recruiter.
 
-This is typically a short 5 or 10 minute call where they will verify that you could be a good candidate for this role. But there's a very, very sneaky question lurking and you need to be ready for it.
+This is typically a short 5- or 10-minute call where they will verify that you could be a good candidate for this role. But there's a very, very sneaky question lurking and you need to be ready for it.
 
 ### How to answer the "What's your current or expected salary?" interview question
 
 <p class='u-center'><a href="/the-dreaded-salary-question/" target="_blank"><img src="/images/DreadedSalaryQuestion.png" alt="The current and expected salary question" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
 
-You've probably been asked "What's your current or expected salary?" in an interview before. That's what you're looking out for.
+You've probably been asked "What's your current or expected salary?" in an interview before. And it probably made you very uncomfortable.
+
+That's because you intuitively know that this is an important question, and that your answer could be very costly if you get it wrong.
 
 <div class='guide-link'>
 <p><strong>What should you say when asked for your current salary or salary expectations during an interview?</strong></p>
@@ -130,11 +136,11 @@ You've lined up some interviews and you know how to prepare for them. But now co
 
 They could theoretically ask you *anything*, and that makes preparing for job interviews very challenging. But there's a framework you can use to prepare for your interviews effectively and answer questions in a way that speaks directly to the interviewer.
 
-### Answering interview questions using positioning
+### Answering interview questions using your positioning
 
 Your job in the interview can be boiled down to a single sentence:
 
-**Tell them a story about how their organization and team will be better if you're a part of it.**
+**Tell them a story about how their company and team will be better if you're a part of it.**
 
 They are hiring someone to solve a specific need or set of needs. Maybe they need more workers to handle the workload, or maybe they need a specific set of skills for a particular project. 
 
@@ -180,8 +186,6 @@ You do! This is a great chance for you to demonstrate that you truly understand 
 <p><a href="/10-good-questions-to-ask-in-a-job-interview/">10 questions to ask in an interview to really stand out →</a></p>
 </div>
 
-10 questions to ask in an interview to really stand out
-
 ## <a name="expecting-a-job-offer" class="below-nav">Expecting a job offer
 
 Once you've run the job interview gauntlet, you may be tempted to relax, but it's not *quite* time to take it easy!
@@ -197,12 +201,14 @@ Until you actually have an offer in hand, you should not disclose your current o
 
 ### Following up after your interviews
 
-Occasionally, you'll get an offer right away. But first the hiring manager, HR, recruiter, and your future colleagues will usually huddle up for a couple of days to make their final decision.
+Occasionally, you'll get an offer right away, but that's the exception.
+
+Usually, the hiring manager, HR, recruiter, and your future colleagues will huddle up for a couple of days to make their final decision.
 
 Waiting the right amount of time and checking in with a short email can help keep you top-of-mind without being annoying.
 
 <div class='guide-link'>
-<p><strong>How long to wait to follow up and what to say when you do</strong></p>
+<p><strong>Follow up at the right time after each interview</strong></p>
 <p><a href="/how-long-until-i-hear-back-after-a-job-interview/">“How long until I hear back after a job interview?” →</a></p>
 </div>
 
@@ -212,7 +218,7 @@ Waiting the right amount of time and checking in with a short email can help kee
 
 Once you've finally gotten that job offer, you should negotiate it. Why? Because there might be room to negotiate.
 
-It sounds so simple, but it's true. You can't know whether you got the best possible offer until you negotiate your offer.
+It sounds so simple, but it's true. You can't know whether you got the best possible offer until you negotiate your salary.
 
 Check out our complete salary negotiation guide to make sure you get the best salary possible!
 
