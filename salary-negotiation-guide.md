@@ -7,7 +7,7 @@ excerpt: You finally got a job offer, and you feel you should ask for more, but 
 context: negotiate
 author: josh
 og-image: SalaryNegotiationGuide.png
-last_modified_at: 2018-02-26
+last_modified_at: 2018-09-06
 extra_js:
   - template_requested.js
 ---

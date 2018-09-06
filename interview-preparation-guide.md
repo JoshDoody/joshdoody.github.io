@@ -6,7 +6,7 @@ excerpt: How to turn each job interview into another opportunity to make a stron
 context: interview
 author: josh
 og-image: InterviewPreparationGuide.png
-last_modified_at: 2018-08-29
+last_modified_at: 2018-09-06
 extra_js:
   - template_requested.js
 ---
