@@ -254,4 +254,17 @@ On your last day at your current job, you have a great opportunity to leave on g
 <p><a href="/resignation-letter/#last-day-template">Resignation letter templates →</a></p>
 </div>
 
+### When you're ready to start searching again, use this interview preparation guide
+
+<p class='u-center'><a href="/salary-negotiation-guide/" target="_blank"><img src="/images/InterviewPreparationGuide.png" alt="How to prepare for your job interviews" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
+
+It's never too early to start thinking ahead to your next opportunity. The more prepared you are for your interviews, the better you'll take advantage of doors that open in your career.
+
+Check out this interview preparation guide to learn more about how to use positioning to stand out as *the* candidate for the job next time you interview!
+
+<div class='guide-link'>
+<p><strong>How to prepare for your job interviews and get more job offers</strong></p>
+<p><a href="/salary-negotiation-guide/">How to prepare for job interviews in 2018 - Complete interview preparation guide →</a></p>
+</div>
+
 <div class="inline-ad hidden"></div>
