@@ -103,7 +103,7 @@ jQuery(function(){
     post_drip_response: function(payload) {
       this.settings.track()
 			if(this.is_anon) {
-				console.log("Anonymous");
+				//console.log("Anonymous");
 				$('[data-offer-plinko="optional"]').show();
 				$('head').append('<style type="text/css">.drip-lightbox-wrapper { display: block; }</style>');
 			}
@@ -181,7 +181,7 @@ jQuery(function(){
       
 			if (pageURL.length && window.location.origin != 'http://localhost:4000') {
         this.add_tag('Read - ' + pageURL)
-				console.log("Tags: " + this.tags())
+				//console.log("Tags: " + this.tags())
       }
     },
     survey_widget: function(survey, drip) {
