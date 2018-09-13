@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interview preparation guide - How to prepare for job interviews (2018)
-headline: The Ultimate Job Inteview Preparation Guide
+headline: The Ultimate Job Interview Preparation Guide
 tagline: How to prepare for your job interviews and get more job offers
 excerpt: How to turn each job interview into another opportunity to make a strong impression and land more job offers.
 context: interview
