@@ -9,6 +9,8 @@ Looking for testimonials for a particular product or offering?
 
  * [Salary Negotiation Coaching](#coaching){:data-testimonial-topic="Coaching testimonials"}
  * [Fearless Salary Negotiation](#fsn){:data-testimonial-topic="Fearless Salary Negotiation testimonials"}
+ * [Essential Salary Negotiation Email Pack](#esnep){:data-testimonial-topic="Essential Salary Negotiation Email Pack testimonials"}
+ * [Salary Negotiation Crash Course](#sncc){:data-testimonial-topic="Salary Negotiation Crash Course testimonials"}
  * [Get Your Next Raise](#gynr){:data-testimonial-topic="Get Your Next Raise testimonials"}
  * [Speaking](#speaking){:data-testimonial-topic="Speaking testimonials"}
  * [Endorsements](#endorsements){:data-testimonial-topic="Endorsement testimonials"}
@@ -21,51 +23,30 @@ My clients improve their job offers by an average of {{ site.avg_coach_increase 
 
 Learn more about my coaching offering here: [Expert Salary Negotiation Coaching](/coach/)
 
-{% include testimonials/bob_gregor.html %}
-
-{% include testimonials/acree_m.html %}
-
-{% include testimonials/shannon_long.html %}
-
-{% include testimonials/eric_macam.html %}
-
-{% include testimonials/j_w.html %}
-
-{% include testimonials/shawn_tuckett.html %}
-
-{% include testimonials/s_l.html %}
-
-{% include testimonials/jonathan.html %}
-
-{% include testimonials/natalie_m.html %}
-
-{% include testimonials/emily_kaneff.html %}
-
-{% include testimonials/e_l.html %}
-
-{% include testimonials/ilya_krasnov.html %}
-
-{% include testimonials/nick_cianci.html %}
-
-{% include testimonials/j_c.html %}
-
-{% include testimonials/j_n.html %}
-
-{% include testimonials/tiffani_w.html %}
-
-{% include testimonials/haripriya_a.html %}
-
-{% include testimonials/vanessa_m.html %} 
-
-{% include testimonials/cynthia.html %}
-
-{% include testimonials/steve.html %}
-
-{% include testimonials/j_b.html %}
-
-<!-- {% include testimonials/anon_engineer_2.html %} -->
-
 <!-- {% include testimonials/dan.html %} -->
+{% include testimonials/anon_engineer_2.html %}
+{% include testimonials/bruce.html %}
+{% include testimonials/j_b.html %}
+{% include testimonials/steve.html %}
+{% include testimonials/cynthia.html %}
+{% include testimonials/vanessa_m.html %} 
+{% include testimonials/haripriya_a.html %}
+{% include testimonials/tiffani_w.html %}
+{% include testimonials/j_n.html %}
+{% include testimonials/j_c.html %}
+{% include testimonials/nick_cianci.html %}
+{% include testimonials/ilya_krasnov.html %}
+{% include testimonials/e_l.html %}
+{% include testimonials/emily_kaneff.html %}
+{% include testimonials/natalie_m.html %}
+{% include testimonials/jonathan.html %}
+{% include testimonials/s_l.html %}
+{% include testimonials/shawn_tuckett.html %}
+{% include testimonials/j_w.html %}
+{% include testimonials/eric_macam.html %}
+{% include testimonials/shannon_long.html %}
+{% include testimonials/acree_m.html %}
+{% include testimonials/bob_gregor.html %}
 
 ## <a name="fsn" class="below-nav">*Fearless Salary Negotiation*
 
@@ -76,74 +57,62 @@ If you're looking for a DIY salary negotiation option, *Fearless Salary Negotiat
 Learn more: [*Fearless Salary Negotiation*](/get-started/)
 
 {% include testimonials/jared_allen.html %}
-
 {% include testimonials/justin_abrahms.html %}
-
 {% include testimonials/harrison_p.html %}
-
 {% include testimonials/dan_brothers.html %}
-
 {% include testimonials/josh_c.html %}
-
 {% include testimonials/john_miller.html %}
-
 {% include testimonials/holly_stewart.html %}
-
 {% include testimonials/mike_g.html %}
-
 {% include testimonials/t_k.html %}
-
 {% include testimonials/d_o.html %}
-
 {% include testimonials/david_hill.html %}
-
 {% include testimonials/j_d.html %}
-
 {% include testimonials/matt_wood.html %}
-
 {% include testimonials/jason_voegele.html %}
-
 {% include testimonials/josh_thompson.html %}
-
 {% include testimonials/aaron_batilo.html %}
-
 {% include testimonials/jeremy.html %}
-
 {% include testimonials/allie.html %}
-
 {% include testimonials/robin.html %}
-
 {% include testimonials/arthur.html %}
-
 {% include testimonials/deborah.html %}
-
 {% include testimonials/matt_b.html %}
-
 {% include testimonials/kaylea.html %}
-
 {% include testimonials/ayush.html %}
-
 {% include testimonials/paige.html %}
-
 {% include testimonials/sarah_m.html %}
-
 {% include testimonials/robert_m.html %}
-
 {% include testimonials/penny.html %}
-
 {% include testimonials/christy_s.html %}
-
 {% include testimonials/nick_c.html %}
-
 {% include testimonials/amy_fsn.html %}
-
 {% include testimonials/justin_j.html %}
-
 {% include testimonials/mark_girgis.html %}
 
-{% include testimonials/oliver_nolte.html %}
+## <a name="esnep" class="below-nav">*Essential Salary Negotiation Email Pack*
+	
+Countering their offer isn’t a ‘one-email deal.’ The people who are most successful at negotiating their job offers understood that it’s a multi-step process, depending on how the company responds.
 
-<!-- {% include testimonials/amy_esnep.html %} -->
+(My clients have used this exact process and these exact templates to negotiate $7,000 more, $8,000 more, and even $24,000 more.)
+
+And in the Essential Salary Negotiation Email Pack, you’ll get all the emails you need to send to counter their offer effectively.
+
+Learn more: [*Essential Salary Negotiation Email Pack*](/essential-counter-offer/)
+
+{% include testimonials/amy_esnep.html %}
+
+## <a name="sncc" class="below-nav">*Salary Negotiation Crash Course*
+	
+Countering their offer isn’t a ‘one-email deal.’ The people who are most successful at negotiating their job offers understood that it’s a multi-step process, depending on how the company responds.
+
+(My clients have used this exact process and these exact templates to negotiate $7,000 more, $8,000 more, and even $24,000 more.)
+
+And in the Essential Salary Negotiation Email Pack, you’ll get all the emails you need to send to counter their offer effectively.
+
+Learn more: [*Salary Negotiation Crash Course*](/salary-negotiation-video-course/)
+
+{% include testimonials/oliver_nolte.html %}
 
 ## <a name="gynr" class="below-nav">*Get Your Next Raise*
 	
@@ -154,7 +123,6 @@ If 1-on-1 coaching isn't feasible for you right now, this is my unique process f
 Learn more: [*Get Your Next Raise*](/get-your-next-raise/)
 
 {% include testimonials/john_li.html %}
-
 {% include testimonials/thai_wood.html %}
 
 ## <a name="speaking" class="below-nav">Public Speaking—Talks, Seminars, Webinars
@@ -164,7 +132,6 @@ I'm available for talks, seminars, and webinars to teach your students how to ac
 Message me on LinkedIn to laern more: [Josh Doody on LinkedIn](https://www.linkedin.com/in/joshdoody)
 
 {% include testimonials/robbie_ouzts.html %}
-
 {% include testimonials/joel_parker.html %}
 
 ## <a name="endorsements" class="below-nav">Endorsements
@@ -172,5 +139,4 @@ Message me on LinkedIn to laern more: [Josh Doody on LinkedIn](https://www.linke
 Here are some very kind folks' thoughts on *Fearless Salary Negotiation*.
 
 {% include testimonials/josh_kaufman.html %}
-
 {% include testimonials/patrick_mckenzie_short.html %}
