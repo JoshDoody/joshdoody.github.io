@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google salary negotiation - how to negotiate a google job offer
+title: Google salary negotiation - How to negotiate a google job offer
 headline: Here's how to negotiate your salary when you get a job offer from Google
 excerpt: Here's what to look out for when negotiating a job offer from Google. Avoid these pitfalls and use these tactics to maximize your salary at Google.
 context: coach
