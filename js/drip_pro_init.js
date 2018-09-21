@@ -4,7 +4,15 @@ window.drip_plinko = function(drip, page) {
 	var response = {}
 	var context = window.context
 	
-	if (drip.is_anon) {
+	
+	if (context == 'coach') {
+		response = {
+			offer: 'coach',
+			modal: drip.file('coach-modal'),
+			footer: drip.file('coach-footer'),
+			inline: drip.file('coach-inline')
+		}
+	} else if (drip.is_anon) {
 		if (context == 'raise') {
 			response = {
 				offer: 'salary-increase-template',
