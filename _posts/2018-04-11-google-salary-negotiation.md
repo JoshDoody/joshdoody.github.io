@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Google salary negotiation - how to negotiate a google job offer
-headline: Here's what to look out for when negotiating a job offer from Google
+headline: Here's how to negotiate your salary when you get a job offer from Google
 excerpt: Here's what to look out for when negotiating a job offer from Google. Avoid these pitfalls and use these tactics to maximize your salary at Google.
 context: coach
 author: josh
 last_modified_at: 2018-09-21
 ---
-
 Google job offers are very competitive, especially for in-demand positions that are key to their business like software engineers, machine learning experts, or data scientists.
 
 The key question to ask about a Google job offer is "How much can this offer be improved through negotiation?" In my experience [coaching software developers](/coach/) through Google salary negotiations, the answer varies from "somewhat" to "a whole lot".
@@ -121,16 +120,18 @@ I like to think of the Sign-on bonus as a way to help bridge the gap between you
 
 Moderately flexible. They will often use this as a sweetener to close the deal. Five-figure improvements in Sign-on bonus are pretty common.
 
-## How to approach your negotiation
+## How to approach your Google salary negotiation
 
 Although Google isn't typically very flexible on base salary, I prefer to begin by negotiating base salary to see how flexible they are in the other components. By pushing on base salary—even knowing they aren't very flexible—we give them an opportunity to show *where* they are most flexible and how flexible they are.
 
 They will often respond to a request for a higher base salary by moving slightly or not at all on base salary, but suggesting a better equity or sign-on bonus component. 
 
-## What to look out for
+## What to look out for when negotiating a Google job offer package
 
 - **Google is *very* sticky once they know their target.** If you tell them your salary history (especially current salary) or salary expectations, their offer will likely be very close to either of those numbers and they will not move very much from that starting point.
 - **Google will often respond to a request for higher base salary by slightly improving base salary *and* significantly improving the equity component.**
 - **Google is often rigid with respect to the "level" offered.** Because they use equity as a primary negotiating lever, they have lots of flexibility within pay bands and therefore rarely change pay bands as part of the negotiation. 
+
+{% include testimonials/s_l.html %}
 
 <div class="inline-ad hidden"></div>
