@@ -126,6 +126,11 @@ Although Google isn't typically very flexible on base salary, I prefer to begin 
 
 They will often respond to a request for a higher base salary by moving slightly or not at all on base salary, but suggesting a better equity or sign-on bonus component. 
 
+<div class='guide-link'>
+<p><strong>More salary negotiation strategy and tactics...</strong></p>
+<p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>
+</div>
+
 ## What to look out for when negotiating a Google job offer package
 
 - **Google is *very* sticky once they know their target.** If you tell them your salary history (especially current salary) or salary expectations, their offer will likely be very close to either of those numbers and they will not move very much from that starting point.
