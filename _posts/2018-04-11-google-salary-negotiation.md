@@ -5,7 +5,7 @@ headline: Here's how to negotiate your salary when you get a job offer from Goog
 excerpt: Here's what to look out for when negotiating a job offer from Google. Avoid these pitfalls and use these tactics to maximize your salary at Google.
 context: coach
 author: josh
-last_modified_at: 2018-09-24
+last_modified_at: 2018-09-26
 ---
 Google job offers are very competitive, especially for in-demand technical roles that are key to their business like software engineers, machine learning experts, and data scientists.
 
