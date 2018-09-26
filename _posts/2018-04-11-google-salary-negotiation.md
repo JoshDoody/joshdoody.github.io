@@ -7,42 +7,15 @@ context: coach
 author: josh
 last_modified_at: 2018-09-26
 ---
-Google job offers are very competitive, especially for in-demand technical roles that are key to their business like software engineers, machine learning experts, and data scientists.
-
 The key question to ask about a Google job offer is "How much can this offer be improved through negotiation?" In my experience [coaching software developers](/coach/) through Google salary negotiations, the answer varies from "somewhat" to "a whole lot".
 
 The main driver for the difference seems to be how narrow the engineer's specialty is, and how well that specialty aligns with Google's core competencies.
 
 For example, Google needs lots and lots of experienced software developers, and the supply of generalist software developers available to hire is pretty strong. So Google will offer competitive salaries with some room to negotiate to get quality software developers in the door.
 
-By contrast, machine learning experts are key to Google's ability to dominate search and other aspects of its business and there are fewer machine learning experts available. So Google makes very, very strong offers to machine learning experts and has lots of room to negotiate those offers to get the right candidates.
+By contrast, machine learning experts and data scientists are key to Google's ability to dominate search and other aspects of its business and there are fewer of those experts available. So Google makes very, very strong offers to machine learning experts and data scientists and has lots of room to negotiate those offers to get the right candidates.
 
-The bottom line is that if you have a job offer from Google in a technical role, you likely have room to negotiate, and may have *substantial* negotiation leverage.
-
-Let's look at what the Google salary negotiation process is like.
-
-## Before you get a job offer
-
-The salary negotiation with Google will begin earlier than you might expect.
-
-Your Google recruiter will ask for your salary history, or at least your *current* salary if it's legal where they are. Do not tell them your current salary. If you do, the Base Salary component of your job offer will probably be slightly above your current salary *and* it will be challenging to negotiate a substantial increase once they make your job offer.
-
-They will also usually ask for your salary expectations. That request will sound something like this:
-
-> So what were you hoping for in terms of compensation if you come aboard here at Google?
-
-Do not tell them your salary expectations because you will essentially be guessing what they might pay someone with your skillset and experience to do the job they need done.
-
-While they might have a good idea of the value of that job to Google's business, you would only be guessing. You will practically always guess wrong and cost yourself money later on. So just don't guess.
-
-Google will hold on tight to these numbers and it can be very, very challenging to get them to move once they know what they are aiming for. So avoid sharing that information if at all possible.
-
-As a final note on this, I've worked with clients whose Google recruiter told them they could not move forward with the interview process until my client shared their salary expectations. Eventually, they *did* move on despite my clients' refusal to share this information. So, in my experience, this is a bluff.
-
-<div class='guide-link'>
-<p><strong>For a deep dive on how to avoid sharing your current or expected salary when asked, see this guide:</strong></p>
-<p><a href="/the-dreaded-salary-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
-</div>
+The bottom line is that if you have a job offer from Google in a technical role, you likely have room to negotiate, and may have *substantial* negotiation leverage depending on your specialty.
 
 ## What a typical Google job offer package looks like
 
@@ -123,6 +96,31 @@ I like to think of the Sign-on bonus as a way to help bridge the gap between you
 Moderately flexible. They will often use this as a sweetener to close the deal. Five-figure improvements in Sign-on bonus are pretty common. I recommend focusing on Base Salary and Equity before negotiating Sign-on bonus.
 
 ## How to approach your Google salary negotiation
+
+The salary negotiation with Google will begin earlier than you might expect.
+
+### Before you get a job offer
+
+Your Google recruiter will ask for your salary history, or at least your *current* salary if it's legal where they are. Do not tell them your current salary. If you do, the Base Salary component of your job offer will probably be slightly above your current salary *and* it will be challenging to negotiate a substantial increase once they make your job offer.
+
+They will also usually ask for your salary expectations. That request will sound something like this:
+
+> So what were you hoping for in terms of compensation if you come aboard here at Google?
+
+Do not tell them your salary expectations because you will essentially be guessing what they might pay someone with your skillset and experience to do the job they need done.
+
+While they might have a good idea of the value of that job to Google's business, you would only be guessing. You will practically always guess wrong and cost yourself money later on. So just don't guess.
+
+Google will hold on tight to these numbers and it can be very, very challenging to get them to move once they know what they are aiming for. So avoid sharing that information if at all possible.
+
+As a final note on this, I've worked with clients whose Google recruiter told them they could not move forward with the interview process until my client shared their salary expectations. Eventually, they *did* move on despite my clients' refusal to share this information. So, in my experience, this is a bluff.
+
+<div class='guide-link'>
+<p><strong>For a deep dive on how to avoid sharing your current or expected salary when asked, see this guide:</strong></p>
+<p><a href="/the-dreaded-salary-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
+</div>
+
+### Once you receive your job offer from Google
 
 Although Google isn't typically very flexible on base salary, I prefer to begin by negotiating base salary to see how flexible they are in the other components. By pushing on base salary—even knowing they aren't very flexible—we give them an opportunity to show where they *are* the most flexible.
 
