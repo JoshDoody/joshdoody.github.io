@@ -12,6 +12,12 @@ window.drip_plinko = function(drip, page) {
 			footer: drip.file('coach-footer'),
 			inline: drip.file('coach-inline')
 		}
+	} else if (window.location.pathname.startsWith('/book')) {
+		response = {
+			offer: 'fsn',
+			footer: drip.file('fsn-footer'),
+			inline: drip.file('fsn-inline')
+		}
 	} else if (drip.is_anon) {
 		if (context == 'raise') {
 			response = {
@@ -75,7 +81,8 @@ window.drip_plinko = function(drip, page) {
 		if (!drip.has_tag('Purchased - FSN - Bundle') && !context.startsWith('sales-page')) {
 				response = {
 					offer: 'fsn',
-					footer: drip.file('fsn-footer')
+					footer: drip.file('fsn-footer'),
+					inline: drip.file('fsn-inline')
 				}
 		}		
 	}
