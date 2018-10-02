@@ -5,7 +5,20 @@ window.drip_plinko = function(drip, page) {
 	var context = window.context
 	
 	
-	if (context == 'coach') {
+	if (context == 'home') {
+		if (drip.is_anon) {
+			response = {
+				modal: drip.file('tics-modal-with-form'),
+				footer: drip.file('tics-footer'),
+				inline: drip.file('tics-inline')
+			}
+		} else {
+			response = {
+				footer: drip.file('fsn-footer'),
+				inline: drip.file('fsn-inline')
+			}
+		}
+	} else if (context == 'coach') {
 		response = {
 			offer: 'coach',
 			modal: drip.file('coach-modal'),

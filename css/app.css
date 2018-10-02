@@ -870,7 +870,7 @@ p.footer-heading {
 
 /* Making long-form more readable */
 .hidden {
-	display: none;
+	display: none !important;
 }
 
 .checkbox-list__item__unchecked {
