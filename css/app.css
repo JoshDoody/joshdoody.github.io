@@ -2135,7 +2135,7 @@ a.close-slider {
   font-weight: bold;
   border-radius: 5px;
   padding: 10px 20px;
-	display: block;
+	display: inline-block;
   text-align: center;
 }
 
