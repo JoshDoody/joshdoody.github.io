@@ -9,7 +9,6 @@ window.drip_plinko = function(drip, page) {
 		if (drip.is_anon) {
 			response = {
 				modal: drip.file('tics-modal-with-form'),
-				footer: drip.file('tics-footer'),
 				inline: drip.file('tics-inline')
 			}
 		} else {
