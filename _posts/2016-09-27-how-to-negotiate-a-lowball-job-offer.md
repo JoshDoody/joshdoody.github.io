@@ -6,7 +6,7 @@ excerpt: How to respond to a low salary offer when negotiating starting salary
 share_title: How to negotiate a lowball job offer
 context: negotiate-lowball
 author: josh
-last_modified_at: 2018-08-10
+last_modified_at: 2018-10-09
 og-image: LowballJobOffer.png
 ---
 What's your goal in an interview? To get the best job offer possible and to set yourself up to negotiate the best salary possible. You want the company to focus on "What do we have to offer to convince them to join our team?" as opposed to "What's the minimum we can pay to bring them on board?" It's a subtle but important distinction.
