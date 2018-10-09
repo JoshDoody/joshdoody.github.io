@@ -86,7 +86,6 @@ And now you've moved the conversation off of the phone and into email.
 Sometimes, you'll get the job offer via email and you can just respond to that email and ask for more time. You can also respond with an email to a verbal offer made by the hiring manager or recruiter with an email.
 
 <div data-offer-plinko="optional">
-<!-- {% include drip_forms/salary-negotiation-email-templates-content-upgrade.html template-description="the template to ask for time to consider your offer" %} -->
 {% include drip_forms/salary-negotiation-email-template-content-upgrade.html %}
 </div>
 <!-- Here's an email template you can use to reply to your job offer letter while you write your salary negotiation email:
@@ -130,8 +129,7 @@ But first, you can use a technique that may encourage them to revise their offer
 
 Essentially, you're trying to get them to negotiate against themselves to improve the offer before you counter offer. This will often induce the company to improve your job offer and try again, hopefully with a base salary that's closer to or even above your minimum acceptable salary.
 <div data-offer-plinko="optional">
-<!-- {% include drip_forms/salary-negotiation-email-templates-content-upgrade.html template-description="the template to respond to a lowball offer using this technique" %} -->
-{% include drip_forms/salary-negotiation-email-template-content-upgrade.html %}
+{% include drip_forms/salary-negotiation-lowball-email-template-content-upgrade.html %}
 </div>
 <!-- Here's how to ask for a higher salary offer with a short email:
 
@@ -158,9 +156,16 @@ Now it's time to counter offer. Here's how to write a counter offer email.
 
 ## <a name="baseline-counter-template" class="below-nav">Salary negotiation email sample—the baseline template
 
-The best way to counter offer is with an email. Not only does an email give you time to carefully outline your reasons for counter offering, but an email can be circulated within the company in the event that they need to use the financial approval process to allocate additional funds to grant your request. <!-- This is a *real* counter offer letter used in a *real* salary negotiation. I've changed the names and numbers, but otherwise it's copied and pasted from my Sent email folder. -->
+The best way to counter offer is with an email. Not only does an email give you time to carefully outline your reasons for counter offering, but an email can be circulated within the company in the event that they need to use the financial approval process to allocate additional funds to grant your request.
 
-Let's review the essential components of a strong baseline sample counter offer letter section by section. Then we'll look at variations on the baseline template for specific situations.
+Here's a standard counter offer template, based on a *real* counter offer letter used in a *real* salary negotiation. I've changed the names and numbers, but otherwise it's copied and pasted from my Sent email folder.
+
+<p class='u-center'>
+	<figure>
+		<a href="/images/salary-negotiation-email-counter-offer-template.png" target="_blank"><img src="/images/salary-negotiation-email-counter-offer-template.png" alt="Salary Negotiation Email Counter Offer Template" style="display: block; width: 100%; max-width: 750px; margin: 0 auto;"/></a>
+		<figcaption style="text-align: center;">Salary Negotiation Email Template</figcaption>
+	</figure>
+</p>
 	
 <!-- <div class='sample-email'>
 <p>
@@ -181,11 +186,11 @@ Let's review the essential components of a strong baseline sample counter offer 
 josh@example.com</p>
 </div> -->
 
-There are several important components of a good counter offer email template. Let's talk about each component one at a time.
-
-<div class='ad-box'>
-	<p><strong>Just want to get the template?</strong> <a href="#get-the-baseline-template">&gt;&gt; Click here</a></p>
+<div data-offer-plinko="optional">
+{% include drip_forms/salary-negotiation-email-template-content-upgrade.html %}
 </div>
+
+Let's review the essential components of a strong baseline sample counter offer letter section by section. Then we'll look at variations on the baseline template for specific situations.
 
 ### Open with a greeting 
 
@@ -253,7 +258,6 @@ State your counter offer in a firm but neutral way. "I would be more comfortable
 Immediately after your counter offer, summarize your case in a single sentence, just to remind them of the great case you made earlier.
 <a name="get-the-baseline-template" class='below-nav'></a>
 <div data-offer-plinko="optional">
-<!-- {% include drip_forms/salary-negotiation-email-templates-content-upgrade.html template-description="the baseline template to send your counter offer" %} -->
 {% include drip_forms/salary-negotiation-email-template-content-upgrade.html %}
 </div>
 
@@ -299,7 +303,6 @@ The wording in this version of your salary negotiation letter will be much less 
 That so you can be absolutely sure the recruiter understands that this number is no longer negotiable. 
 
 <div data-offer-plinko="optional">
-<!-- {% include drip_forms/salary-negotiation-email-templates-content-upgrade.html template-description="the template to counter offer with your minimum acceptable salary" %} -->
 {% include drip_forms/salary-negotiation-email-template-content-upgrade.html %}
 </div>
 
@@ -338,7 +341,6 @@ You don't need to tell them which companies have made you offers or share the de
 When you're negotiating salary over email, simply mentioning competing offers is sufficient. No need to go into great detail.
 
 <div data-offer-plinko="optional">
-<!-- {% include drip_forms/salary-negotiation-email-templates-content-upgrade.html template-description="the template to counter offer and mention that you're considering other offers" %} -->
 {% include drip_forms/salary-negotiation-email-template-content-upgrade.html %}
 </div>
 
@@ -378,7 +380,6 @@ But if you haven't heard back from them after two or three *business* days (week
 You don't need to akd how they feel about your counter offer, whether they can accommodate it, or anything like that. You don't want them to know you're sweating the negotiation—you're just casually checking in to make sure they're not waiting on you.
 
 <div data-offer-plinko="optional">
-<!-- {% include drip_forms/salary-negotiation-email-templates-content-upgrade.html template-description="the template to follow up after you send your counter offer" %} -->
 {% include drip_forms/salary-negotiation-email-template-content-upgrade.html %}
 </div>
 
