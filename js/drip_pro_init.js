@@ -24,6 +24,11 @@ window.drip_plinko = function(drip, page) {
 			footer: drip.file('coach-footer'),
 			inline: drip.file('coach-inline')
 		}
+	}  else if (context == 'gynr') {
+		response = {
+			offer: 'gynr',
+			inline: drip.file('gynr-inline')
+		}
 	} else if (window.location.pathname.startsWith('/book')) {
 		response = {
 			offer: 'fsn',
