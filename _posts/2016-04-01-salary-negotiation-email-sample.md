@@ -159,13 +159,6 @@ Now it's time to counter offer. Here's how to write a counter offer email.
 The best way to counter offer is with an email. Not only does an email give you time to carefully outline your reasons for counter offering, but an email can be circulated within the company in the event that they need to use the financial approval process to allocate additional funds to grant your request.
 
 Here's a standard counter offer template, based on a *real* counter offer letter used in a *real* salary negotiation. I've changed the names and numbers, but otherwise it's copied and pasted from my Sent email folder.
-
-<p class='u-center'>
-	<figure>
-		<a href="/images/salary-negotiation-email-counter-offer-template.png" target="_blank"><img src="/images/salary-negotiation-email-counter-offer-template.png" alt="Salary Negotiation Email Counter Offer Template" style="display: block; width: 100%; max-width: 750px; margin: 0 auto;"/></a>
-		<figcaption style="text-align: center;">Salary Negotiation Email Template</figcaption>
-	</figure>
-</p>
 	
 <!-- <div class='sample-email'>
 <p>
