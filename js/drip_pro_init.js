@@ -29,12 +29,12 @@ window.drip_plinko = function(drip, page) {
 			offer: 'gynr',
 			inline: drip.file('gynr-inline')
 		}
-	} else if (window.location.pathname.startsWith('/book')) {
-		response = {
-			offer: 'fsn',
-			footer: drip.file('fsn-footer'),
-			inline: drip.file('fsn-inline')
-		}
+	// } else if (window.location.pathname.startsWith('/book')) {
+	// 	response = {
+	// 		offer: 'fsn',
+	// 		footer: drip.file('fsn-footer'),
+	// 		inline: drip.file('fsn-inline')
+	// 	}
 	} else if (drip.is_anon) {
 		if (context == 'raise') {
 			response = {
