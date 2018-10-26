@@ -1668,11 +1668,11 @@ div[data-offer-plinko="optional"] {
     margin-top: -15px;
 }
 
-.slider-cta-salary-increase-templates, .slider-cta-frc, .slider-cta-promotion-course {
+.slider-cta-salary-increase-templates, .slider-cta-promotion-request-templates, .slider-cta-frc, .slider-cta-promotion-course {
     background: #50b432!important;
 }
 
-.slider-cta-salary-increase-templates .slider-cta-btn, .slider-cta-frc .slider-cta-btn, .slider-cta-promotion-course .slider-cta-btn {
+.slider-cta-salary-increase-templates .slider-cta-btn, .slider-cta-promotion-request-templates .slider-cta-btn, .slider-cta-frc .slider-cta-btn, .slider-cta-promotion-course .slider-cta-btn {
     background: #357821;
 }
 
@@ -1720,7 +1720,7 @@ a.close-slider {
   border-top: 1px solid #555555;
 }
 
-.notification-bar.slider-cta-salary-increase-templates {
+.notification-bar.slider-cta-salary-increase-templates, .notification-bar.slider-cta-promotion-request-templates {
   border-top: 1px solid #357821;
 }
 
