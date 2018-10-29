@@ -91,6 +91,7 @@ Learn more: [*Fearless Salary Negotiation*](/get-started/)
 {% include testimonials/justin_j.html %}
 {% include testimonials/mark_girgis.html %}
 {% include testimonials/gunner_barnes.html %}
+{% include testimonials/anon_2.html %}
 
 ## <a name="esnep" class="below-nav">*Essential Salary Negotiation Email Pack*
 	

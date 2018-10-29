@@ -79,7 +79,7 @@ window.drip_plinko = function(drip, page) {
 			}
 		} else if (context == 'promotion') {
 			response = {
-				offer: 'promotion-course',
+				offer: 'promotion',
 				modal: drip.file('promotion-request-template-modal-with-form'),
 				footer: drip.file('promotion-request-template-footer'),
 				inline: drip.file('promotion-request-template-inline')
