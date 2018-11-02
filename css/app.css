@@ -11,8 +11,21 @@ html {
  */
 body {
   margin: 0;
-  font-family: 'Montserrat', sans-serif;
+  /*font-family: 'Montserrat', sans-serif;*/
+  font-family: 'Georgia', serif;
   -webkit-font-smoothing: antialiased;
+}
+
+#masthead,
+#slider-ad, 
+footer, 
+h1, 
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: 'Poppins', sans-serif;
 }
 
 p a,
@@ -46,6 +59,10 @@ li a {
   text-decoration: underline;
 }
 
+footer a {
+	text-decoration: none;
+}
+
 b, strong {
 	font-weight: bold;
 }
@@ -63,21 +80,14 @@ select,
 textarea {
   color: inherit;
   /* 1 */
-  font: inherit;
-  /* 2 */
   margin: 0;
-  /* 3 */
+  /* 2 */
 }
 
 .container {
   margin: 0 auto;
   overflow: visible;
   padding: 0;
-}
-
-.container-stripe {
-	background-color: #eee;
-	padding-top: 10px !important;
 }
 
 .container::after {
@@ -93,7 +103,7 @@ textarea {
 }
 
 .container--normal {
-  max-width: 750px;
+  max-width: 700px;
 }
 
 .container--widened {
@@ -140,39 +150,6 @@ textarea {
 .u-hangingindent {
   padding-left: 22px ;
   text-indent: -22px ;
-}
-
-@font-face {
-  font-family: 'levels-icons';
-  src: url("fonts/levels-icons.eot?4kz4sn");
-  src: url("fonts/levels-icons.eot?4kz4sn#iefix") format("embedded-opentype"), url("fonts/levels-icons.ttf?4kz4sn") format("truetype"), url("fonts/levels-icons.woff?4kz4sn") format("woff"), url("fonts/levels-icons.svg?4kz4sn#levels-icons") format("svg");
-  font-weight: normal;
-  font-style: normal;
-}
-
-[class^="icon-"], [class*=" icon-"] {
-  font-family: 'levels-icons';
-  speak: none;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1; */
-  /* Better Font Rendering =========== */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.icon-play:before {
-  content: "\e602";
-}
-
-.icon-download:before {
-  content: "\e601";
-}
-
-.icon-check:before {
-  content: "\e600";
 }
 
 /**

@@ -26,7 +26,7 @@
   <meta property="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
 	<meta property="twitter:image" content="{{ site.url }}{{ site.baseurl }}/images/{{ page.og-image }}" />
 	{% endif %}
-	<link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i" rel="stylesheet">
 	<link rel="stylesheet" href="{{ site.baseurl }}/css/app.css">
 	<link rel="canonical" href="{% if page.301_to_url %}{{ page.301_to_url }}{% elsif page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endif %}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.baseurl }}">
