@@ -28,6 +28,14 @@ textarea {
   font-family: 'Poppins', sans-serif;
 }
 
+@font-face {
+  font-family: 'levels-icons';
+  src: url("fonts/levels-icons.eot?4kz4sn");
+  src: url("fonts/levels-icons.eot?4kz4sn#iefix") format("embedded-opentype"), url("fonts/levels-icons.ttf?4kz4sn") format("truetype"), url("fonts/levels-icons.woff?4kz4sn") format("woff"), url("fonts/levels-icons.svg?4kz4sn#levels-icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
 p a,
 blockquote a,
 .toc__list a,
