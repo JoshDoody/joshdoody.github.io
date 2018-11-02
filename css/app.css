@@ -11,13 +11,13 @@ html {
  */
 body {
   margin: 0;
-  /*font-family: 'Montserrat', sans-serif;*/
   font-family: 'Georgia', serif;
   -webkit-font-smoothing: antialiased;
 }
 
 #masthead,
-#slider-ad, 
+#slider-ad,
+.chapter-nav-box, 
 footer, 
 h1, 
 button,
@@ -170,31 +170,30 @@ h4,
 h5,
 .section-heading {
   color: #555;
+	font-weight: 400;
+  line-height: 1.24;
 }
 
 
 h1 {
-  font-size: 3.2em;
-	font-weight: 400;
-  line-height: 1.04;
+  font-size: 2.4em;
   margin: 0.67em 0;
 }
 
 h2 {
-	font-size: 2.4em;
-	font-weight: 600;
+	font-size: 1.5em;
 }
 
 h3 {
-	font-size: 1.87em;
+	font-size: 1.17em;
 }
 
 h4 {
-	font-size: 1.46em;
+	font-size: 1.12em;
 }
 
 h5 {
-	font-size: .94em;
+	font-size: .83em;
 }
 
 h6 {
@@ -241,51 +240,9 @@ h6 {
   border-radius: 100%;
   padding: 4px;
   margin-right: 10px;
-  font-size: 14px;
-  background: -webkit-linear-gradient( top , #00A9FF, #0077b3);
+	font-size: .8em;
+	ackground: -webkit-linear-gradient( top , #00A9FF, #0077b3);
   background: linear-gradient(to bottom, #00A9FF, #0077b3);
-}
-
-/**
- * Buttons
- */
-.button {
-  display: block;
-  text-decoration: none;
-  width: 100%;
-  color: #fff;
-  border: none;
-  border-radius: 4px;
-  padding: .65em 0;
-  outline: none;
-  text-align: center;
-  font-size: 1.2rem;
-  border: 1px solid #00A9FF;
-  background: -webkit-linear-gradient( top , #00A9FF, #0077b3);
-  background: linear-gradient(to bottom, #00A9FF, #0077b3);
-}
-
-.button:hover {
-  color: #fff;
-  box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.5);
-}
-
-.button:active {
-  position: relative;
-  top: 2px;
-  background: -webkit-linear-gradient( bottom , #0087cc, #005580);
-  background: linear-gradient(to top, #0087cc, #005580);
-}
-
-.button--bright {
-  border: 1px solid #FFB74D;
-  background: -webkit-linear-gradient( top , #FFB74D, #FF9800);
-  background: linear-gradient(to bottom, #FFB74D, #FF9800);
-}
-
-.button--bright:active {
-  background: -webkit-linear-gradient( bottom , #ffa21a, #cc7a00);
-  background: linear-gradient(to top, #ffa21a, #cc7a00);
 }
 
 /**
@@ -918,6 +875,8 @@ p.footer-heading {
 	}
 }
 
+/*Guide buttons*/
+
 .guide-btn {
   background: #F37021;
   color: #fff;
@@ -1417,133 +1376,6 @@ ul.lesson-list li {
 
 .disabled {
 	color: #d3d3d3;
-}
-
-/* Pricing grid */
-
-/* Create two columns of equal width */
-.price-column {
-    box-sizing: border-box;
-		float: left;
-    width: 33.3%;
-    padding: 8px;
-}
-
-/* Style the list */
-.product {
-    list-style-type: none;
-    border: 1px solid #eee;
-    margin: 0;
-    padding: 0;
-    -webkit-transition: 0.3s;
-    transition: 0.3s;
-		border: 1px solid #888;
-		border-radius: 5px;
-		overflow: hidden;
-}
-
-/* Add shadows on hover */
-.product:hover {
-    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
-}
-
-/* Pricing header */
-.product .product-name {
-    background-color: #00A9FF;
-    color: white;
-		font-size: 1.5em;
-		font-weight: bold;
-}
-
-.product .product-name.popular {
-    background-color: #4CAF50;
-}
-
-.product .product-name.coach {
-    background-color: #FF3500;
-}
-
-
-.product .product-price {
-  font-size: 1.8em;
-	font-weight: bold;
-}
-
-/* List items */
-.product li {
-  border-bottom: 1px solid #eee;
-	padding: 10px;
-}
-
-.product li.feature {
-  padding-right: 10px;
-	padding-left: 40px;
-	text-indent: -15px;
-  text-align: left;
-}
-
-.product li.bonus {
-	text-align: center !important;
-	padding-left: 0 !important;
-}
-
-.product li s {
-	opacity: .5;
-}
-
-li.product-name, li.product-price {
-	text-align: center;
-}
-
-/* Grey list item */
-.product .product-buy {
-    background-color: #eee;
-}
-
-/* The "Sign Up" button */
-.price-grid {
-	overflow: hidden;
-	margin-bottom: 10px;
-}
-
-.price-grid .button {
-    background-color: #4CAF50;
-    border: none;
-    color: white !important;
-    padding: 10px 25px;
-    font-size: 1.2em;
-    text-align: center;
-    text-decoration: none;
-}
-
-li.product-price {
-	color: white;
-	font-size: 1.2em;
-	font-weight: bold;
-	background: #555;
-}
-
-li.product-price a.price {
-	color: white!important;
-}
-
-/* Change the width of the three columns to 100% 
-(to stack horizontally on small screens) */
-@media only screen and (max-width: 799px) {
-  .price-column {
-    width: 100%;
-		margin-left: 0px;
-		margin-right: 0px;
-  }
-	.product-name .spacing {
-		display: none;
-	}
-}
-
-@media only screen and (min-width: 800px) and (max-width: 1023px) {
-	.strike-price {
-		display: none;
-	}
 }
 
 .left-image img {
