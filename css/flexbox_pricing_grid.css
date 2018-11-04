@@ -62,14 +62,14 @@
 
 .item__header {
 	margin: 0;
-	font-size: 3rem;
+	font-size: 2em;
 	font-weight: 700;
   text-align: center;
 	line-height: 1.1;
 }
 
 .item__description {
-	font-size: 1.8rem;
+	font-size: 1.5em;
 	margin-bottom: 10px;
 	text-align: center;
 	color: #aaa;

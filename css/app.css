@@ -24,6 +24,8 @@ body {
 footer, 
 h1, 
 button,
+.buttons,
+.guide-btn,
 input,
 optgroup,
 select,
@@ -106,14 +108,14 @@ textarea {
   display: table;
 }
 
-@media only screen and (max-width: 1023px) {
+@media only screen and (max-width: 768px) {
   .container {
     padding: 0 20px;
   }
 }
 
 .container--normal {
-  max-width: 750px;
+  max-width: 36em;
 }
 
 .container--widened {
@@ -676,11 +678,11 @@ ul.buttons li {
   float: left;
   list-style: none;
   text-align: center;
-  margin-right: 20px;
-  width: 150px;
+  margin-right: 10px;
+  width: 120px;
 }
 
-@media only screen and (max-width: 1023px) {
+@media only screen and (max-width: 768px) {
 	ul.buttons {
 		padding-left: 0px;
 	}
@@ -915,7 +917,7 @@ div.ad-box p:last-child {
 .drip_form input[type="text"], .drip_form input[type="email"] {
 	font-size: 1em;
 	padding: 10px 8px;
-	width: 34%;
+	width: 32%;
 	border: 1px solid #d6d6d6; /* stroke */
 	-moz-border-radius: 0px;
 	-webkit-border-radius: 0px;
@@ -964,7 +966,7 @@ div.ad-box p:last-child {
 	border-bottom: 3px solid #D15F00;
   cursor: pointer;
   text-shadow: none;
-  width: 30%;
+  width: 34%;
   float: left;
   height: 42px;
 }
