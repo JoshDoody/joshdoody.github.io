@@ -32,17 +32,6 @@
   }
 }
 
-@media only screen and (min-width: 1023px) {
-  .script-fields__left {
-    width: 62%;
-  }
-	
-	
-	.script-fields__right {
-		padding-left: 18px;
-	}
-}
-
 .slider.slider-horizontal {
 	margin-left: 20px;
 }
