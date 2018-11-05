@@ -1,69 +1,52 @@
 .roadmap-table {
   display: flex;        /* Flex layout so items have equal height  */
   flex-direction: row;  /* Allow items to wrap into multiple lines */
-  max-width: 768px;
+	justify-content: space-around;
+  margin: 0 auto;
+	margin-bottom: 30px;
+	padding: 0px 20px 0px 20px;
 }
 
 .roadmap-table .item { 
   display: flex;        /* Lay out each item using flex layout */
   flex-flow: column;    /* Lay out item’s contents vertically  */
-	padding: 0 10px;
-  -webkit-align-items: center;
+	padding: 20px 20px;
+	margin: 30px 0;
+	border-radius: 10px;
+  width: 20em;
+	-webkit-align-items: center;
   align-items: center;
   -webkit-justify-content: center;
   justify-content: center;
 }
 
-.item__option {
-	margin: 0;
-	font-size: 2rem;
-	font-weight: 700;
-  text-align: center;
-	line-height: 1.1;
-}
-
 .item__header {
-	margin: 0;
-  text-align: center;
-	font-size: 1.2rem;
-	font-weight: 400;
-	line-height: 1.1;
-}
-
-.item__description {
-	font-size: 1.2rem;
-	margin-bottom: 10px;
-	text-align: center;
-	color: #999;
-	line-height: 1.1;
-}
-
-.item .image {
-	margin: 10px 0;
+	margin-bottom: 20px;
 }
 
 /* Styles not relevant to flexbox */
-.roadmap-table {
-  margin: 0 auto;
-	margin-bottom: 30px;
+
+.roadmap-table .item {
 	background: #e6f7ff;
 }
 
-.roadmap-table .item {
-  margin: 30px 0;
-	padding: 30px;
-}
-
 .item__option {
+	margin: 0;
+	padding: .15em;
+	width: 1.75em;
+	height: 1.75em;
 	margin-bottom: 10px;
+	border-radius: 50%;
+	text-align: center;
+	font-weight: bold;
+	color: #00A9FF;
+	background-color: #ccefff;
 }
 
 .item__header {
-	margin-bottom: 10px;
-}
-
-.item__description {
-	margin-bottom: 30px;
+  text-align: center;
+	font-size: 1.2rem;
+	font-weight: bold;
 }
 
 .item__cta {
@@ -73,16 +56,12 @@
 	margin-bottom: 10px;
 }
 
-/*.item__cta a {
-	height: 100px;
-}*/
-
 .item__cta span {
 	margin: auto !important;
 }
 
 .item + .item {
-    border-left: solid 1px #aaa;
+    margin-left: 1em;
 }
 
 @media only screen and (max-width: 768px) {
@@ -91,17 +70,10 @@
 	  flex-direction: column;  /* Allow items to wrap into multiple lines */
 	  justify-content: center;
 	  align-items: center;
-/*		padding: 20px 0;*/
 	}
 	
 	.roadmap-table .item {
-	  padding: 20px 0; 
-		margin: 0; /* Allow items to wrap into multiple lines */
-		max-width: 300px;
-	}
-	
-	.item + .item {
-	    border-top: solid 1px #aaa;
-			border-left: none;
+		margin: 10px 0; /* Allow items to wrap into multiple lines */
+		max-width: 20em;
 	}
 }
