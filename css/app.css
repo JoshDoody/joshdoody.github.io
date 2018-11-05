@@ -102,18 +102,6 @@ textarea {
   padding: 0;
 }
 
-/* overriding fat-top-margin, skinny-bottom-margin for headers 
-that start a section*/
-section > .container:first-child > h1:first-child,
-section > .container:first-child > h2:first-child,
-section > .container:first-child > h3:first-child,
-section > .container:first-child > h4:first-child,
-section > .container:first-child > h5:first-child,
-section > .container:first-child > h6:first-child,
-section > .container:first-child > .section-heading:first-child {
-  margin-top: 0px;
-}
-
 .container::after {
   clear: both;
   content: "";
@@ -215,6 +203,19 @@ h5 {
 
 h6 {
 	font-size: .75em;
+}
+
+/* overriding fat-top-margin, skinny-bottom-margin for headers 
+that start a section*/
+section > .container:first-child > h1:first-child,
+section > .container:first-child > h2:first-child,
+section > .container:first-child > h3:first-child,
+section > .container:first-child > h4:first-child,
+section > .container:first-child > h5:first-child,
+section > .container:first-child > h6:first-child,
+section > .container:first-child > .section-heading:first-child,
+.ad-box > h2:first-child {
+  margin-top: 0px;
 }
 
 .section-heading--with-line {
@@ -733,7 +734,7 @@ a.below-nav {
 }
 
 h2.excerpt-header {
-	margin-bottom: 5px;
+	margin: .5em 0 .25em 0;
 }
 
 h2.excerpt-header a {

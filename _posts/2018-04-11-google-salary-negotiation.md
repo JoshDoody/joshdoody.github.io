@@ -140,5 +140,6 @@ Once they reveal where they're flexible and how flexible they are, you can use t
 - **Google is often rigid with respect to the "level" offered.** Because they use equity as a primary negotiating lever, they have lots of flexibility within pay bands and therefore rarely change pay bands—or levels—as part of the negotiation. 
 
 {% include testimonials/s_l.html %}
+<br>
 
 <div class="inline-ad hidden"></div>
