@@ -214,7 +214,8 @@ section > .container:first-child > h4:first-child,
 section > .container:first-child > h5:first-child,
 section > .container:first-child > h6:first-child,
 section > .container:first-child > .section-heading:first-child,
-.ad-box > h2:first-child {
+.ad-box > h2:first-child,
+.drip_form > form > h2:first-child {
   margin-top: 0px;
 }
 
@@ -790,7 +791,7 @@ ul.share-buttons img {
 
 /* Ad box for HTML book */
 .ad-box {
-	padding: 10px 20px 10px 20px;
+	padding: 20px 20px 10px 20px;
 	margin-bottom: 20px;
 	background-color: #EEEEEE;
 	border-radius: 10px;
@@ -900,17 +901,11 @@ div.ad-box p:last-child {
 	border-radius: 10px;
 	border: 1px solid #888;
 	width: 100%;
-	padding: 0 4% 3% 4%;
+	padding: 3% 4% 3% 4%;
 }
 
 .drip_form p {
 	padding: 0px;
-}
-
-.drip_form h3 {
-	color: #555;
-  font-weight: bold;
-	font-size: 2em;
 }
 
 .drip_form label {
