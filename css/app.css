@@ -1708,10 +1708,6 @@ section {
 	padding: 40px 0;
 }
 
-section:first-child { 
-    margin-top: 0;
-}
-
 section.primary {
 	background-color: #FF3500;
 	color: white;
