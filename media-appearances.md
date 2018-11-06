@@ -101,6 +101,7 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 34. [Josh Doody talks about the biggest avoidable mistakes in salary negotiation](https://medium.com/@JBunky/people-stack-podcast-josh-doody-talks-about-the-biggest-avoidable-mistakes-in-salary-negotiation-ff551a531bd3){:rel="nofollow"} – People Stack Podcast
 35. [Josh Doody on Narrowing His Positioning, part 1](http://consultingpipelinepodcast.com/40){:rel="nofollow"} – The Consulting Pipeline Podcast
 36. [Josh Doody updates us on his narrowed market position 1 year in](http://consultingpipelinepodcast.com/117){:rel="nofollow"} – The Consulting Pipeline Podcast
+37. [Josh Doody on Why, When, and How to Niche Your Business](https://rezzz.com/podcast/josh-doody-on-why-when-and-how-to-niche-your-business/){:rel="nofollow"} – Live in the Feast
 
 ## <a name="talks" class="below-nav">Talks
 
