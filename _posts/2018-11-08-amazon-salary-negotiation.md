@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon salary negotiation - How to negotiate a Amazon job offer
+title: Amazon salary negotiation - How to negotiate your Amazon job offer
 headline: Got a job offer from Amazon? Here's how to negotiate it!
 excerpt: Here's how to negotiate your Amazon job offer including valuable tactics and common pitfalls to avoid.
 context: coach
@@ -9,7 +9,7 @@ last_modified_at: 2018-11-08
 ---
 Amazon salary negotiation is unique because they use a one-of-a-kind structure for their compensation packages, and they are very focused on both attracting *and* retaining top talent for a long time.
 
-The key question to ask about a Amazon job offer is "How much can this offer be improved through negotiation?" In my experience [coaching software developers](/coach/) through Amazon salary negotiations, the answer varies from "somewhat" to "a whole lot".
+The key question to ask about an Amazon job offer is "How much can this offer be improved through negotiation?" In my experience [coaching software developers](/coach/) through Amazon salary negotiations, the answer varies from "somewhat" to "a whole lot".
 
 The trick is that you have to be willing to consider non-salary options and think deeply about how long you actually want to work at Amazon because their job offers are structured to increase in value over time, specifically after your second year as an employee.
 
@@ -161,7 +161,7 @@ Be sure that if you ask for and receive more equity that you also try to improve
 <p><a href="/salary-negotiation-guide/">Salary Negotiation Guide →</a></p>
 </div>
 
-## What to look out for when negotiating a Amazon job offer package
+## What to look out for when negotiating an Amazon job offer package
 
 - **Amazon caps base salary for most job at around $165–175k, so make sure to see whether you're near the cap before you negotiate.**
 - **Amazon has a very unique equity vesting schedule that ramps significantly in Years 3 and 4.**
