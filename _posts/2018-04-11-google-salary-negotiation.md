@@ -49,7 +49,7 @@ Let's look a little closer at the main components of a Google job offer.
 
 As with most job offers, this is the stable, predictable component that you can use to pay your mortgage or car payment. You can't know what company performance might look like in the future, so it's hard to estimate how much of a bonus you'll get or what your RSUs will be worth when they vest.
 
-Google's base salary offers tend to be pretty competitive, with other big tech firms. If you're wondering whether the salary you're offered is competitive, [paysa.com](paysa.com) is a good place to start.
+Google's base salary offers tend to be pretty competitive, with other big tech firms. If you're wondering whether the salary you're offered is competitive, [paysa.com](https://www.paysa.com) is a good place to start.
 
 #### How flexible is Google on Base Salary?
 
