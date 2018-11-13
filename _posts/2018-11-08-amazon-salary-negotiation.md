@@ -98,16 +98,53 @@ The Equity component of an Amazon job offer can range from "not very much" (as w
 
 Amazon is unique because they almost have to offer significant equity grants to compensate for the base salary cap, and your negotiation may end up focused entirely on equity and sign-on bonus.
 
-The real trick with Amazon equity (RSUs) is their vesting schedule:
+#### Amazon's unique equity vesting schedule
 
- * Year 1: 5%
- * Year 2: 15%
- * Year 3: 40%
- * Year 4: 40%
- 
-Most big tech firms simply have a flat vesting schedule (25% per year, sometimes paid out monthly). Amazon has a very steep vesting schedule, which means almost all of the equity is paid out in Years 3 and 4.
+Let's pause for a moment to talk about Amazon's unique equity vesting schedule. It's easiest if we start by looking at a typical equity vesting schedule, then we'll loop back to Amazon.
 
-They do this to incentivize you to stick around longer since it can be very difficult to walk away from 40% of a big pile of RSUs that you've been looking forward to for two years or more.
+#### How most companies handle equity vesting
+
+Equity is often paid out in equal installments over four years, beginning at the beginning of the second year. So if you got 100 shares of company stock (RSUs, typically) as your equity component at a typical public company, here's what their vesting schedule might look like:
+
+*   Year 1: 25%
+*   Year 2: 25%
+*   Year 3: 25%
+*   Year 4: 25%
+
+There's typically a one-year cliff, which means nothing is paid out until you've been there for a year, then there are regular payouts after that.
+
+In our example above, that might look like this:
+
+*   Beginning of Year 2 \| 25% payout for Year 1: 25 shares
+*   Years 2 through 4 \| Monthly payouts: About 2.08 shares per month
+
+Sometimes those payments will be quarterly or semi-annually. But the basic idea is that once you've been there for a year, you start getting equity payouts at regular intervals. Pretty straightforward!
+
+#### How Amazon handles equity vesting
+
+Amazon is different.
+
+Here's their vesting schedule:
+
+*   Year 1: 5%
+*   Year 2: 15%
+*   Year 3: 40%
+*   Year 4: 40%
+
+And Years 1 and 2 are each a cliff, followed by semi-annual payouts in Years 3 and 4\. So the same 100 shares at Amazon would be paid out like this:
+
+*   Beginning of Year 2 \| 5% payout for Year 1: 5 shares
+*   Beginning of Year 3 \| 15% payout for Year 2: 15 shares
+*   Beginning of Month 7 in Year 3 \| 20% payout: 20 shares
+*   Beginning of Year 4 \| 20% payout: 20 shares
+*   Beginning of Month 7 in Year 4 \| 20% payout: 20 shares
+*   Beginning of Year 5 \| 20% payout: 20 shares
+
+The optimistic reading on this is that it's a way to incentivize good employees to stick around longer so they get the bulk of their equity payouts.
+
+The cynical reading of this is that it gives Amazon time to churn poorly-performing employees out of the company before they vest the bulk of their equity.
+
+If you want a better look at what it's like negotiating an Amazon job offer, including how they use sign-on bonuses to take the sting out of that steep vesting schedule, take a look at my new guide!
 
 #### Number of shares versus current value of shares
 
