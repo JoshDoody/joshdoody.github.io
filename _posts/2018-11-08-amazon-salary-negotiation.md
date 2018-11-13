@@ -19,11 +19,11 @@ The bottom line is that if you have a job offer from Amazon in a technical role,
 
 Once you actually get through the Amazon interview gauntlet, you may receive a job offer. Let's look at an example to see what you can expect.
 
-Amazon's offers are unique, but have standard components:
+Amazon's offers are unique, but have three standard components:
 
-* Base salary
-* Sign-on Bonus
-* Equity (RSUs)
+ * [Amazon job offer—Base salary](#base-salary){:data-template="Amazon job offer component"}{:data-action="Base salary section"}
+ * [Amazon job offer—Sign-on bonus](#sign-on-bonus){:data-template="Amazon job offer component"}{:data-action="Sign-on bonus section"}
+ * [Amazon job offer—Equity (RSUs)](#equity){:data-template="Amazon job offer component"}{:data-action="Equity section"}
 
 They will often roll all these numbers together to describe the offer in terms of "Total Compensation" by year, but that can be tricky to understand thanks to some quirks I'll describe below.
 
@@ -48,7 +48,7 @@ This is what I was referring to above when I mentioned they incentivize you to s
 
 Let's look a little closer at the main components of an Amazon job offer.
 
-### Base Salary
+## <a name="base-salary" class="below-nav">Amazon job offer—Base Salary
 
 As with most job offers, this is the stable, predictable component that you can use to pay your mortgage or car payment. You can't know what company performance might look like in the future, so it's hard to estimate how much of a bonus you'll get or what your RSUs will be worth when they vest.
 
@@ -60,11 +60,11 @@ The most unique thing about Amazon job offers is that they typically cap base sa
 
 If you run into the base salary cap, they'll start adding equity and sign-on bonuses to improve the offer. More senior roles can command very large sign-on bonuses and RSU grants while offering a relatively modest base salary (when compared to some other big tech firms).
 
-#### How flexible is Amazon on Base Salary?
+### How flexible is Amazon on Base Salary?
 
 As long as you're under the base salary cap, they can be pretty flexible. They don't typically make *large* moves on base salary, but they will improve the base salary up to a point.
 
-### Sign-on bonus
+## <a name="sign-on bonus" class="below-nav">Amazon job offer—Sign-on bonus
 
 Sign-on bonuses, like equity, can range from a nice little amount into six figures.
 
@@ -74,11 +74,11 @@ The Year 1 sign-on bonus is typically larger than Year 2's, partially as an ince
 
 In Year 2, the sign-on bonus is smaller, but more of your equity will vest.
 
-#### How flexible is Amazon on Sign-on Bonus?
+### How flexible is Amazon on Sign-on Bonus?
 
 Pretty flexible! And that's especially true once you cross the base salary cap since they will begin adding a lot more equity. More equity means a bigger shortfall in Years 1 and 2, which means they offer larger sign-on bonuses to help bridge that gap.
 
-#### Do you have to pay back your sign-on bonus if you leave before the end of Year 2?
+### Do you have to pay back your sign-on bonus if you leave before the end of Year 2?
 
 Maybe.
 
@@ -92,13 +92,13 @@ As far as I can tell, there's not a lot of consistency here and it seems like Am
 
 Bottom line: Ask your recruiter what strings are attached to your sign-on bonus so you don't encounter any nasty surprises if you leave before the end of Year 2. 
 
-### Equity (RSUs)
+## <a name="equity" class="below-nav">Amazon job offer—Equity (RSUs)
 
 The Equity component of an Amazon job offer can range from "not very much" (as with the example above) to "wowzers, that's a lot of equity!" depending on the role and whether you bump into the base salary cap.
 
 Amazon is unique because they almost have to offer significant equity grants to compensate for the base salary cap, and your negotiation may end up focused entirely on equity and sign-on bonus.
 
-#### Amazon's unique equity vesting schedule
+### Amazon's unique equity vesting schedule
 
 Let's pause for a moment to talk about Amazon's unique equity vesting schedule. It's easiest if we start by looking at a typical equity vesting schedule, then we'll loop back to Amazon.
 
@@ -152,7 +152,7 @@ One interesting thing about Amazon's offers is they typically include a number o
 
 This is the more accurate way to talk about RSUs, but it's not what most of the other big tech firms do. This way, you have to do more math to figure out the current value of the shares, and you'll end up discussing a number of shares rather than a dollar amount most of the time.
 
-#### How flexible is Amazon on Equity (RSUs)?
+### How flexible is Amazon on Equity (RSUs)?
 
 Moderately flexible to *extremely* flexible depending on how close you are to the base salary cap.
 
