@@ -21,9 +21,9 @@ Once you actually get through the Amazon interview gauntlet, you may receive a j
 
 Amazon's offers are unique, but have three standard components:
 
- * [Amazon job offer—Base salary](#base-salary){:data-template="Amazon job offer component"}{:data-action="Base salary section"}
- * [Amazon job offer—Sign-on bonus](#sign-on-bonus){:data-template="Amazon job offer component"}{:data-action="Sign-on bonus section"}
- * [Amazon job offer—Equity (RSUs)](#equity){:data-template="Amazon job offer component"}{:data-action="Equity section"}
+ * [Base salary](#base-salary){:data-template="Amazon job offer component"}{:data-action="Base salary section"}
+ * [Sign-on bonus](#sign-on-bonus){:data-template="Amazon job offer component"}{:data-action="Sign-on bonus section"}
+ * [Equity (RSUs)](#equity){:data-template="Amazon job offer component"}{:data-action="Equity section"}
 
 They will often roll all these numbers together to describe the offer in terms of "Total Compensation" by year, but that can be tricky to understand thanks to some quirks I'll describe below.
 
@@ -48,7 +48,7 @@ This is what I was referring to above when I mentioned they incentivize you to s
 
 Let's look a little closer at the main components of an Amazon job offer.
 
-## <a name="base-salary" class="below-nav">Amazon job offer—Base Salary
+## <a name="base-salary" class="below-nav">Base Salary
 
 As with most job offers, this is the stable, predictable component that you can use to pay your mortgage or car payment. You can't know what company performance might look like in the future, so it's hard to estimate how much of a bonus you'll get or what your RSUs will be worth when they vest.
 
@@ -64,7 +64,7 @@ If you run into the base salary cap, they'll start adding equity and sign-on bon
 
 As long as you're under the base salary cap, they can be pretty flexible. They don't typically make *large* moves on base salary, but they will improve the base salary up to a point.
 
-## <a name="sign-on bonus" class="below-nav">Amazon job offer—Sign-on bonus
+## <a name="sign-on bonus" class="below-nav">Sign-on bonus
 
 Sign-on bonuses, like equity, can range from a nice little amount into six figures.
 
@@ -92,7 +92,7 @@ As far as I can tell, there's not a lot of consistency here and it seems like Am
 
 Bottom line: Ask your recruiter what strings are attached to your sign-on bonus so you don't encounter any nasty surprises if you leave before the end of Year 2. 
 
-## <a name="equity" class="below-nav">Amazon job offer—Equity (RSUs)
+## <a name="equity" class="below-nav">Equity (RSUs)
 
 The Equity component of an Amazon job offer can range from "not very much" (as with the example above) to "wowzers, that's a lot of equity!" depending on the role and whether you bump into the base salary cap.
 
