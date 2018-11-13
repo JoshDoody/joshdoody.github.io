@@ -5,7 +5,7 @@ headline: Got a job offer from Amazon? Here's how to negotiate it!
 excerpt: Here's how to negotiate your Amazon job offer including valuable tactics and common pitfalls to avoid.
 context: coach
 author: josh
-last_modified_at: 2018-11-08
+last_modified_at: 2018-11-13
 ---
 Amazon salary negotiation is unique because they use a one-of-a-kind structure for their compensation packages, and they are very focused on both attracting *and* retaining top talent for a long time.
 
