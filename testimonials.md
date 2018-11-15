@@ -12,6 +12,7 @@ Looking for testimonials for a particular product or offering?
  * [Essential Salary Negotiation Email Pack](#esnep){:data-testimonial-topic="Essential Salary Negotiation Email Pack testimonials"}
  * [Salary Negotiation Crash Course](#sncc){:data-testimonial-topic="Salary Negotiation Crash Course testimonials"}
  * [Get Your Next Raise](#gynr){:data-testimonial-topic="Get Your Next Raise testimonials"}
+ * [How to get promoted in 7 days](#promotion-course){:data-testimonial-topic="Promotion Course testimonials"}
  * [Speaking](#speaking){:data-testimonial-topic="Speaking testimonials"}
  * [Endorsements](#endorsements){:data-testimonial-topic="Endorsement testimonials"}
  
@@ -129,6 +130,16 @@ Learn more: [*Get Your Next Raise*](/get-your-next-raise/)
 
 {% include testimonials/john_li.html %}
 {% include testimonials/thai_wood.html %}
+
+## <a name="promotion-course" class="below-nav">*How to get promoted in 7 days*
+	
+If you've had your eye on a promotion, but you're not sure how to talk to your manager about it, this course is for you!
+
+You'll get all the tools you need and step-by-step instructions to finally get the promotion you deserve.
+
+Learn more: [*How to get promoted in 7 days*](/promotion-course/)
+
+{% include testimonials/caroline_s.html %}
 
 ## <a name="speaking" class="below-nav">Public Speaking—Talks, Seminars, Webinars
 
