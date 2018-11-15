@@ -1,6 +1,6 @@
 .pricing-table {
   display: flex;        /* Flex layout so items have equal height  */
-  flex-direction: column-reverse;  /* Allow items to wrap into multiple lines */
+  flex-direction: column;  /* Allow items to wrap into multiple lines */
   max-width: 800px;
 }
 
