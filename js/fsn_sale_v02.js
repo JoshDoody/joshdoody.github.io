@@ -1,5 +1,3 @@
----
----
 $(document).ready(function(){
 	function getParameterByName(name, url) { // function to get a specific url param value by name
 	    if (!url) url = window.location.href;
@@ -11,7 +9,7 @@ $(document).ready(function(){
 	    return decodeURIComponent(results[2].replace(/\+/g, " "));
 	}
 	
-	var p = getParameterByName("sale_expiry"); // get the value of 'dest'
+	var p = getParameterByName("expiry"); // get the value of 'expiry'
 	
 	if (p !== 'undefined' && p) { // only do something if 'sale_expiry' is present
 		var now = Math.floor(Date.now() / 1000);
