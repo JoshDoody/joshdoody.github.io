@@ -1,0 +1,144 @@
+.pricing-table {
+  display: flex;        /* Flex layout so items have equal height  */
+  flex-direction: column;  /* Allow items to wrap into multiple lines */
+  max-width: 800px;
+}
+
+.pricing-table .item { 
+  display: flex;        /* Lay out each item using flex layout */
+  flex-flow: column;    /* Lay out item’s contents vertically  */
+	padding: 0 10px;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+
+.item__cta {
+  display: flex;
+  align-items: center;
+  margin-top: auto;     /* Auto top margin pushes button to bottom */
+	margin-bottom: 10px;
+}
+
+/* Styles not relevant to flexbox */
+.pricing-table {
+  margin: 0 auto;
+}
+
+.pricing-table .item {
+  margin: 30px 0;
+	padding: 30px;
+  border: 3px solid #AAA;
+	border-radius: 5px;
+}
+
+.pricing-table .item ul {
+	list-style: none;
+	max-width: 600px;
+}
+
+.pricing-table .item ul li {
+	text-indent: -12px;
+	padding-bottom: 10px;
+}
+
+.pricing-table .item ul li:before {
+	font-family: FontAwesome;
+	content: "\f00c";
+	display: inline-block;
+	position: relative;
+	margin-right: 5px;
+	color: #aaa;
+}
+
+.pricing-table .item ul li.excluded {
+	color: #aaa;
+}
+
+.pricing-table .item ul li.excluded:before {
+	content: "\f00d";
+}
+
+.item__header {
+	margin: 0;
+	font-size: 2em;
+	font-weight: 700;
+  text-align: center;
+	line-height: 1.1;
+}
+
+.item__description {
+	font-size: 1.5em;
+	margin-bottom: 10px;
+	text-align: center;
+	color: #aaa;
+	line-height: 1.1;
+}
+
+.item .image {
+	margin: 10px 0;
+}
+
+.item__price {
+	font-weight: 400;
+	margin-bottom: .5rem;
+  font-size: 3rem;
+	text-align: center;
+	line-height: 1.1;
+}
+
+.item__price s {
+	font-weight: 200;
+	color: #aaa;
+}
+
+.item__cta span {
+	margin: auto !important;
+}
+
+.item__pay-logos {
+	display: flex;
+	flex: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding-top: 10px;
+}
+
+.item__pay-logos img {
+	align-self: center;
+	margin-right: 5px;
+}
+
+.item__happy-customer-guarantee {
+	display: flex;
+	flex: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.item__happy-customer-guarantee img {
+	margin-right: 5px;
+	align-self: center;
+}
+
+.item__happy-customer-guarantee p.guarantee {
+	margin-top: 10px;
+}
+
+.item__happy-customer-guarantee p .guarantee-headline {
+	font-size: .8rem;
+	font-weight: bold;
+	line-height: 1;
+}
+.item__happy-customer-guarantee p .guarantee-sub-head {
+	display: block;
+	font-size: .6rem;
+	line-height: 0;
+}
+
+@media only screen and (min-width: 769px) {
+  .pricing-table {
+    padding: 0 20px;
+  }
+}
