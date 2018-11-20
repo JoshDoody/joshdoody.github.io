@@ -9,7 +9,7 @@ $(document).ready(function(){
 	//     return decodeURIComponent(results[2].replace(/\+/g, " "));
 	// }
 	
-	var p = 1543276799; // Hard coded for 11:59:59 PM on Monday, November 26
+	var p = 1543294799; // Hard coded for 11:59:59 PM on Monday, November 26
 	
 	if (p !== 'undefined' && p) { // only do something if 'expiry' is present
 		var now = Math.floor(Date.now() / 1000);
@@ -22,7 +22,7 @@ $(document).ready(function(){
 	        jQuery('#countdownTimer').DYMTimer({
 	            endTime: expiry,
 	            endMessage: "We're redirecting you now!",
-	            template: '<p>This Offer ends in <strong>{{DAY}}</strong> days <strong>{{HOUR}}</strong> hours and <strong>{{MIN}}</strong> min</p>',
+	            template: '<p>Offer ends in <strong>{{DAY}}</strong> days <strong>{{HOUR}}</strong> hours <strong>{{MIN}}</strong> min</p>',
 	            redirectUrl: 'https://fearlesssalarynegotiation.com/get-started/'
 	        });
 	    });
