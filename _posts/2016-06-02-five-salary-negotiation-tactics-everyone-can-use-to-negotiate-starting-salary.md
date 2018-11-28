@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Five salary negotiation tactics everyone can use to negotiate starting salary
-headline: Earn more money with these five salary negotiation tactics
-tagline: Salary negotiation tactics to maximize your starting salary at a new job
-excerpt: Five salary negotiation tactics that everyone can use to negotiate starting salary
+title: Five salary negotiation tips everyone can use to negotiate starting salary
+headline: Earn more money with these five salary negotiation tips
+tagline: Salary negotiation tips to maximize your starting salary at a new job
+excerpt: Five salary negotiation tips that everyone can use to negotiate starting salary
 context: negotiate
 author: josh
-last_modified_at: 2016-10-24
+last_modified_at: 2018-11-28
 ---
-Salary negotiation doesn't have to be intimidating. [Fearless Salary Negotiation]({{ site.baseurl }}) is a deep dive into the strategy and tactics of successful salary negotiation, but what if you don't have time for a deep dive? 
+Salary negotiation doesn't have to be intimidating. [Fearless Salary Negotiation](/get-started/) is a deep dive into the strategy and tactics of successful salary negotiation, but what if you don't have time for a deep dive? 
 
-Here is a short summary of five salary negotiation tactics that everyone can use to negotiate starting salary. I'll just share each tactic and a quick description so you can use these tactics right away if you need them.
+Here is a short summary of five salary negotiation tips to negotiate your starting salary. I'll just share each tip and a quick description so you can use these tips right away if you need them.
 
 ## 1. Don't disclose your current or expected salary
 
@@ -65,6 +65,6 @@ Prepare a script so you know exactly how you'll respond to each increment in the
 
 Here's a [salary negotiation script example]({{ site.baseurl }}/salary-negotiation-script-example) you can use to help get you started.
 
-With these five salary negotiation tactics that everyone can use to negotiate starting salary, you can significantly increase your starting salary when you start a new job. 
+With these five salary negotiation tips, you can significantly increase your starting salary when you start a new job. 
 
 <div class="inline-ad hidden"></div>
