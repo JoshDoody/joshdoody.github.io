@@ -8,7 +8,7 @@ context: negotiate
 author: josh
 last_modified_at: 2018-11-28
 ---
-Salary negotiation doesn't have to be intimidating. [Fearless Salary Negotiation](/get-started/) is a deep dive into the strategy and tactics of successful salary negotiation, but what if you don't have time for a deep dive? 
+Salary negotiation doesn't have to be intimidating. Our complete [salary negotiation guide](/salary-negotiation-guide/) is a deep dive into the strategy and tactics of successful salary negotiation, but what if you don't have time for a deep dive? 
 
 Here is a short summary of five salary negotiation tips to negotiate your starting salary. I'll just share each tip and a quick description so you can use these tips right away if you need them.
 
@@ -32,7 +32,7 @@ So what should you say when asked for your current or desired salary? Here is an
 
 Job hunting and interviewing are a lot of work, and often take many hours of your time over many weeks. So once you *finally* get a job offer, it's easy to get caught up in the moment and forget to negotiate.
 
-That's why it's best to set your [minimum acceptable salary]({{ site.baseurl }}/book/negotiate/what-is-your-minimum-acceptable-salary) *before* you get a job offer. This is your "walk away" number—your line in the sand for the minimum salary you will accept if you take the job, and it's critical to your salary negotiation.
+That's why it's best to set your [minimum acceptable salary](/book/negotiate/what-is-your-minimum-acceptable-salary) *before* you get a job offer. This is your "walk away" number—your line in the sand for the minimum salary you will accept if you take the job, and it's critical to your salary negotiation.
 
 With this number in your back pocket, you can confidently negotiate starting salary knowing you will either exceed this number and take the job, or you will walk away from the opportunity satisfied that it wasn't a good fit.
 
@@ -42,7 +42,7 @@ With this number in your back pocket, you can confidently negotiate starting sal
 
 You should counter between 10% and 20% above the base salary in the job offer. Counter closer to 10% if you need the job pretty badly and you don't sense that the company is desperate to hire you. Counter closer to 20% above the job offer if you have other options and you sense the company specifically needs you to do the job.
 
-Use the [salary negotiation script generator and counteroffer calculator]({{ site.baseurl }}/salary-negotiation-script) to get started.
+Use the [salary negotiation script generator and counteroffer calculator](/salary-negotiation-script) to get started.
 
 ## 4. Deliver your counter offer via email if possible
 
@@ -53,7 +53,7 @@ Countering in an email has two great benefits:
 1. You can take your time writing and editing the email so that you articulate your complete case to justify your counter very clearly. 
 2. Your email will also act as a document that can be circulated internally at the company as they discuss your counter offer. You'll make your case better than anyone, and this gives you an opportunity to indirectly present your case to whoever reads the email.
 
-Here's a [salary negotiation email sample]({{ site.baseurl }}/salary-negotiation-email-sample) you can use as a template to help you get started.
+Here's a [salary negotiation email sample](/salary-negotiation-email-sample) you can use as a template to help you get started.
 
 ## 5. Keep negotiating until you've maximized your base salary and benefits
 
@@ -63,7 +63,7 @@ But don't stop negotiating just yet!
 
 Prepare a script so you know exactly how you'll respond to each increment in their range of possible responses so you can increase your base salary or add more benefits to your total compensation package.
 
-Here's a [salary negotiation script example]({{ site.baseurl }}/salary-negotiation-script-example) you can use to help get you started.
+Here's a [salary negotiation script example](/salary-negotiation-script-example) you can use to help get you started.
 
 With these five salary negotiation tips, you can significantly increase your starting salary when you start a new job. 
 
