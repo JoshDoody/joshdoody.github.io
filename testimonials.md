@@ -157,4 +157,4 @@ Here are some very kind folks' thoughts on *Fearless Salary Negotiation*.
 
 {% include testimonials/josh_kaufman.html %}
 {% include testimonials/patrick_mckenzie_short.html %}
-<!-- {% include testimonials/jordan_l.html %} -->
+{% include testimonials/jordan_l.html %}
