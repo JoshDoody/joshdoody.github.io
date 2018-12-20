@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to answer “What are your salary expectations?” (2018)
+title: How to answer “What are your salary expectations?” (2019)
 tagline: Word-for-word scripts to avoid making one of the most expensive interview mistakes
 excerpt: Don't panic! Here's how to tactfully answer questions about your salary expectations without costing yourself a ton of money.
 og-image: DreadedSalaryQuestion.png
