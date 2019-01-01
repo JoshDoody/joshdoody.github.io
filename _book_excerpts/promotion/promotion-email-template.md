@@ -5,7 +5,8 @@ tagline: Send your promotion request after you talk to your manager
 excerpt: This is your chance to make your case in writing so your manager can ciruclate it in your own words. You'll make your case better than anyone else will.
 has_basic_bundle_pitch: true
 context: promotion
-last_modified_at: 2016-06-29
+last_modified_at: 2019-01-01
+canonical_url: 'https://fearlesssalarynegotiation.com/promotion-request-letter/'
 book_section: 11
 chapter: promotion
 section: 4
