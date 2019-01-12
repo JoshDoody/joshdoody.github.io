@@ -4,6 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 	<link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.ico" />
   <title>{% if page.title %}{{ page.title | strip_html | escape }}{% else %}{{ site.title | strip_html | escape }}{% endif %}</title>
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
 	{% if page.metatags %} 
 	<meta name="robots" content="{{page.metatags}}" />

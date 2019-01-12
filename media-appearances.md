@@ -102,6 +102,7 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 35. [Josh Doody on Narrowing His Positioning, part 1](http://consultingpipelinepodcast.com/40){:rel="nofollow"} – The Consulting Pipeline Podcast
 36. [Josh Doody updates us on his narrowed market position 1 year in](http://consultingpipelinepodcast.com/117){:rel="nofollow"} – The Consulting Pipeline Podcast
 37. [Josh Doody on Why, When, and How to Niche Your Business](https://rezzz.com/podcast/josh-doody-on-why-when-and-how-to-niche-your-business/){:rel="nofollow"} – Live in the Feast
+38. [Negotiating Your Salary and Advancing Your Career with Josh Doody](https://egghead.io/podcasts/negotiating-your-salary-and-advancing-your-career-with-josh-doody){:rel="nofollow"} – egghead
 
 ## <a name="talks" class="below-nav">Talks
 
