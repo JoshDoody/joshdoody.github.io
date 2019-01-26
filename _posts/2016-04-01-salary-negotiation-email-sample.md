@@ -372,9 +372,9 @@ But if you haven't heard back from them after two or three *business* days (week
 
 You don't need to akd how they feel about your counter offer, whether they can accommodate it, or anything like that. You don't want them to know you're sweating the negotiation—you're just casually checking in to make sure they're not waiting on you.
 
-<div data-offer-plinko="optional">
-{% include drip_forms/salary-negotiation-email-template-content-upgrade.html %}
-</div>
+<!-- <div data-offer-plinko="optional"> -->
+{% include convertkit_forms/salary-negotiation-email-template-content-upgrade.html %}
+<!-- </div> -->
 
 ## What happens next?
 
