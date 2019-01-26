@@ -95,9 +95,9 @@ This sounds pretty bad, right?
 
 But wait! It gets *even worse*!
 
-<div data-offer-plinko="optional">
-{% include drip_forms/salary-question-scripts-content-upgrade.html %}
-</div>
+<!-- <div data-offer-plinko="optional"> -->
+{% include convertkit_forms/salary-question-scripts-content-upgrade.html %}
+<!-- </div> -->
 
 ### The "real" salary they're willing to pay could increase throughout your interview
 
@@ -212,9 +212,9 @@ Here is my recommendation for a good answer to the full version of this question
 
 <p class='u-center'><a href="/images/DreadedSalaryQuestion.png" target="_blank"><img src="/images/DreadedSalaryQuestion.png" alt="The current and expected salary question" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
 
-<div data-offer-plinko="optional">
-{% include drip_forms/salary-question-scripts-content-upgrade.html %}
-</div>
+<!-- <div data-offer-plinko="optional"> -->
+{% include convertkit_forms/salary-question-scripts-content-upgrade.html %}
+<!-- </div> -->
 
 So let's say that you're playing a game, and your goal is to get past the salary expectations without sharing your salary requirements. This is Level 1, and the script I just gave you will usually win the game.
 
@@ -266,9 +266,9 @@ Let's compare that to the unique pieces of information the company has:
 
 See what I mean? If you give them two of the three unique pieces of information you have, you're down to 1. And they're up from *a lot of information that you don't have* to *all but one piece of information*.
 
-<div data-offer-plinko="optional">
-{% include drip_forms/salary-question-scripts-content-upgrade.html %}
-</div>
+<!-- <div data-offer-plinko="optional"> -->
+{% include convertkit_forms/salary-question-scripts-content-upgrade.html %}
+<!-- </div> -->
 
 ## <a name="when-they-insist" class="below-nav">What if they threaten to stop interviewing you?
 
@@ -366,9 +366,9 @@ Every time I've seen this, it's usually a rogue recruiter who has created their 
 
 Regardless, you shouldn't share this information because it has nothing to do with how qualified you are for the job they're trying to fill, and your previous salary has no bearing on how valuable you will be in this role for their company.
 
-<div data-offer-plinko="optional">
-{% include drip_forms/salary-question-scripts-content-upgrade.html %}
-</div>
+<!-- <div data-offer-plinko="optional"> -->
+{% include convertkit_forms/salary-question-scripts-content-upgrade.html %}
+<!-- </div> -->
 
 ## <a name="recruiter-pushback" class="below-nav">Common pushback from recruiters
 
@@ -472,9 +472,9 @@ Once you get this far, it's much harder to recover and drastically improve your 
 
 Your options are slim, but you do have options even if you've already disclosed your current salary!
 
-<div data-offer-plinko="optional">
-{% include drip_forms/salary-question-scripts-content-upgrade.html %}
-</div>
+<!-- <div data-offer-plinko="optional"> -->
+{% include convertkit_forms/salary-question-scripts-content-upgrade.html %}
+<!-- </div> -->
 
 ## <a name="summary" class="below-nav">Summarizing your options for answering  salary expectations questions
 

@@ -6,7 +6,7 @@ excerpt: With this email template, you'll know what to say and how to say it whe
 og-image: SalaryIncreaseEmailTemplates_TeaserImage.png
 ---
 <div class="container container--normal">
-	{% include /drip_forms/salary-increase-email-template.html %}
+	<script async data-uid="a67c23a86b" src="https://f.convertkit.com/a67c23a86b/0377f73051.js"></script>
 	
 	{% include testimonials/mike_g.html %}
 </div>
