@@ -1,7 +1,7 @@
 ---
 ---
 jQuery(function() {
-	console.log("BYE!");
+	// console.log("BYE!");
   var newHtmlOne = '';
   var newHtmlTwo = '';
 
@@ -26,10 +26,11 @@ jQuery(function() {
     newHtmlOne = '<script async data-uid="bc826ce96f" src="https://f.convertkit.com/bc826ce96f/85b298718d.js"></script>';
     newHtmlTwo = 'context3div2';
   } else if (window.context === 'coach') {
-    newHtmlOne = 'context3div1';
-    newHtmlTwo = 'context3div2';
+		// Currently hard-coded for faster Drip-to-CK migration
+    // newHtmlOne = 'context3div1';
+    // newHtmlTwo = 'context3div2';
   }
 
   $("div.inline-ad").replaceWith(newHtmlOne);
-  $('#divTwoToReplace').html(newHtmlTwo);
+  // $('#divTwoToReplace').html(newHtmlTwo);
 });
