@@ -31,6 +31,7 @@ Learn more about my coaching offering here: [Expert Salary Negotiation Coaching]
 {% include testimonials/j_b.html %}
 {% include testimonials/steve.html %}
 {% include testimonials/caroline_carter.html %}
+<!-- {% include testimonials/f_robert.html %} -->
 {% include testimonials/cynthia.html %}
 {% include testimonials/vanessa_m.html %} 
 {% include testimonials/haripriya_a.html %}
@@ -94,7 +95,7 @@ Learn more: [*Fearless Salary Negotiation*](/get-started/)
 {% include testimonials/mark_girgis.html %}
 {% include testimonials/gunner_barnes.html %}
 {% include testimonials/anon_2.html %}
-<!-- {% include testimonials/jacinta_d.html %} -->
+{% include testimonials/jacinta_d.html %}
 
 ## <a name="esnep" class="below-nav">*Essential Salary Negotiation Email Pack*
 	
@@ -160,3 +161,4 @@ Here are some very kind folks' thoughts on *Fearless Salary Negotiation*.
 {% include testimonials/josh_kaufman.html %}
 {% include testimonials/patrick_mckenzie_short.html %}
 {% include testimonials/jordan_l.html %}
+{% include testimonials/cory_trimm.html %}
