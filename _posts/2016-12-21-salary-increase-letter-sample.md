@@ -54,8 +54,6 @@ If you have a regular 1-on-1 with your manager, even as infrequently as once a m
 
 You could reach out with a short email or even just send a quick instant message that you would like to talk about your compensation in your next 1-on-1.
 
-<!-- {% include drip_forms/salary-increase-email-templates-content-upgrade.html template-description="the template to ask to discuss your salary increase in your next 1-on-1" %} -->
-
 <!-- Here's an email template you can use to give your manager a heads-up that you would like to talk about a salary increase in your next 1-on-1 meeting:
 
 <div class='sample-email'>
@@ -76,8 +74,6 @@ You could reach out with a short email or even just send a quick instant message
 This situation is similar, but you'll also need to schedule a meeting since you don't have a regular meeting on the books.
 
 In this case, it's best to send a short email saying that you would like to schedule a meeting to talk about your compensation because you'll also need to schedule a specific time. Make sure to suggest a few times when you'll be available so your manager can choose the one that's most convenient for them.
-
-<!-- {% include drip_forms/salary-increase-email-templates-content-upgrade.html template-description="the template to schedule a meeting to discuss your salary increase with your manager" %} -->
 
 <!-- Here's an email template you can use to give your manager a heads-up that you would like to schedule a meeting to talk about your compensation:
 
@@ -277,8 +273,6 @@ I recommend waiting a week or two before sending a followup email. If you don't 
 
 You may need to follow up several times to get the ball rolling.
 
-<!-- {% include drip_forms/salary-increase-email-templates-content-upgrade.html template-description="the template to follow up with your manager after you ask for a salary increase" %} -->
-
 ### <a name="request-a-plan" class="below-nav">What if your salary increase request is put on hold for now?
 
 One last thing: *Asking* for a raise—even with a strong case—doesn't guarantee you'll get the raise you asked for. Sometimes you'll get a clear "yes" or "no", but sometimes your manager will say "It's just not a good time right now" or "I don't think you're quite ready yet. Let's revisit this later."
@@ -305,8 +299,6 @@ In this case, it's important to establish a clear plan so you know exactly what 
 You can send an email to ask for a plan, or you could paraphrase ask verbally in your next 1-on-1. Your goal in this situation is to establish your specific goals and a specific timeline so you can measure progress and revisit the conversation later on.
 
 Specificity is the key to avoiding raise limbo.
-
-<!-- {% include drip_forms/salary-increase-email-templates-content-upgrade.html template-description="the template to make a plan with your manager if it isn't quite time for your salary increase" %} -->
 
 ## Conclusion
 

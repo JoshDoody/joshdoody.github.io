@@ -8,7 +8,8 @@
 		<script src="{{ site.baseurl }}/js/jquery.cookie.js" type="text/javascript"></script>
 		<script src="{{ site.baseurl }}/js/ouibounce.min.js" type="text/javascript"></script>
 		<script src="{{ site.baseurl }}/js/app.js"  type="text/javascript"></script>
-		<script src="{{ site.baseurl }}/js/drip_pro.js" type="text/javascript"></script>
+		<script src="/js/convertkit.js" type="text/javascript"></script>	
+		<!-- <script src="{{ site.baseurl }}/js/drip_pro.js" type="text/javascript"></script> -->
 		<!--script src="{{ site.baseurl }}/js/destination.js" type="text/javascript"></script-->
 		<!-- Drip -->
 		<script type="text/javascript">
@@ -73,9 +74,9 @@
 		</script>
 			
 		
-		<script src="{{ site.baseurl }}/js/drip_pro_init.js" type="text/javascript"></script>
+		<!-- <script src="{{ site.baseurl }}/js/drip_pro_init.js" type="text/javascript"></script> -->
 			
-		<script type="text/javascript">
+		<!-- <script type="text/javascript">
 			// function to be called when we want to know about the dripUser for DOM manipulation
 			var dripSetup = {
 			  init: function(successHandler) {
@@ -95,11 +96,11 @@
 			    }]);
 			  }
 			};
-			
+
 			// Wait until the DOM is ready and append the buyer's email (from Drip) to buy buttons
 			$(function() {
 				var drip_user = function(dripUser) {
-		
+
 					if(!dripUser.isAnon) {
 						$("a.sendowl-button").attr('href', function(i, h) {
 								var drip_email = encodeURIComponent(dripUser.rawDripContact.email)
@@ -107,10 +108,10 @@
 						});
 					}
 				};
-	
+
 				dripSetup.init(drip_user);
 			});
-		</script>
+		</script> -->
 	
 		<script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 		{% for js_name in page.extra_js %}

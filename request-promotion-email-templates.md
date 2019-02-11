@@ -6,6 +6,6 @@ excerpt: With this email template, you'll know what to say and how to say it whe
 og-image: PromotionRequestEmailTemplates_TeaserImage.png
 ---
 <div class="container container--normal">
-	{% include /drip_forms/promotion-request-email-template.html %}
+	<script async data-uid="bc826ce96f" src="https://f.convertkit.com/bc826ce96f/85b298718d.js"></script>
 </div>
 

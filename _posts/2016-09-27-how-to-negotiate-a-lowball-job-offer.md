@@ -74,10 +74,9 @@ Rather than counter offering their lowball job offer directly, you will give the
 
 It's best to do that by sending a short email to let them know that the offer is disappointing while asking if they can improve the offer so you can consider it.
 
-<div data-offer-plinko="optional">
-<!-- {% include drip_forms/salary-negotiation-email-templates-content-upgrade.html template-description="the template to respond to a lowball offer using this technique" %} -->
-{% include drip_forms/salary-negotiation-lowball-email-template-content-upgrade.html %}
-</div>
+<!-- <div data-offer-plinko="optional"> -->
+{% include convertkit_forms/salary-negotiation-lowball-email-template-content-upgrade.html %}
+<!-- </div> -->
 
 <!-- <div class='sample-email'>
 <p>

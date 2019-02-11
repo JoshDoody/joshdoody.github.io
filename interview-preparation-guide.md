@@ -36,10 +36,9 @@ If you do well in each interview, you'll move ahead, usually interviewing with m
 
 It's important to prepare for each interview ahead of time since you'll be talking to a new person each time. Not only will they ask you different questions, but you'll have new information from your previous interviews and you want to make sure you incorporate that information into your interview preparation.
 
-<div data-offer-plinko="optional">
-<!-- {% include drip_forms/salary-negotiation-email-templates-content-upgrade.html template-description="a detailed counter offer email template" %} -->
-{% include drip_forms/tics-content-upgrade.html %}
-</div>
+<!-- <div data-offer-plinko="optional"> -->
+{% include convertkit_forms/tics-content-upgrade.html %}
+<!-- </div> -->
 
 You may find a great opportunity that yields an offer right away, or you may go through this process several times with different companies until you find the right fit.
 
