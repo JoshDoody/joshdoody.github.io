@@ -31,7 +31,7 @@ Learn more about my coaching offering here: [Expert Salary Negotiation Coaching]
 {% include testimonials/j_b.html %}
 {% include testimonials/steve.html %}
 {% include testimonials/caroline_carter.html %}
-<!-- {% include testimonials/f_robert.html %} -->
+{% include testimonials/f_robert.html %}
 {% include testimonials/cynthia.html %}
 {% include testimonials/vanessa_m.html %} 
 {% include testimonials/haripriya_a.html %}
