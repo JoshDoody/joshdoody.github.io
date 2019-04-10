@@ -62,6 +62,8 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 26. [This Is How You Get More Than the Standard Cost-of-Living Raise](https://www.themuse.com/advice/this-is-how-you-get-more-than-the-standard-costofliving-raise){:rel="nofollow"} – The Muse
 27. [8 Things You Should Never Say to a Tech Recruiter](https://insights.dice.com/2018/08/20/8-things-never-say-tech-recruiter/){:rel="nofollow"} – Dice
 28. [The Secret to Negotiating $5,000 – $15,000 More in Pay](https://www.glassdoor.com/blog/negotiation-secrets/){:rel="nofollow"} – Glassdoor
+29. [Interviewing for a new job? Here's the best time to bring up salary](https://www.cnn.com/2019/04/10/success/salary-job-interview/index.html){:rel="nofollow"} – CNN
+30. [This Is How Early You Should Arrive For A Job Interview](https://www.huffpost.com/entry/how-early-job-interview_l_5cabadfae4b02e7a705c1e15){:rel="nofollow"} – Huffpost
 
 ## <a name="podcasts" class="below-nav">Podcasts
 
