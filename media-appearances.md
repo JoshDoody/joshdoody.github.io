@@ -64,6 +64,8 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 28. [The Secret to Negotiating $5,000 – $15,000 More in Pay](https://www.glassdoor.com/blog/negotiation-secrets/){:rel="nofollow"} – Glassdoor
 29. [Interviewing for a new job? Here's the best time to bring up salary](https://www.cnn.com/2019/04/10/success/salary-job-interview/index.html){:rel="nofollow"} – CNN
 30. [This Is How Early You Should Arrive For A Job Interview](https://www.huffpost.com/entry/how-early-job-interview_l_5cabadfae4b02e7a705c1e15){:rel="nofollow"} – Huffpost
+31. [Most Companies Are Sticking With 3 Percent Raises This Year. Here's What To Do About It.](https://www.huffpost.com/entry/three-percent-raise-negotiation-tips_l_5c6da28ae4b0f40774cb71ac){:rel="nofollow"} – Huffpost
+32. [Here's What To Do When You Are Going To Be Late To A Job Interview](https://www.huffpost.com/entry/late-for-job-interview-tips_l_5cb4f26fe4b098b9a2d8a078){:rel="nofollow"} – Huffpost
 
 ## <a name="podcasts" class="below-nav">Podcasts
 
