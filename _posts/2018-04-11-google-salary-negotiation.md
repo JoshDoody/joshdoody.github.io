@@ -49,7 +49,7 @@ Let's look a little closer at the main components of a Google job offer.
 
 As with most job offers, this is the stable, predictable component that you can use to pay your mortgage or car payment. You can't know what company performance might look like in the future, so it's hard to estimate how much of a bonus you'll get or what your RSUs will be worth when they vest.
 
-Google's base salary offers tend to be pretty competitive, with other big tech firms. If you're wondering whether the salary you're offered is competitive, [paysa.com](https://www.paysa.com) is a good place to start.
+Google's base salary offers tend to be pretty competitive with other big tech firms. If you're wondering whether the salary you're offered is competitive, [paysa.com](https://www.paysa.com) is a good place to start.
 
 #### How flexible is Google on Base Salary?
 
@@ -143,7 +143,7 @@ Once they reveal where they're flexible and how flexible they are, you can use t
 <br>
 
 <div class="ad-box">
-	<h2 class='u-center'>Negotiating a job offer? I'll help!</h2>
+	<h2 class='u-center'>Negotiating a job offer from Google? I'll help!</h2>
 	<div class="inline-body">
 		<p><img src="/images/josh-doody-200px-circle.png" style="padding-right: 10px;" width="125" alt="Josh Doody headshot" class="author__image" align="left">I'm Josh Doody, a professional salary negotiation coach who helps Software Developers get more job offers and negotiate higher salaries. <strong>On average, Software Developers improve their job offers by {{ site.avg_coach_increase_devs }}.</strong></p>
 		<p>Apply for a free 15-minute intro call to learn how I can help.</p>
