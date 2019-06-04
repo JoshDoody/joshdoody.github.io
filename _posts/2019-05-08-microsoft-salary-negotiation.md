@@ -48,7 +48,7 @@ Let's look a little closer at the main components of a Microsoft job offer.
 
 As with most job offers, this is the stable, predictable component that you can use to pay your mortgage or car payment. You can't know what company performance might look like in the future, so it's hard to estimate how much of a bonus you'll get or what your RSUs will be worth when they vest.
 
-Microsoft's base salary offers tend to be pretty competitive with other big tech firms. If you're wondering whether the salary you're offered is competitive, [levels.fyi](https://levels.fyi) or [paysa.com](https://paysa.com) are both good places to start.
+Microsoft's base salary offers tend to be pretty competitive with other big tech firms. If you're wondering whether the salary you're offered is competitive, [paysa.com](https://www.paysa.com) and [levels.fyi](https://www.levels.fyi) are good places to start.
 
 #### How flexible is Microsoft on Base Salary?
 
@@ -58,7 +58,7 @@ Asking for more base salary can sometimes produce pretty good immediate results.
 
 ### New-Hire Equity (RSUs)
 
-The Equity component of a Microsoft job offer may often begin fairly low relative to base salary, but can often be negotiated up quite a bit relative to the starting point.
+The equity component of a Microsoft job offer may often begin fairly low relative to base salary, but can often be negotiated up quite a bit relative to the starting point.
 
 In general, it seems that Microsoft takes a more wholistic approach to their job offers, balancing all of the components together to construct the right offer. Equity is one part of their offers, but it doesn't tend to dominate Microsoft offers like it does at some other big tech companies.
 
@@ -68,9 +68,9 @@ Potentially *very* flexible relative to the initial-offer baseline, but that's l
 
 ### Sign-on bonus
 
-Even if there's not a Sign-on bonus included with your initial offer, there may be one available. Sign-on bonuses, like equity, can range from a nice little amount into the mid-to-high five figures (and possibly higher).
+Even if there's not a sign-on bonus included with your initial offer, there may be one available. sign-on bonuses, like equity, can range from a nice little amount into the mid-to-high five figures (and possibly higher).
 
-I like to think of the Sign-on bonus as a way to help bridge the gap between your first paycheck and your first RSU vesting date.
+I like to think of the sign-on bonus as a way to help bridge the gap between your first paycheck and your first RSU vesting date.
 
 #### How flexible is Microsoft on Sign-on Bonus?
 
@@ -96,7 +96,7 @@ The salary negotiation with Microsoft will begin earlier than you might expect.
 
 ### Before you get a job offer
 
-Your Microsoft recruiter will often ask for your salary history, or at least your *current* salary if it's legal where they are. Do not tell them your current salary. If you do, the Base Salary component of your job offer will probably be slightly above your current salary *and* it will be challenging to negotiate a substantial increase once they make your job offer.
+Your Microsoft recruiter will often ask for your salary history, or at least your *current* salary if it's legal where they are. Do not tell them your current salary. If you do, the base salary component of your job offer will probably be slightly above your current salary *and* it will be challenging to negotiate a substantial increase once they make your job offer.
 
 They will also usually ask for your salary expectations. That request will sound something like this:
 

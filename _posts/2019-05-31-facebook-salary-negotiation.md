@@ -58,9 +58,9 @@ That doesn't mean you shouldn't ask for more base salary, but it means that requ
 
 ### New-Hire Equity (RSUs)
 
-The Equity component of a Facebook job offer can range from "not very much" to "wowzers, that's a lot of equity!" depending on the role.
+The equity component of a Facebook job offer can range from "not very much" to "wowzers, that's a lot of equity!" depending on the role.
 
-For Facebook (and most of the other big public tech companies) I tend to model Equity as more or less fungible with Base Salary since the value of that equity is public and the company fundamentals appear to be pretty strong.
+For Facebook (and most of the other big public tech companies) I tend to model equity as more or less fungible with base salary since the value of that equity is public and the company fundamentals appear to be pretty strong.
 
 The difference, of course, is that there's a vesting schedule and you're taking some level of market risk by counting on equity.
 

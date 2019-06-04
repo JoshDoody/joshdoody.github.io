@@ -52,7 +52,7 @@ Let's look a little closer at the main components of an Amazon job offer.
 
 As with most job offers, this is the stable, predictable component that you can use to pay your mortgage or car payment. You can't know what company performance might look like in the future, so it's hard to estimate how much of a bonus you'll get or what your RSUs will be worth when they vest.
 
-Amazon tends to pay competitive base salaries *up to a point* (see below). If you're wondering whether the salary you’re offered is competitive, [paysa.com](https://www.paysa.com) is a good place to start.
+Amazon tends to pay competitive base salaries *up to a point* (see below). If you're wondering whether the salary you’re offered is competitive, [paysa.com](https://www.paysa.com) and [levels.fyi](https://www.levels.fyi) are good places to start.
 
 ### The base salary cap
 
@@ -68,7 +68,7 @@ As long as you're under the base salary cap, they can be pretty flexible. They d
 
 Sign-on bonuses, like equity, can range from a nice little amount into six figures.
 
-I like to think of the Sign-on bonus as a way to help bridge the gap between your first paycheck and your first RSU vesting date, and Amazon does this more or less explicitly to help compensate for the steep vesting schedule they use for equity (RSUs) (see below).
+I like to think of the sign-on bonus as a way to help bridge the gap between your first paycheck and your first RSU vesting date, and Amazon does this more or less explicitly to help compensate for the steep vesting schedule they use for equity (RSUs) (see below).
 
 The Year 1 sign-on bonus is typically larger than Year 2's, partially as an incentive for you to join, and partially because their steep new-hire equity vesting schedule means your total pay in Year 1 would be pretty low without some sort of sign-on bonus. 
 

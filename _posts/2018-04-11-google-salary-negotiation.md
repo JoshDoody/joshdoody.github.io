@@ -49,7 +49,7 @@ Let's look a little closer at the main components of a Google job offer.
 
 As with most job offers, this is the stable, predictable component that you can use to pay your mortgage or car payment. You can't know what company performance might look like in the future, so it's hard to estimate how much of a bonus you'll get or what your RSUs will be worth when they vest.
 
-Google's base salary offers tend to be pretty competitive with other big tech firms. If you're wondering whether the salary you're offered is competitive, [paysa.com](https://www.paysa.com) is a good place to start.
+Google's base salary offers tend to be pretty competitive with other big tech firms. If you're wondering whether the salary you're offered is competitive, [paysa.com](https://www.paysa.com) and [levels.fyi](https://www.levels.fyi) are good places to start.
 
 #### How flexible is Google on Base Salary?
 
@@ -69,31 +69,31 @@ They're generally not.
 
 ### New-Hire Equity (RSUs)
 
-The Equity component of a Google job offer can range from "not very much" (as with the example above) to "wowzers, that's a lot of equity!" depending on the role.
+The equity component of a Google job offer can range from "not very much" (as with the example above) to "wowzers, that's a lot of equity!" depending on the role.
 
-For Google (and most of the other big public tech companies) I tend to model Equity as more or less fungible with Base Salary since the value of that equity is public and the company fundamentals appear to be pretty strong.
+For Google (and most of the other big public tech companies) I tend to model equity as more or less fungible with base salary since the value of that equity is public and the company fundamentals appear to be pretty strong.
 
 The difference, of course, is that there's a vesting schedule and you're taking some level of market risk by counting on equity.
 
-But for a company like Google, the market risk for Equity is very similar to the market risk for your Base Salary. (If things suddenly get very bad for Google, their stock would probably drop, but the bigger problem could be that your job might be in jeopardy).
+But for a company like Google, the market risk for equity is very similar to the market risk for your base salary. (If things suddenly get very bad for Google, their stock would probably drop, but the bigger problem could be that your job might be in jeopardy).
 
 #### How flexible is Google on New-Hire Equity (RSUs)?
 
 Potentially *very* flexible. This is their most used bargaining chip. Depending on the candidate, position, and other factors, they may be willing to improve the equity component of the offer significantly during the negotiation.
 
-Some of my clients have more than doubled their equity during their negotiation. Sometimes the Equity component of the offer will be larger than the Base Salary component when we finish negotiating.
+Some of my clients have more than doubled their equity during their negotiation. Sometimes the equity component of the offer will be larger than the base salary component when we finish negotiating.
 
-This is one reason the Base Salary component of their offers tends to be merely "competitive"—they have more flexibility on Equity and will often use this as their carrot to entice exceptional candidates to join the company.
+This is one reason the base salary component of their offers tends to be merely "competitive"—they have more flexibility on equity and will often use this as their carrot to entice exceptional candidates to join the company.
 
 ### Sign-on bonus
 
-Even if there's not a Sign-on bonus included with your initial offer, there may be one available. Sign-on bonuses, like equity, can range from a nice little amount into six figures.
+Even if there's not a sign-on bonus included with your initial offer, there may be one available. sign-on bonuses, like equity, can range from a nice little amount into six figures.
 
-I like to think of the Sign-on bonus as a way to help bridge the gap between your first paycheck and your first RSU vesting date.
+I like to think of the sign-on bonus as a way to help bridge the gap between your first paycheck and your first RSU vesting date.
 
 #### How flexible is Google on Sign-on Bonus?
 
-Moderately flexible. They will often use this as a sweetener to close the deal. Five-figure improvements in Sign-on bonus are pretty common. I recommend focusing on Base Salary and Equity before negotiating Sign-on bonus.
+Moderately flexible. They will often use this as a sweetener to close the deal. Five-figure improvements in sign-on bonus are pretty common. I recommend focusing on base salary and equity before negotiating sign-on bonus.
 
 ## How to approach your Google salary negotiation
 
@@ -101,7 +101,7 @@ The salary negotiation with Google will begin earlier than you might expect.
 
 ### Before you get a job offer
 
-Your Google recruiter will ask for your salary history, or at least your *current* salary if it's legal where they are. Do not tell them your current salary. If you do, the Base Salary component of your job offer will probably be slightly above your current salary *and* it will be challenging to negotiate a substantial increase once they make your job offer.
+Your Google recruiter will ask for your salary history, or at least your *current* salary if it's legal where they are. Do not tell them your current salary. If you do, the base salary component of your job offer will probably be slightly above your current salary *and* it will be challenging to negotiate a substantial increase once they make your job offer.
 
 They will also usually ask for your salary expectations. That request will sound something like this:
 
