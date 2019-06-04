@@ -137,7 +137,8 @@ Once they reveal where they're flexible and how flexible they are, you can use t
 
 - **Google is *very* sticky once they know their target.** If you tell them your salary history (especially current salary) or salary expectations, their offer will likely be very close to either of those numbers and they will not move very much from that starting point.
 - **Google will often respond to a request for higher base salary by slightly improving base salary *and* significantly improving the equity component.**
-- **Google is often rigid with respect to the "level" offered.** Because they use equity as a primary negotiating lever, they have lots of flexibility within pay bands and therefore rarely change pay bands—or levels—as part of the negotiation. 
+- **Google is often rigid with respect to the "level" offered.** Because they use equity as a primary negotiating lever, they have lots of flexibility within pay bands and therefore rarely change pay bands—or levels—as part of the negotiation.
+- **Google will often ask for competing offers—sharing those offers *may* be beneficial.** Many companies ask for competing offers to gather data on competitors or to dissuade the "I have lots of offers" bluff that many candidates use. But when Google is competing with companies like Facebook and Apple for candidates, they will often match competing offers if they're superior. 
 
 {% include testimonials/s_l.html %}
 <br>
