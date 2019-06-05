@@ -109,6 +109,8 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 37. [Josh Doody on Why, When, and How to Niche Your Business](https://rezzz.com/podcast/josh-doody-on-why-when-and-how-to-niche-your-business/){:rel="nofollow"} – Live in the Feast
 38. [Negotiating Your Salary and Advancing Your Career with Josh Doody](https://egghead.io/podcasts/negotiating-your-salary-and-advancing-your-career-with-josh-doody){:rel="nofollow"} – egghead
 39. [Salary Negotiation for DevOps with Josh Doody](https://www.realworlddevops.com/episodes/salary-negotiation-for-devops-with-josh-doody){:rel="nofollow"} – Real World DevOps
+40. [Josh Doody, Fearless Salary Negotiation](https://www.whoagnv.com/events-calendar/2019/4/16/recording-josh-doody-fearless-salary-negotiation-ckcfw){:rel="nofollow"} – WHOA GNV
+41. [How Online Courses Make Your Book More Actionable](https://www.zencourses.co/099){:rel="nofollow"} – Level Up Your Course
 
 ## <a name="talks" class="below-nav">Talks
 
