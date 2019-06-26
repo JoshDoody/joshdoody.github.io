@@ -26,7 +26,7 @@ You might do this dozens of times throughout your career, but the salary negotia
 
 Use this salary negotiation guide to jump right to your current stage in the salary negotiation cycle or read it straight through and learn all the valuable strategies and tactics to get paid what you're worth by negotiating starting salary.
 
-<div class="inline-ad hidden"></div>
+<!-- <div class="inline-ad hidden"></div> -->
 <div class="rm-area-inline"></div>
 
 ## Quick overview: How to negotiate your starting salary
