@@ -267,4 +267,5 @@ Check out this interview preparation guide to learn more about how to use positi
 <p><a href="/salary-negotiation-guide/">How to prepare for job interviews in 2019 - Complete interview preparation guide →</a></p>
 </div>
 
-<div class="inline-ad hidden"></div>
+<!-- <div class="inline-ad hidden"></div> -->
+<div class="rm-area-inline"></div>
