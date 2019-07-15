@@ -111,6 +111,7 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 39. [Salary Negotiation for DevOps with Josh Doody](https://www.realworlddevops.com/episodes/salary-negotiation-for-devops-with-josh-doody){:rel="nofollow"} – Real World DevOps
 40. [Josh Doody, Fearless Salary Negotiation](https://www.whoagnv.com/events-calendar/2019/4/16/recording-josh-doody-fearless-salary-negotiation-ckcfw){:rel="nofollow"} – WHOA GNV
 41. [How Online Courses Make Your Book More Actionable](https://www.zencourses.co/099){:rel="nofollow"} – Level Up Your Course
+42. [Always Negotiate Job Offers but Never Name the First Number with Josh Doody](https://itcareerenergizer.com/e190){:rel="nofollow"} – I.T. Career Energizer
 
 ## <a name="talks" class="below-nav">Talks
 
