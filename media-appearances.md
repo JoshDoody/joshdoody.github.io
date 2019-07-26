@@ -67,6 +67,7 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 31. [Most Companies Are Sticking With 3 Percent Raises This Year. Here's What To Do About It.](https://www.huffpost.com/entry/three-percent-raise-negotiation-tips_l_5c6da28ae4b0f40774cb71ac){:rel="nofollow"} – Huffpost
 32. [Here's What To Do When You Are Going To Be Late To A Job Interview](https://www.huffpost.com/entry/late-for-job-interview-tips_l_5cb4f26fe4b098b9a2d8a078){:rel="nofollow"} – Huffpost
 33. [5 Seemingly Harmless Mistakes You Must Avoid In A Video Job Interview](https://www.huffpost.com/entry/video-interview-tips-mistakes_l_5cdd91f6e4b01571365d9f99?xb1){:rel="nofollow"} – Huffpost
+34. [Got a job offer? Here's how to negotiate a counter offer with your current employer](https://www.cnn.com/2019/07/25/success/job-offer-leverage/index.html){:rel="nofollow"} – CNN Business
 
 ## <a name="podcasts" class="below-nav">Podcasts
 
