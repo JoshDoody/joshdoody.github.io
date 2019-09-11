@@ -22,8 +22,6 @@ Use this interview preparation guide to jump right to your current stage in the 
 	<li><a class="guide-btn" href="#expecting-a-job-offer" data-template="Offer pending" data-action="Choose interview stage">Expecting a job offer</a></li>
 </ul>
 
-<div class="inline-ad hidden"></div>
-
 ## Quick overview: How the job interview process works
 
 The job interview process is very similar from company to company, which makes interview preparation extremely important and valuable.
@@ -36,13 +34,11 @@ If you do well in each interview, you'll move ahead, usually interviewing with m
 
 It's important to prepare for each interview ahead of time since you'll be talking to a new person each time. Not only will they ask you different questions, but you'll have new information from your previous interviews and you want to make sure you incorporate that information into your interview preparation.
 
-<!-- <div data-offer-plinko="optional"> -->
-{% include convertkit_forms/tics-content-upgrade.html %}
-<!-- </div> -->
-
 You may find a great opportunity that yields an offer right away, or you may go through this process several times with different companies until you find the right fit.
 
 Your primary objective throughout the interview process is to differentiate yourself as *the* candidate for the position. You need to stand out, and that's what you'll learn to do in this interview preparation guide.
+
+<div class="inline-ad hidden"></div>
 
 ## <a name="applying-for-jobs" class="below-nav">Applying for jobs
 
