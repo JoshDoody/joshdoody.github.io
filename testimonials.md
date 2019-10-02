@@ -107,6 +107,7 @@ Learn more: [*Fearless Salary Negotiation*](/get-started/)
 {% include testimonials/james_g.html %}
 {% include testimonials/jeff_yang.html %}
 {% include testimonials/david_s.html %}
+{% include testimonials/josh_l.html %}
 
 ## <a name="esnep" class="below-nav">*Essential Salary Negotiation Email Pack*
 	
@@ -135,6 +136,7 @@ Learn more: [*Salary Negotiation Crash Course*](/salary-negotiation-video-course
 
 {% include testimonials/oliver_nolte.html %}
 {% include testimonials/candas_barnes.html %}
+{% include testimonials/andrew.html %}
 
 ## <a name="gynr" class="below-nav">*Get Your Next Raise*
 	
