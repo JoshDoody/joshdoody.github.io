@@ -148,7 +148,7 @@ Learn more: [*Get Your Next Raise*](/get-your-next-raise/)
 
 {% include testimonials/john_li.html %}
 {% include testimonials/thai_wood.html %}
-{% include testimonials/pat.html %}
+{% include testimonials/p_m.html %}
 
 ## <a name="promotion-course" class="below-nav">*How to get promoted in 7 days*
 	
