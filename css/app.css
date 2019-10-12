@@ -67,6 +67,10 @@ p, ul, ol {
   margin: 0 0 1.5em 0;
 }
 
+ul ul {
+	margin: 0;
+}
+
 li a {
   color: #00A9FF;
   text-decoration: underline;
