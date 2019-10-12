@@ -6,6 +6,8 @@ excerpt: Here's how to negotiate your Site Reliability Engineer (SRE) job offer 
 context: coach
 author: josh
 last_modified_at: 2019-10-11
+extra_js:
+  - template_requested.js
 ---
 Site Reliability Engineers (SREs) are a necessary yet hidden driver of success for pretty much every technology company. You’re an SRE, so you know that, but what you might not know is how well your unique skillset and narrow focus position you as an extremely valuable contributor to those companies’ success.
 
