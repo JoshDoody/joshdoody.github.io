@@ -5,7 +5,7 @@ headline: Josh Doody
 excerpt: About Josh Doody, a salary negotiation coach and leading expert in job interview and salary negotiation strategy for job candidates.
 last_modified_at: 2018-08-15
 ---
-<img src="/images/josh-doody-300px-circle.png" style="padding-right: 10px;" width="250" alt="Josh Doody headshot" class="author__image" align="left"> Josh Doody is a salary negotiation coach and leading expert in job interview and salary negotiation strategy for job candidates. He has developed strategies and tactics that have earned his clients millions of dollars negotiating job offers with major tech companies like Google, Microsoft, Apple, Facebook, Amazon and many others.
+<img src="/images/josh-doody-300px-circle.png" style="padding-right: 10px;" width="250" alt="Josh Doody headshot" class="author__image" align="left"> Josh Doody is a salary negotiation coach who helps experienced Software Developers negotiate job offers from big tech companies. He has developed strategies and tactics that have earned his clients millions of dollars negotiating job offers with major tech companies like Google, Microsoft, Apple, Facebook, Amazon and many others.
 
 ## Experience
 
