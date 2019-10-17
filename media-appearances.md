@@ -32,6 +32,8 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 	</audio>
 </p>
 
+<p><a href="https://www.byuradio.org/episode/7e841f96-7045-4f3c-a68d-050bbeaee34f/7e841f96-7045-4f3c-a68d-050bbeaee34f?playhead=2054&autoplay=true">Negotiating Salary</a> – The Lisa Show</p>
+
 ## <a name="articles" class="below-nav">Articles
 
 1. [9 Things to Never Say in a Salary Negotiation](https://www.glassdoor.com/blog/9-things-to-never-say-in-a-salary-negotiation/){:rel="nofollow"} – Glassdoor (also [Business Insider](http://www.businessinsider.com/9-things-you-should-never-say-during-a-salary-negotiation-2018-3){:rel="nofollow"}, [Fast Company](https://www.fastcompany.com/3068323/career-evolution/nine-words-and-phrases-to-avoid-when-youre-negotiating-a-salary){:rel="nofollow"}, [The Motley Fool](https://www.fool.com/careers/2017/10/30/9-things-to-never-say-in-a-salary-negotiation.aspx){:rel="nofollow"}, [Entrepreneur](https://www.entrepreneur.com/article/321120))
