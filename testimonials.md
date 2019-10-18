@@ -134,6 +134,7 @@ And in the Essential Salary Negotiation Email Pack, you’ll get all the emails 
 
 Learn more: [*Salary Negotiation Crash Course*](/salary-negotiation-video-course/)
 
+{% include testimonials/amy_utley.html %}
 {% include testimonials/oliver_nolte.html %}
 {% include testimonials/candas_barnes.html %}
 {% include testimonials/andrew.html %}
