@@ -116,6 +116,7 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 40. [Josh Doody, Fearless Salary Negotiation](https://www.whoagnv.com/events-calendar/2019/4/16/recording-josh-doody-fearless-salary-negotiation-ckcfw){:rel="nofollow"} – WHOA GNV
 41. [How Online Courses Make Your Book More Actionable](https://www.zencourses.co/099){:rel="nofollow"} – Level Up Your Course
 42. [Always Negotiate Job Offers but Never Name the First Number with Josh Doody](https://itcareerenergizer.com/e190){:rel="nofollow"} – I.T. Career Energizer
+43. [How Software Developers Can Negotiate Better Salaries](https://www.screaminginthecloud.com/episodes/how-software-developers-can-negotiate-better-salaries-with-josh-doody){:rel="nofollow"} – Screaming in the Cloud
 
 ## <a name="talks" class="below-nav">Talks
 
