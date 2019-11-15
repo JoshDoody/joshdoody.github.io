@@ -73,7 +73,6 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 35. [What It Means When You Hear Silence After A Job Interview](https://www.huffpost.com/entry/hiring-manager-silence-explained_l_5d6e75a1e4b0110804550e08){:rel="nofollow"} – Huffpost
 36. [How To Answer The 'Tell Me About Yourself' Question In A Job Interview](https://www.huffpost.com/entry/how-to-answer-tell-me-about-yourself-job-interview-question_l_5dc99dcde4b02bf5794433e2){:rel="nofollow"} – Huffpost
 
-
 ## <a name="podcasts" class="below-nav">Podcasts
 
 1. [Salary Negotiation with Josh Doody](http://www.kalzumeus.com/2016/06/03/kalzumeus-podcast-episode-12-salary-negotiation-with-josh-doody/){:rel="nofollow"} – Kalzumeus podcast with Patrick McKenzie
