@@ -71,6 +71,8 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 33. [5 Seemingly Harmless Mistakes You Must Avoid In A Video Job Interview](https://www.huffpost.com/entry/video-interview-tips-mistakes_l_5cdd91f6e4b01571365d9f99?xb1){:rel="nofollow"} – Huffpost
 34. [Got a job offer? Here's how to negotiate a counter offer with your current employer](https://www.cnn.com/2019/07/25/success/job-offer-leverage/index.html){:rel="nofollow"} – CNN Business
 35. [What It Means When You Hear Silence After A Job Interview](https://www.huffpost.com/entry/hiring-manager-silence-explained_l_5d6e75a1e4b0110804550e08){:rel="nofollow"} – Huffpost
+36. [How To Answer The 'Tell Me About Yourself' Question In A Job Interview](https://www.huffpost.com/entry/how-to-answer-tell-me-about-yourself-job-interview-question_l_5dc99dcde4b02bf5794433e2){:rel="nofollow"} – Huffpost
+
 
 ## <a name="podcasts" class="below-nav">Podcasts
 
