@@ -9,7 +9,7 @@ $(document).ready(function(){
 	//     return decodeURIComponent(results[2].replace(/\+/g, " "));
 	// }
 	
-	var p = 1575305999; // Hard coded for 11:59:59 PM on Monday, November 26
+	var p = 1575349199; // Hard coded for 11:59:59 PM on Monday, November 26
 	
 	if (p !== 'undefined' && p) { // only do something if 'expiry' is present
 		var now = Math.floor(Date.now() / 1000);
