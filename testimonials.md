@@ -109,6 +109,7 @@ Learn more: [*Fearless Salary Negotiation*](/get-started/)
 {% include testimonials/jeff_yang.html %}
 {% include testimonials/david_s.html %}
 {% include testimonials/josh_l.html %}
+{% include testimonials/annie_margarita_yang.html %}
 
 ## <a name="esnep" class="below-nav">*Essential Salary Negotiation Email Pack*
 	
