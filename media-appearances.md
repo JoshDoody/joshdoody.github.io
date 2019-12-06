@@ -118,6 +118,7 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 41. [How Online Courses Make Your Book More Actionable](https://www.zencourses.co/099){:rel="nofollow"} – Level Up Your Course
 42. [Always Negotiate Job Offers but Never Name the First Number with Josh Doody](https://itcareerenergizer.com/e190){:rel="nofollow"} – I.T. Career Energizer
 43. [How Software Developers Can Negotiate Better Salaries](https://www.screaminginthecloud.com/episodes/how-software-developers-can-negotiate-better-salaries-with-josh-doody){:rel="nofollow"} – Screaming in the Cloud
+44. [Funnel Optimization Strategies: Josh Doody](https://segmetrics.io/articles/funnel-optimization-strategies-josh-doody/){:rel="nofollow"} – Data Beats Opinion
 
 ## <a name="talks" class="below-nav">Talks
 
