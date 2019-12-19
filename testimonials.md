@@ -24,6 +24,7 @@ My clients improve their job offers by an average of {{ site.avg_coach_increase 
 
 Learn more about my coaching offering here: [Expert Salary Negotiation Coaching](/coach/)
 
+{% include testimonials/k_k.html %}
 {% include testimonials/anon_8.html %}
 {% include testimonials/anon_7.html %}
 {% include testimonials/elizabeth_r.html %}
