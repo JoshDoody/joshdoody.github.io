@@ -133,7 +133,7 @@ Countering their offer isn’t a ‘one-email deal.’ The people who are most s
 
 (My clients have used this exact process and these exact templates to negotiate $7,000 more, $8,000 more, and even $24,000 more.)
 
-And in the Essential Salary Negotiation Email Pack, you’ll get all the emails you need to send to counter their offer effectively.
+And in the Salary Negotiation Crash Course, you’ll get all the scripts, worksheets, and tools you need to counter their offer effectively.
 
 Learn more: [*Salary Negotiation Crash Course*](/salary-negotiation-video-course/)
 
@@ -144,6 +144,7 @@ Learn more: [*Salary Negotiation Crash Course*](/salary-negotiation-video-course
 {% include testimonials/natalie.html %}
 {% include testimonials/darryl.html %}
 {% include testimonials/alyssa.html %}
+{% include testimonials/ryan_w.html %}
 
 ## <a name="gynr" class="below-nav">*Get Your Next Raise*
 	
