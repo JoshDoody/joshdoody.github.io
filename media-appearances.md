@@ -72,6 +72,7 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 34. [Got a job offer? Here's how to negotiate a counter offer with your current employer](https://www.cnn.com/2019/07/25/success/job-offer-leverage/index.html){:rel="nofollow"} – CNN Business
 35. [What It Means When You Hear Silence After A Job Interview](https://www.huffpost.com/entry/hiring-manager-silence-explained_l_5d6e75a1e4b0110804550e08){:rel="nofollow"} – Huffpost
 36. [How To Answer The 'Tell Me About Yourself' Question In A Job Interview](https://www.huffpost.com/entry/how-to-answer-tell-me-about-yourself-job-interview-question_l_5dc99dcde4b02bf5794433e2){:rel="nofollow"} – Huffpost
+37. [How To Answer The Salary Expectations Question In A Job Interview](https://www.huffpost.com/entry/salary-expectations-question-job-interview_l_5dfa4ec2e4b0969b618ee923?6r4){:rel="nofollow"} – Huffpost
 
 ## <a name="podcasts" class="below-nav">Podcasts
 
@@ -122,6 +123,6 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 
 ## <a name="talks" class="below-nav">Talks
 
-1. [Salary negotiation for engineers, developers, and designers](https://fearlesssalarynegotiation.com/salary-negotiation-for-engineers-developers-and-designers/){:rel="nofollow"} – The Iron Yard Orlando and Orlando Devs – March 9, 2016
-2. [Job interview preparation and salary negotiation workshop](http://www.intaadvising.gatech.edu/career/meet-and-greet-josh-doody-author-of-fearless-salary-negotiation-september-8th/){:rel="nofollow"} - Preparing Georgia Tech graduate students for Career Fair – September 8, 2016
-3. [How to ace your job interviews](https://www.eng.ufl.edu/students/events/ace-job-interviews/){:rel="nofollow"} – Preparing University of Florida Engineering Students for Career Fair – September 16, 2016
+1. [Salary negotiation for engineers, developers, and designers](https://fearlesssalarynegotiation.com/salary-negotiation-for-engineers-developers-and-designers/){:rel="nofollow"} – The Orlando Devs
+2. [Job interview preparation and salary negotiation workshop](http://www.intaadvising.gatech.edu/career/meet-and-greet-josh-doody-author-of-fearless-salary-negotiation-september-8th/){:rel="nofollow"} - Preparing Georgia Tech graduate students for Career Fair
+3. [How to ace your job interviews](https://www.eng.ufl.edu/students/events/ace-job-interviews/){:rel="nofollow"} – Preparing University of Florida Engineering Students for Career Fair
