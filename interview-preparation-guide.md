@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interview preparation guide - How to prepare for job interviews (2019)
+title: Interview preparation guide - How to prepare for job interviews (2020)
 headline: The Ultimate Job Interview Preparation Guide
 tagline: How to prepare for your job interviews and get more job offers
 excerpt: How to turn each job interview into another opportunity to make a strong impression and land more job offers.
@@ -220,7 +220,7 @@ Check out our complete salary negotiation guide to make sure you get the best sa
 
 <div class='guide-link'>
 <p><strong>How to tactfully negotiate your salary (without leaving anything on the table)</strong></p>
-<p><a href="/salary-negotiation-guide/">How to negotiate salary in 2019 - Complete salary negotiation guide →</a></p>
+<p><a href="/salary-negotiation-guide/">How to negotiate salary in 2020 - Complete salary negotiation guide →</a></p>
 </div>
 
 <div class="inline-ad hidden"></div>
