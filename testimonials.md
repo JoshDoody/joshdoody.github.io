@@ -145,6 +145,7 @@ Learn more: [*Salary Negotiation Crash Course*](/salary-negotiation-video-course
 {% include testimonials/darryl.html %}
 {% include testimonials/alyssa.html %}
 {% include testimonials/ryan_w.html %}
+{% include testimonials/allyce.html %}
 
 ## <a name="gynr" class="below-nav">*Get Your Next Raise*
 	
