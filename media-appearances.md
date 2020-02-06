@@ -73,6 +73,7 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 35. [What It Means When You Hear Silence After A Job Interview](https://www.huffpost.com/entry/hiring-manager-silence-explained_l_5d6e75a1e4b0110804550e08){:rel="nofollow"} – Huffpost
 36. [How To Answer The 'Tell Me About Yourself' Question In A Job Interview](https://www.huffpost.com/entry/how-to-answer-tell-me-about-yourself-job-interview-question_l_5dc99dcde4b02bf5794433e2){:rel="nofollow"} – Huffpost
 37. [How To Answer The Salary Expectations Question In A Job Interview](https://www.huffpost.com/entry/salary-expectations-question-job-interview_l_5dfa4ec2e4b0969b618ee923?6r4){:rel="nofollow"} – Huffpost
+38. [What Do You Do With Multiple Offers From The Same Company?](https://www.glassdoor.com/blog/multiple-offers/){:rel="nofollow"} – Glassdoor
 
 ## <a name="podcasts" class="below-nav">Podcasts
 
@@ -120,6 +121,10 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 42. [Always Negotiate Job Offers but Never Name the First Number with Josh Doody](https://itcareerenergizer.com/e190){:rel="nofollow"} – I.T. Career Energizer
 43. [How Software Developers Can Negotiate Better Salaries](https://www.screaminginthecloud.com/episodes/how-software-developers-can-negotiate-better-salaries-with-josh-doody){:rel="nofollow"} – Screaming in the Cloud
 44. [Funnel Optimization Strategies: Josh Doody](https://segmetrics.io/articles/funnel-optimization-strategies-josh-doody/){:rel="nofollow"} – Data Beats Opinion
+45. [Episode 1 - Josh Doody](https://share.transistor.fm/s/7d00d218){:rel="nofollow"} – Full Stack Panic
+
+<iframe src='https://share.transistor.fm/e/7d00d218' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>
+
 
 ## <a name="talks" class="below-nav">Talks
 
