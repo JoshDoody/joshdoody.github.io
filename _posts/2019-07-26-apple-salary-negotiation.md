@@ -127,11 +127,6 @@ Once they reveal where they're flexible and how flexible they are, you can use t
 - **Apple is often rigid with respect to the "level" offered.** Because they use equity as a primary negotiating lever, they have lots of flexibility within pay bands and therefore rarely change pay bands—or levels—as part of the negotiation.
 - **For more junior engineers, Apple tends to make competitive offers with less room to negotiate.** So many junior engineers want to work at Apple that they don't need to negotiate very much to get good candidates at these levels. This doesn't mean you shouldn't negotiate, just expect them to be pretty stubborn when you do.
 
-{% include testimonials/anon_7.html %}
-{% include testimonials/anon_engineer_3.html %}
-
-<br>
-
 <div class="ad-box">
 	<h2 class='u-center'>Negotiating a job offer from Apple? I'll help!</h2>
 	<div class="inline-body">
@@ -143,4 +138,12 @@ Once they reveal where they're flexible and how flexible they are, you can use t
 	</div>
 </div>
 
-<!--div class="inline-ad hidden"></div-->
+{% include testimonials/anon_7.html %}
+{% include testimonials/anon_engineer_3.html %}
+
+<br>
+
+<div class='guide-link'>
+	<p><strong>Get professional help negotiating your Apple job offer</strong></p>
+	<p><a href="/coach/">Salary negotiation coaching for experienced software developers →</a></p>
+</div>
