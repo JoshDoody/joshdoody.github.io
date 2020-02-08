@@ -38,13 +38,13 @@ Ben received a pretty good initial offer from Google (see breakdown below):
 ### Initial Offer
 
 <table><tbody>
-<tr><th><strong>Component</strong></th><th></th><th>Year 1 Compensation</th><th>Years 2–4 Compensation</th></tr>
-<tr><td><strong>Base Salary</strong></td><td></td><td>$149,000</td><td>$149,000</td></tr>
-<tr><td><strong>Sign-on</strong></td><td></td><td>–</td><td>–</td></tr>
-<tr><td><strong>Total Cash</strong></td><td></td><td><strong>$149,000</strong></td><td><strong>$149,000</strong></td></tr>
-<tr><td><strong>New-Hire Equity</strong></td><td></td><td>$40,000</td><td>$40,000</td></tr>
-<tr><td><strong>Target Bonus</strong><br>(15% standard Google bonus) </td><td></td><td>$22,350</td><td>$22,350</td></tr>
-<tr><td><strong>Total Compensation</strong></td><td></td><td><strong>$211,350</strong></td><td><strong>$211,350</strong></td></tr>
+<tr><th><strong>Component</strong></th><th></th><th>Years 1–4 Compensation</th></tr>
+<tr><td><strong>Base Salary</strong></td><td></td><td>$149,000</td></tr>
+<tr><td><strong>Sign-on</strong></td><td></td><td>–</td></tr>
+<tr><td><strong>Total Cash</strong></td><td></td><td><strong>$149,000</strong></td></tr>
+<tr><td><strong>New-Hire Equity</strong></td><td></td><td>$40,000</td></tr>
+<tr><td><strong>Target Bonus</strong><br>(15% standard Google bonus) </td><td></td><td>$22,350</td></tr>
+<tr><td><strong>Total Compensation</strong></td><td></td><td><strong>$211,350</strong></td></tr>
 </tbody></table>
 
 With the offer now in hand, we walked through the negotiation step-by-step to maximize his compensation package. While Ben would be happy to receive a sign-on bonus, he was most interested in increasing the base compensation as high as possible to maximize earning over time.
