@@ -140,9 +140,6 @@ Once they reveal where they're flexible and how flexible they are, you can use t
 - **Google is often rigid with respect to the "level" offered.** Because they use equity as a primary negotiating lever, they have lots of flexibility within pay bands and therefore rarely change pay bands—or levels—as part of the negotiation.
 - **Google will often ask for competing offers—sharing those offers *may* be beneficial.** Many companies ask for competing offers to gather data on competitors or to dissuade the "I have lots of offers" bluff that many candidates use. But when Google is competing with companies like Facebook and Apple for candidates, they will often match competing offers if they're superior. 
 
-{% include testimonials/s_l.html %}
-<br>
-
 <div class="ad-box">
 	<h2 class='u-center'>Negotiating a job offer from Google? I'll help!</h2>
 	<div class="inline-body">
@@ -154,4 +151,12 @@ Once they reveal where they're flexible and how flexible they are, you can use t
 	</div>
 </div>
 
-<!--div class="inline-ad hidden"></div-->
+{% include testimonials/ben.html %}
+{% include testimonials/s_l.html %}
+
+<br>
+
+<div class='guide-link'>
+	<p><strong>Get professional help negotiating your Google job offer</strong></p>
+	<p><a data-event-label="Salary Negotiation Coaching" data-cta-label="coach-inline" href="/coach/">Salary negotiation coaching for experienced software developers →</a></p>
+</div>

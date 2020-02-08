@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Case Study: Getting Ben the best compensation possible from Google'
-headline: 'Case Study: Getting Ben the best compensation possible from Google'
+title: 'Case Study: Getting Ben the best L4 compensation possible from Google'
+headline: 'Case Study: Getting Ben the best L4 compensation possible from Google'
 excerpt: How Ben negotiated a nearly $30,000 increase in base compensation plus a hefty sign-on bonus
 context: coach
 author: josh
