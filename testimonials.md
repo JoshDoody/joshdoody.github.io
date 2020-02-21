@@ -129,6 +129,7 @@ Learn more: [*Essential Salary Negotiation Email Pack*](/essential-counter-offer
 {% include testimonials/james.html %}
 {% include testimonials/thelia.html %}
 {% include testimonials/rachael.html %}
+{% include testimonials/m_v.html %}
 
 ## <a name="sncc" class="below-nav">*Salary Negotiation Crash Course*
 	
