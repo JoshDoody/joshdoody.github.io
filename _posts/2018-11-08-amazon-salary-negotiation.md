@@ -156,7 +156,7 @@ This is the more accurate way to talk about RSUs, but it's not what most of the 
 
 Moderately flexible to *extremely* flexible depending on how close you are to the base salary cap.
 
-Like the other big tech firms, Amazon sees equity as a very big carrot to intice top talent to join their team and stick around, so they tend to be pretty flexible on equity.
+Like the other big tech firms, Amazon sees equity as a very big carrot to entice top talent to join their team and stick around, so they tend to be pretty flexible on equity.
 
 ## How to approach your Amazon salary negotiation
 
