@@ -136,4 +136,5 @@ Once you've presented your case to your manager, you should follow up wiht your 
 - [How to answer the "What's your expected salary?" question](https://fearlesssalarynegotiation.com/the-dreaded-salary-question/)
 - [How to negotiate your salary (without leaving anything on the table)](https://fearlesssalarynegotiation.com/salary-negotiation-guide/)
 - [Got a job offer from Amazon? Learn how to negotiate your salary](https://fearlesssalarynegotiation.com/amazon-salary-negotiation/)
+
 <div class="inline-ad hidden"></div>
