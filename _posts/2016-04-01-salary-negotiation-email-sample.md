@@ -7,7 +7,7 @@ excerpt: A professional salary negotiator shows you how to counter offer with a 
 context: negotiate
 author: josh
 og-image: salary-negotiation-email-make-your-case.png
-last_modified_at: 2018-04-05
+last_modified_at: 2020-05-07
 extra_js:
   - template_requested.js
 ---	
@@ -399,5 +399,10 @@ Once you're ready to counter offer, use the [salary negotiation email sample](#b
 If you don't hear back after a few days, you might want to follow-up to make sure you're still on the recruiter's radar and that you didn't miss any emails or phone calls. [This template](#follow-up-template){:data-template="Follow-up after counter"}{:data-action="Choose counter offer template"} will help you check in.
 
 Then it's time to prepare for your [Final Discussion](/salary-negotiation-script-example/), where you'll hash out all the final details of your compensation package.
+
+## Articles you may also like
+
+- [A **salary increase letter** to ask your boss for a raise](https://fearlesssalarynegotiation.com/salary-increase-letter-sample/)
+- [Got a job offer from Amazon? Learn how to negotiate your salary](https://fearlesssalarynegotiation.com/amazon-salary-negotiation/)
 
 <div class="inline-ad hidden"></div>
