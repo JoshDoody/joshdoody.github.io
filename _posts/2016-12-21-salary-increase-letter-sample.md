@@ -2,11 +2,11 @@
 layout: post
 title: How to write a salary increase letter to ask for a raise (2020 update)
 headline: How to write a salary increase letter to ask your boss for a raise
-tagline: Schedule a meeting, ask for a raise, and follow up with these templates
+tagline: Schedule a meeting, ask for a raise, and follow up with these salary increase letter templates
 excerpt: How do you ask for a salary increase? Here’s how to write a salary increase letter, schedule a meeting with your boss, and follow up to get your next raise.
 context: raise
 author: josh
-last_modified_at: 2018-08-10
+last_modified_at: 2020-05-07
 extra_js:
   - template_requested.js
 --- 

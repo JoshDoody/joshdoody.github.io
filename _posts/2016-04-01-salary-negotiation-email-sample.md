@@ -3,7 +3,7 @@ layout: post
 title: Salary negotiation email sample - counter offer letter template (2020)
 headline: How to negotiate your starting salary with a compelling counter offer email
 tagline: Salary negotiation email templates to deliver your counter offer when negotiating starting salary
-excerpt: A professional salary negotiator shows you how to counter offer with a salary negotiation email template once you have a job offer. Here's what to say and how to say it when you negotiate your job offer over email.
+excerpt: A professional salary negotiator shows you how to counter offer with a salary negotiation email template once you have a job offer. (Updated for 2020)
 context: negotiate
 author: josh
 og-image: salary-negotiation-email-make-your-case.png
@@ -40,7 +40,7 @@ But you were probably looking for a little more information, weren't you? 😉
 
 Yes, *because there might be room to negotiate*.
 
-If you interviewed well and [avoided sharing your current or expected salary](/the-dreaded-salary-question/), then the company's offer is designed to convince you to join their team (as opposed to being the minimum they think you'll accept).
+If you interviewed well and [avoided sharing your current or expected salary](/salary-expectations-interview-question/), then the company's offer is designed to convince you to join their team (as opposed to being the minimum they think you'll accept).
 
 But most job offers—even strong ones—have some wiggle room in case you decide to negotiate, so you should counter offer to see if there's wiggle room and how much wiggle room there might be.
 

@@ -7,7 +7,7 @@ excerpt: You finally got a job offer, and you feel you should ask for more, but 
 context: negotiate
 author: josh
 og-image: SalaryNegotiationGuide.png
-last_modified_at: 2018-09-06
+last_modified_at: 2020-05-07
 extra_js:
   - template_requested.js
 ---
@@ -72,7 +72,7 @@ If you're expecting to negotiate a job offer soon (but haven't gotten your job o
 
 ### How to answer the "What's your current or expected salary?" interview question
 
-<p class='u-center'><a href="/the-dreaded-salary-question/" target="_blank"><img src="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" alt="The current and expected salary question" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
+<p class='u-center'><a href="/salary-expectations-interview-question/" target="_blank"><img src="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" alt="The current and expected salary question" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
 
 The salary negotiation could literally begin with your very first conversation with someone at the company you're considering. That first call is often called the "pre-screen" or "pre-interview", and you'll often talk with an internal recruiter at the company.
 
@@ -82,7 +82,7 @@ And there's an awkward moment that comes up in almost every one of these calls. 
 
 <div class='guide-link'>
 <p><strong>What should you say when asked for your current salary or salary expectations during an interview?</strong></p>
-<p><a href="/the-dreaded-salary-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
+<p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
 </div>
 
 ### Set your minimum acceptable salary before you get an offer
@@ -263,8 +263,8 @@ It's never too early to start thinking ahead to your next opportunity. The more 
 Check out this interview preparation guide to learn more about how to use positioning to stand out as *the* candidate for the job next time you interview!
 
 <div class='guide-link'>
-<p><strong>How to prepare for your job interviews and get more job offers</strong></p>
-<p><a href="/salary-negotiation-guide/">How to prepare for job interviews in 2020 - Complete interview preparation guide →</a></p>
+<p><strong>How to write a salary increase letter to ask your boss for a raise</strong></p>
+<p><a href="/salary-increase-letter-sample/">Schedule a meeting, ask for a raise, and follow up with these templates →</a></p>
 </div>
 
 <!-- <div class="inline-ad hidden"></div> -->
