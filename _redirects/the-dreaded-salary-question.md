@@ -9,7 +9,7 @@ author: josh
 last_modified_at: 2020-05-07
 extra_js:
   - template_requested.js
-301_to_url: 'https://fearlesssalarynegotiation.com/salary-expectations-questions/'
+301_to_url: 'https://fearlesssalarynegotiation.com/salary-expectations-interview-question/'
 ---
 You've been job hunting for a while, and you finally hear back about a job you really want. The recruiter reaches out and asks if you're free to chat for a few minutes so they can ask you a few questions. "Sure!"
 
