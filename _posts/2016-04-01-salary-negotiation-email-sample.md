@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Salary negotiation email sample - counter offer letter template (2020)
-headline: How to use a compelling salary negotiation email to negotiate your starting salary (including templates)
-tagline: Salary negotiation email templates to deliver your counter offer when negotiating starting salary
-excerpt: A professional salary negotiator shows you how to counter offer with a salary negotiation email template once you have a job offer. (Updated for 2020)
+title: Salary negotiation email samples and a counter offer letter template
+headline: How to use a salary negotiation email to negotiate your starting salary (including email templates)
+tagline: Salary negotiation email templates to deliver your counter offer when negotiating your starting salary
+excerpt: A professional salary negotiator shows you how to counter offer with a salary negotiation email template once you have a job offer.
 context: negotiate
 author: josh
 og-image: salary-negotiation-email-make-your-case.png
@@ -337,6 +337,13 @@ When you're negotiating salary over email, simply mentioning competing offers is
 {% include convertkit_forms/salary-negotiation-email-template-content-upgrade.html %}
 <!-- </div> -->
 
+<div class="ad-box">
+## Articles you may also like
+
+- [A **salary increase letter** to ask your boss for a raise](https://fearlesssalarynegotiation.com/salary-increase-letter-sample/)
+- [Got a job offer from Amazon? Learn how to negotiate your salary](https://fearlesssalarynegotiation.com/amazon-salary-negotiation/)
+</div>
+
 ## Send your draft counter offer email to someone you trust for review
 
 After you use the counter offer letter sample above to write your own email, send it to a couple friends or family members for review. They might find typos or suggest some ways you can tighten it up or make it better. You can always remove the specific details of your job offer and counter offer if you’re not comfortable sharing them.
@@ -400,9 +407,5 @@ If you don't hear back after a few days, you might want to follow-up to make sur
 
 Then it's time to prepare for your [Final Discussion](/salary-negotiation-script-example/), where you'll hash out all the final details of your compensation package.
 
-## Articles you may also like
-
-- [A **salary increase letter** to ask your boss for a raise](https://fearlesssalarynegotiation.com/salary-increase-letter-sample/)
-- [Got a job offer from Amazon? Learn how to negotiate your salary](https://fearlesssalarynegotiation.com/amazon-salary-negotiation/)
 
 <div class="inline-ad hidden"></div>
