@@ -104,7 +104,7 @@ This is typically a short 5- or 10-minute call where they will verify that you c
 
 ### How to answer the "What's your current or expected salary?" interview question
 
-<p class='u-center'><a href="/the-dreaded-salary-question/" target="_blank"><img src="/images/DreadedSalaryQuestion.png" alt="The current and expected salary question" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
+<p class='u-center'><a href="/salary-expectations-interview-question/" target="_blank"><img src="/images/DreadedSalaryQuestion.png" alt="The current and expected salary question" style="display: block; width: 100%; max-width: 900px; margin: 0 auto;"/></a></p>
 
 You've probably been asked "What's your current or expected salary?" in an interview before. And it probably made you very uncomfortable.
 
@@ -112,7 +112,7 @@ That's because you intuitively know that this is an important question, and that
 
 <div class='guide-link'>
 <p><strong>What should you say when asked for your current salary or salary expectations during an interview?</strong></p>
-<p><a href="/the-dreaded-salary-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
+<p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
 </div>
 
 ### Preparing for your interviews—what to bring and what to expect
@@ -192,7 +192,7 @@ Until you actually have an offer in hand, you should not disclose your current o
 
 <div class='guide-link'>
 <p><strong>What should you say when asked for your current salary or salary expectations during an interview?</strong></p>
-<p><a href="/the-dreaded-salary-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
+<p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
 </div>
 
 ### Following up after your interviews

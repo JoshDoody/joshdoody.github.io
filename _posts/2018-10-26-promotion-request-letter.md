@@ -5,7 +5,7 @@ headline: How to write a promotion request letter to ask your boss for a promoti
 excerpt: How do you request a promotion? Here’s how to write a promotion request letter, schedule a meeting with your boss, and follow up to get your next promotion.
 context: promotion
 author: josh
-last_modified_at: 2018-10-30
+last_modified_at: 2020-05-07
 ---
 The best way to prepare your case for a promotion is to write it down. If you struggle to write a solid case for your promotion, that's a good sign that you have more work to do.
 
@@ -128,5 +128,13 @@ Thank your manager for her time and keep it brief.
 Everything has now come together so that you know what you’re pursuing, and you have a written case that summarizes why you should be promoted. This should help clarify your own objectives, and it will provide a handy reference for you as you present your case.
 
 Once you've presented your case to your manager, you should follow up wiht your promotion request email to document your request and make it easy for your manager to circulate your request for approval.
+
+## Articles you may also like
+
+- [A **salary negotiation email** (to negotiate your starting salary)](https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/)
+- [A **salary increase letter** to ask your boss for a raise](https://fearlesssalarynegotiation.com/salary-increase-letter-sample/)
+- [How to answer the "What's your expected salary?" question](https://fearlesssalarynegotiation.com/salary-expectations-interview-question/)
+- [How to negotiate your salary (without leaving anything on the table)](https://fearlesssalarynegotiation.com/salary-negotiation-guide/)
+- [Got a job offer from Amazon? Learn how to negotiate your salary](https://fearlesssalarynegotiation.com/amazon-salary-negotiation/)
 
 <div class="inline-ad hidden"></div>

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Salary negotiation email sample - counter offer letter template (2020)
-headline: How to negotiate your starting salary with a compelling counter offer email
-tagline: Salary negotiation email templates to deliver your counter offer when negotiating starting salary
-excerpt: A professional salary negotiator shows you how to counter offer with a salary negotiation email template once you have a job offer. Here's what to say and how to say it when you negotiate your job offer over email.
+title: Salary negotiation email samples and a counter offer letter template
+headline: How to use a salary negotiation email to negotiate your starting salary (including email templates)
+tagline: Salary negotiation email templates to deliver your counter offer when negotiating your starting salary
+excerpt: A professional salary negotiator shows you how to counter offer with a salary negotiation email template once you have a job offer.
 context: negotiate
 author: josh
 og-image: salary-negotiation-email-make-your-case.png
-last_modified_at: 2018-04-05
+last_modified_at: 2020-05-07
 extra_js:
   - template_requested.js
 ---	
@@ -40,7 +40,7 @@ But you were probably looking for a little more information, weren't you? 😉
 
 Yes, *because there might be room to negotiate*.
 
-If you interviewed well and [avoided sharing your current or expected salary](/the-dreaded-salary-question/), then the company's offer is designed to convince you to join their team (as opposed to being the minimum they think you'll accept).
+If you interviewed well and [avoided sharing your current or expected salary](/salary-expectations-interview-question/), then the company's offer is designed to convince you to join their team (as opposed to being the minimum they think you'll accept).
 
 But most job offers—even strong ones—have some wiggle room in case you decide to negotiate, so you should counter offer to see if there's wiggle room and how much wiggle room there might be.
 
@@ -337,6 +337,15 @@ When you're negotiating salary over email, simply mentioning competing offers is
 {% include convertkit_forms/salary-negotiation-email-template-content-upgrade.html %}
 <!-- </div> -->
 
+<div class="ad-box">
+	<h2>Articles you may also like</h2>
+	<ul>
+		<li><a href="https://fearlesssalarynegotiation.com/salary-increase-letter-sample/">A <strong>salary increase letter</strong> to ask your boss for a raise</a></li>
+
+		<li><a href="https://fearlesssalarynegotiation.com/amazon-salary-negotiation/">Got a job offer from Amazon? Learn how to negotiate your salary</a></li>
+	</ul>
+</div>
+
 ## Send your draft counter offer email to someone you trust for review
 
 After you use the counter offer letter sample above to write your own email, send it to a couple friends or family members for review. They might find typos or suggest some ways you can tighten it up or make it better. You can always remove the specific details of your job offer and counter offer if you’re not comfortable sharing them.
@@ -399,5 +408,6 @@ Once you're ready to counter offer, use the [salary negotiation email sample](#b
 If you don't hear back after a few days, you might want to follow-up to make sure you're still on the recruiter's radar and that you didn't miss any emails or phone calls. [This template](#follow-up-template){:data-template="Follow-up after counter"}{:data-action="Choose counter offer template"} will help you check in.
 
 Then it's time to prepare for your [Final Discussion](/salary-negotiation-script-example/), where you'll hash out all the final details of your compensation package.
+
 
 <div class="inline-ad hidden"></div>

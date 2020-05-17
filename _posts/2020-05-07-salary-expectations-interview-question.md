@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Salary expectations questions—How should you answer them? (2020)
+title: Salary expectations questions - How should you answer them?
 tagline: Word-for-word scripts to answer salary expectations questions in your interviews
-excerpt: Don't panic! Here's how to tactfully answer salary expectations questions without costing yourself a ton of money.
+excerpt: Don't panic! Here's how to tactfully answer salary expectations questions without costing yourself a ton of money (updated for 2020)
 og-image: DreadedSalaryQuestion.png
 context: salary-questions
 author: josh
-last_modified_at: 2019-01-01
+last_modified_at: 2020-05-07
 extra_js:
   - template_requested.js
 ---
@@ -539,6 +539,11 @@ There's still time to switch their thinking to "What do we need to offer to conv
 Your best bet is to negotiate the offer as well as possible. The offer itself will be based on your current salary, but with a good negotiation strategy, you can see how much room for improvement there is in their offer.
 
 Next time you're asked for your current salary or desired in a job interview, use these word-for-word scripts to avoid disclosing that information and get back to the interview process. This strategy will leave the salary expectations question open longer, allowing you to impress them more so you have more leverage during your salary negotiation.
+
+## Articles you may also like
+
+- [A **salary increase letter** to ask your boss for a raise](https://fearlesssalarynegotiation.com/salary-increase-letter-sample/)
+- [Got a job offer from Amazon? Learn how to negotiate your salary](https://fearlesssalarynegotiation.com/amazon-salary-negotiation/)
 
 <div class='guide-link'>
 <p><strong>Make sure you have everything you need for your next interview</strong></p>
