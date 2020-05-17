@@ -338,10 +338,12 @@ When you're negotiating salary over email, simply mentioning competing offers is
 <!-- </div> -->
 
 <div class="ad-box">
-## Articles you may also like
+	<h2>Articles you may also like</h2>
+	<ul>
+		<li><a href="https://fearlesssalarynegotiation.com/salary-increase-letter-sample/">A <strong>salary increase letter</strong> to ask your boss for a raise</a></li>
 
-- [A **salary increase letter** to ask your boss for a raise](https://fearlesssalarynegotiation.com/salary-increase-letter-sample/)
-- [Got a job offer from Amazon? Learn how to negotiate your salary](https://fearlesssalarynegotiation.com/amazon-salary-negotiation/)
+		<li><a href="https://fearlesssalarynegotiation.com/amazon-salary-negotiation/">Got a job offer from Amazon? Learn how to negotiate your salary</a></li>
+	</ul>
 </div>
 
 ## Send your draft counter offer email to someone you trust for review

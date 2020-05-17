@@ -108,7 +108,7 @@ While they might have a good idea of the value of that job to Microsoft's busine
 
 <div class='guide-link'>
 <p><strong>For a deep dive on how to avoid sharing your current or expected salary when asked, see this guide:</strong></p>
-<p><a href="/the-dreaded-salary-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
+<p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
 </div>
 
 ### Once you receive your job offer from Microsoft

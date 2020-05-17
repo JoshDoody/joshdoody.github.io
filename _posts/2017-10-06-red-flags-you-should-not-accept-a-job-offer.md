@@ -24,7 +24,7 @@ You've probably heard me say that you should not disclose your current or expect
 
 <div class='guide-link'>
 <p><strong>What should you say when asked for your current salary or salary expectations during an interview?</strong></p>
-<p><a href="/the-dreaded-salary-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
+<p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
 </div>
 
 A common follow up question to that guide is...

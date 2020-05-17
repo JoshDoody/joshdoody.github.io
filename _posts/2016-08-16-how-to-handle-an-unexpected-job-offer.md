@@ -49,11 +49,11 @@ It's easier to describe yourself in those terms if you spend a little time [prep
 
 I winced when I read this heading because I knew what was coming.
 
-[Do not disclose your current or expected salary in an interview or salary negotiation]({{ site.baseurl }}/the-dreaded-salary-question/). If you do, you will cost yourself money.
+[Do not disclose your current or expected salary in an interview or salary negotiation]({{ site.baseurl }}/salary-expectations-interview-question/). If you do, you will cost yourself money.
 
 Here's a quick reference you can use to handle The Dreaded Salary Question:
 
-<p class='u-center'><a href="{{ site.baseurl }}/the-dreaded-salary-question/"><img src="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" width="100%" alt="The Dreaded Salary Question summary"></a></p>
+<p class='u-center'><a href="{{ site.baseurl }}/salary-expectations-interview-question/"><img src="{{ site.baseurl }}/images/DreadedSalaryQuestion.png" width="100%" alt="The Dreaded Salary Question summary"></a></p>
 
 ## I didn’t want to embarrass him/I wanted to be likable
 

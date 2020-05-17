@@ -58,7 +58,7 @@ While you're collecting examples of accolades, keep an eye out for accomplishmen
 
 ## Articles you may also like
 
-- [A **salary negotiation email** to negotiate your starting salary)](https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/)
+- [A **salary negotiation email** (to negotiate your starting salary)](https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/)
 - [A **salary increase letter** to ask your boss for a raise](https://fearlesssalarynegotiation.com/salary-increase-letter-sample/)
 - [How to answer the "What's your expected salary?" question](https://fearlesssalarynegotiation.com/salary-expectations-interview-question/)
 - [How to negotiate your salary (without leaving anything on the table)](https://fearlesssalarynegotiation.com/salary-negotiation-guide/)

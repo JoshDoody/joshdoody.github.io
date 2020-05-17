@@ -23,7 +23,7 @@ Eary in the interview process, sometimes before you even start interviewing, you
 
 Sound familiar? I bet it does.
 
-[Don't disclose your current or expected salary in a negotiation]({{ site.baseurl }}/the-dreaded-salary-question/) and you'll significantly increase your lifetime earning potential. Every time you get a new job, you'll give yourself the best chance for the highest salary the company will pay.
+[Don't disclose your current or expected salary in a negotiation]({{ site.baseurl }}/salary-expectations-interview-question/) and you'll significantly increase your lifetime earning potential. Every time you get a new job, you'll give yourself the best chance for the highest salary the company will pay.
 
 ## 2. Negotiate starting salary
 			

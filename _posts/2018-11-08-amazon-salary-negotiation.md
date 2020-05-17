@@ -156,7 +156,7 @@ This is the more accurate way to talk about RSUs, but it's not what most of the 
 
 Moderately flexible to *extremely* flexible depending on how close you are to the base salary cap.
 
-Like the other big tech firms, Amazon sees equity as a very big carrot to intice top talent to join their team and stick around, so they tend to be pretty flexible on equity.
+Like the other big tech firms, Amazon sees equity as a very big carrot to entice top talent to join their team and stick around, so they tend to be pretty flexible on equity.
 
 ## How to approach your Amazon salary negotiation
 
@@ -180,7 +180,7 @@ You're much better off seeing what they offer, spending some time with it to und
 
 <div class='guide-link'>
 <p><strong>For a deep dive on how to avoid sharing your current or expected salary when asked, see this guide:</strong></p>
-<p><a href="/the-dreaded-salary-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
+<p><a href="/salary-expectations-interview-question/">How to answer the “What’s your current or expected salary?” question →</a></p>
 </div>
 
 ### Once you receive your job offer from Amazon

@@ -33,7 +33,7 @@ There are tons of books and even entire college courses on negotiation, so it mu
 
 <p class='u-center'><img src="{{ site.baseurl }}/images/gifs/Titus.gif" alt="But I already did something today" style="display: block; width: 100%; max-width: 500px; margin: 0 auto;"/></p>
 
-Negotiation is a pretty big, complicated topic. But we're not talking about negotiation, we're talking about *salary negotiation*, which is much simpler. As long as you avoid [sharing your current or expected salary]({{ site.baseurl }}/the-dreaded-salary-question/) and follow [these three steps]({{ site.baseurl }}/salary-negotiation-script/), you'll do pretty well.
+Negotiation is a pretty big, complicated topic. But we're not talking about negotiation, we're talking about *salary negotiation*, which is much simpler. As long as you avoid [sharing your current or expected salary]({{ site.baseurl }}/salary-expectations-interview-question/) and follow [these three steps]({{ site.baseurl }}/salary-negotiation-script/), you'll do pretty well.
 
 Ok, so I guess it's not *that* hard to negotiate salary. But stay with me—I'm sure I can find *some* reason you should NOT negotiate your salary!
 

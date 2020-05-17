@@ -36,7 +36,7 @@ Let’s take each of these items one by one to understand its significance and h
 
 Chances are your goal is to increase your salary by taking a new job, so this is your starting point. Plus, it’s what you’ll ultimately measure your results against when your negotiation is finished.
 
-As I mentioned in this article on [how to answer the "current salary" and "expected salary" interview questions]({{ site.baseurl }}/the-dreaded-salary-question/), you should *not* share this with the company! This number is for your eyes only!
+As I mentioned in this article on [how to answer the "current salary" and "expected salary" interview questions]({{ site.baseurl }}/salary-expectations-interview-question/), you should *not* share this with the company! This number is for your eyes only!
 
 ## Your market value for this job
 

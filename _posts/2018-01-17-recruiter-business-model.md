@@ -19,7 +19,7 @@ And then things get a little weird. Before the recruiter can introduce you to th
 
 Huh? Didn't they reach out to you? And all of a sudden you have to share personal information to keep things going?
 
-You've read about [how to answer the salary expectations question](/the-dreaded-salary-question/) before, so you know it's not in your best interest to disclose that salary information. You tell the recruiter you're not comfortable sharing that information, but you look forward to exploring this awesome new opportunity.
+You've read about [how to answer the salary expectations question](/salary-expectations-interview-question/) before, so you know it's not in your best interest to disclose that salary information. You tell the recruiter you're not comfortable sharing that information, but you look forward to exploring this awesome new opportunity.
 
 And things get *weirder*! "I don't want to waste everyone's time if your salary requirements don't align with the position."
 

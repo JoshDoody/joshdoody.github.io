@@ -78,7 +78,7 @@ It is *not* in your best interest to tell them your salary history or salary exp
 
 This is so important that I’ve written an exhaustive article on how to avoid sharing your salary expectations, and you can read it here:
 
-[How to answer interview questions about your salary expectations](https://fearlesssalarynegotiation.com/the-dreaded-salary-question/)
+[How to answer interview questions about your salary expectations](https://fearlesssalarynegotiation.com/salary-expectations-interview-question/)
 
 You can recover if you’ve already shared this information with your recruiter—that’s covered in the article too—but it’s much, much easier to negotiate job offers when the first number is suggested by them during the offer stage.
 
@@ -223,7 +223,7 @@ Use the script example linked above as your guide. I recommend literally writing
 
 When you’re interviewing for SRE roles, make sure to [position yourself](https://fearlesssalarynegotiation.com/how-to-answer-job-interview-questions/) as *the* candidate for each particular role by describing how you’ll make their team or company better when you’re a part of it. How will you help them meet their goals and overcome challenges they’re facing?
 
-Make sure you [don’t talk numbers](https://fearlesssalarynegotiation.com/the-dreaded-salary-question/) until they make you an offer. Don’t tell them your salary expectations, share your salary history, or otherwise engage in the negotiation until they make you an offer. 
+Make sure you [don’t talk numbers](https://fearlesssalarynegotiation.com/salary-expectations-interview-question/) until they make you an offer. Don’t tell them your salary expectations, share your salary history, or otherwise engage in the negotiation until they make you an offer. 
 
 Once they make you an offer, pick the dimension of the offer that you care the most about, consider how aggressive you should be, choose a specific counter offer amount on that dimension, and [counter in an email](https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/) along with your case for why you’re more valuable than their initial offer indicates.
 

@@ -6,7 +6,7 @@ excerpt: One of the most common starting salary neogotiation mistakes is disclos
 og-image: DreadedSalaryQuestion.png
 context: interview
 last_modified_at: 2016-06-25
-canonical_url: 'https://fearlesssalarynegotiation.com/the-dreaded-salary-question/'
+canonical_url: 'https://fearlesssalarynegotiation.com/salary-expectations-interview-question/'
 book_section: 7
 chapter: interview
 section: 1
