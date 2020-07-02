@@ -6,7 +6,7 @@ tagline: Schedule a meeting, ask for a raise, and follow up with these salary in
 excerpt: How do you ask for a salary increase? Here’s how to write a salary increase letter, schedule a meeting with your boss, and follow up to get your next raise.
 context: raise
 author: josh
-last_modified_at: 2020-05-07
+last_modified_at: 2020-07-02
 extra_js:
   - template_requested.js
 --- 
@@ -54,9 +54,9 @@ If you have a regular 1-on-1 with your manager, even as infrequently as once a m
 
 You could reach out with a short email or even just send a quick instant message that you would like to talk about your compensation in your next 1-on-1.
 
-{% include convertkit_forms/salary-increase-email-template-content-upgrade.html %}
+<!-- {% include convertkit_forms/salary-increase-email-template-content-upgrade.html %} -->
 
-<!-- Here's an email template you can use to give your manager a heads-up that you would like to talk about a salary increase in your next 1-on-1 meeting:
+Here's an email template you can use to give your manager a heads-up that you would like to talk about a salary increase in your next 1-on-1 meeting:
 
 <div class='sample-email'>
 <p>
@@ -69,7 +69,7 @@ You could reach out with a short email or even just send a quick instant message
 <p>Talk to you soon!</p>
 
 <p>[Your name]</p>
-</div> -->
+</div>
 
 #### <a name="dedicated-meeting" class="below-nav">If you  do NOT have a regular 1-on-1 with your manager
 
@@ -77,9 +77,9 @@ This situation is similar, but you'll also need to schedule a meeting since you 
 
 In this case, it's best to send a short email saying that you would like to schedule a meeting to talk about your compensation because you'll also need to schedule a specific time. Make sure to suggest a few times when you'll be available so your manager can choose the one that's most convenient for them.
 
-{% include convertkit_forms/salary-increase-email-template-content-upgrade.html %}
+<!-- {% include convertkit_forms/salary-increase-email-template-content-upgrade.html %} -->
 
-<!-- Here's an email template you can use to give your manager a heads-up that you would like to schedule a meeting to talk about your compensation:
+Here's an email template you can use to give your manager a heads-up that you would like to schedule a meeting to talk about your compensation:
 
 <div class='sample-email'>
 <p>
@@ -99,7 +99,7 @@ In this case, it's best to send a short email saying that you would like to sche
 <p>Thanks for your time!</p>
 
 <p>[Your name]</p>
-</div> -->
+</div>
 
 #### Scheduling your salary increase discussion via  internal chat like Slack or Google Chat
 
@@ -129,17 +129,19 @@ Here are the basic components you need to ask for a raise. I recommend writing a
 
 Here is a detailed explanation of each section you should include in your email to make sure your salary increase letter has all the components you need before you ask for your raise.
 
-<div class='ad-box' data-offer-plinko="optional">
+<!-- <div class='ad-box' data-offer-plinko="optional">
 	<p><strong>Just want to get the template?</strong> <a href="/request-salary-increase-email-templates/">&gt;&gt; Click here</a></p>
-</div>
+</div> -->
 
 <!-- {% include drip_forms/salary-increase-email-templates-content-upgrade.html template-description="the template to ask to discuss your salary increase in your next 1-on-1" %} -->
+
+First, here's an example that we'll break down section by section.
 
 **Note:** Don't send this email yet! You'll send it *after* you ask for a raise in person.
 
 <!-- <div class='ad-box'>
-<p><strong>Looking for an email template to negotiate a job offer?</strong> Here you go! <a href="{{ site.baseurl }}/salary-negotiation-email-sample/">Salary negotiation email sample</a></p>
-</div>
+<p><strong>Looking for an email template to negotiate a job offer?</strong> Here you go! <a href="/salary-negotiation-email-sample/">Salary negotiation email sample</a></p>
+</div> -->
 
 <div class='sample-email'>
 <p>
@@ -175,7 +177,7 @@ Here is a detailed explanation of each section you should include in your email 
 <p>All the best</p>
 
 <p><strong>[Your name]</strong></p>
-</div> -->
+</div>
 
 ### A section-by-section overview the components to include in your salary increase letter
 
@@ -257,7 +259,7 @@ Getting a raise is a top priority for you, but it probably isn't your manager's 
 
 So you may need to follow up a few times to make sure your request doesn't fall through the cracks. 
 
-<!-- Here's a short email template you can use to follow up after you ask for a raise.
+Here's a short email template you can use to follow up after you ask for a raise.
 
 <div class='sample-email'>
 <p>
@@ -271,7 +273,7 @@ So you may need to follow up a few times to make sure your request doesn't fall 
 <p>If not, what are our next steps?</p>
 <p>Thanks again for your time!</p>
 <p>[Your name]</p>
-</div> -->
+</div>
 
 A good subject for this followup email is "Re: [Your name] salary adjustment discussion—follow-up" because you should reply to the thread where you sent your written request if possible. That will make it easy for your manager to find your request when it's time to pass it along to HR or Finance for consideration.
 
@@ -287,7 +289,7 @@ One last thing: *Asking* for a raise—even with a strong case—doesn't guarant
 
 In this case, it's important to establish a clear plan so you know exactly what you need to do to improve your case and revisit your request at a better time.
 
-<!-- Here's an email template you can use to ask your manager for a specific plan to get your next raise:
+Here's an email template you can use to ask your manager for a specific plan to get your next raise:
 
 <div class='sample-email'>
 <p>
@@ -302,7 +304,7 @@ In this case, it's important to establish a clear plan so you know exactly what 
 <p>I would love to work with you to put together a clear action plan and timeline so we can continue this discussion and monitor my progress as I work toward my goal.</p>
 <p>Thanks for working with me on this!</p>
 <p>[Your name]</p>
-</div> -->
+</div>
 
 You can send an email to ask for a plan, or you could paraphrase ask verbally in your next 1-on-1. Your goal in this situation is to establish your specific goals and a specific timeline so you can measure progress and revisit the conversation later on.
 
