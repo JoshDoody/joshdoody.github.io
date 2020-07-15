@@ -152,7 +152,7 @@ Once they reveal where they're flexible and how flexible they are, you can use t
 </div>
 
 {% include testimonials/ben.html %}
-{% include testimonials/s_l.html %}
+{% include testimonials/taylor.html %}
 
 <br>
 
