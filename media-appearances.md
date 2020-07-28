@@ -32,8 +32,6 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 	</audio>
 </p>
 
-<p><a href="https://www.byuradio.org/episode/7e841f96-7045-4f3c-a68d-050bbeaee34f/7e841f96-7045-4f3c-a68d-050bbeaee34f?playhead=2054&autoplay=true">Negotiating Salary</a> – The Lisa Show</p>
-
 ## <a name="articles" class="below-nav">Articles
 
 1. [9 Things to Never Say in a Salary Negotiation](https://www.glassdoor.com/blog/9-things-to-never-say-in-a-salary-negotiation/){:rel="nofollow"} – Glassdoor (also [Business Insider](http://www.businessinsider.com/9-things-you-should-never-say-during-a-salary-negotiation-2018-3){:rel="nofollow"}, [Fast Company](https://www.fastcompany.com/3068323/career-evolution/nine-words-and-phrases-to-avoid-when-youre-negotiating-a-salary){:rel="nofollow"}, [The Motley Fool](https://www.fool.com/careers/2017/10/30/9-things-to-never-say-in-a-salary-negotiation.aspx){:rel="nofollow"}, [Entrepreneur](https://www.entrepreneur.com/article/321120))
@@ -121,10 +119,9 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 42. [Always Negotiate Job Offers but Never Name the First Number with Josh Doody](https://itcareerenergizer.com/e190){:rel="nofollow"} – I.T. Career Energizer
 43. [How Software Developers Can Negotiate Better Salaries](https://www.screaminginthecloud.com/episodes/how-software-developers-can-negotiate-better-salaries-with-josh-doody){:rel="nofollow"} – Screaming in the Cloud
 44. [Funnel Optimization Strategies: Josh Doody](https://segmetrics.io/articles/funnel-optimization-strategies-josh-doody/){:rel="nofollow"} – Data Beats Opinion
-45. [Episode 1 - Josh Doody](https://share.transistor.fm/s/7d00d218){:rel="nofollow"} – Full Stack Panic
-
-<iframe src='https://share.transistor.fm/e/7d00d218' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>
-
+45. [Negotiating Salary](https://www.byuradio.org/episode/7e841f96-7045-4f3c-a68d-050bbeaee34f/7e841f96-7045-4f3c-a68d-050bbeaee34f?playhead=2054&autoplay=true){:rel="nofollow"} – The Lisa Show
+46. [Episode 1 - Josh Doody](https://share.transistor.fm/s/7d00d218){:rel="nofollow"} – Full Stack Panic
+47. [Stop, collaborate, get paid - Fearless Salary Negotiation w/ Josh Doody](https://share.transistor.fm/s/f08296c7){:rel="nofollow"} – Production Ready
 
 ## <a name="talks" class="below-nav">Talks
 
