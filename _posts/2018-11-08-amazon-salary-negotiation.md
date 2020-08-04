@@ -205,6 +205,7 @@ Be sure that if you ask for and receive more equity that you also try to improve
 - **Amazon frequently offers two sign-on bonuses—Year 1 and Year 2—to help bridge the gap during the slow part of the equity vesting ramp.**
 - **Do the math for each year's compensation based on their offer so you can see how your pay will change as sign-on bonuses are paid out and equity vesting ramps up later on.**
 
+{% include testimonials/justin_garrison.html %}
 {% include testimonials/jonathan.html %}
 <br>
 

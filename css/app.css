@@ -1843,6 +1843,12 @@ div.guide-link p {
 	margin-bottom: 10px;
 }
 
+img.case-study {
+	border-radius: 100%;
+	width: 120px;
+	height: 120px;
+}
+
 .testimonial p, .testimonial ul, .testimonial ol {
 	text-align: left;
 }
