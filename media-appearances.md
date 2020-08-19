@@ -122,6 +122,7 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 45. [Negotiating Salary](https://www.byuradio.org/episode/7e841f96-7045-4f3c-a68d-050bbeaee34f/7e841f96-7045-4f3c-a68d-050bbeaee34f?playhead=2054&autoplay=true){:rel="nofollow"} – The Lisa Show
 46. [Episode 1 - Josh Doody](https://share.transistor.fm/s/7d00d218){:rel="nofollow"} – Full Stack Panic
 47. [Stop, collaborate, get paid - Fearless Salary Negotiation w/ Josh Doody](https://share.transistor.fm/s/f08296c7){:rel="nofollow"} – Production Ready
+48. [The Art of Salary Negotiation](https://careerbuilderspodcast.com/episodes/the-art-of-salary-negotiations-josh-doody){:rel="nofollow"} – The Career Builder's Podcast
 
 ## <a name="talks" class="below-nav">Talks
 
