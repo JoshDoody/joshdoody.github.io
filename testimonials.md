@@ -203,3 +203,4 @@ Here are some very kind folks' thoughts on *Fearless Salary Negotiation*.
 {% include testimonials/m_n.html %}
 {% include testimonials/claire.html %}
 {% include testimonials/brian_m.html %}
+{% include testimonials/danielle_f.html %}
