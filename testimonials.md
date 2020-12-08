@@ -30,6 +30,7 @@ Learn more about my coaching offering here: [Expert Salary Negotiation Coaching]
 {% include testimonials/jane.html %}
 {% include testimonials/julian_diaz.html %}
 {% include testimonials/anon_engineer_4.html %}
+<!-- {% include testimonials/tim_eccleston.html %} -->
 {% include testimonials/anon_engineer_3.html %}
 {% include testimonials/ben.html %}
 {% include testimonials/k_k.html %}
@@ -204,3 +205,4 @@ Here are some very kind folks' thoughts on *Fearless Salary Negotiation*.
 {% include testimonials/claire.html %}
 {% include testimonials/brian_m.html %}
 {% include testimonials/danielle_f.html %}
+{% include testimonials/queen_r.html %}
