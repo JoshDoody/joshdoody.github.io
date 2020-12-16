@@ -135,6 +135,7 @@ Of course the expectations for your performance will be higher as well, and that
 - **The equity component of a Microsoft offer may be small relative to the total value of the offer, and that means there is often room to substantially improve the equity component through negotiation relative to the initial baseline.**
 
 {% include testimonials/mark_o.html %}
+{% include testimonials/jamie.html %}
 <br>
 
 <div class="ad-box">
