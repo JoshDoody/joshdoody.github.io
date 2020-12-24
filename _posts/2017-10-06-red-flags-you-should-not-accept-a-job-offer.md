@@ -63,9 +63,9 @@ They're taking a shot at getting that info—more power to them!
 
 But you don't have to share that info, so you reply, "I'd rather not say."
 
-If their response to that is, "We can't continue.", that's a bad sign. It tells you that they're looking for a good candidate with your qualifications who can do good work and add value to their company. 
+If their response to that is, "We can't continue.", that's a bad sign. It tells you that they aren't looking for a good candidate with your qualifications who can do good work and add value to their company. 
 
-They're looking for a bargain. *You don't want to be a bargain.*
+Instead, they're looking for a bargain. *You don't want to be a bargain.*
 
 ### This may be the nicest they'll ever be to you.
 
