@@ -2,7 +2,7 @@
 layout: post
 title: Salary expectations questions - How should you answer them?
 tagline: Word-for-word scripts to answer salary expectations questions in your interviews
-excerpt: Don't panic! Here's how to tactfully answer salary expectations questions without costing yourself a ton of money (updated for 2020)
+excerpt: Don't panic! Here's how to tactfully answer salary expectations questions without costing yourself a ton of money (updated for 2021)
 og-image: DreadedSalaryQuestion.png
 context: salary-questions
 author: josh
