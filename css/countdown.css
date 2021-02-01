@@ -1,6 +1,6 @@
 /* banner countdown timer from Keith */
 .count-down {
-	background: #00A9FF;
+	background: red;
 	position: fixed;
 	width: 100%;
 	top: 0;

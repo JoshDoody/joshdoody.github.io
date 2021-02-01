@@ -1,17 +1,4 @@
 $(document).ready(function(){
-	// function getParameterByName(name, url) { // function to get a specific url param value by name
-	//     if (!url) url = window.location.href;
-	//     name = name.replace(/[\[\]]/g, "\\$&");
-	//     var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
-	//         results = regex.exec(url);
-	//     if (!results) return null;
-	//     if (!results[2]) return '';
-	//     return decodeURIComponent(results[2].replace(/\+/g, " "));
-	// }
-	
-	// var p = 1606798799; // Hard coded for 11:59:59 PM on Monday, November 26
-	
-	// if (p !== 'undefined' && p) { // only do something if 'expiry' is present
 	var now = Math.floor(Date.now() / 1000);
 	var expiry = now + 1800;
 	var remaining = expiry - now;
@@ -22,11 +9,10 @@ $(document).ready(function(){
         jQuery('#countdownTimer').DYMTimer({
             endTime: expiry,
             endMessage: "We're redirecting you now!",
-            template: '<p>Offer ends in <strong>{{DAY}}</strong> days <strong>{{HOUR}}</strong> hours <strong>{{MIN}}</strong> min</p>',
+	          template: '<p><strong>DONT WAIT! YOUR CHANCE TO SAVE $30 ENDS IN...</strong> <strong>{{MIN}}</strong> min <strong>{{SEC}}</strong> SEC</p>',
             redirectUrl: 'https://fearlesssalarynegotiation.com/get-started/'
         });
     });
 		$('.fsn-sale-price').show();
-		// }
 	 }
  });
