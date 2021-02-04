@@ -13,7 +13,7 @@ $(document).ready(function(){
 	        jQuery('#countdownTimer').DYMTimer({
 	            endTime: good_until,
 	            endMessage: "We're redirecting you now!",
-		          template: '<p><strong>DONT WAIT! YOUR CHANCE TO SAVE $30 ENDS IN...</strong> <strong>{{MIN}}</strong> min <strong>{{SEC}}</strong> SEC</p>',
+		          template: '<p><strong>DONT WAIT! YOUR CHANCE TO SAVE $50 ENDS IN...</strong> <strong>{{MIN}}</strong> min <strong>{{SEC}}</strong> SEC</p>',
 	            redirectUrl: 'https://fearlesssalarynegotiation.com/salary-negotiation-video-course/'
 	        });
 	    });
@@ -29,7 +29,7 @@ $(document).ready(function(){
         jQuery('#countdownTimer').DYMTimer({
             endTime: expiry,
             endMessage: "We're redirecting you now!",
-	          template: '<p><strong>DONT WAIT! YOUR CHANCE TO SAVE $30 ENDS IN...</strong> <strong>{{MIN}}</strong> min <strong>{{SEC}}</strong> SEC</p>',
+	          template: '<p><strong>DONT WAIT! YOUR CHANCE TO SAVE $50 ENDS IN...</strong> <strong>{{MIN}}</strong> min <strong>{{SEC}}</strong> SEC</p>',
             redirectUrl: 'https://fearlesssalarynegotiation.com/salary-negotiation-video-course/'
         });
     });
