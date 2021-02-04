@@ -20,6 +20,8 @@ Everything seems pretty straightforward—you talk about your background, how yo
 
 Your salary expectations are one of the few things you know that the company doesn't. That makes them extremely valuable and sharing them can make your salary negotiations very difficult and even cost you a lot of money.
 
+<div class="inline-ad hidden"></div>
+
 **Get the answer for your specific situation**
 
 This is a detailed article, so you can use this table of contents to jump ahead if you already know what you're looking for!
@@ -36,8 +38,6 @@ This is a detailed article, so you can use this table of contents to jump ahead 
  * [Already shared expected salary - how to recover](#already-shared-expected-salary){:data-template="Already shared expected salary"}{:data-action="Current and expected salary section"}
  * [Already shared current salary - how to recover](#already-shared-current-salary){:data-template="Already shared current salary"}{:data-action="Current and expected salary section"}
  * [Summary](#summary){:data-template="Summary"}{:data-action="Current and expected salary section"}
-
-<div class="inline-ad hidden"></div>
 
 This will usually come up in the "[pre-interview](/book/interview/pre-interview-phase/)" or "pre-screen", which is right at the beginning of the interview process. That's why it's such a sneaky question! It's a salary negotiation tactic disguised as a gatekeeper-type interview question.
 

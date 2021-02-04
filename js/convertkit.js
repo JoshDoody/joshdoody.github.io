@@ -5,7 +5,7 @@ jQuery(function() {
   var newHtmlTwo = '';
 
   if (window.context === 'negotiate') {
-    newHtmlOne = '<script async data-uid="fc02377ce7" src="https://fsn.ck.page/fc02377ce7/index.js"></script>';
+    newHtmlOne = '<script async data-uid="b531d99d25" src="https://fsn.ck.page/b531d99d25/index.js"></script>';
     newHtmlTwo = '<script async data-uid="b4886973fa" src="https://f.convertkit.com/b4886973fa/f5c5f1c1b7.js"></script>';
   } else if (window.context === 'negotiate-lowball') {
     newHtmlOne = '<script async data-uid="e4c30349cb" src="https://f.convertkit.com/e4c30349cb/706071ef59.js"></script>';

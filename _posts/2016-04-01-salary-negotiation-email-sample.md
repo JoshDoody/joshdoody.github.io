@@ -19,7 +19,7 @@ The brief phase of the negotiation between the time you get a job offer and when
 
 This guide will show you how to negotiate your salary over email with a step-by-step process. First, we'll discuss why you should bother negotiating your salary at all. Then you'll learn  whether the best way to negotiate your job offer is through email or on the phone. Then you'll get a detailed example of a counter offer letter along with a simple process to build your case and write your own counter offer email.
 
-<!-- <div class="inline-ad hidden"></div> -->
+<div class="inline-ad hidden"></div>
 
 **In this article, you'll learn how to...**
 
