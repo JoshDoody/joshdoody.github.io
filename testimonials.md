@@ -29,7 +29,7 @@ Learn more about my coaching offering here: [Expert Salary Negotiation Coaching]
 {% include testimonials/justin_garrison.html %}
 {% include testimonials/taylor.html %}
 {% include testimonials/jane.html %}
-<!-- {% include testimonials/mike.html %} -->
+{% include testimonials/mike.html %}
 {% include testimonials/julian_diaz.html %}
 {% include testimonials/anon_engineer_4.html %}
 {% include testimonials/tim_eccleston.html %}
