@@ -124,6 +124,7 @@ Learn more: [*Fearless Salary Negotiation*](/get-started/)
 {% include testimonials/annie_margarita_yang.html %}
 {% include testimonials/r_m.html %}
 {% include testimonials/j_g.html %}
+{% include testimonials/frank_bueckert.html %}
 
 ## <a name="esnep" class="below-nav">*Essential Salary Negotiation Email Pack*
 	
