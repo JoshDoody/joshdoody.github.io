@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Testimonials for salary negotiation coaching, public speaking, and Fearless Salary Negotiation
+title: Testimonials for salary negotiation coaching and Fearless Salary Negotiation products
 tagline: Real testimonials and stories from real people
-excerpt: Testimonials for salary negotiation coaching, public speaking, and Fearless Salary Negotiation
-last_modified_at: 2017-08-24
+excerpt: Testimonials for salary negotiation coaching and Fearless Salary Negotiation products
+last_modified_at: 2021-02-16
 ---
 Looking for testimonials for a particular product or offering?
 
  * [Salary Negotiation Coaching](#coaching){:data-testimonial-topic="Coaching testimonials"}
  * [Fearless Salary Negotiation](#fsn){:data-testimonial-topic="Fearless Salary Negotiation testimonials"}
- * [Essential Salary Negotiation Email Pack](#esnep){:data-testimonial-topic="Essential Salary Negotiation Email Pack testimonials"}
  * [Salary Negotiation Crash Course](#sncc){:data-testimonial-topic="Salary Negotiation Crash Course testimonials"}
  * [Get Your Next Raise](#gynr){:data-testimonial-topic="Get Your Next Raise testimonials"}
  * [How to get promoted in 7 days](#promotion-course){:data-testimonial-topic="Promotion Course testimonials"}
@@ -125,22 +124,7 @@ Learn more: [*Fearless Salary Negotiation*](/get-started/)
 {% include testimonials/r_m.html %}
 {% include testimonials/j_g.html %}
 {% include testimonials/frank_bueckert.html %}
-
-## <a name="esnep" class="below-nav">*Essential Salary Negotiation Email Pack*
-	
-Countering their offer isn’t a ‘one-email deal.’ The people who are most successful at negotiating their job offers understood that it’s a multi-step process, depending on how the company responds.
-
-(My clients have used this exact process and these exact templates to negotiate $7,000 more, $8,000 more, and even $24,000 more.)
-
-And in the Essential Salary Negotiation Email Pack, you’ll get all the emails you need to send to counter their offer effectively.
-
-Learn more: [*Essential Salary Negotiation Email Pack*](/essential-counter-offer/)
-
-{% include testimonials/amy_esnep.html %}
-{% include testimonials/james.html %}
-{% include testimonials/thelia.html %}
-{% include testimonials/rachael.html %}
-{% include testimonials/m_v.html %}
+<!-- {% include testimonials/jennifer_b.html %} -->
 
 ## <a name="sncc" class="below-nav">*Salary Negotiation Crash Course*
 	
@@ -163,6 +147,11 @@ Learn more: [*Salary Negotiation Crash Course*](/salary-negotiation-video-course
 {% include testimonials/ryan_w.html %}
 {% include testimonials/allyce.html %}
 {% include testimonials/j_m.html %}
+{% include testimonials/amy_esnep.html %}
+{% include testimonials/james.html %}
+{% include testimonials/thelia.html %}
+{% include testimonials/rachael.html %}
+{% include testimonials/m_v.html %}
 
 ## <a name="gynr" class="below-nav">*Get Your Next Raise*
 	
