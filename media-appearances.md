@@ -72,6 +72,7 @@ A television interview with [Shaun Ley](https://twitter.com/bbcshaunley) on the 
 36. [How To Answer The 'Tell Me About Yourself' Question In A Job Interview](https://www.huffpost.com/entry/how-to-answer-tell-me-about-yourself-job-interview-question_l_5dc99dcde4b02bf5794433e2){:rel="nofollow"} – Huffpost
 37. [How To Answer The Salary Expectations Question In A Job Interview](https://www.huffpost.com/entry/salary-expectations-question-job-interview_l_5dfa4ec2e4b0969b618ee923?6r4){:rel="nofollow"} – Huffpost
 38. [What Do You Do With Multiple Offers From The Same Company?](https://www.glassdoor.com/blog/multiple-offers/){:rel="nofollow"} – Glassdoor
+39. [The Email Subject Lines That Will Help You Get A Job](https://www.huffpost.com/entry/email-subject-lines-get-a-job_l_603d2323c5b617a7e40fb1b2){:rel="nofollow"} – Huffpost
 
 ## <a name="podcasts" class="below-nav">Podcasts
 

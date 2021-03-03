@@ -16,7 +16,7 @@ We’ll approach this section as though you’re going to email your counter bec
 
 If you absolutely can’t give your counter via email, you should still write the email so that you can use it for reference when you verbally deliver your counter.
 
-So how do you make your case to justify your counter? You already when you answered the question "[Why are you the best candidate for this position?]({{ site.baseurl }}/book/negotiate/why-are-you-the-best-candidate/)" You’ve probably already made it once—verbally to the recruiter—and you’re going to make it one more time, in writing.
+So how do you make your case to justify your counter? You already did when you answered the question "[Why are you the best candidate for this position?]({{ site.baseurl }}/book/negotiate/why-are-you-the-best-candidate/)" You’ve probably already made it once—verbally to the recruiter—and you’re going to make it one more time, in writing.
 
 Here’s a real example of a counter email I sent for a job I landed. I’ve changed some details (names, numbers), but this is almost exactly what I sent. I’ve tried to scale the numbers so that the proportions are about the same as the real numbers.
 
