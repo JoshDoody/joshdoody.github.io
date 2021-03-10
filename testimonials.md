@@ -125,7 +125,7 @@ Learn more: [*Fearless Salary Negotiation*](/get-started/)
 {% include testimonials/r_m.html %}
 {% include testimonials/j_g.html %}
 {% include testimonials/frank_bueckert.html %}
-<!-- {% include testimonials/jennifer_b.html %} -->
+{% include testimonials/jennifer_b.html %}
 
 ## <a name="sncc" class="below-nav">*Salary Negotiation Crash Course*
 	
