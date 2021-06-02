@@ -138,6 +138,7 @@ And in the Salary Negotiation Crash Course, you’ll get all the scripts, worksh
 
 Learn more: [*Salary Negotiation Crash Course*](/salary-negotiation-video-course/)
 
+{% include testimonials/jesse_dumond.html %}
 {% include testimonials/marvin.html %}
 {% include testimonials/amy_utley.html %}
 {% include testimonials/oliver_nolte.html %}
