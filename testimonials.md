@@ -3,7 +3,7 @@ layout: post
 title: Testimonials for salary negotiation coaching and Fearless Salary Negotiation products
 tagline: Real testimonials and stories from real people
 excerpt: Testimonials for salary negotiation coaching and Fearless Salary Negotiation products
-last_modified_at: 2021-02-16
+last_modified_at: 2021-06-18
 ---
 Looking for testimonials for a particular product or offering?
 
@@ -24,6 +24,7 @@ My clients improve their job offers by an average of {{ site.avg_coach_increase 
 Learn more about my coaching offering here: [Expert Salary Negotiation Coaching](/coach/)
 
 {% include testimonials/jamie.html %}
+{% include testimonials/anon_11.html %}
 {% include testimonials/leonardo.html %}
 {% include testimonials/justin_garrison.html %}
 {% include testimonials/martin.html %}
